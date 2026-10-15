@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Media and Output Files (large binaries)
+*.mp4
+*.m4v
+*.avi
+*.mov
+*.wav
+*.mp3
+*.m4a
+output/
+scratch/
+temp/
+tmp/
+*.jpg
+*.jpeg
+*.png
+*.webp
+!examples/**/*.png
+!examples/**/*.jpg
+
+# Temporary & Working directories
+sdxl_images_916/
+sdxl_images_raw/
+user_veo_images/
+*.log
+
+# Environment variables & API keys
+.env
+.env.local
+*.key
+
+# Excel and local scratch data
+*.xlsx
+transcribe_*.py
+transcripts*.json
+all_transcripts.txt
+concat_*.txt
+*.ass
+deepgram_timestamps.json
+rich-dad-poor-dad-*.csv
+*.csv
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

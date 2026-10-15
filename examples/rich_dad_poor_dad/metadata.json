@@ -1,0 +1,16 @@
+{
+  "book": "Rich Dad Poor Dad",
+  "author": "Robert Kiyosaki",
+  "total_scenes": 40,
+  "target_duration_seconds": 147.26,
+  "words_count": 412,
+  "voice_model": "deepgram/aura-2-thalia-en",
+  "resolution": "1080x1920",
+  "aspect_ratio": "9:16",
+  "fps": 30,
+  "pacing": {
+    "seconds_per_scene": 3.68,
+    "target_wpm": 168
+  },
+  "style": "StickLit - The Everyman (black-ink stick figure, white collared shirt, black tie, 2D cartoon outlines, white background, bold distressed headlines)"
+}
