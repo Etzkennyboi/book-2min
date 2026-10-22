@@ -16,7 +16,7 @@ import argparse
 from pathlib import Path
 import json
 
-from src.config import (
+from pipeline.config import (
     BASE_DIR,
     OUTPUT_DIR,
     DEEPGRAM_API_KEY,
@@ -24,13 +24,13 @@ from src.config import (
     DEFAULT_EDGE_VOICE,
     SUBTITLE_STYLE
 )
-from src.script_generator import generate_script_structure, NON_FICTION_FRAMEWORK
-from src.prompt_engine import generate_book_prompts, build_scene_prompt
-from src.tts_engine import generate_voiceover, synthesize_deepgram, synthesize_edge_tts
-from src.speech_aligner import align_speech
-from src.subtitle_generator import generate_karaoke_subtitles
-from src.audio_mixer import synthesize_lofi_track
-from src.video_renderer import render_video
+from pipeline.script_generator import generate_script_structure, NON_FICTION_FRAMEWORK
+from pipeline.prompt_engine import generate_book_prompts, build_scene_prompt
+from pipeline.tts_engine import generate_voiceover, synthesize_deepgram, synthesize_edge_tts
+from pipeline.speech_aligner import align_speech
+from pipeline.subtitle_generator import generate_karaoke_subtitles
+from pipeline.audio_mixer import synthesize_lofi_track
+from pipeline.video_renderer import render_video
 
 
 def cmd_prompts(args):
