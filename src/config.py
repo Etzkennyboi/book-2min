@@ -28,9 +28,33 @@ VIDEO_HEIGHT = 1920
 FPS = 30
 ASPECT_RATIO = "9:16"
 
+# Fast GPU Rendering Pipeline configuration
+GPU_ACCEL_ENABLED = True
+GPU_ENCODER = "h264_qsv"           # Intel Quick Sync Video hardware acceleration
+GPU_PRESET = "veryfast"
+FALLBACK_ENCODER = "libx264"
+
 # FFmpeg tool discovery
-FFMPEG_PATH = shutil.which("ffmpeg") or "ffmpeg"
-FFPROBE_PATH = shutil.which("ffprobe") or "ffprobe"
+def _find_ffmpeg():
+    found = shutil.which("ffmpeg")
+    if found:
+        return found
+    winget_cand = list(Path.home().glob("AppData/Local/Microsoft/WinGet/Packages/*FFmpeg*/**/ffmpeg.exe"))
+    if winget_cand:
+        return str(winget_cand[0])
+    return "ffmpeg"
+
+def _find_ffprobe():
+    found = shutil.which("ffprobe")
+    if found:
+        return found
+    winget_cand = list(Path.home().glob("AppData/Local/Microsoft/WinGet/Packages/*FFmpeg*/**/ffprobe.exe"))
+    if winget_cand:
+        return str(winget_cand[0])
+    return "ffprobe"
+
+FFMPEG_PATH = _find_ffmpeg()
+FFPROBE_PATH = _find_ffprobe()
 
 # Subtitle styling (StickLit high-retention karaoke specification)
 SUBTITLE_STYLE = {

@@ -25,8 +25,6 @@ tmp/
 *.jpeg
 *.png
 *.webp
-!examples/**/*.png
-!examples/**/*.jpg
 
 # Temporary & Working directories
 sdxl_images_916/
@@ -46,6 +44,7 @@ transcripts*.json
 all_transcripts.txt
 concat_*.txt
 *.ass
+!books/**/*.ass
 deepgram_timestamps.json
 rich-dad-poor-dad-*.csv
 *.csv
@@ -55,3 +54,39 @@ rich-dad-poor-dad-*.csv
 .idea/
 .DS_Store
 Thumbs.db
+
+# Scratch scripts, logs & one-off data dumps
+match_scenes.py
+refine_*.py
+inspect_*.py
+extract_*.py
+align_*.py
+map_*.py
+organize_*.py
+render_*.py
+synthesize_*.py
+build_*.py
+check_*.py
+find_*.py
+deep_dive_*.py
+test_*.py
+verify_*.py
+execute_*.py
+stitch_*.py
+update_*.py
+generate_*.py
+exact_*_cues*.json
+matched_cues*.json
+pride_timeline_*.json
+*_dump.txt
+*_results.txt
+scenes_detected.txt
+scene_cuts.txt
+all_words*.txt
+ALL_*.txt
+ALL_*.txt
+BATCH_*.txt
+VIRAL_*.txt
+/prompts_*.txt
+!books/**/prompts_*.txt
+samples_analysis/

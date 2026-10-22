@@ -1,0 +1,6051 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "01a16373-278f-7313-9263-60c3f23a8570",
+    "sha256": "1051ad0745e9e0e47db48af3513776317840277691e794322cb5268750c6ef8d",
+    "created": "2026-10-22T11:51:00.245Z",
+    "duration": 154.65594,
+    "channels": 1,
+    "models": [
+      "1abfe86b-e047-4eed-858a-35e5625b41ee"
+    ],
+    "model_info": {
+      "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+        "name": "2-general-nova",
+        "version": "2024-01-06.5664",
+        "arch": "nova-2"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "The psychology of money by Morgan Housel in two minutes. Most people believe getting rich is about finance formulas, spreadsheets, and being a genius. In reality, money is not a science. It is a psychological mirror. Ronald Reid was an ordinary janitor who quietly saved modest wages into index funds. When he died, he left behind $8,000,000. Meanwhile, Richard Fosconi was a Harvard educated Wall Street executive who borrowed heavily, built a mansion, and went completely bankrupt. Financial success is not about what you know. It is about how you behave. First, beware the man in the car paradox. When you see someone driving a Ferrari, you almost never think, wow. Look at that driver. You think, if I had that car, everyone would admire me. Here is the paradox. Nobody is looking at you. They are only imagining themselves. Rich as current income and spent money. Fast cars, luxury watches, and massive mortgages. Wealth is what you do not see. It is unspent cash, financial options, and the quiet freedom to say no. Second, understand confounding compounding. Warren Buffett is famous as the world's greatest investor, but his real superpower is not intelligence. It is time. Over 99% of his wealth was accumulated after his 50 birthday. Compounding works like a snowball rolling down an endless mountain. The math only explodes if you let the snowball roll for decades without stepping in front of it. That leads to the ultimate rule, room for error. The most important part of any financial plan is planning for your plan not going according to plan. Survival is the only math that matters. If you risk what you need to chase what you do not need, one bad crash will wipe you out completely. Finally, master the goalpost of enough. If your expectations rise with every dollar you earn, you will run on a hedonic treadmill forever. True wealth is not buying luxury toys to impress strangers. True wealth is the ability to wake up every morning and say, I can do whatever I want today with whoever I want for as long as I want. So tell me below. Would you rather have $10,000,000 in the bank but work ninety hours a week for a brutal boss, or have $100,000 but own every single second of your time?",
+            "confidence": 1.0,
+            "words": [
+              {
+                "word": "the",
+                "start": 0.16,
+                "end": 0.39999998,
+                "confidence": 0.98828125,
+                "punctuated_word": "The"
+              },
+              {
+                "word": "psychology",
+                "start": 0.39999998,
+                "end": 0.9,
+                "confidence": 0.6826172,
+                "punctuated_word": "psychology"
+              },
+              {
+                "word": "of",
+                "start": 0.96,
+                "end": 1.1999999,
+                "confidence": 1.0,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "money",
+                "start": 1.1999999,
+                "end": 1.52,
+                "confidence": 0.99902344,
+                "punctuated_word": "money"
+              },
+              {
+                "word": "by",
+                "start": 1.52,
+                "end": 1.76,
+                "confidence": 0.9980469,
+                "punctuated_word": "by"
+              },
+              {
+                "word": "morgan",
+                "start": 1.76,
+                "end": 2.1599998,
+                "confidence": 0.99609375,
+                "punctuated_word": "Morgan"
+              },
+              {
+                "word": "housel",
+                "start": 2.1599998,
+                "end": 2.56,
+                "confidence": 0.9897461,
+                "punctuated_word": "Housel"
+              },
+              {
+                "word": "in",
+                "start": 2.56,
+                "end": 2.8,
+                "confidence": 0.99902344,
+                "punctuated_word": "in"
+              },
+              {
+                "word": "two",
+                "start": 2.8,
+                "end": 2.96,
+                "confidence": 1.0,
+                "punctuated_word": "two"
+              },
+              {
+                "word": "minutes",
+                "start": 2.96,
+                "end": 3.46,
+                "confidence": 0.99902344,
+                "punctuated_word": "minutes."
+              },
+              {
+                "word": "most",
+                "start": 3.84,
+                "end": 4.08,
+                "confidence": 0.9970703,
+                "punctuated_word": "Most"
+              },
+              {
+                "word": "people",
+                "start": 4.08,
+                "end": 4.4,
+                "confidence": 1.0,
+                "punctuated_word": "people"
+              },
+              {
+                "word": "believe",
+                "start": 4.4,
+                "end": 4.72,
+                "confidence": 0.9941406,
+                "punctuated_word": "believe"
+              },
+              {
+                "word": "getting",
+                "start": 4.72,
+                "end": 5.04,
+                "confidence": 0.9091797,
+                "punctuated_word": "getting"
+              },
+              {
+                "word": "rich",
+                "start": 5.04,
+                "end": 5.3599997,
+                "confidence": 1.0,
+                "punctuated_word": "rich"
+              },
+              {
+                "word": "is",
+                "start": 5.3599997,
+                "end": 5.52,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "about",
+                "start": 5.52,
+                "end": 5.8399997,
+                "confidence": 1.0,
+                "punctuated_word": "about"
+              },
+              {
+                "word": "finance",
+                "start": 5.8399997,
+                "end": 6.3199997,
+                "confidence": 1.0,
+                "punctuated_word": "finance"
+              },
+              {
+                "word": "formulas",
+                "start": 6.3199997,
+                "end": 6.8199997,
+                "confidence": 0.9970703,
+                "punctuated_word": "formulas,"
+              },
+              {
+                "word": "spreadsheets",
+                "start": 7.04,
+                "end": 7.54,
+                "confidence": 0.9973958,
+                "punctuated_word": "spreadsheets,"
+              },
+              {
+                "word": "and",
+                "start": 7.7599998,
+                "end": 7.9199996,
+                "confidence": 1.0,
+                "punctuated_word": "and"
+              },
+              {
+                "word": "being",
+                "start": 7.9199996,
+                "end": 8.16,
+                "confidence": 1.0,
+                "punctuated_word": "being"
+              },
+              {
+                "word": "a",
+                "start": 8.16,
+                "end": 8.4,
+                "confidence": 1.0,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "genius",
+                "start": 8.4,
+                "end": 8.9,
+                "confidence": 1.0,
+                "punctuated_word": "genius."
+              },
+              {
+                "word": "in",
+                "start": 9.28,
+                "end": 9.44,
+                "confidence": 1.0,
+                "punctuated_word": "In"
+              },
+              {
+                "word": "reality",
+                "start": 9.44,
+                "end": 9.94,
+                "confidence": 1.0,
+                "punctuated_word": "reality,"
+              },
+              {
+                "word": "money",
+                "start": 10.24,
+                "end": 10.559999,
+                "confidence": 1.0,
+                "punctuated_word": "money"
+              },
+              {
+                "word": "is",
+                "start": 10.559999,
+                "end": 10.719999,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "not",
+                "start": 10.719999,
+                "end": 10.88,
+                "confidence": 1.0,
+                "punctuated_word": "not"
+              },
+              {
+                "word": "a",
+                "start": 10.88,
+                "end": 11.04,
+                "confidence": 0.99902344,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "science",
+                "start": 11.04,
+                "end": 11.54,
+                "confidence": 0.9946289,
+                "punctuated_word": "science."
+              },
+              {
+                "word": "it",
+                "start": 11.759999,
+                "end": 11.92,
+                "confidence": 1.0,
+                "punctuated_word": "It"
+              },
+              {
+                "word": "is",
+                "start": 11.92,
+                "end": 12.08,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "a",
+                "start": 12.08,
+                "end": 12.16,
+                "confidence": 0.99902344,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "psychological",
+                "start": 12.16,
+                "end": 12.66,
+                "confidence": 1.0,
+                "punctuated_word": "psychological"
+              },
+              {
+                "word": "mirror",
+                "start": 12.88,
+                "end": 13.38,
+                "confidence": 1.0,
+                "punctuated_word": "mirror."
+              },
+              {
+                "word": "ronald",
+                "start": 13.5199995,
+                "end": 14.0199995,
+                "confidence": 0.99902344,
+                "punctuated_word": "Ronald"
+              },
+              {
+                "word": "reid",
+                "start": 14.16,
+                "end": 14.4,
+                "confidence": 0.6538086,
+                "punctuated_word": "Reid"
+              },
+              {
+                "word": "was",
+                "start": 14.4,
+                "end": 14.639999,
+                "confidence": 1.0,
+                "punctuated_word": "was"
+              },
+              {
+                "word": "an",
+                "start": 14.639999,
+                "end": 14.799999,
+                "confidence": 1.0,
+                "punctuated_word": "an"
+              },
+              {
+                "word": "ordinary",
+                "start": 14.799999,
+                "end": 15.299999,
+                "confidence": 1.0,
+                "punctuated_word": "ordinary"
+              },
+              {
+                "word": "janitor",
+                "start": 15.36,
+                "end": 15.86,
+                "confidence": 1.0,
+                "punctuated_word": "janitor"
+              },
+              {
+                "word": "who",
+                "start": 15.915,
+                "end": 16.155,
+                "confidence": 1.0,
+                "punctuated_word": "who"
+              },
+              {
+                "word": "quietly",
+                "start": 16.155,
+                "end": 16.655,
+                "confidence": 1.0,
+                "punctuated_word": "quietly"
+              },
+              {
+                "word": "saved",
+                "start": 16.715,
+                "end": 17.115,
+                "confidence": 1.0,
+                "punctuated_word": "saved"
+              },
+              {
+                "word": "modest",
+                "start": 17.115,
+                "end": 17.595,
+                "confidence": 1.0,
+                "punctuated_word": "modest"
+              },
+              {
+                "word": "wages",
+                "start": 17.595,
+                "end": 17.994999,
+                "confidence": 1.0,
+                "punctuated_word": "wages"
+              },
+              {
+                "word": "into",
+                "start": 17.994999,
+                "end": 18.395,
+                "confidence": 0.9980469,
+                "punctuated_word": "into"
+              },
+              {
+                "word": "index",
+                "start": 18.395,
+                "end": 18.795,
+                "confidence": 0.99902344,
+                "punctuated_word": "index"
+              },
+              {
+                "word": "funds",
+                "start": 18.795,
+                "end": 19.295,
+                "confidence": 0.99902344,
+                "punctuated_word": "funds."
+              },
+              {
+                "word": "when",
+                "start": 19.755,
+                "end": 19.915,
+                "confidence": 1.0,
+                "punctuated_word": "When"
+              },
+              {
+                "word": "he",
+                "start": 19.915,
+                "end": 20.075,
+                "confidence": 1.0,
+                "punctuated_word": "he"
+              },
+              {
+                "word": "died",
+                "start": 20.075,
+                "end": 20.575,
+                "confidence": 0.9995117,
+                "punctuated_word": "died,"
+              },
+              {
+                "word": "he",
+                "start": 20.795,
+                "end": 20.955,
+                "confidence": 1.0,
+                "punctuated_word": "he"
+              },
+              {
+                "word": "left",
+                "start": 20.955,
+                "end": 21.195,
+                "confidence": 1.0,
+                "punctuated_word": "left"
+              },
+              {
+                "word": "behind",
+                "start": 21.195,
+                "end": 21.675,
+                "confidence": 1.0,
+                "punctuated_word": "behind"
+              },
+              {
+                "word": "$8,000,000",
+                "start": 21.675,
+                "end": 22.895,
+                "confidence": 0.9992676,
+                "punctuated_word": "$8,000,000."
+              },
+              {
+                "word": "meanwhile",
+                "start": 23.275,
+                "end": 23.775,
+                "confidence": 1.0,
+                "punctuated_word": "Meanwhile,"
+              },
+              {
+                "word": "richard",
+                "start": 24.235,
+                "end": 24.715,
+                "confidence": 1.0,
+                "punctuated_word": "Richard"
+              },
+              {
+                "word": "fosconi",
+                "start": 24.715,
+                "end": 25.215,
+                "confidence": 0.9086914,
+                "punctuated_word": "Fosconi"
+              },
+              {
+                "word": "was",
+                "start": 25.435,
+                "end": 25.675,
+                "confidence": 0.9863281,
+                "punctuated_word": "was"
+              },
+              {
+                "word": "a",
+                "start": 25.675,
+                "end": 25.755001,
+                "confidence": 1.0,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "harvard",
+                "start": 25.755001,
+                "end": 26.255001,
+                "confidence": 1.0,
+                "punctuated_word": "Harvard"
+              },
+              {
+                "word": "educated",
+                "start": 26.314999,
+                "end": 26.814999,
+                "confidence": 0.99902344,
+                "punctuated_word": "educated"
+              },
+              {
+                "word": "wall",
+                "start": 26.875,
+                "end": 27.115,
+                "confidence": 0.9951172,
+                "punctuated_word": "Wall"
+              },
+              {
+                "word": "street",
+                "start": 27.115,
+                "end": 27.435,
+                "confidence": 1.0,
+                "punctuated_word": "Street"
+              },
+              {
+                "word": "executive",
+                "start": 27.435,
+                "end": 27.935,
+                "confidence": 0.9980469,
+                "punctuated_word": "executive"
+              },
+              {
+                "word": "who",
+                "start": 28.314999,
+                "end": 28.474998,
+                "confidence": 0.9560547,
+                "punctuated_word": "who"
+              },
+              {
+                "word": "borrowed",
+                "start": 28.474998,
+                "end": 28.875,
+                "confidence": 1.0,
+                "punctuated_word": "borrowed"
+              },
+              {
+                "word": "heavily",
+                "start": 28.875,
+                "end": 29.375,
+                "confidence": 0.94433594,
+                "punctuated_word": "heavily,"
+              },
+              {
+                "word": "built",
+                "start": 29.755001,
+                "end": 30.154999,
+                "confidence": 0.96777344,
+                "punctuated_word": "built"
+              },
+              {
+                "word": "a",
+                "start": 30.154999,
+                "end": 30.235,
+                "confidence": 0.98095703,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "mansion",
+                "start": 30.235,
+                "end": 30.735,
+                "confidence": 0.9692383,
+                "punctuated_word": "mansion,"
+              },
+              {
+                "word": "and",
+                "start": 30.955,
+                "end": 31.115,
+                "confidence": 1.0,
+                "punctuated_word": "and"
+              },
+              {
+                "word": "went",
+                "start": 31.115,
+                "end": 31.355,
+                "confidence": 0.99902344,
+                "punctuated_word": "went"
+              },
+              {
+                "word": "completely",
+                "start": 31.355,
+                "end": 31.855,
+                "confidence": 1.0,
+                "punctuated_word": "completely"
+              },
+              {
+                "word": "bankrupt",
+                "start": 32.05,
+                "end": 32.55,
+                "confidence": 0.9838867,
+                "punctuated_word": "bankrupt."
+              },
+              {
+                "word": "financial",
+                "start": 33.17,
+                "end": 33.67,
+                "confidence": 0.9970703,
+                "punctuated_word": "Financial"
+              },
+              {
+                "word": "success",
+                "start": 33.809998,
+                "end": 34.29,
+                "confidence": 1.0,
+                "punctuated_word": "success"
+              },
+              {
+                "word": "is",
+                "start": 34.29,
+                "end": 34.53,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "not",
+                "start": 34.53,
+                "end": 34.69,
+                "confidence": 1.0,
+                "punctuated_word": "not"
+              },
+              {
+                "word": "about",
+                "start": 34.69,
+                "end": 34.93,
+                "confidence": 1.0,
+                "punctuated_word": "about"
+              },
+              {
+                "word": "what",
+                "start": 34.93,
+                "end": 35.09,
+                "confidence": 1.0,
+                "punctuated_word": "what"
+              },
+              {
+                "word": "you",
+                "start": 35.09,
+                "end": 35.329998,
+                "confidence": 0.99902344,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "know",
+                "start": 35.329998,
+                "end": 35.829998,
+                "confidence": 0.75683594,
+                "punctuated_word": "know."
+              },
+              {
+                "word": "it",
+                "start": 36.05,
+                "end": 36.21,
+                "confidence": 0.99902344,
+                "punctuated_word": "It"
+              },
+              {
+                "word": "is",
+                "start": 36.21,
+                "end": 36.37,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "about",
+                "start": 36.37,
+                "end": 36.69,
+                "confidence": 1.0,
+                "punctuated_word": "about"
+              },
+              {
+                "word": "how",
+                "start": 36.69,
+                "end": 36.93,
+                "confidence": 1.0,
+                "punctuated_word": "how"
+              },
+              {
+                "word": "you",
+                "start": 36.93,
+                "end": 37.17,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "behave",
+                "start": 37.17,
+                "end": 37.67,
+                "confidence": 1.0,
+                "punctuated_word": "behave."
+              },
+              {
+                "word": "first",
+                "start": 37.89,
+                "end": 38.39,
+                "confidence": 0.99609375,
+                "punctuated_word": "First,"
+              },
+              {
+                "word": "beware",
+                "start": 38.69,
+                "end": 39.09,
+                "confidence": 0.9970703,
+                "punctuated_word": "beware"
+              },
+              {
+                "word": "the",
+                "start": 39.09,
+                "end": 39.25,
+                "confidence": 0.87890625,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "man",
+                "start": 39.25,
+                "end": 39.489998,
+                "confidence": 0.99902344,
+                "punctuated_word": "man"
+              },
+              {
+                "word": "in",
+                "start": 39.489998,
+                "end": 39.649998,
+                "confidence": 0.99902344,
+                "punctuated_word": "in"
+              },
+              {
+                "word": "the",
+                "start": 39.649998,
+                "end": 39.73,
+                "confidence": 0.9980469,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "car",
+                "start": 39.73,
+                "end": 40.129997,
+                "confidence": 1.0,
+                "punctuated_word": "car"
+              },
+              {
+                "word": "paradox",
+                "start": 40.129997,
+                "end": 40.629997,
+                "confidence": 0.99902344,
+                "punctuated_word": "paradox."
+              },
+              {
+                "word": "when",
+                "start": 41.17,
+                "end": 41.41,
+                "confidence": 1.0,
+                "punctuated_word": "When"
+              },
+              {
+                "word": "you",
+                "start": 41.41,
+                "end": 41.57,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "see",
+                "start": 41.57,
+                "end": 41.73,
+                "confidence": 1.0,
+                "punctuated_word": "see"
+              },
+              {
+                "word": "someone",
+                "start": 41.73,
+                "end": 42.129997,
+                "confidence": 1.0,
+                "punctuated_word": "someone"
+              },
+              {
+                "word": "driving",
+                "start": 42.129997,
+                "end": 42.449997,
+                "confidence": 1.0,
+                "punctuated_word": "driving"
+              },
+              {
+                "word": "a",
+                "start": 42.449997,
+                "end": 42.61,
+                "confidence": 0.99902344,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "ferrari",
+                "start": 42.61,
+                "end": 43.11,
+                "confidence": 0.99853516,
+                "punctuated_word": "Ferrari,"
+              },
+              {
+                "word": "you",
+                "start": 43.41,
+                "end": 43.649998,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "almost",
+                "start": 43.649998,
+                "end": 44.05,
+                "confidence": 1.0,
+                "punctuated_word": "almost"
+              },
+              {
+                "word": "never",
+                "start": 44.05,
+                "end": 44.37,
+                "confidence": 1.0,
+                "punctuated_word": "never"
+              },
+              {
+                "word": "think",
+                "start": 44.37,
+                "end": 44.87,
+                "confidence": 0.98706055,
+                "punctuated_word": "think,"
+              },
+              {
+                "word": "wow",
+                "start": 45.09,
+                "end": 45.59,
+                "confidence": 0.81103516,
+                "punctuated_word": "wow."
+              },
+              {
+                "word": "look",
+                "start": 45.809998,
+                "end": 46.05,
+                "confidence": 1.0,
+                "punctuated_word": "Look"
+              },
+              {
+                "word": "at",
+                "start": 46.05,
+                "end": 46.21,
+                "confidence": 1.0,
+                "punctuated_word": "at"
+              },
+              {
+                "word": "that",
+                "start": 46.21,
+                "end": 46.53,
+                "confidence": 1.0,
+                "punctuated_word": "that"
+              },
+              {
+                "word": "driver",
+                "start": 46.53,
+                "end": 47.03,
+                "confidence": 0.99853516,
+                "punctuated_word": "driver."
+              },
+              {
+                "word": "you",
+                "start": 47.329998,
+                "end": 47.57,
+                "confidence": 1.0,
+                "punctuated_word": "You"
+              },
+              {
+                "word": "think",
+                "start": 47.57,
+                "end": 47.865,
+                "confidence": 0.9477539,
+                "punctuated_word": "think,"
+              },
+              {
+                "word": "if",
+                "start": 48.185,
+                "end": 48.345,
+                "confidence": 0.9838867,
+                "punctuated_word": "if"
+              },
+              {
+                "word": "i",
+                "start": 48.345,
+                "end": 48.585003,
+                "confidence": 1.0,
+                "punctuated_word": "I"
+              },
+              {
+                "word": "had",
+                "start": 48.585003,
+                "end": 48.825,
+                "confidence": 1.0,
+                "punctuated_word": "had"
+              },
+              {
+                "word": "that",
+                "start": 48.825,
+                "end": 49.065002,
+                "confidence": 1.0,
+                "punctuated_word": "that"
+              },
+              {
+                "word": "car",
+                "start": 49.065002,
+                "end": 49.565002,
+                "confidence": 0.99560547,
+                "punctuated_word": "car,"
+              },
+              {
+                "word": "everyone",
+                "start": 49.865,
+                "end": 50.345,
+                "confidence": 1.0,
+                "punctuated_word": "everyone"
+              },
+              {
+                "word": "would",
+                "start": 50.345,
+                "end": 50.585003,
+                "confidence": 1.0,
+                "punctuated_word": "would"
+              },
+              {
+                "word": "admire",
+                "start": 50.585003,
+                "end": 50.985,
+                "confidence": 1.0,
+                "punctuated_word": "admire"
+              },
+              {
+                "word": "me",
+                "start": 50.985,
+                "end": 51.485,
+                "confidence": 0.98657227,
+                "punctuated_word": "me."
+              },
+              {
+                "word": "here",
+                "start": 51.785,
+                "end": 52.025,
+                "confidence": 1.0,
+                "punctuated_word": "Here"
+              },
+              {
+                "word": "is",
+                "start": 52.025,
+                "end": 52.185,
+                "confidence": 0.97314453,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "the",
+                "start": 52.185,
+                "end": 52.345,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "paradox",
+                "start": 52.345,
+                "end": 52.845,
+                "confidence": 0.967041,
+                "punctuated_word": "paradox."
+              },
+              {
+                "word": "nobody",
+                "start": 53.385002,
+                "end": 53.865,
+                "confidence": 1.0,
+                "punctuated_word": "Nobody"
+              },
+              {
+                "word": "is",
+                "start": 53.865,
+                "end": 54.025,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "looking",
+                "start": 54.025,
+                "end": 54.345,
+                "confidence": 1.0,
+                "punctuated_word": "looking"
+              },
+              {
+                "word": "at",
+                "start": 54.345,
+                "end": 54.505,
+                "confidence": 1.0,
+                "punctuated_word": "at"
+              },
+              {
+                "word": "you",
+                "start": 54.505,
+                "end": 55.005,
+                "confidence": 0.9970703,
+                "punctuated_word": "you."
+              },
+              {
+                "word": "they",
+                "start": 55.145,
+                "end": 55.385002,
+                "confidence": 0.99902344,
+                "punctuated_word": "They"
+              },
+              {
+                "word": "are",
+                "start": 55.385002,
+                "end": 55.625,
+                "confidence": 0.94384766,
+                "punctuated_word": "are"
+              },
+              {
+                "word": "only",
+                "start": 55.625,
+                "end": 55.945,
+                "confidence": 1.0,
+                "punctuated_word": "only"
+              },
+              {
+                "word": "imagining",
+                "start": 55.945,
+                "end": 56.445,
+                "confidence": 1.0,
+                "punctuated_word": "imagining"
+              },
+              {
+                "word": "themselves",
+                "start": 56.505,
+                "end": 57.005,
+                "confidence": 0.9042969,
+                "punctuated_word": "themselves."
+              },
+              {
+                "word": "rich",
+                "start": 57.705,
+                "end": 58.025,
+                "confidence": 0.97509766,
+                "punctuated_word": "Rich"
+              },
+              {
+                "word": "as",
+                "start": 58.025,
+                "end": 58.185,
+                "confidence": 0.8925781,
+                "punctuated_word": "as"
+              },
+              {
+                "word": "current",
+                "start": 58.185,
+                "end": 58.585,
+                "confidence": 1.0,
+                "punctuated_word": "current"
+              },
+              {
+                "word": "income",
+                "start": 58.585,
+                "end": 58.985,
+                "confidence": 1.0,
+                "punctuated_word": "income"
+              },
+              {
+                "word": "and",
+                "start": 58.985,
+                "end": 59.225002,
+                "confidence": 0.99902344,
+                "punctuated_word": "and"
+              },
+              {
+                "word": "spent",
+                "start": 59.225002,
+                "end": 59.545002,
+                "confidence": 0.99609375,
+                "punctuated_word": "spent"
+              },
+              {
+                "word": "money",
+                "start": 59.545002,
+                "end": 60.045002,
+                "confidence": 0.8823242,
+                "punctuated_word": "money."
+              },
+              {
+                "word": "fast",
+                "start": 60.56,
+                "end": 60.88,
+                "confidence": 1.0,
+                "punctuated_word": "Fast"
+              },
+              {
+                "word": "cars",
+                "start": 60.88,
+                "end": 61.38,
+                "confidence": 0.9970703,
+                "punctuated_word": "cars,"
+              },
+              {
+                "word": "luxury",
+                "start": 61.760002,
+                "end": 62.24,
+                "confidence": 1.0,
+                "punctuated_word": "luxury"
+              },
+              {
+                "word": "watches",
+                "start": 62.24,
+                "end": 62.74,
+                "confidence": 0.99316406,
+                "punctuated_word": "watches,"
+              },
+              {
+                "word": "and",
+                "start": 62.960003,
+                "end": 63.2,
+                "confidence": 1.0,
+                "punctuated_word": "and"
+              },
+              {
+                "word": "massive",
+                "start": 63.2,
+                "end": 63.7,
+                "confidence": 1.0,
+                "punctuated_word": "massive"
+              },
+              {
+                "word": "mortgages",
+                "start": 63.760002,
+                "end": 64.26,
+                "confidence": 0.99560547,
+                "punctuated_word": "mortgages."
+              },
+              {
+                "word": "wealth",
+                "start": 64.96,
+                "end": 65.36,
+                "confidence": 1.0,
+                "punctuated_word": "Wealth"
+              },
+              {
+                "word": "is",
+                "start": 65.36,
+                "end": 65.520004,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "what",
+                "start": 65.520004,
+                "end": 65.76,
+                "confidence": 1.0,
+                "punctuated_word": "what"
+              },
+              {
+                "word": "you",
+                "start": 65.76,
+                "end": 65.92,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "do",
+                "start": 65.92,
+                "end": 66.08,
+                "confidence": 1.0,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "not",
+                "start": 66.08,
+                "end": 66.4,
+                "confidence": 1.0,
+                "punctuated_word": "not"
+              },
+              {
+                "word": "see",
+                "start": 66.4,
+                "end": 66.9,
+                "confidence": 0.9970703,
+                "punctuated_word": "see."
+              },
+              {
+                "word": "it",
+                "start": 67.12,
+                "end": 67.36,
+                "confidence": 1.0,
+                "punctuated_word": "It"
+              },
+              {
+                "word": "is",
+                "start": 67.36,
+                "end": 67.6,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "unspent",
+                "start": 67.6,
+                "end": 68.1,
+                "confidence": 1.0,
+                "punctuated_word": "unspent"
+              },
+              {
+                "word": "cash",
+                "start": 68.240005,
+                "end": 68.740005,
+                "confidence": 0.9970703,
+                "punctuated_word": "cash,"
+              },
+              {
+                "word": "financial",
+                "start": 69.04,
+                "end": 69.54,
+                "confidence": 1.0,
+                "punctuated_word": "financial"
+              },
+              {
+                "word": "options",
+                "start": 69.68,
+                "end": 70.18,
+                "confidence": 0.9980469,
+                "punctuated_word": "options,"
+              },
+              {
+                "word": "and",
+                "start": 70.4,
+                "end": 70.64,
+                "confidence": 1.0,
+                "punctuated_word": "and"
+              },
+              {
+                "word": "the",
+                "start": 70.64,
+                "end": 70.8,
+                "confidence": 0.9980469,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "quiet",
+                "start": 70.8,
+                "end": 71.200005,
+                "confidence": 0.99902344,
+                "punctuated_word": "quiet"
+              },
+              {
+                "word": "freedom",
+                "start": 71.200005,
+                "end": 71.6,
+                "confidence": 1.0,
+                "punctuated_word": "freedom"
+              },
+              {
+                "word": "to",
+                "start": 71.6,
+                "end": 71.76,
+                "confidence": 1.0,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "say",
+                "start": 71.76,
+                "end": 72.08,
+                "confidence": 1.0,
+                "punctuated_word": "say"
+              },
+              {
+                "word": "no",
+                "start": 72.08,
+                "end": 72.58,
+                "confidence": 0.9970703,
+                "punctuated_word": "no."
+              },
+              {
+                "word": "second",
+                "start": 72.64,
+                "end": 73.14,
+                "confidence": 0.9946289,
+                "punctuated_word": "Second,"
+              },
+              {
+                "word": "understand",
+                "start": 73.520004,
+                "end": 74.020004,
+                "confidence": 1.0,
+                "punctuated_word": "understand"
+              },
+              {
+                "word": "confounding",
+                "start": 74.32,
+                "end": 74.82,
+                "confidence": 0.9819336,
+                "punctuated_word": "confounding"
+              },
+              {
+                "word": "compounding",
+                "start": 74.96,
+                "end": 75.46,
+                "confidence": 0.8803711,
+                "punctuated_word": "compounding."
+              },
+              {
+                "word": "warren",
+                "start": 76.305,
+                "end": 76.704994,
+                "confidence": 1.0,
+                "punctuated_word": "Warren"
+              },
+              {
+                "word": "buffett",
+                "start": 76.704994,
+                "end": 77.185,
+                "confidence": 0.8774414,
+                "punctuated_word": "Buffett"
+              },
+              {
+                "word": "is",
+                "start": 77.185,
+                "end": 77.34499,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "famous",
+                "start": 77.34499,
+                "end": 77.744995,
+                "confidence": 1.0,
+                "punctuated_word": "famous"
+              },
+              {
+                "word": "as",
+                "start": 77.744995,
+                "end": 77.905,
+                "confidence": 1.0,
+                "punctuated_word": "as"
+              },
+              {
+                "word": "the",
+                "start": 77.905,
+                "end": 78.145,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "world's",
+                "start": 78.145,
+                "end": 78.384995,
+                "confidence": 0.9995117,
+                "punctuated_word": "world's"
+              },
+              {
+                "word": "greatest",
+                "start": 78.384995,
+                "end": 78.884995,
+                "confidence": 1.0,
+                "punctuated_word": "greatest"
+              },
+              {
+                "word": "investor",
+                "start": 78.945,
+                "end": 79.445,
+                "confidence": 0.9338379,
+                "punctuated_word": "investor,"
+              },
+              {
+                "word": "but",
+                "start": 79.905,
+                "end": 80.064995,
+                "confidence": 1.0,
+                "punctuated_word": "but"
+              },
+              {
+                "word": "his",
+                "start": 80.064995,
+                "end": 80.305,
+                "confidence": 1.0,
+                "punctuated_word": "his"
+              },
+              {
+                "word": "real",
+                "start": 80.305,
+                "end": 80.625,
+                "confidence": 1.0,
+                "punctuated_word": "real"
+              },
+              {
+                "word": "superpower",
+                "start": 80.625,
+                "end": 81.125,
+                "confidence": 0.9741211,
+                "punctuated_word": "superpower"
+              },
+              {
+                "word": "is",
+                "start": 81.34499,
+                "end": 81.585,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "not",
+                "start": 81.585,
+                "end": 81.905,
+                "confidence": 1.0,
+                "punctuated_word": "not"
+              },
+              {
+                "word": "intelligence",
+                "start": 81.905,
+                "end": 82.405,
+                "confidence": 0.96850586,
+                "punctuated_word": "intelligence."
+              },
+              {
+                "word": "it",
+                "start": 83.104996,
+                "end": 83.34499,
+                "confidence": 1.0,
+                "punctuated_word": "It"
+              },
+              {
+                "word": "is",
+                "start": 83.34499,
+                "end": 83.585,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "time",
+                "start": 83.585,
+                "end": 84.085,
+                "confidence": 1.0,
+                "punctuated_word": "time."
+              },
+              {
+                "word": "over",
+                "start": 84.30499,
+                "end": 84.704994,
+                "confidence": 1.0,
+                "punctuated_word": "Over"
+              },
+              {
+                "word": "99%",
+                "start": 84.704994,
+                "end": 85.585,
+                "confidence": 1.0,
+                "punctuated_word": "99%"
+              },
+              {
+                "word": "of",
+                "start": 85.585,
+                "end": 85.744995,
+                "confidence": 1.0,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "his",
+                "start": 85.744995,
+                "end": 85.985,
+                "confidence": 1.0,
+                "punctuated_word": "his"
+              },
+              {
+                "word": "wealth",
+                "start": 85.985,
+                "end": 86.225,
+                "confidence": 1.0,
+                "punctuated_word": "wealth"
+              },
+              {
+                "word": "was",
+                "start": 86.225,
+                "end": 86.465,
+                "confidence": 0.99902344,
+                "punctuated_word": "was"
+              },
+              {
+                "word": "accumulated",
+                "start": 86.465,
+                "end": 86.965,
+                "confidence": 1.0,
+                "punctuated_word": "accumulated"
+              },
+              {
+                "word": "after",
+                "start": 87.265,
+                "end": 87.585,
+                "confidence": 1.0,
+                "punctuated_word": "after"
+              },
+              {
+                "word": "his",
+                "start": 87.585,
+                "end": 87.825,
+                "confidence": 1.0,
+                "punctuated_word": "his"
+              },
+              {
+                "word": "50",
+                "start": 87.825,
+                "end": 88.465,
+                "confidence": 0.9970703,
+                "punctuated_word": "50"
+              },
+              {
+                "word": "birthday",
+                "start": 88.465,
+                "end": 88.965,
+                "confidence": 0.9995117,
+                "punctuated_word": "birthday."
+              },
+              {
+                "word": "compounding",
+                "start": 89.34499,
+                "end": 89.84499,
+                "confidence": 1.0,
+                "punctuated_word": "Compounding"
+              },
+              {
+                "word": "works",
+                "start": 89.985,
+                "end": 90.30499,
+                "confidence": 1.0,
+                "punctuated_word": "works"
+              },
+              {
+                "word": "like",
+                "start": 90.30499,
+                "end": 90.465,
+                "confidence": 1.0,
+                "punctuated_word": "like"
+              },
+              {
+                "word": "a",
+                "start": 90.465,
+                "end": 90.69,
+                "confidence": 0.9970703,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "snowball",
+                "start": 90.850006,
+                "end": 91.350006,
+                "confidence": 1.0,
+                "punctuated_word": "snowball"
+              },
+              {
+                "word": "rolling",
+                "start": 91.490005,
+                "end": 91.89,
+                "confidence": 0.70410156,
+                "punctuated_word": "rolling"
+              },
+              {
+                "word": "down",
+                "start": 91.89,
+                "end": 92.130005,
+                "confidence": 1.0,
+                "punctuated_word": "down"
+              },
+              {
+                "word": "an",
+                "start": 92.130005,
+                "end": 92.37,
+                "confidence": 0.9921875,
+                "punctuated_word": "an"
+              },
+              {
+                "word": "endless",
+                "start": 92.37,
+                "end": 92.850006,
+                "confidence": 1.0,
+                "punctuated_word": "endless"
+              },
+              {
+                "word": "mountain",
+                "start": 92.850006,
+                "end": 93.350006,
+                "confidence": 0.9995117,
+                "punctuated_word": "mountain."
+              },
+              {
+                "word": "the",
+                "start": 93.73,
+                "end": 93.89,
+                "confidence": 1.0,
+                "punctuated_word": "The"
+              },
+              {
+                "word": "math",
+                "start": 93.89,
+                "end": 94.29,
+                "confidence": 1.0,
+                "punctuated_word": "math"
+              },
+              {
+                "word": "only",
+                "start": 94.29,
+                "end": 94.770004,
+                "confidence": 1.0,
+                "punctuated_word": "only"
+              },
+              {
+                "word": "explodes",
+                "start": 94.770004,
+                "end": 95.270004,
+                "confidence": 1.0,
+                "punctuated_word": "explodes"
+              },
+              {
+                "word": "if",
+                "start": 95.33,
+                "end": 95.490005,
+                "confidence": 0.99902344,
+                "punctuated_word": "if"
+              },
+              {
+                "word": "you",
+                "start": 95.490005,
+                "end": 95.65,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "let",
+                "start": 95.65,
+                "end": 95.97,
+                "confidence": 1.0,
+                "punctuated_word": "let"
+              },
+              {
+                "word": "the",
+                "start": 95.97,
+                "end": 96.130005,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "snowball",
+                "start": 96.130005,
+                "end": 96.61,
+                "confidence": 0.99902344,
+                "punctuated_word": "snowball"
+              },
+              {
+                "word": "roll",
+                "start": 96.61,
+                "end": 96.850006,
+                "confidence": 0.9980469,
+                "punctuated_word": "roll"
+              },
+              {
+                "word": "for",
+                "start": 96.850006,
+                "end": 97.090004,
+                "confidence": 1.0,
+                "punctuated_word": "for"
+              },
+              {
+                "word": "decades",
+                "start": 97.090004,
+                "end": 97.590004,
+                "confidence": 1.0,
+                "punctuated_word": "decades"
+              },
+              {
+                "word": "without",
+                "start": 97.73,
+                "end": 98.21,
+                "confidence": 0.99902344,
+                "punctuated_word": "without"
+              },
+              {
+                "word": "stepping",
+                "start": 98.21,
+                "end": 98.61,
+                "confidence": 1.0,
+                "punctuated_word": "stepping"
+              },
+              {
+                "word": "in",
+                "start": 98.61,
+                "end": 98.69,
+                "confidence": 1.0,
+                "punctuated_word": "in"
+              },
+              {
+                "word": "front",
+                "start": 98.69,
+                "end": 99.01,
+                "confidence": 1.0,
+                "punctuated_word": "front"
+              },
+              {
+                "word": "of",
+                "start": 99.01,
+                "end": 99.17,
+                "confidence": 1.0,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "it",
+                "start": 99.17,
+                "end": 99.65,
+                "confidence": 0.99560547,
+                "punctuated_word": "it."
+              },
+              {
+                "word": "that",
+                "start": 99.65,
+                "end": 99.89,
+                "confidence": 0.99902344,
+                "punctuated_word": "That"
+              },
+              {
+                "word": "leads",
+                "start": 99.89,
+                "end": 100.21,
+                "confidence": 1.0,
+                "punctuated_word": "leads"
+              },
+              {
+                "word": "to",
+                "start": 100.21,
+                "end": 100.37,
+                "confidence": 1.0,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "the",
+                "start": 100.37,
+                "end": 100.53,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "ultimate",
+                "start": 100.53,
+                "end": 101.03,
+                "confidence": 1.0,
+                "punctuated_word": "ultimate"
+              },
+              {
+                "word": "rule",
+                "start": 101.090004,
+                "end": 101.590004,
+                "confidence": 0.9482422,
+                "punctuated_word": "rule,"
+              },
+              {
+                "word": "room",
+                "start": 101.810005,
+                "end": 102.130005,
+                "confidence": 1.0,
+                "punctuated_word": "room"
+              },
+              {
+                "word": "for",
+                "start": 102.130005,
+                "end": 102.37,
+                "confidence": 1.0,
+                "punctuated_word": "for"
+              },
+              {
+                "word": "error",
+                "start": 102.37,
+                "end": 102.87,
+                "confidence": 1.0,
+                "punctuated_word": "error."
+              },
+              {
+                "word": "the",
+                "start": 103.485,
+                "end": 103.645004,
+                "confidence": 1.0,
+                "punctuated_word": "The"
+              },
+              {
+                "word": "most",
+                "start": 103.645004,
+                "end": 103.965004,
+                "confidence": 1.0,
+                "punctuated_word": "most"
+              },
+              {
+                "word": "important",
+                "start": 103.965004,
+                "end": 104.445,
+                "confidence": 1.0,
+                "punctuated_word": "important"
+              },
+              {
+                "word": "part",
+                "start": 104.445,
+                "end": 104.765,
+                "confidence": 1.0,
+                "punctuated_word": "part"
+              },
+              {
+                "word": "of",
+                "start": 104.765,
+                "end": 104.925,
+                "confidence": 1.0,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "any",
+                "start": 104.925,
+                "end": 105.325005,
+                "confidence": 1.0,
+                "punctuated_word": "any"
+              },
+              {
+                "word": "financial",
+                "start": 105.325005,
+                "end": 105.805,
+                "confidence": 1.0,
+                "punctuated_word": "financial"
+              },
+              {
+                "word": "plan",
+                "start": 105.805,
+                "end": 106.205,
+                "confidence": 1.0,
+                "punctuated_word": "plan"
+              },
+              {
+                "word": "is",
+                "start": 106.205,
+                "end": 106.445,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "planning",
+                "start": 106.445,
+                "end": 106.845,
+                "confidence": 1.0,
+                "punctuated_word": "planning"
+              },
+              {
+                "word": "for",
+                "start": 106.845,
+                "end": 107.085,
+                "confidence": 1.0,
+                "punctuated_word": "for"
+              },
+              {
+                "word": "your",
+                "start": 107.085,
+                "end": 107.325005,
+                "confidence": 1.0,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "plan",
+                "start": 107.325005,
+                "end": 107.725006,
+                "confidence": 1.0,
+                "punctuated_word": "plan"
+              },
+              {
+                "word": "not",
+                "start": 107.725006,
+                "end": 108.045006,
+                "confidence": 0.875,
+                "punctuated_word": "not"
+              },
+              {
+                "word": "going",
+                "start": 108.045006,
+                "end": 108.365005,
+                "confidence": 1.0,
+                "punctuated_word": "going"
+              },
+              {
+                "word": "according",
+                "start": 108.365005,
+                "end": 108.765,
+                "confidence": 1.0,
+                "punctuated_word": "according"
+              },
+              {
+                "word": "to",
+                "start": 108.765,
+                "end": 109.005005,
+                "confidence": 1.0,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "plan",
+                "start": 109.005005,
+                "end": 109.505005,
+                "confidence": 1.0,
+                "punctuated_word": "plan."
+              },
+              {
+                "word": "survival",
+                "start": 110.205,
+                "end": 110.705,
+                "confidence": 1.0,
+                "punctuated_word": "Survival"
+              },
+              {
+                "word": "is",
+                "start": 110.765,
+                "end": 110.925,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "the",
+                "start": 110.925,
+                "end": 111.165,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "only",
+                "start": 111.165,
+                "end": 111.485,
+                "confidence": 1.0,
+                "punctuated_word": "only"
+              },
+              {
+                "word": "math",
+                "start": 111.485,
+                "end": 111.805,
+                "confidence": 0.9921875,
+                "punctuated_word": "math"
+              },
+              {
+                "word": "that",
+                "start": 111.805,
+                "end": 112.125,
+                "confidence": 1.0,
+                "punctuated_word": "that"
+              },
+              {
+                "word": "matters",
+                "start": 112.125,
+                "end": 112.625,
+                "confidence": 0.9995117,
+                "punctuated_word": "matters."
+              },
+              {
+                "word": "if",
+                "start": 113.165,
+                "end": 113.405,
+                "confidence": 1.0,
+                "punctuated_word": "If"
+              },
+              {
+                "word": "you",
+                "start": 113.405,
+                "end": 113.565,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "risk",
+                "start": 113.565,
+                "end": 113.885,
+                "confidence": 1.0,
+                "punctuated_word": "risk"
+              },
+              {
+                "word": "what",
+                "start": 113.885,
+                "end": 114.045006,
+                "confidence": 0.9980469,
+                "punctuated_word": "what"
+              },
+              {
+                "word": "you",
+                "start": 114.045006,
+                "end": 114.205,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "need",
+                "start": 114.205,
+                "end": 114.445,
+                "confidence": 1.0,
+                "punctuated_word": "need"
+              },
+              {
+                "word": "to",
+                "start": 114.445,
+                "end": 114.605,
+                "confidence": 0.9980469,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "chase",
+                "start": 114.605,
+                "end": 114.925,
+                "confidence": 1.0,
+                "punctuated_word": "chase"
+              },
+              {
+                "word": "what",
+                "start": 114.925,
+                "end": 115.165,
+                "confidence": 0.8769531,
+                "punctuated_word": "what"
+              },
+              {
+                "word": "you",
+                "start": 115.165,
+                "end": 115.325005,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "do",
+                "start": 115.325005,
+                "end": 115.485,
+                "confidence": 1.0,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "not",
+                "start": 115.485,
+                "end": 115.725006,
+                "confidence": 1.0,
+                "punctuated_word": "not"
+              },
+              {
+                "word": "need",
+                "start": 115.725006,
+                "end": 115.95,
+                "confidence": 0.9975586,
+                "punctuated_word": "need,"
+              },
+              {
+                "word": "one",
+                "start": 116.59,
+                "end": 116.909996,
+                "confidence": 1.0,
+                "punctuated_word": "one"
+              },
+              {
+                "word": "bad",
+                "start": 116.909996,
+                "end": 117.229996,
+                "confidence": 1.0,
+                "punctuated_word": "bad"
+              },
+              {
+                "word": "crash",
+                "start": 117.229996,
+                "end": 117.63,
+                "confidence": 0.99902344,
+                "punctuated_word": "crash"
+              },
+              {
+                "word": "will",
+                "start": 117.63,
+                "end": 117.869995,
+                "confidence": 1.0,
+                "punctuated_word": "will"
+              },
+              {
+                "word": "wipe",
+                "start": 117.869995,
+                "end": 118.189995,
+                "confidence": 1.0,
+                "punctuated_word": "wipe"
+              },
+              {
+                "word": "you",
+                "start": 118.189995,
+                "end": 118.35,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "out",
+                "start": 118.35,
+                "end": 118.67,
+                "confidence": 1.0,
+                "punctuated_word": "out"
+              },
+              {
+                "word": "completely",
+                "start": 118.67,
+                "end": 119.17,
+                "confidence": 1.0,
+                "punctuated_word": "completely."
+              },
+              {
+                "word": "finally",
+                "start": 119.71,
+                "end": 120.21,
+                "confidence": 0.99853516,
+                "punctuated_word": "Finally,"
+              },
+              {
+                "word": "master",
+                "start": 120.75,
+                "end": 121.229996,
+                "confidence": 0.99902344,
+                "punctuated_word": "master"
+              },
+              {
+                "word": "the",
+                "start": 121.229996,
+                "end": 121.39,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "goalpost",
+                "start": 121.39,
+                "end": 121.89,
+                "confidence": 0.8208008,
+                "punctuated_word": "goalpost"
+              },
+              {
+                "word": "of",
+                "start": 121.95,
+                "end": 122.189995,
+                "confidence": 1.0,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "enough",
+                "start": 122.189995,
+                "end": 122.689995,
+                "confidence": 0.9995117,
+                "punctuated_word": "enough."
+              },
+              {
+                "word": "if",
+                "start": 123.229996,
+                "end": 123.39,
+                "confidence": 1.0,
+                "punctuated_word": "If"
+              },
+              {
+                "word": "your",
+                "start": 123.39,
+                "end": 123.71,
+                "confidence": 0.99902344,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "expectations",
+                "start": 123.71,
+                "end": 124.21,
+                "confidence": 1.0,
+                "punctuated_word": "expectations"
+              },
+              {
+                "word": "rise",
+                "start": 124.509995,
+                "end": 124.829994,
+                "confidence": 0.99902344,
+                "punctuated_word": "rise"
+              },
+              {
+                "word": "with",
+                "start": 124.829994,
+                "end": 125.07,
+                "confidence": 1.0,
+                "punctuated_word": "with"
+              },
+              {
+                "word": "every",
+                "start": 125.07,
+                "end": 125.31,
+                "confidence": 1.0,
+                "punctuated_word": "every"
+              },
+              {
+                "word": "dollar",
+                "start": 125.31,
+                "end": 125.71,
+                "confidence": 1.0,
+                "punctuated_word": "dollar"
+              },
+              {
+                "word": "you",
+                "start": 125.71,
+                "end": 125.95,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "earn",
+                "start": 125.95,
+                "end": 126.45,
+                "confidence": 0.99853516,
+                "punctuated_word": "earn,"
+              },
+              {
+                "word": "you",
+                "start": 126.59,
+                "end": 126.75,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "will",
+                "start": 126.75,
+                "end": 126.99,
+                "confidence": 1.0,
+                "punctuated_word": "will"
+              },
+              {
+                "word": "run",
+                "start": 126.99,
+                "end": 127.229996,
+                "confidence": 1.0,
+                "punctuated_word": "run"
+              },
+              {
+                "word": "on",
+                "start": 127.229996,
+                "end": 127.46999,
+                "confidence": 1.0,
+                "punctuated_word": "on"
+              },
+              {
+                "word": "a",
+                "start": 127.46999,
+                "end": 127.549995,
+                "confidence": 0.9980469,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "hedonic",
+                "start": 127.549995,
+                "end": 128.04999,
+                "confidence": 0.9983724,
+                "punctuated_word": "hedonic"
+              },
+              {
+                "word": "treadmill",
+                "start": 128.19,
+                "end": 128.69,
+                "confidence": 1.0,
+                "punctuated_word": "treadmill"
+              },
+              {
+                "word": "forever",
+                "start": 128.83,
+                "end": 129.33,
+                "confidence": 0.9970703,
+                "punctuated_word": "forever."
+              },
+              {
+                "word": "true",
+                "start": 130.27501,
+                "end": 130.515,
+                "confidence": 1.0,
+                "punctuated_word": "True"
+              },
+              {
+                "word": "wealth",
+                "start": 130.515,
+                "end": 130.99501,
+                "confidence": 0.9941406,
+                "punctuated_word": "wealth"
+              },
+              {
+                "word": "is",
+                "start": 130.99501,
+                "end": 131.235,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "not",
+                "start": 131.235,
+                "end": 131.475,
+                "confidence": 1.0,
+                "punctuated_word": "not"
+              },
+              {
+                "word": "buying",
+                "start": 131.475,
+                "end": 131.795,
+                "confidence": 1.0,
+                "punctuated_word": "buying"
+              },
+              {
+                "word": "luxury",
+                "start": 131.795,
+                "end": 132.295,
+                "confidence": 1.0,
+                "punctuated_word": "luxury"
+              },
+              {
+                "word": "toys",
+                "start": 132.35501,
+                "end": 132.835,
+                "confidence": 1.0,
+                "punctuated_word": "toys"
+              },
+              {
+                "word": "to",
+                "start": 132.835,
+                "end": 132.99501,
+                "confidence": 1.0,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "impress",
+                "start": 132.99501,
+                "end": 133.475,
+                "confidence": 1.0,
+                "punctuated_word": "impress"
+              },
+              {
+                "word": "strangers",
+                "start": 133.475,
+                "end": 133.975,
+                "confidence": 0.99609375,
+                "punctuated_word": "strangers."
+              },
+              {
+                "word": "true",
+                "start": 134.835,
+                "end": 135.155,
+                "confidence": 1.0,
+                "punctuated_word": "True"
+              },
+              {
+                "word": "wealth",
+                "start": 135.155,
+                "end": 135.475,
+                "confidence": 0.99902344,
+                "punctuated_word": "wealth"
+              },
+              {
+                "word": "is",
+                "start": 135.475,
+                "end": 135.63501,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "the",
+                "start": 135.63501,
+                "end": 135.795,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "ability",
+                "start": 135.795,
+                "end": 136.27501,
+                "confidence": 1.0,
+                "punctuated_word": "ability"
+              },
+              {
+                "word": "to",
+                "start": 136.27501,
+                "end": 136.435,
+                "confidence": 1.0,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "wake",
+                "start": 136.435,
+                "end": 136.675,
+                "confidence": 1.0,
+                "punctuated_word": "wake"
+              },
+              {
+                "word": "up",
+                "start": 136.675,
+                "end": 136.91501,
+                "confidence": 1.0,
+                "punctuated_word": "up"
+              },
+              {
+                "word": "every",
+                "start": 136.91501,
+                "end": 137.235,
+                "confidence": 1.0,
+                "punctuated_word": "every"
+              },
+              {
+                "word": "morning",
+                "start": 137.235,
+                "end": 137.63501,
+                "confidence": 1.0,
+                "punctuated_word": "morning"
+              },
+              {
+                "word": "and",
+                "start": 137.63501,
+                "end": 137.875,
+                "confidence": 0.9951172,
+                "punctuated_word": "and"
+              },
+              {
+                "word": "say",
+                "start": 137.875,
+                "end": 138.375,
+                "confidence": 0.97680664,
+                "punctuated_word": "say,"
+              },
+              {
+                "word": "i",
+                "start": 138.675,
+                "end": 138.835,
+                "confidence": 1.0,
+                "punctuated_word": "I"
+              },
+              {
+                "word": "can",
+                "start": 138.835,
+                "end": 139.075,
+                "confidence": 1.0,
+                "punctuated_word": "can"
+              },
+              {
+                "word": "do",
+                "start": 139.075,
+                "end": 139.315,
+                "confidence": 1.0,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "whatever",
+                "start": 139.315,
+                "end": 139.795,
+                "confidence": 1.0,
+                "punctuated_word": "whatever"
+              },
+              {
+                "word": "i",
+                "start": 139.795,
+                "end": 139.955,
+                "confidence": 1.0,
+                "punctuated_word": "I"
+              },
+              {
+                "word": "want",
+                "start": 139.955,
+                "end": 140.195,
+                "confidence": 1.0,
+                "punctuated_word": "want"
+              },
+              {
+                "word": "today",
+                "start": 140.195,
+                "end": 140.695,
+                "confidence": 0.99902344,
+                "punctuated_word": "today"
+              },
+              {
+                "word": "with",
+                "start": 140.91501,
+                "end": 141.155,
+                "confidence": 0.640625,
+                "punctuated_word": "with"
+              },
+              {
+                "word": "whoever",
+                "start": 141.155,
+                "end": 141.63501,
+                "confidence": 1.0,
+                "punctuated_word": "whoever"
+              },
+              {
+                "word": "i",
+                "start": 141.63501,
+                "end": 141.795,
+                "confidence": 1.0,
+                "punctuated_word": "I"
+              },
+              {
+                "word": "want",
+                "start": 141.795,
+                "end": 142.27501,
+                "confidence": 1.0,
+                "punctuated_word": "want"
+              },
+              {
+                "word": "for",
+                "start": 142.27501,
+                "end": 142.515,
+                "confidence": 0.92089844,
+                "punctuated_word": "for"
+              },
+              {
+                "word": "as",
+                "start": 142.515,
+                "end": 142.755,
+                "confidence": 1.0,
+                "punctuated_word": "as"
+              },
+              {
+                "word": "long",
+                "start": 142.755,
+                "end": 142.99501,
+                "confidence": 1.0,
+                "punctuated_word": "long"
+              },
+              {
+                "word": "as",
+                "start": 142.99501,
+                "end": 143.235,
+                "confidence": 1.0,
+                "punctuated_word": "as"
+              },
+              {
+                "word": "i",
+                "start": 143.235,
+                "end": 143.395,
+                "confidence": 1.0,
+                "punctuated_word": "I"
+              },
+              {
+                "word": "want",
+                "start": 143.395,
+                "end": 143.85,
+                "confidence": 0.9995117,
+                "punctuated_word": "want."
+              },
+              {
+                "word": "so",
+                "start": 143.93001,
+                "end": 144.01001,
+                "confidence": 0.90478516,
+                "punctuated_word": "So"
+              },
+              {
+                "word": "tell",
+                "start": 144.01001,
+                "end": 144.33,
+                "confidence": 1.0,
+                "punctuated_word": "tell"
+              },
+              {
+                "word": "me",
+                "start": 144.33,
+                "end": 144.49,
+                "confidence": 1.0,
+                "punctuated_word": "me"
+              },
+              {
+                "word": "below",
+                "start": 144.49,
+                "end": 144.99,
+                "confidence": 0.748291,
+                "punctuated_word": "below."
+              },
+              {
+                "word": "would",
+                "start": 145.37001,
+                "end": 145.61,
+                "confidence": 1.0,
+                "punctuated_word": "Would"
+              },
+              {
+                "word": "you",
+                "start": 145.61,
+                "end": 145.77,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "rather",
+                "start": 145.77,
+                "end": 146.09001,
+                "confidence": 1.0,
+                "punctuated_word": "rather"
+              },
+              {
+                "word": "have",
+                "start": 146.09001,
+                "end": 146.33,
+                "confidence": 1.0,
+                "punctuated_word": "have"
+              },
+              {
+                "word": "$10,000,000",
+                "start": 146.33,
+                "end": 147.21,
+                "confidence": 1.0,
+                "punctuated_word": "$10,000,000"
+              },
+              {
+                "word": "in",
+                "start": 147.21,
+                "end": 147.37001,
+                "confidence": 1.0,
+                "punctuated_word": "in"
+              },
+              {
+                "word": "the",
+                "start": 147.37001,
+                "end": 147.53,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "bank",
+                "start": 147.53,
+                "end": 147.85,
+                "confidence": 1.0,
+                "punctuated_word": "bank"
+              },
+              {
+                "word": "but",
+                "start": 147.85,
+                "end": 148.09001,
+                "confidence": 0.6254883,
+                "punctuated_word": "but"
+              },
+              {
+                "word": "work",
+                "start": 148.09001,
+                "end": 148.33,
+                "confidence": 1.0,
+                "punctuated_word": "work"
+              },
+              {
+                "word": "ninety",
+                "start": 148.33,
+                "end": 148.73001,
+                "confidence": 1.0,
+                "punctuated_word": "ninety"
+              },
+              {
+                "word": "hours",
+                "start": 148.73001,
+                "end": 148.97,
+                "confidence": 1.0,
+                "punctuated_word": "hours"
+              },
+              {
+                "word": "a",
+                "start": 148.97,
+                "end": 149.05,
+                "confidence": 1.0,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "week",
+                "start": 149.05,
+                "end": 149.29001,
+                "confidence": 1.0,
+                "punctuated_word": "week"
+              },
+              {
+                "word": "for",
+                "start": 149.29001,
+                "end": 149.45001,
+                "confidence": 1.0,
+                "punctuated_word": "for"
+              },
+              {
+                "word": "a",
+                "start": 149.45001,
+                "end": 149.61,
+                "confidence": 1.0,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "brutal",
+                "start": 149.61,
+                "end": 150.01001,
+                "confidence": 0.99902344,
+                "punctuated_word": "brutal"
+              },
+              {
+                "word": "boss",
+                "start": 150.01001,
+                "end": 150.51001,
+                "confidence": 0.7352295,
+                "punctuated_word": "boss,"
+              },
+              {
+                "word": "or",
+                "start": 150.73001,
+                "end": 150.97,
+                "confidence": 1.0,
+                "punctuated_word": "or"
+              },
+              {
+                "word": "have",
+                "start": 150.97,
+                "end": 151.29001,
+                "confidence": 1.0,
+                "punctuated_word": "have"
+              },
+              {
+                "word": "$100,000",
+                "start": 151.29001,
+                "end": 152.57,
+                "confidence": 0.99918616,
+                "punctuated_word": "$100,000"
+              },
+              {
+                "word": "but",
+                "start": 152.57,
+                "end": 152.73001,
+                "confidence": 0.9536133,
+                "punctuated_word": "but"
+              },
+              {
+                "word": "own",
+                "start": 152.73001,
+                "end": 153.05,
+                "confidence": 0.9970703,
+                "punctuated_word": "own"
+              },
+              {
+                "word": "every",
+                "start": 153.05,
+                "end": 153.29001,
+                "confidence": 1.0,
+                "punctuated_word": "every"
+              },
+              {
+                "word": "single",
+                "start": 153.29001,
+                "end": 153.61,
+                "confidence": 1.0,
+                "punctuated_word": "single"
+              },
+              {
+                "word": "second",
+                "start": 153.61,
+                "end": 153.93001,
+                "confidence": 1.0,
+                "punctuated_word": "second"
+              },
+              {
+                "word": "of",
+                "start": 153.93001,
+                "end": 154.09001,
+                "confidence": 1.0,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "your",
+                "start": 154.09001,
+                "end": 154.25,
+                "confidence": 1.0,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "time",
+                "start": 154.25,
+                "end": 154.65594,
+                "confidence": 0.99853516,
+                "punctuated_word": "time?"
+              }
+            ],
+            "paragraphs": {
+              "transcript": "\nThe psychology of money by Morgan Housel in two minutes. Most people believe getting rich is about finance formulas, spreadsheets, and being a genius. In reality, money is not a science. It is a psychological mirror. Ronald Reid was an ordinary janitor who quietly saved modest wages into index funds.\n\nWhen he died, he left behind $8,000,000. Meanwhile, Richard Fosconi was a Harvard educated Wall Street executive who borrowed heavily, built a mansion, and went completely bankrupt. Financial success is not about what you know. It is about how you behave. First, beware the man in the car paradox.\n\nWhen you see someone driving a Ferrari, you almost never think, wow. Look at that driver. You think, if I had that car, everyone would admire me. Here is the paradox. Nobody is looking at you.\n\nThey are only imagining themselves. Rich as current income and spent money. Fast cars, luxury watches, and massive mortgages. Wealth is what you do not see. It is unspent cash, financial options, and the quiet freedom to say no.\n\nSecond, understand confounding compounding. Warren Buffett is famous as the world's greatest investor, but his real superpower is not intelligence. It is time. Over 99% of his wealth was accumulated after his 50 birthday. Compounding works like a snowball rolling down an endless mountain.\n\nThe math only explodes if you let the snowball roll for decades without stepping in front of it. That leads to the ultimate rule, room for error. The most important part of any financial plan is planning for your plan not going according to plan. Survival is the only math that matters. If you risk what you need to chase what you do not need, one bad crash will wipe you out completely.\n\nFinally, master the goalpost of enough. If your expectations rise with every dollar you earn, you will run on a hedonic treadmill forever. True wealth is not buying luxury toys to impress strangers. True wealth is the ability to wake up every morning and say, I can do whatever I want today with whoever I want for as long as I want. So tell me below.\n\nWould you rather have $10,000,000 in the bank but work ninety hours a week for a brutal boss, or have $100,000 but own every single second of your time?",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "The psychology of money by Morgan Housel in two minutes.",
+                      "start": 0.16,
+                      "end": 3.46
+                    },
+                    {
+                      "text": "Most people believe getting rich is about finance formulas, spreadsheets, and being a genius.",
+                      "start": 3.84,
+                      "end": 8.9
+                    },
+                    {
+                      "text": "In reality, money is not a science.",
+                      "start": 9.28,
+                      "end": 11.54
+                    },
+                    {
+                      "text": "It is a psychological mirror.",
+                      "start": 11.759999,
+                      "end": 13.38
+                    },
+                    {
+                      "text": "Ronald Reid was an ordinary janitor who quietly saved modest wages into index funds.",
+                      "start": 13.5199995,
+                      "end": 19.295
+                    }
+                  ],
+                  "num_words": 50,
+                  "start": 0.16,
+                  "end": 19.295
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "When he died, he left behind $8,000,000.",
+                      "start": 19.755,
+                      "end": 22.895
+                    },
+                    {
+                      "text": "Meanwhile, Richard Fosconi was a Harvard educated Wall Street executive who borrowed heavily, built a mansion, and went completely bankrupt.",
+                      "start": 23.275,
+                      "end": 32.55
+                    },
+                    {
+                      "text": "Financial success is not about what you know.",
+                      "start": 33.17,
+                      "end": 35.829998
+                    },
+                    {
+                      "text": "It is about how you behave.",
+                      "start": 36.05,
+                      "end": 37.67
+                    },
+                    {
+                      "text": "First, beware the man in the car paradox.",
+                      "start": 37.89,
+                      "end": 40.629997
+                    }
+                  ],
+                  "num_words": 49,
+                  "start": 19.755,
+                  "end": 40.629997
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "When you see someone driving a Ferrari, you almost never think, wow.",
+                      "start": 41.17,
+                      "end": 45.59
+                    },
+                    {
+                      "text": "Look at that driver.",
+                      "start": 45.809998,
+                      "end": 47.03
+                    },
+                    {
+                      "text": "You think, if I had that car, everyone would admire me.",
+                      "start": 47.329998,
+                      "end": 51.485
+                    },
+                    {
+                      "text": "Here is the paradox.",
+                      "start": 51.785,
+                      "end": 52.845
+                    },
+                    {
+                      "text": "Nobody is looking at you.",
+                      "start": 53.385002,
+                      "end": 55.005
+                    }
+                  ],
+                  "num_words": 36,
+                  "start": 41.17,
+                  "end": 55.005
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "They are only imagining themselves.",
+                      "start": 55.145,
+                      "end": 57.005
+                    },
+                    {
+                      "text": "Rich as current income and spent money.",
+                      "start": 57.705,
+                      "end": 60.045002
+                    },
+                    {
+                      "text": "Fast cars, luxury watches, and massive mortgages.",
+                      "start": 60.56,
+                      "end": 64.26
+                    },
+                    {
+                      "text": "Wealth is what you do not see.",
+                      "start": 64.96,
+                      "end": 66.9
+                    },
+                    {
+                      "text": "It is unspent cash, financial options, and the quiet freedom to say no.",
+                      "start": 67.12,
+                      "end": 72.58
+                    }
+                  ],
+                  "num_words": 39,
+                  "start": 55.145,
+                  "end": 72.58
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Second, understand confounding compounding.",
+                      "start": 72.64,
+                      "end": 75.46
+                    },
+                    {
+                      "text": "Warren Buffett is famous as the world's greatest investor, but his real superpower is not intelligence.",
+                      "start": 76.305,
+                      "end": 82.405
+                    },
+                    {
+                      "text": "It is time.",
+                      "start": 83.104996,
+                      "end": 84.085
+                    },
+                    {
+                      "text": "Over 99% of his wealth was accumulated after his 50 birthday.",
+                      "start": 84.30499,
+                      "end": 88.965
+                    },
+                    {
+                      "text": "Compounding works like a snowball rolling down an endless mountain.",
+                      "start": 89.34499,
+                      "end": 93.350006
+                    }
+                  ],
+                  "num_words": 44,
+                  "start": 72.64,
+                  "end": 93.350006
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "The math only explodes if you let the snowball roll for decades without stepping in front of it.",
+                      "start": 93.73,
+                      "end": 99.65
+                    },
+                    {
+                      "text": "That leads to the ultimate rule, room for error.",
+                      "start": 99.65,
+                      "end": 102.87
+                    },
+                    {
+                      "text": "The most important part of any financial plan is planning for your plan not going according to plan.",
+                      "start": 103.485,
+                      "end": 109.505005
+                    },
+                    {
+                      "text": "Survival is the only math that matters.",
+                      "start": 110.205,
+                      "end": 112.625
+                    },
+                    {
+                      "text": "If you risk what you need to chase what you do not need, one bad crash will wipe you out completely.",
+                      "start": 113.165,
+                      "end": 119.17
+                    }
+                  ],
+                  "num_words": 73,
+                  "start": 93.73,
+                  "end": 119.17
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Finally, master the goalpost of enough.",
+                      "start": 119.71,
+                      "end": 122.689995
+                    },
+                    {
+                      "text": "If your expectations rise with every dollar you earn, you will run on a hedonic treadmill forever.",
+                      "start": 123.229996,
+                      "end": 129.33
+                    },
+                    {
+                      "text": "True wealth is not buying luxury toys to impress strangers.",
+                      "start": 130.27501,
+                      "end": 133.975
+                    },
+                    {
+                      "text": "True wealth is the ability to wake up every morning and say, I can do whatever I want today with whoever I want for as long as I want.",
+                      "start": 134.835,
+                      "end": 143.85
+                    },
+                    {
+                      "text": "So tell me below.",
+                      "start": 143.93001,
+                      "end": 144.99
+                    }
+                  ],
+                  "num_words": 66,
+                  "start": 119.71,
+                  "end": 144.99
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Would you rather have $10,000,000 in the bank but work ninety hours a week for a brutal boss, or have $100,000 but own every single second of your time?",
+                      "start": 145.37001,
+                      "end": 154.65594
+                    }
+                  ],
+                  "num_words": 29,
+                  "start": 145.37001,
+                  "end": 154.65594
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "utterances": [
+      {
+        "start": 0.16,
+        "end": 3.46,
+        "confidence": 0.9651855,
+        "channel": 0,
+        "transcript": "The psychology of money by Morgan Housel in two minutes.",
+        "words": [
+          {
+            "word": "the",
+            "start": 0.16,
+            "end": 0.39999998,
+            "confidence": 0.98828125,
+            "punctuated_word": "The"
+          },
+          {
+            "word": "psychology",
+            "start": 0.39999998,
+            "end": 0.9,
+            "confidence": 0.6826172,
+            "punctuated_word": "psychology"
+          },
+          {
+            "word": "of",
+            "start": 0.96,
+            "end": 1.1999999,
+            "confidence": 1.0,
+            "punctuated_word": "of"
+          },
+          {
+            "word": "money",
+            "start": 1.1999999,
+            "end": 1.52,
+            "confidence": 0.99902344,
+            "punctuated_word": "money"
+          },
+          {
+            "word": "by",
+            "start": 1.52,
+            "end": 1.76,
+            "confidence": 0.9980469,
+            "punctuated_word": "by"
+          },
+          {
+            "word": "morgan",
+            "start": 1.76,
+            "end": 2.1599998,
+            "confidence": 0.99609375,
+            "punctuated_word": "Morgan"
+          },
+          {
+            "word": "housel",
+            "start": 2.1599998,
+            "end": 2.56,
+            "confidence": 0.9897461,
+            "punctuated_word": "Housel"
+          },
+          {
+            "word": "in",
+            "start": 2.56,
+            "end": 2.8,
+            "confidence": 0.99902344,
+            "punctuated_word": "in"
+          },
+          {
+            "word": "two",
+            "start": 2.8,
+            "end": 2.96,
+            "confidence": 1.0,
+            "punctuated_word": "two"
+          },
+          {
+            "word": "minutes",
+            "start": 2.96,
+            "end": 3.46,
+            "confidence": 0.99902344,
+            "punctuated_word": "minutes."
+          }
+        ],
+        "id": "dd1a5797-57d3-46d3-b97f-0d541f98fb7e"
+      },
+      {
+        "start": 3.84,
+        "end": 8.9,
+        "confidence": 0.99248976,
+        "channel": 0,
+        "transcript": "Most people believe getting rich is about finance formulas, spreadsheets, and being a genius.",
+        "words": [
+          {
+            "word": "most",
+            "start": 3.84,
+            "end": 4.08,
+            "confidence": 0.9970703,
+            "punctuated_word": "Most"
+          },
+          {
+            "word": "people",
+            "start": 4.08,
+            "end": 4.4,
+            "confidence": 1.0,
+            "punctuated_word": "people"
+          },
+          {
+            "word": "believe",
+            "start": 4.4,
+            "end": 4.72,
+            "confidence": 0.9941406,
+            "punctuated_word": "believe"
+          },
+          {
+            "word": "getting",
+            "start": 4.72,
+            "end": 5.04,
+            "confidence": 0.9091797,
+            "punctuated_word": "getting"
+          },
+          {
+            "word": "rich",
+            "start": 5.04,
+            "end": 5.3599997,
+            "confidence": 1.0,
+            "punctuated_word": "rich"
+          },
+          {
+            "word": "is",
+            "start": 5.3599997,
+            "end": 5.52,
+            "confidence": 1.0,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "about",
+            "start": 5.52,
+            "end": 5.8399997,
+            "confidence": 1.0,
+            "punctuated_word": "about"
+          },
+          {
+            "word": "finance",
+            "start": 5.8399997,
+            "end": 6.3199997,
+            "confidence": 1.0,
+            "punctuated_word": "finance"
+          },
+          {
+            "word": "formulas",
+            "start": 6.3199997,
+            "end": 6.8199997,
+            "confidence": 0.9970703,
+            "punctuated_word": "formulas,"
+          },
+          {
+            "word": "spreadsheets",
+            "start": 7.04,
+            "end": 7.54,
+            "confidence": 0.9973958,
+            "punctuated_word": "spreadsheets,"
+          },
+          {
+            "word": "and",
+            "start": 7.7599998,
+            "end": 7.9199996,
+            "confidence": 1.0,
+            "punctuated_word": "and"
+          },
+          {
+            "word": "being",
+            "start": 7.9199996,
+            "end": 8.16,
+            "confidence": 1.0,
+            "punctuated_word": "being"
+          },
+          {
+            "word": "a",
+            "start": 8.16,
+            "end": 8.4,
+            "confidence": 1.0,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "genius",
+            "start": 8.4,
+            "end": 8.9,
+            "confidence": 1.0,
+            "punctuated_word": "genius."
+          }
+        ],
+        "id": "4ed992dd-bccf-49bf-bedd-a1a4196338a8"
+      },
+      {
+        "start": 9.28,
+        "end": 9.94,
+        "confidence": 1.0,
+        "channel": 0,
+        "transcript": "In reality,",
+        "words": [
+          {
+            "word": "in",
+            "start": 9.28,
+            "end": 9.44,
+            "confidence": 1.0,
+            "punctuated_word": "In"
+          },
+          {
+            "word": "reality",
+            "start": 9.44,
+            "end": 9.94,
+            "confidence": 1.0,
+            "punctuated_word": "reality,"
+          }
+        ],
+        "id": "801ec118-31e9-4159-b84f-200185112378"
+      },
+      {
+        "start": 10.24,
+        "end": 19.295,
+        "confidence": 0.9850667,
+        "channel": 0,
+        "transcript": "money is not a science. It is a psychological mirror. Ronald Reid was an ordinary janitor who quietly saved modest wages into index funds.",
+        "words": [
+          {
+            "word": "money",
+            "start": 10.24,
+            "end": 10.559999,
+            "confidence": 1.0,
+            "punctuated_word": "money"
+          },
+          {
+            "word": "is",
+            "start": 10.559999,
+            "end": 10.719999,
+            "confidence": 1.0,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "not",
+            "start": 10.719999,
+            "end": 10.88,
+            "confidence": 1.0,
+            "punctuated_word": "not"
+          },
+          {
+            "word": "a",
+            "start": 10.88,
+            "end": 11.04,
+            "confidence": 0.99902344,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "science",
+            "start": 11.04,
+            "end": 11.54,
+            "confidence": 0.9946289,
+            "punctuated_word": "science."
+          },
+          {
+            "word": "it",
+            "start": 11.759999,
+            "end": 11.92,
+            "confidence": 1.0,
+            "punctuated_word": "It"
+          },
+          {
+            "word": "is",
+            "start": 11.92,
+            "end": 12.08,
+            "confidence": 1.0,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "a",
+            "start": 12.08,
+            "end": 12.16,
+            "confidence": 0.99902344,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "psychological",
+            "start": 12.16,
+            "end": 12.66,
+            "confidence": 1.0,
+            "punctuated_word": "psychological"
+          },
+          {
+            "word": "mirror",
+            "start": 12.88,
+            "end": 13.38,
+            "confidence": 1.0,
+            "punctuated_word": "mirror."
+          },
+          {
+            "word": "ronald",
+            "start": 13.5199995,
+            "end": 14.0199995,
+            "confidence": 0.99902344,
+            "punctuated_word": "Ronald"
+          },
+          {
+            "word": "reid",
+            "start": 14.16,
+            "end": 14.4,
+            "confidence": 0.6538086,
+            "punctuated_word": "Reid"
+          },
+          {
+            "word": "was",
+            "start": 14.4,
+            "end": 14.639999,
+            "confidence": 1.0,
+            "punctuated_word": "was"
+          },
+          {
+            "word": "an",
+            "start": 14.639999,
+            "end": 14.799999,
+            "confidence": 1.0,
+            "punctuated_word": "an"
+          },
+          {
+            "word": "ordinary",
+            "start": 14.799999,
+            "end": 15.299999,
+            "confidence": 1.0,
+            "punctuated_word": "ordinary"
+          },
+          {
+            "word": "janitor",
+            "start": 15.36,
+            "end": 15.86,
+            "confidence": 1.0,
+            "punctuated_word": "janitor"
+          },
+          {
+            "word": "who",
+            "start": 15.915,
+            "end": 16.155,
+            "confidence": 1.0,
+            "punctuated_word": "who"
+          },
+          {
+            "word": "quietly",
+            "start": 16.155,
+            "end": 16.655,
+            "confidence": 1.0,
+            "punctuated_word": "quietly"
+          },
+          {
+            "word": "saved",
+            "start": 16.715,
+            "end": 17.115,
+            "confidence": 1.0,
+            "punctuated_word": "saved"
+          },
+          {
+            "word": "modest",
+            "start": 17.115,
+            "end": 17.595,
+            "confidence": 1.0,
+            "punctuated_word": "modest"
+          },
+          {
+            "word": "wages",
+            "start": 17.595,
+            "end": 17.994999,
+            "confidence": 1.0,
+            "punctuated_word": "wages"
+          },
+          {
+            "word": "into",
+            "start": 17.994999,
+            "end": 18.395,
+            "confidence": 0.9980469,
+            "punctuated_word": "into"
+          },
+          {
+            "word": "index",
+            "start": 18.395,
+            "end": 18.795,
+            "confidence": 0.99902344,
+            "punctuated_word": "index"
+          },
+          {
+            "word": "funds",
+            "start": 18.795,
+            "end": 19.295,
+            "confidence": 0.99902344,
+            "punctuated_word": "funds."
+          }
+        ],
+        "id": "8db41ea7-aea3-414a-bb61-e488237b3f73"
+      },
+      {
+        "start": 19.755,
+        "end": 22.895,
+        "confidence": 0.9998256,
+        "channel": 0,
+        "transcript": "When he died, he left behind $8,000,000.",
+        "words": [
+          {
+            "word": "when",
+            "start": 19.755,
+            "end": 19.915,
+            "confidence": 1.0,
+            "punctuated_word": "When"
+          },
+          {
+            "word": "he",
+            "start": 19.915,
+            "end": 20.075,
+            "confidence": 1.0,
+            "punctuated_word": "he"
+          },
+          {
+            "word": "died",
+            "start": 20.075,
+            "end": 20.575,
+            "confidence": 0.9995117,
+            "punctuated_word": "died,"
+          },
+          {
+            "word": "he",
+            "start": 20.795,
+            "end": 20.955,
+            "confidence": 1.0,
+            "punctuated_word": "he"
+          },
+          {
+            "word": "left",
+            "start": 20.955,
+            "end": 21.195,
+            "confidence": 1.0,
+            "punctuated_word": "left"
+          },
+          {
+            "word": "behind",
+            "start": 21.195,
+            "end": 21.675,
+            "confidence": 1.0,
+            "punctuated_word": "behind"
+          },
+          {
+            "word": "$8,000,000",
+            "start": 21.675,
+            "end": 22.895,
+            "confidence": 0.9992676,
+            "punctuated_word": "$8,000,000."
+          }
+        ],
+        "id": "638a5391-2650-4781-959c-f090d66b612d"
+      },
+      {
+        "start": 23.275,
+        "end": 23.775,
+        "confidence": 1.0,
+        "channel": 0,
+        "transcript": "Meanwhile,",
+        "words": [
+          {
+            "word": "meanwhile",
+            "start": 23.275,
+            "end": 23.775,
+            "confidence": 1.0,
+            "punctuated_word": "Meanwhile,"
+          }
+        ],
+        "id": "eef971c2-48ef-45b1-a037-573bd27eb0ae"
+      },
+      {
+        "start": 24.235,
+        "end": 27.935,
+        "confidence": 0.98746747,
+        "channel": 0,
+        "transcript": "Richard Fosconi was a Harvard educated Wall Street executive",
+        "words": [
+          {
+            "word": "richard",
+            "start": 24.235,
+            "end": 24.715,
+            "confidence": 1.0,
+            "punctuated_word": "Richard"
+          },
+          {
+            "word": "fosconi",
+            "start": 24.715,
+            "end": 25.215,
+            "confidence": 0.9086914,
+            "punctuated_word": "Fosconi"
+          },
+          {
+            "word": "was",
+            "start": 25.435,
+            "end": 25.675,
+            "confidence": 0.9863281,
+            "punctuated_word": "was"
+          },
+          {
+            "word": "a",
+            "start": 25.675,
+            "end": 25.755001,
+            "confidence": 1.0,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "harvard",
+            "start": 25.755001,
+            "end": 26.255001,
+            "confidence": 1.0,
+            "punctuated_word": "Harvard"
+          },
+          {
+            "word": "educated",
+            "start": 26.314999,
+            "end": 26.814999,
+            "confidence": 0.99902344,
+            "punctuated_word": "educated"
+          },
+          {
+            "word": "wall",
+            "start": 26.875,
+            "end": 27.115,
+            "confidence": 0.9951172,
+            "punctuated_word": "Wall"
+          },
+          {
+            "word": "street",
+            "start": 27.115,
+            "end": 27.435,
+            "confidence": 1.0,
+            "punctuated_word": "Street"
+          },
+          {
+            "word": "executive",
+            "start": 27.435,
+            "end": 27.935,
+            "confidence": 0.9980469,
+            "punctuated_word": "executive"
+          }
+        ],
+        "id": "5c88f76d-4de3-4850-ad99-e69562d78681"
+      },
+      {
+        "start": 28.314999,
+        "end": 29.375,
+        "confidence": 0.9667969,
+        "channel": 0,
+        "transcript": "who borrowed heavily,",
+        "words": [
+          {
+            "word": "who",
+            "start": 28.314999,
+            "end": 28.474998,
+            "confidence": 0.9560547,
+            "punctuated_word": "who"
+          },
+          {
+            "word": "borrowed",
+            "start": 28.474998,
+            "end": 28.875,
+            "confidence": 1.0,
+            "punctuated_word": "borrowed"
+          },
+          {
+            "word": "heavily",
+            "start": 28.875,
+            "end": 29.375,
+            "confidence": 0.94433594,
+            "punctuated_word": "heavily,"
+          }
+        ],
+        "id": "c1d37e38-e515-4c24-a2db-78586d9989ff"
+      },
+      {
+        "start": 29.755001,
+        "end": 32.55,
+        "confidence": 0.98583984,
+        "channel": 0,
+        "transcript": "built a mansion, and went completely bankrupt.",
+        "words": [
+          {
+            "word": "built",
+            "start": 29.755001,
+            "end": 30.154999,
+            "confidence": 0.96777344,
+            "punctuated_word": "built"
+          },
+          {
+            "word": "a",
+            "start": 30.154999,
+            "end": 30.235,
+            "confidence": 0.98095703,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "mansion",
+            "start": 30.235,
+            "end": 30.735,
+            "confidence": 0.9692383,
+            "punctuated_word": "mansion,"
+          },
+          {
+            "word": "and",
+            "start": 30.955,
+            "end": 31.115,
+            "confidence": 1.0,
+            "punctuated_word": "and"
+          },
+          {
+            "word": "went",
+            "start": 31.115,
+            "end": 31.355,
+            "confidence": 0.99902344,
+            "punctuated_word": "went"
+          },
+          {
+            "word": "completely",
+            "start": 31.355,
+            "end": 31.855,
+            "confidence": 1.0,
+            "punctuated_word": "completely"
+          },
+          {
+            "word": "bankrupt",
+            "start": 32.05,
+            "end": 32.55,
+            "confidence": 0.9838867,
+            "punctuated_word": "bankrupt."
+          }
+        ],
+        "id": "1102ec1b-3f9b-4b69-a428-cdb1c64e6488"
+      },
+      {
+        "start": 33.17,
+        "end": 40.629997,
+        "confidence": 0.9826882,
+        "channel": 0,
+        "transcript": "Financial success is not about what you know. It is about how you behave. First, beware the man in the car paradox.",
+        "words": [
+          {
+            "word": "financial",
+            "start": 33.17,
+            "end": 33.67,
+            "confidence": 0.9970703,
+            "punctuated_word": "Financial"
+          },
+          {
+            "word": "success",
+            "start": 33.809998,
+            "end": 34.29,
+            "confidence": 1.0,
+            "punctuated_word": "success"
+          },
+          {
+            "word": "is",
+            "start": 34.29,
+            "end": 34.53,
+            "confidence": 1.0,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "not",
+            "start": 34.53,
+            "end": 34.69,
+            "confidence": 1.0,
+            "punctuated_word": "not"
+          },
+          {
+            "word": "about",
+            "start": 34.69,
+            "end": 34.93,
+            "confidence": 1.0,
+            "punctuated_word": "about"
+          },
+          {
+            "word": "what",
+            "start": 34.93,
+            "end": 35.09,
+            "confidence": 1.0,
+            "punctuated_word": "what"
+          },
+          {
+            "word": "you",
+            "start": 35.09,
+            "end": 35.329998,
+            "confidence": 0.99902344,
+            "punctuated_word": "you"
+          },
+          {
+            "word": "know",
+            "start": 35.329998,
+            "end": 35.829998,
+            "confidence": 0.75683594,
+            "punctuated_word": "know."
+          },
+          {
+            "word": "it",
+            "start": 36.05,
+            "end": 36.21,
+            "confidence": 0.99902344,
+            "punctuated_word": "It"
+          },
+          {
+            "word": "is",
+            "start": 36.21,
+            "end": 36.37,
+            "confidence": 1.0,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "about",
+            "start": 36.37,
+            "end": 36.69,
+            "confidence": 1.0,
+            "punctuated_word": "about"
+          },
+          {
+            "word": "how",
+            "start": 36.69,
+            "end": 36.93,
+            "confidence": 1.0,
+            "punctuated_word": "how"
+          },
+          {
+            "word": "you",
+            "start": 36.93,
+            "end": 37.17,
+            "confidence": 1.0,
+            "punctuated_word": "you"
+          },
+          {
+            "word": "behave",
+            "start": 37.17,
+            "end": 37.67,
+            "confidence": 1.0,
+            "punctuated_word": "behave."
+          },
+          {
+            "word": "first",
+            "start": 37.89,
+            "end": 38.39,
+            "confidence": 0.99609375,
+            "punctuated_word": "First,"
+          },
+          {
+            "word": "beware",
+            "start": 38.69,
+            "end": 39.09,
+            "confidence": 0.9970703,
+            "punctuated_word": "beware"
+          },
+          {
+            "word": "the",
+            "start": 39.09,
+            "end": 39.25,
+            "confidence": 0.87890625,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "man",
+            "start": 39.25,
+            "end": 39.489998,
+            "confidence": 0.99902344,
+            "punctuated_word": "man"
+          },
+          {
+            "word": "in",
+            "start": 39.489998,
+            "end": 39.649998,
+            "confidence": 0.99902344,
+            "punctuated_word": "in"
+          },
+          {
+            "word": "the",
+            "start": 39.649998,
+            "end": 39.73,
+            "confidence": 0.9980469,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "car",
+            "start": 39.73,
+            "end": 40.129997,
+            "confidence": 1.0,
+            "punctuated_word": "car"
+          },
+          {
+            "word": "paradox",
+            "start": 40.129997,
+            "end": 40.629997,
+            "confidence": 0.99902344,
+            "punctuated_word": "paradox."
+          }
+        ],
+        "id": "807208ea-c719-485e-a6f0-6e2dbe581541"
+      },
+      {
+        "start": 41.17,
+        "end": 52.845,
+        "confidence": 0.9886514,
+        "channel": 0,
+        "transcript": "When you see someone driving a Ferrari, you almost never think, wow. Look at that driver. You think, if I had that car, everyone would admire me. Here is the paradox.",
+        "words": [
+          {
+            "word": "when",
+            "start": 41.17,
+            "end": 41.41,
+            "confidence": 1.0,
+            "punctuated_word": "When"
+          },
+          {
+            "word": "you",
+            "start": 41.41,
+            "end": 41.57,
+            "confidence": 1.0,
+            "punctuated_word": "you"
+          },
+          {
+            "word": "see",
+            "start": 41.57,
+            "end": 41.73,
+            "confidence": 1.0,
+            "punctuated_word": "see"
+          },
+          {
+            "word": "someone",
+            "start": 41.73,
+            "end": 42.129997,
+            "confidence": 1.0,
+            "punctuated_word": "someone"
+          },
+          {
+            "word": "driving",
+            "start": 42.129997,
+            "end": 42.449997,
+            "confidence": 1.0,
+            "punctuated_word": "driving"
+          },
+          {
+            "word": "a",
+            "start": 42.449997,
+            "end": 42.61,
+            "confidence": 0.99902344,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "ferrari",
+            "start": 42.61,
+            "end": 43.11,
+            "confidence": 0.99853516,
+            "punctuated_word": "Ferrari,"
+          },
+          {
+            "word": "you",
+            "start": 43.41,
+            "end": 43.649998,
+            "confidence": 1.0,
+            "punctuated_word": "you"
+          },
+          {
+            "word": "almost",
+            "start": 43.649998,
+            "end": 44.05,
+            "confidence": 1.0,
+            "punctuated_word": "almost"
+          },
+          {
+            "word": "never",
+            "start": 44.05,
+            "end": 44.37,
+            "confidence": 1.0,
+            "punctuated_word": "never"
+          },
+          {
+            "word": "think",
+            "start": 44.37,
+            "end": 44.87,
+            "confidence": 0.98706055,
+            "punctuated_word": "think,"
+          },
+          {
+            "word": "wow",
+            "start": 45.09,
+            "end": 45.59,
+            "confidence": 0.81103516,
+            "punctuated_word": "wow."
+          },
+          {
+            "word": "look",
+            "start": 45.809998,
+            "end": 46.05,
+            "confidence": 1.0,
+            "punctuated_word": "Look"
+          },
+          {
+            "word": "at",
+            "start": 46.05,
+            "end": 46.21,
+            "confidence": 1.0,
+            "punctuated_word": "at"
+          },
+          {
+            "word": "that",
+            "start": 46.21,
+            "end": 46.53,
+            "confidence": 1.0,
+            "punctuated_word": "that"
+          },
+          {
+            "word": "driver",
+            "start": 46.53,
+            "end": 47.03,
+            "confidence": 0.99853516,
+            "punctuated_word": "driver."
+          },
+          {
+            "word": "you",
+            "start": 47.329998,
+            "end": 47.57,
+            "confidence": 1.0,
+            "punctuated_word": "You"
+          },
+          {
+            "word": "think",
+            "start": 47.57,
+            "end": 47.865,
+            "confidence": 0.9477539,
+            "punctuated_word": "think,"
+          },
+          {
+            "word": "if",
+            "start": 48.185,
+            "end": 48.345,
+            "confidence": 0.9838867,
+            "punctuated_word": "if"
+          },
+          {
+            "word": "i",
+            "start": 48.345,
+            "end": 48.585003,
+            "confidence": 1.0,
+            "punctuated_word": "I"
+          },
+          {
+            "word": "had",
+            "start": 48.585003,
+            "end": 48.825,
+            "confidence": 1.0,
+            "punctuated_word": "had"
+          },
+          {
+            "word": "that",
+            "start": 48.825,
+            "end": 49.065002,
+            "confidence": 1.0,
+            "punctuated_word": "that"
+          },
+          {
+            "word": "car",
+            "start": 49.065002,
+            "end": 49.565002,
+            "confidence": 0.99560547,
+            "punctuated_word": "car,"
+          },
+          {
+            "word": "everyone",
+            "start": 49.865,
+            "end": 50.345,
+            "confidence": 1.0,
+            "punctuated_word": "everyone"
+          },
+          {
+            "word": "would",
+            "start": 50.345,
+            "end": 50.585003,
+            "confidence": 1.0,
+            "punctuated_word": "would"
+          },
+          {
+            "word": "admire",
+            "start": 50.585003,
+            "end": 50.985,
+            "confidence": 1.0,
+            "punctuated_word": "admire"
+          },
+          {
+            "word": "me",
+            "start": 50.985,
+            "end": 51.485,
+            "confidence": 0.98657227,
+            "punctuated_word": "me."
+          },
+          {
+            "word": "here",
+            "start": 51.785,
+            "end": 52.025,
+            "confidence": 1.0,
+            "punctuated_word": "Here"
+          },
+          {
+            "word": "is",
+            "start": 52.025,
+            "end": 52.185,
+            "confidence": 0.97314453,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "the",
+            "start": 52.185,
+            "end": 52.345,
+            "confidence": 1.0,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "paradox",
+            "start": 52.345,
+            "end": 52.845,
+            "confidence": 0.967041,
+            "punctuated_word": "paradox."
+          }
+        ],
+        "id": "1a8501db-e4a3-4f3c-b75a-6fe5c83b6ab3"
+      },
+      {
+        "start": 53.385002,
+        "end": 57.005,
+        "confidence": 0.9844238,
+        "channel": 0,
+        "transcript": "Nobody is looking at you. They are only imagining themselves.",
+        "words": [
+          {
+            "word": "nobody",
+            "start": 53.385002,
+            "end": 53.865,
+            "confidence": 1.0,
+            "punctuated_word": "Nobody"
+          },
+          {
+            "word": "is",
+            "start": 53.865,
+            "end": 54.025,
+            "confidence": 1.0,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "looking",
+            "start": 54.025,
+            "end": 54.345,
+            "confidence": 1.0,
+            "punctuated_word": "looking"
+          },
+          {
+            "word": "at",
+            "start": 54.345,
+            "end": 54.505,
+            "confidence": 1.0,
+            "punctuated_word": "at"
+          },
+          {
+            "word": "you",
+            "start": 54.505,
+            "end": 55.005,
+            "confidence": 0.9970703,
+            "punctuated_word": "you."
+          },
+          {
+            "word": "they",
+            "start": 55.145,
+            "end": 55.385002,
+            "confidence": 0.99902344,
+            "punctuated_word": "They"
+          },
+          {
+            "word": "are",
+            "start": 55.385002,
+            "end": 55.625,
+            "confidence": 0.94384766,
+            "punctuated_word": "are"
+          },
+          {
+            "word": "only",
+            "start": 55.625,
+            "end": 55.945,
+            "confidence": 1.0,
+            "punctuated_word": "only"
+          },
+          {
+            "word": "imagining",
+            "start": 55.945,
+            "end": 56.445,
+            "confidence": 1.0,
+            "punctuated_word": "imagining"
+          },
+          {
+            "word": "themselves",
+            "start": 56.505,
+            "end": 57.005,
+            "confidence": 0.9042969,
+            "punctuated_word": "themselves."
+          }
+        ],
+        "id": "ff44a59d-1f89-4cf9-9fe3-7bee462a6e24"
+      },
+      {
+        "start": 57.705,
+        "end": 60.045002,
+        "confidence": 0.9635882,
+        "channel": 0,
+        "transcript": "Rich as current income and spent money.",
+        "words": [
+          {
+            "word": "rich",
+            "start": 57.705,
+            "end": 58.025,
+            "confidence": 0.97509766,
+            "punctuated_word": "Rich"
+          },
+          {
+            "word": "as",
+            "start": 58.025,
+            "end": 58.185,
+            "confidence": 0.8925781,
+            "punctuated_word": "as"
+          },
+          {
+            "word": "current",
+            "start": 58.185,
+            "end": 58.585,
+            "confidence": 1.0,
+            "punctuated_word": "current"
+          },
+          {
+            "word": "income",
+            "start": 58.585,
+            "end": 58.985,
+            "confidence": 1.0,
+            "punctuated_word": "income"
+          },
+          {
+            "word": "and",
+            "start": 58.985,
+            "end": 59.225002,
+            "confidence": 0.99902344,
+            "punctuated_word": "and"
+          },
+          {
+            "word": "spent",
+            "start": 59.225002,
+            "end": 59.545002,
+            "confidence": 0.99609375,
+            "punctuated_word": "spent"
+          },
+          {
+            "word": "money",
+            "start": 59.545002,
+            "end": 60.045002,
+            "confidence": 0.8823242,
+            "punctuated_word": "money."
+          }
+        ],
+        "id": "3cd5b9a6-424e-41ff-a119-b807038fbb58"
+      },
+      {
+        "start": 60.56,
+        "end": 61.38,
+        "confidence": 0.99853516,
+        "channel": 0,
+        "transcript": "Fast cars,",
+        "words": [
+          {
+            "word": "fast",
+            "start": 60.56,
+            "end": 60.88,
+            "confidence": 1.0,
+            "punctuated_word": "Fast"
+          },
+          {
+            "word": "cars",
+            "start": 60.88,
+            "end": 61.38,
+            "confidence": 0.9970703,
+            "punctuated_word": "cars,"
+          }
+        ],
+        "id": "239250af-c213-40b9-8fa6-6d566a9181ae"
+      },
+      {
+        "start": 61.760002,
+        "end": 64.26,
+        "confidence": 0.9977539,
+        "channel": 0,
+        "transcript": "luxury watches, and massive mortgages.",
+        "words": [
+          {
+            "word": "luxury",
+            "start": 61.760002,
+            "end": 62.24,
+            "confidence": 1.0,
+            "punctuated_word": "luxury"
+          },
+          {
+            "word": "watches",
+            "start": 62.24,
+            "end": 62.74,
+            "confidence": 0.99316406,
+            "punctuated_word": "watches,"
+          },
+          {
+            "word": "and",
+            "start": 62.960003,
+            "end": 63.2,
+            "confidence": 1.0,
+            "punctuated_word": "and"
+          },
+          {
+            "word": "massive",
+            "start": 63.2,
+            "end": 63.7,
+            "confidence": 1.0,
+            "punctuated_word": "massive"
+          },
+          {
+            "word": "mortgages",
+            "start": 63.760002,
+            "end": 64.26,
+            "confidence": 0.99560547,
+            "punctuated_word": "mortgages."
+          }
+        ],
+        "id": "b2e2b2f9-a5a2-49bb-bc34-346fc52d493e"
+      },
+      {
+        "start": 64.96,
+        "end": 73.14,
+        "confidence": 0.9990932,
+        "channel": 0,
+        "transcript": "Wealth is what you do not see. It is unspent cash, financial options, and the quiet freedom to say no. Second,",
+        "words": [
+          {
+            "word": "wealth",
+            "start": 64.96,
+            "end": 65.36,
+            "confidence": 1.0,
+            "punctuated_word": "Wealth"
+          },
+          {
+            "word": "is",
+            "start": 65.36,
+            "end": 65.520004,
+            "confidence": 1.0,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "what",
+            "start": 65.520004,
+            "end": 65.76,
+            "confidence": 1.0,
+            "punctuated_word": "what"
+          },
+          {
+            "word": "you",
+            "start": 65.76,
+            "end": 65.92,
+            "confidence": 1.0,
+            "punctuated_word": "you"
+          },
+          {
+            "word": "do",
+            "start": 65.92,
+            "end": 66.08,
+            "confidence": 1.0,
+            "punctuated_word": "do"
+          },
+          {
+            "word": "not",
+            "start": 66.08,
+            "end": 66.4,
+            "confidence": 1.0,
+            "punctuated_word": "not"
+          },
+          {
+            "word": "see",
+            "start": 66.4,
+            "end": 66.9,
+            "confidence": 0.9970703,
+            "punctuated_word": "see."
+          },
+          {
+            "word": "it",
+            "start": 67.12,
+            "end": 67.36,
+            "confidence": 1.0,
+            "punctuated_word": "It"
+          },
+          {
+            "word": "is",
+            "start": 67.36,
+            "end": 67.6,
+            "confidence": 1.0,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "unspent",
+            "start": 67.6,
+            "end": 68.1,
+            "confidence": 1.0,
+            "punctuated_word": "unspent"
+          },
+          {
+            "word": "cash",
+            "start": 68.240005,
+            "end": 68.740005,
+            "confidence": 0.9970703,
+            "punctuated_word": "cash,"
+          },
+          {
+            "word": "financial",
+            "start": 69.04,
+            "end": 69.54,
+            "confidence": 1.0,
+            "punctuated_word": "financial"
+          },
+          {
+            "word": "options",
+            "start": 69.68,
+            "end": 70.18,
+            "confidence": 0.9980469,
+            "punctuated_word": "options,"
+          },
+          {
+            "word": "and",
+            "start": 70.4,
+            "end": 70.64,
+            "confidence": 1.0,
+            "punctuated_word": "and"
+          },
+          {
+            "word": "the",
+            "start": 70.64,
+            "end": 70.8,
+            "confidence": 0.9980469,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "quiet",
+            "start": 70.8,
+            "end": 71.200005,
+            "confidence": 0.99902344,
+            "punctuated_word": "quiet"
+          },
+          {
+            "word": "freedom",
+            "start": 71.200005,
+            "end": 71.6,
+            "confidence": 1.0,
+            "punctuated_word": "freedom"
+          },
+          {
+            "word": "to",
+            "start": 71.6,
+            "end": 71.76,
+            "confidence": 1.0,
+            "punctuated_word": "to"
+          },
+          {
+            "word": "say",
+            "start": 71.76,
+            "end": 72.08,
+            "confidence": 1.0,
+            "punctuated_word": "say"
+          },
+          {
+            "word": "no",
+            "start": 72.08,
+            "end": 72.58,
+            "confidence": 0.9970703,
+            "punctuated_word": "no."
+          },
+          {
+            "word": "second",
+            "start": 72.64,
+            "end": 73.14,
+            "confidence": 0.9946289,
+            "punctuated_word": "Second,"
+          }
+        ],
+        "id": "58fef842-0148-445f-a8ad-fecb66e62ba7"
+      },
+      {
+        "start": 73.520004,
+        "end": 75.46,
+        "confidence": 0.95410156,
+        "channel": 0,
+        "transcript": "understand confounding compounding.",
+        "words": [
+          {
+            "word": "understand",
+            "start": 73.520004,
+            "end": 74.020004,
+            "confidence": 1.0,
+            "punctuated_word": "understand"
+          },
+          {
+            "word": "confounding",
+            "start": 74.32,
+            "end": 74.82,
+            "confidence": 0.9819336,
+            "punctuated_word": "confounding"
+          },
+          {
+            "word": "compounding",
+            "start": 74.96,
+            "end": 75.46,
+            "confidence": 0.8803711,
+            "punctuated_word": "compounding."
+          }
+        ],
+        "id": "54bf730f-dd70-4a6a-8ddb-a2199ae45449"
+      },
+      {
+        "start": 76.305,
+        "end": 79.445,
+        "confidence": 0.9789768,
+        "channel": 0,
+        "transcript": "Warren Buffett is famous as the world's greatest investor,",
+        "words": [
+          {
+            "word": "warren",
+            "start": 76.305,
+            "end": 76.704994,
+            "confidence": 1.0,
+            "punctuated_word": "Warren"
+          },
+          {
+            "word": "buffett",
+            "start": 76.704994,
+            "end": 77.185,
+            "confidence": 0.8774414,
+            "punctuated_word": "Buffett"
+          },
+          {
+            "word": "is",
+            "start": 77.185,
+            "end": 77.34499,
+            "confidence": 1.0,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "famous",
+            "start": 77.34499,
+            "end": 77.744995,
+            "confidence": 1.0,
+            "punctuated_word": "famous"
+          },
+          {
+            "word": "as",
+            "start": 77.744995,
+            "end": 77.905,
+            "confidence": 1.0,
+            "punctuated_word": "as"
+          },
+          {
+            "word": "the",
+            "start": 77.905,
+            "end": 78.145,
+            "confidence": 1.0,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "world's",
+            "start": 78.145,
+            "end": 78.384995,
+            "confidence": 0.9995117,
+            "punctuated_word": "world's"
+          },
+          {
+            "word": "greatest",
+            "start": 78.384995,
+            "end": 78.884995,
+            "confidence": 1.0,
+            "punctuated_word": "greatest"
+          },
+          {
+            "word": "investor",
+            "start": 78.945,
+            "end": 79.445,
+            "confidence": 0.9338379,
+            "punctuated_word": "investor,"
+          }
+        ],
+        "id": "74fcac5b-3ea0-4888-badd-6aac6975ae89"
+      },
+      {
+        "start": 79.905,
+        "end": 82.405,
+        "confidence": 0.9918038,
+        "channel": 0,
+        "transcript": "but his real superpower is not intelligence.",
+        "words": [
+          {
+            "word": "but",
+            "start": 79.905,
+            "end": 80.064995,
+            "confidence": 1.0,
+            "punctuated_word": "but"
+          },
+          {
+            "word": "his",
+            "start": 80.064995,
+            "end": 80.305,
+            "confidence": 1.0,
+            "punctuated_word": "his"
+          },
+          {
+            "word": "real",
+            "start": 80.305,
+            "end": 80.625,
+            "confidence": 1.0,
+            "punctuated_word": "real"
+          },
+          {
+            "word": "superpower",
+            "start": 80.625,
+            "end": 81.125,
+            "confidence": 0.9741211,
+            "punctuated_word": "superpower"
+          },
+          {
+            "word": "is",
+            "start": 81.34499,
+            "end": 81.585,
+            "confidence": 1.0,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "not",
+            "start": 81.585,
+            "end": 81.905,
+            "confidence": 1.0,
+            "punctuated_word": "not"
+          },
+          {
+            "word": "intelligence",
+            "start": 81.905,
+            "end": 82.405,
+            "confidence": 0.96850586,
+            "punctuated_word": "intelligence."
+          }
+        ],
+        "id": "d7c214a0-4b7c-4f79-a7da-00f6ea9a704e"
+      },
+      {
+        "start": 83.104996,
+        "end": 85.585,
+        "confidence": 1.0,
+        "channel": 0,
+        "transcript": "It is time. Over 99%",
+        "words": [
+          {
+            "word": "it",
+            "start": 83.104996,
+            "end": 83.34499,
+            "confidence": 1.0,
+            "punctuated_word": "It"
+          },
+          {
+            "word": "is",
+            "start": 83.34499,
+            "end": 83.585,
+            "confidence": 1.0,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "time",
+            "start": 83.585,
+            "end": 84.085,
+            "confidence": 1.0,
+            "punctuated_word": "time."
+          },
+          {
+            "word": "over",
+            "start": 84.30499,
+            "end": 84.704994,
+            "confidence": 1.0,
+            "punctuated_word": "Over"
+          },
+          {
+            "word": "99%",
+            "start": 84.704994,
+            "end": 85.585,
+            "confidence": 1.0,
+            "punctuated_word": "99%"
+          }
+        ],
+        "id": "a10f2318-b8f5-47cb-be56-8b1f024794fc"
+      },
+      {
+        "start": 85.585,
+        "end": 86.965,
+        "confidence": 0.9998047,
+        "channel": 0,
+        "transcript": "of his wealth was accumulated",
+        "words": [
+          {
+            "word": "of",
+            "start": 85.585,
+            "end": 85.744995,
+            "confidence": 1.0,
+            "punctuated_word": "of"
+          },
+          {
+            "word": "his",
+            "start": 85.744995,
+            "end": 85.985,
+            "confidence": 1.0,
+            "punctuated_word": "his"
+          },
+          {
+            "word": "wealth",
+            "start": 85.985,
+            "end": 86.225,
+            "confidence": 1.0,
+            "punctuated_word": "wealth"
+          },
+          {
+            "word": "was",
+            "start": 86.225,
+            "end": 86.465,
+            "confidence": 0.99902344,
+            "punctuated_word": "was"
+          },
+          {
+            "word": "accumulated",
+            "start": 86.465,
+            "end": 86.965,
+            "confidence": 1.0,
+            "punctuated_word": "accumulated"
+          }
+        ],
+        "id": "26ab7e8f-7059-49e9-9e4d-13792fa6497e"
+      },
+      {
+        "start": 87.265,
+        "end": 88.965,
+        "confidence": 0.9991455,
+        "channel": 0,
+        "transcript": "after his 50 birthday.",
+        "words": [
+          {
+            "word": "after",
+            "start": 87.265,
+            "end": 87.585,
+            "confidence": 1.0,
+            "punctuated_word": "after"
+          },
+          {
+            "word": "his",
+            "start": 87.585,
+            "end": 87.825,
+            "confidence": 1.0,
+            "punctuated_word": "his"
+          },
+          {
+            "word": "50",
+            "start": 87.825,
+            "end": 88.465,
+            "confidence": 0.9970703,
+            "punctuated_word": "50"
+          },
+          {
+            "word": "birthday",
+            "start": 88.465,
+            "end": 88.965,
+            "confidence": 0.9995117,
+            "punctuated_word": "birthday."
+          }
+        ],
+        "id": "1d930c1f-008f-4411-9fac-8c00f2975768"
+      },
+      {
+        "start": 89.34499,
+        "end": 93.350006,
+        "confidence": 0.9692871,
+        "channel": 0,
+        "transcript": "Compounding works like a snowball rolling down an endless mountain.",
+        "words": [
+          {
+            "word": "compounding",
+            "start": 89.34499,
+            "end": 89.84499,
+            "confidence": 1.0,
+            "punctuated_word": "Compounding"
+          },
+          {
+            "word": "works",
+            "start": 89.985,
+            "end": 90.30499,
+            "confidence": 1.0,
+            "punctuated_word": "works"
+          },
+          {
+            "word": "like",
+            "start": 90.30499,
+            "end": 90.465,
+            "confidence": 1.0,
+            "punctuated_word": "like"
+          },
+          {
+            "word": "a",
+            "start": 90.465,
+            "end": 90.69,
+            "confidence": 0.9970703,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "snowball",
+            "start": 90.850006,
+            "end": 91.350006,
+            "confidence": 1.0,
+            "punctuated_word": "snowball"
+          },
+          {
+            "word": "rolling",
+            "start": 91.490005,
+            "end": 91.89,
+            "confidence": 0.70410156,
+            "punctuated_word": "rolling"
+          },
+          {
+            "word": "down",
+            "start": 91.89,
+            "end": 92.130005,
+            "confidence": 1.0,
+            "punctuated_word": "down"
+          },
+          {
+            "word": "an",
+            "start": 92.130005,
+            "end": 92.37,
+            "confidence": 0.9921875,
+            "punctuated_word": "an"
+          },
+          {
+            "word": "endless",
+            "start": 92.37,
+            "end": 92.850006,
+            "confidence": 1.0,
+            "punctuated_word": "endless"
+          },
+          {
+            "word": "mountain",
+            "start": 92.850006,
+            "end": 93.350006,
+            "confidence": 0.9995117,
+            "punctuated_word": "mountain."
+          }
+        ],
+        "id": "ac6e9a96-4db9-490c-8ad1-42db443bd673"
+      },
+      {
+        "start": 93.73,
+        "end": 102.87,
+        "confidence": 0.99770325,
+        "channel": 0,
+        "transcript": "The math only explodes if you let the snowball roll for decades without stepping in front of it. That leads to the ultimate rule, room for error.",
+        "words": [
+          {
+            "word": "the",
+            "start": 93.73,
+            "end": 93.89,
+            "confidence": 1.0,
+            "punctuated_word": "The"
+          },
+          {
+            "word": "math",
+            "start": 93.89,
+            "end": 94.29,
+            "confidence": 1.0,
+            "punctuated_word": "math"
+          },
+          {
+            "word": "only",
+            "start": 94.29,
+            "end": 94.770004,
+            "confidence": 1.0,
+            "punctuated_word": "only"
+          },
+          {
+            "word": "explodes",
+            "start": 94.770004,
+            "end": 95.270004,
+            "confidence": 1.0,
+            "punctuated_word": "explodes"
+          },
+          {
+            "word": "if",
+            "start": 95.33,
+            "end": 95.490005,
+            "confidence": 0.99902344,
+            "punctuated_word": "if"
+          },
+          {
+            "word": "you",
+            "start": 95.490005,
+            "end": 95.65,
+            "confidence": 1.0,
+            "punctuated_word": "you"
+          },
+          {
+            "word": "let",
+            "start": 95.65,
+            "end": 95.97,
+            "confidence": 1.0,
+            "punctuated_word": "let"
+          },
+          {
+            "word": "the",
+            "start": 95.97,
+            "end": 96.130005,
+            "confidence": 1.0,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "snowball",
+            "start": 96.130005,
+            "end": 96.61,
+            "confidence": 0.99902344,
+            "punctuated_word": "snowball"
+          },
+          {
+            "word": "roll",
+            "start": 96.61,
+            "end": 96.850006,
+            "confidence": 0.9980469,
+            "punctuated_word": "roll"
+          },
+          {
+            "word": "for",
+            "start": 96.850006,
+            "end": 97.090004,
+            "confidence": 1.0,
+            "punctuated_word": "for"
+          },
+          {
+            "word": "decades",
+            "start": 97.090004,
+            "end": 97.590004,
+            "confidence": 1.0,
+            "punctuated_word": "decades"
+          },
+          {
+            "word": "without",
+            "start": 97.73,
+            "end": 98.21,
+            "confidence": 0.99902344,
+            "punctuated_word": "without"
+          },
+          {
+            "word": "stepping",
+            "start": 98.21,
+            "end": 98.61,
+            "confidence": 1.0,
+            "punctuated_word": "stepping"
+          },
+          {
+            "word": "in",
+            "start": 98.61,
+            "end": 98.69,
+            "confidence": 1.0,
+            "punctuated_word": "in"
+          },
+          {
+            "word": "front",
+            "start": 98.69,
+            "end": 99.01,
+            "confidence": 1.0,
+            "punctuated_word": "front"
+          },
+          {
+            "word": "of",
+            "start": 99.01,
+            "end": 99.17,
+            "confidence": 1.0,
+            "punctuated_word": "of"
+          },
+          {
+            "word": "it",
+            "start": 99.17,
+            "end": 99.65,
+            "confidence": 0.99560547,
+            "punctuated_word": "it."
+          },
+          {
+            "word": "that",
+            "start": 99.65,
+            "end": 99.89,
+            "confidence": 0.99902344,
+            "punctuated_word": "That"
+          },
+          {
+            "word": "leads",
+            "start": 99.89,
+            "end": 100.21,
+            "confidence": 1.0,
+            "punctuated_word": "leads"
+          },
+          {
+            "word": "to",
+            "start": 100.21,
+            "end": 100.37,
+            "confidence": 1.0,
+            "punctuated_word": "to"
+          },
+          {
+            "word": "the",
+            "start": 100.37,
+            "end": 100.53,
+            "confidence": 1.0,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "ultimate",
+            "start": 100.53,
+            "end": 101.03,
+            "confidence": 1.0,
+            "punctuated_word": "ultimate"
+          },
+          {
+            "word": "rule",
+            "start": 101.090004,
+            "end": 101.590004,
+            "confidence": 0.9482422,
+            "punctuated_word": "rule,"
+          },
+          {
+            "word": "room",
+            "start": 101.810005,
+            "end": 102.130005,
+            "confidence": 1.0,
+            "punctuated_word": "room"
+          },
+          {
+            "word": "for",
+            "start": 102.130005,
+            "end": 102.37,
+            "confidence": 1.0,
+            "punctuated_word": "for"
+          },
+          {
+            "word": "error",
+            "start": 102.37,
+            "end": 102.87,
+            "confidence": 1.0,
+            "punctuated_word": "error."
+          }
+        ],
+        "id": "8d8a8d99-c954-4ccf-a0e9-b9df44aaafb8"
+      },
+      {
+        "start": 103.485,
+        "end": 109.505005,
+        "confidence": 0.9930556,
+        "channel": 0,
+        "transcript": "The most important part of any financial plan is planning for your plan not going according to plan.",
+        "words": [
+          {
+            "word": "the",
+            "start": 103.485,
+            "end": 103.645004,
+            "confidence": 1.0,
+            "punctuated_word": "The"
+          },
+          {
+            "word": "most",
+            "start": 103.645004,
+            "end": 103.965004,
+            "confidence": 1.0,
+            "punctuated_word": "most"
+          },
+          {
+            "word": "important",
+            "start": 103.965004,
+            "end": 104.445,
+            "confidence": 1.0,
+            "punctuated_word": "important"
+          },
+          {
+            "word": "part",
+            "start": 104.445,
+            "end": 104.765,
+            "confidence": 1.0,
+            "punctuated_word": "part"
+          },
+          {
+            "word": "of",
+            "start": 104.765,
+            "end": 104.925,
+            "confidence": 1.0,
+            "punctuated_word": "of"
+          },
+          {
+            "word": "any",
+            "start": 104.925,
+            "end": 105.325005,
+            "confidence": 1.0,
+            "punctuated_word": "any"
+          },
+          {
+            "word": "financial",
+            "start": 105.325005,
+            "end": 105.805,
+            "confidence": 1.0,
+            "punctuated_word": "financial"
+          },
+          {
+            "word": "plan",
+            "start": 105.805,
+            "end": 106.205,
+            "confidence": 1.0,
+            "punctuated_word": "plan"
+          },
+          {
+            "word": "is",
+            "start": 106.205,
+            "end": 106.445,
+            "confidence": 1.0,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "planning",
+            "start": 106.445,
+            "end": 106.845,
+            "confidence": 1.0,
+            "punctuated_word": "planning"
+          },
+          {
+            "word": "for",
+            "start": 106.845,
+            "end": 107.085,
+            "confidence": 1.0,
+            "punctuated_word": "for"
+          },
+          {
+            "word": "your",
+            "start": 107.085,
+            "end": 107.325005,
+            "confidence": 1.0,
+            "punctuated_word": "your"
+          },
+          {
+            "word": "plan",
+            "start": 107.325005,
+            "end": 107.725006,
+            "confidence": 1.0,
+            "punctuated_word": "plan"
+          },
+          {
+            "word": "not",
+            "start": 107.725006,
+            "end": 108.045006,
+            "confidence": 0.875,
+            "punctuated_word": "not"
+          },
+          {
+            "word": "going",
+            "start": 108.045006,
+            "end": 108.365005,
+            "confidence": 1.0,
+            "punctuated_word": "going"
+          },
+          {
+            "word": "according",
+            "start": 108.365005,
+            "end": 108.765,
+            "confidence": 1.0,
+            "punctuated_word": "according"
+          },
+          {
+            "word": "to",
+            "start": 108.765,
+            "end": 109.005005,
+            "confidence": 1.0,
+            "punctuated_word": "to"
+          },
+          {
+            "word": "plan",
+            "start": 109.005005,
+            "end": 109.505005,
+            "confidence": 1.0,
+            "punctuated_word": "plan."
+          }
+        ],
+        "id": "2c78ff72-5a7f-4ec8-9e8d-aa9897169358"
+      },
+      {
+        "start": 110.205,
+        "end": 112.625,
+        "confidence": 0.99881417,
+        "channel": 0,
+        "transcript": "Survival is the only math that matters.",
+        "words": [
+          {
+            "word": "survival",
+            "start": 110.205,
+            "end": 110.705,
+            "confidence": 1.0,
+            "punctuated_word": "Survival"
+          },
+          {
+            "word": "is",
+            "start": 110.765,
+            "end": 110.925,
+            "confidence": 1.0,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "the",
+            "start": 110.925,
+            "end": 111.165,
+            "confidence": 1.0,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "only",
+            "start": 111.165,
+            "end": 111.485,
+            "confidence": 1.0,
+            "punctuated_word": "only"
+          },
+          {
+            "word": "math",
+            "start": 111.485,
+            "end": 111.805,
+            "confidence": 0.9921875,
+            "punctuated_word": "math"
+          },
+          {
+            "word": "that",
+            "start": 111.805,
+            "end": 112.125,
+            "confidence": 1.0,
+            "punctuated_word": "that"
+          },
+          {
+            "word": "matters",
+            "start": 112.125,
+            "end": 112.625,
+            "confidence": 0.9995117,
+            "punctuated_word": "matters."
+          }
+        ],
+        "id": "9629342c-58e6-452b-a990-f8e39639ccb6"
+      },
+      {
+        "start": 113.165,
+        "end": 115.95,
+        "confidence": 0.99004656,
+        "channel": 0,
+        "transcript": "If you risk what you need to chase what you do not need,",
+        "words": [
+          {
+            "word": "if",
+            "start": 113.165,
+            "end": 113.405,
+            "confidence": 1.0,
+            "punctuated_word": "If"
+          },
+          {
+            "word": "you",
+            "start": 113.405,
+            "end": 113.565,
+            "confidence": 1.0,
+            "punctuated_word": "you"
+          },
+          {
+            "word": "risk",
+            "start": 113.565,
+            "end": 113.885,
+            "confidence": 1.0,
+            "punctuated_word": "risk"
+          },
+          {
+            "word": "what",
+            "start": 113.885,
+            "end": 114.045006,
+            "confidence": 0.9980469,
+            "punctuated_word": "what"
+          },
+          {
+            "word": "you",
+            "start": 114.045006,
+            "end": 114.205,
+            "confidence": 1.0,
+            "punctuated_word": "you"
+          },
+          {
+            "word": "need",
+            "start": 114.205,
+            "end": 114.445,
+            "confidence": 1.0,
+            "punctuated_word": "need"
+          },
+          {
+            "word": "to",
+            "start": 114.445,
+            "end": 114.605,
+            "confidence": 0.9980469,
+            "punctuated_word": "to"
+          },
+          {
+            "word": "chase",
+            "start": 114.605,
+            "end": 114.925,
+            "confidence": 1.0,
+            "punctuated_word": "chase"
+          },
+          {
+            "word": "what",
+            "start": 114.925,
+            "end": 115.165,
+            "confidence": 0.8769531,
+            "punctuated_word": "what"
+          },
+          {
+            "word": "you",
+            "start": 115.165,
+            "end": 115.325005,
+            "confidence": 1.0,
+            "punctuated_word": "you"
+          },
+          {
+            "word": "do",
+            "start": 115.325005,
+            "end": 115.485,
+            "confidence": 1.0,
+            "punctuated_word": "do"
+          },
+          {
+            "word": "not",
+            "start": 115.485,
+            "end": 115.725006,
+            "confidence": 1.0,
+            "punctuated_word": "not"
+          },
+          {
+            "word": "need",
+            "start": 115.725006,
+            "end": 115.95,
+            "confidence": 0.9975586,
+            "punctuated_word": "need,"
+          }
+        ],
+        "id": "3e0ad8c3-6152-4d99-b4d8-35ed7c9f8e86"
+      },
+      {
+        "start": 116.59,
+        "end": 119.17,
+        "confidence": 0.9998779,
+        "channel": 0,
+        "transcript": "one bad crash will wipe you out completely.",
+        "words": [
+          {
+            "word": "one",
+            "start": 116.59,
+            "end": 116.909996,
+            "confidence": 1.0,
+            "punctuated_word": "one"
+          },
+          {
+            "word": "bad",
+            "start": 116.909996,
+            "end": 117.229996,
+            "confidence": 1.0,
+            "punctuated_word": "bad"
+          },
+          {
+            "word": "crash",
+            "start": 117.229996,
+            "end": 117.63,
+            "confidence": 0.99902344,
+            "punctuated_word": "crash"
+          },
+          {
+            "word": "will",
+            "start": 117.63,
+            "end": 117.869995,
+            "confidence": 1.0,
+            "punctuated_word": "will"
+          },
+          {
+            "word": "wipe",
+            "start": 117.869995,
+            "end": 118.189995,
+            "confidence": 1.0,
+            "punctuated_word": "wipe"
+          },
+          {
+            "word": "you",
+            "start": 118.189995,
+            "end": 118.35,
+            "confidence": 1.0,
+            "punctuated_word": "you"
+          },
+          {
+            "word": "out",
+            "start": 118.35,
+            "end": 118.67,
+            "confidence": 1.0,
+            "punctuated_word": "out"
+          },
+          {
+            "word": "completely",
+            "start": 118.67,
+            "end": 119.17,
+            "confidence": 1.0,
+            "punctuated_word": "completely."
+          }
+        ],
+        "id": "41837db7-3940-4172-b9a4-91bed9afba9c"
+      },
+      {
+        "start": 119.71,
+        "end": 120.21,
+        "confidence": 0.99853516,
+        "channel": 0,
+        "transcript": "Finally,",
+        "words": [
+          {
+            "word": "finally",
+            "start": 119.71,
+            "end": 120.21,
+            "confidence": 0.99853516,
+            "punctuated_word": "Finally,"
+          }
+        ],
+        "id": "d27b2219-a87f-4324-9198-88c3a6e0e515"
+      },
+      {
+        "start": 120.75,
+        "end": 122.689995,
+        "confidence": 0.9638672,
+        "channel": 0,
+        "transcript": "master the goalpost of enough.",
+        "words": [
+          {
+            "word": "master",
+            "start": 120.75,
+            "end": 121.229996,
+            "confidence": 0.99902344,
+            "punctuated_word": "master"
+          },
+          {
+            "word": "the",
+            "start": 121.229996,
+            "end": 121.39,
+            "confidence": 1.0,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "goalpost",
+            "start": 121.39,
+            "end": 121.89,
+            "confidence": 0.8208008,
+            "punctuated_word": "goalpost"
+          },
+          {
+            "word": "of",
+            "start": 121.95,
+            "end": 122.189995,
+            "confidence": 1.0,
+            "punctuated_word": "of"
+          },
+          {
+            "word": "enough",
+            "start": 122.189995,
+            "end": 122.689995,
+            "confidence": 0.9995117,
+            "punctuated_word": "enough."
+          }
+        ],
+        "id": "411ad08d-0ac6-47a1-87d4-cdc65d75762b"
+      },
+      {
+        "start": 123.229996,
+        "end": 129.33,
+        "confidence": 0.9994159,
+        "channel": 0,
+        "transcript": "If your expectations rise with every dollar you earn, you will run on a hedonic treadmill forever.",
+        "words": [
+          {
+            "word": "if",
+            "start": 123.229996,
+            "end": 123.39,
+            "confidence": 1.0,
+            "punctuated_word": "If"
+          },
+          {
+            "word": "your",
+            "start": 123.39,
+            "end": 123.71,
+            "confidence": 0.99902344,
+            "punctuated_word": "your"
+          },
+          {
+            "word": "expectations",
+            "start": 123.71,
+            "end": 124.21,
+            "confidence": 1.0,
+            "punctuated_word": "expectations"
+          },
+          {
+            "word": "rise",
+            "start": 124.509995,
+            "end": 124.829994,
+            "confidence": 0.99902344,
+            "punctuated_word": "rise"
+          },
+          {
+            "word": "with",
+            "start": 124.829994,
+            "end": 125.07,
+            "confidence": 1.0,
+            "punctuated_word": "with"
+          },
+          {
+            "word": "every",
+            "start": 125.07,
+            "end": 125.31,
+            "confidence": 1.0,
+            "punctuated_word": "every"
+          },
+          {
+            "word": "dollar",
+            "start": 125.31,
+            "end": 125.71,
+            "confidence": 1.0,
+            "punctuated_word": "dollar"
+          },
+          {
+            "word": "you",
+            "start": 125.71,
+            "end": 125.95,
+            "confidence": 1.0,
+            "punctuated_word": "you"
+          },
+          {
+            "word": "earn",
+            "start": 125.95,
+            "end": 126.45,
+            "confidence": 0.99853516,
+            "punctuated_word": "earn,"
+          },
+          {
+            "word": "you",
+            "start": 126.59,
+            "end": 126.75,
+            "confidence": 1.0,
+            "punctuated_word": "you"
+          },
+          {
+            "word": "will",
+            "start": 126.75,
+            "end": 126.99,
+            "confidence": 1.0,
+            "punctuated_word": "will"
+          },
+          {
+            "word": "run",
+            "start": 126.99,
+            "end": 127.229996,
+            "confidence": 1.0,
+            "punctuated_word": "run"
+          },
+          {
+            "word": "on",
+            "start": 127.229996,
+            "end": 127.46999,
+            "confidence": 1.0,
+            "punctuated_word": "on"
+          },
+          {
+            "word": "a",
+            "start": 127.46999,
+            "end": 127.549995,
+            "confidence": 0.9980469,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "hedonic",
+            "start": 127.549995,
+            "end": 128.04999,
+            "confidence": 0.9983724,
+            "punctuated_word": "hedonic"
+          },
+          {
+            "word": "treadmill",
+            "start": 128.19,
+            "end": 128.69,
+            "confidence": 1.0,
+            "punctuated_word": "treadmill"
+          },
+          {
+            "word": "forever",
+            "start": 128.83,
+            "end": 129.33,
+            "confidence": 0.9970703,
+            "punctuated_word": "forever."
+          }
+        ],
+        "id": "77a5a990-32bb-4817-86ba-0333f2558b4e"
+      },
+      {
+        "start": 130.27501,
+        "end": 133.975,
+        "confidence": 0.99902344,
+        "channel": 0,
+        "transcript": "True wealth is not buying luxury toys to impress strangers.",
+        "words": [
+          {
+            "word": "true",
+            "start": 130.27501,
+            "end": 130.515,
+            "confidence": 1.0,
+            "punctuated_word": "True"
+          },
+          {
+            "word": "wealth",
+            "start": 130.515,
+            "end": 130.99501,
+            "confidence": 0.9941406,
+            "punctuated_word": "wealth"
+          },
+          {
+            "word": "is",
+            "start": 130.99501,
+            "end": 131.235,
+            "confidence": 1.0,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "not",
+            "start": 131.235,
+            "end": 131.475,
+            "confidence": 1.0,
+            "punctuated_word": "not"
+          },
+          {
+            "word": "buying",
+            "start": 131.475,
+            "end": 131.795,
+            "confidence": 1.0,
+            "punctuated_word": "buying"
+          },
+          {
+            "word": "luxury",
+            "start": 131.795,
+            "end": 132.295,
+            "confidence": 1.0,
+            "punctuated_word": "luxury"
+          },
+          {
+            "word": "toys",
+            "start": 132.35501,
+            "end": 132.835,
+            "confidence": 1.0,
+            "punctuated_word": "toys"
+          },
+          {
+            "word": "to",
+            "start": 132.835,
+            "end": 132.99501,
+            "confidence": 1.0,
+            "punctuated_word": "to"
+          },
+          {
+            "word": "impress",
+            "start": 132.99501,
+            "end": 133.475,
+            "confidence": 1.0,
+            "punctuated_word": "impress"
+          },
+          {
+            "word": "strangers",
+            "start": 133.475,
+            "end": 133.975,
+            "confidence": 0.99609375,
+            "punctuated_word": "strangers."
+          }
+        ],
+        "id": "7a7c3704-b2bb-49c1-a2df-35e67a59711c"
+      },
+      {
+        "start": 134.835,
+        "end": 138.375,
+        "confidence": 0.9975789,
+        "channel": 0,
+        "transcript": "True wealth is the ability to wake up every morning and say,",
+        "words": [
+          {
+            "word": "true",
+            "start": 134.835,
+            "end": 135.155,
+            "confidence": 1.0,
+            "punctuated_word": "True"
+          },
+          {
+            "word": "wealth",
+            "start": 135.155,
+            "end": 135.475,
+            "confidence": 0.99902344,
+            "punctuated_word": "wealth"
+          },
+          {
+            "word": "is",
+            "start": 135.475,
+            "end": 135.63501,
+            "confidence": 1.0,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "the",
+            "start": 135.63501,
+            "end": 135.795,
+            "confidence": 1.0,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "ability",
+            "start": 135.795,
+            "end": 136.27501,
+            "confidence": 1.0,
+            "punctuated_word": "ability"
+          },
+          {
+            "word": "to",
+            "start": 136.27501,
+            "end": 136.435,
+            "confidence": 1.0,
+            "punctuated_word": "to"
+          },
+          {
+            "word": "wake",
+            "start": 136.435,
+            "end": 136.675,
+            "confidence": 1.0,
+            "punctuated_word": "wake"
+          },
+          {
+            "word": "up",
+            "start": 136.675,
+            "end": 136.91501,
+            "confidence": 1.0,
+            "punctuated_word": "up"
+          },
+          {
+            "word": "every",
+            "start": 136.91501,
+            "end": 137.235,
+            "confidence": 1.0,
+            "punctuated_word": "every"
+          },
+          {
+            "word": "morning",
+            "start": 137.235,
+            "end": 137.63501,
+            "confidence": 1.0,
+            "punctuated_word": "morning"
+          },
+          {
+            "word": "and",
+            "start": 137.63501,
+            "end": 137.875,
+            "confidence": 0.9951172,
+            "punctuated_word": "and"
+          },
+          {
+            "word": "say",
+            "start": 137.875,
+            "end": 138.375,
+            "confidence": 0.97680664,
+            "punctuated_word": "say,"
+          }
+        ],
+        "id": "21f4b401-70b3-4359-a481-3a2b5794a97a"
+      },
+      {
+        "start": 138.675,
+        "end": 144.99,
+        "confidence": 0.96253026,
+        "channel": 0,
+        "transcript": "I can do whatever I want today with whoever I want for as long as I want. So tell me below.",
+        "words": [
+          {
+            "word": "i",
+            "start": 138.675,
+            "end": 138.835,
+            "confidence": 1.0,
+            "punctuated_word": "I"
+          },
+          {
+            "word": "can",
+            "start": 138.835,
+            "end": 139.075,
+            "confidence": 1.0,
+            "punctuated_word": "can"
+          },
+          {
+            "word": "do",
+            "start": 139.075,
+            "end": 139.315,
+            "confidence": 1.0,
+            "punctuated_word": "do"
+          },
+          {
+            "word": "whatever",
+            "start": 139.315,
+            "end": 139.795,
+            "confidence": 1.0,
+            "punctuated_word": "whatever"
+          },
+          {
+            "word": "i",
+            "start": 139.795,
+            "end": 139.955,
+            "confidence": 1.0,
+            "punctuated_word": "I"
+          },
+          {
+            "word": "want",
+            "start": 139.955,
+            "end": 140.195,
+            "confidence": 1.0,
+            "punctuated_word": "want"
+          },
+          {
+            "word": "today",
+            "start": 140.195,
+            "end": 140.695,
+            "confidence": 0.99902344,
+            "punctuated_word": "today"
+          },
+          {
+            "word": "with",
+            "start": 140.91501,
+            "end": 141.155,
+            "confidence": 0.640625,
+            "punctuated_word": "with"
+          },
+          {
+            "word": "whoever",
+            "start": 141.155,
+            "end": 141.63501,
+            "confidence": 1.0,
+            "punctuated_word": "whoever"
+          },
+          {
+            "word": "i",
+            "start": 141.63501,
+            "end": 141.795,
+            "confidence": 1.0,
+            "punctuated_word": "I"
+          },
+          {
+            "word": "want",
+            "start": 141.795,
+            "end": 142.27501,
+            "confidence": 1.0,
+            "punctuated_word": "want"
+          },
+          {
+            "word": "for",
+            "start": 142.27501,
+            "end": 142.515,
+            "confidence": 0.92089844,
+            "punctuated_word": "for"
+          },
+          {
+            "word": "as",
+            "start": 142.515,
+            "end": 142.755,
+            "confidence": 1.0,
+            "punctuated_word": "as"
+          },
+          {
+            "word": "long",
+            "start": 142.755,
+            "end": 142.99501,
+            "confidence": 1.0,
+            "punctuated_word": "long"
+          },
+          {
+            "word": "as",
+            "start": 142.99501,
+            "end": 143.235,
+            "confidence": 1.0,
+            "punctuated_word": "as"
+          },
+          {
+            "word": "i",
+            "start": 143.235,
+            "end": 143.395,
+            "confidence": 1.0,
+            "punctuated_word": "I"
+          },
+          {
+            "word": "want",
+            "start": 143.395,
+            "end": 143.85,
+            "confidence": 0.9995117,
+            "punctuated_word": "want."
+          },
+          {
+            "word": "so",
+            "start": 143.93001,
+            "end": 144.01001,
+            "confidence": 0.90478516,
+            "punctuated_word": "So"
+          },
+          {
+            "word": "tell",
+            "start": 144.01001,
+            "end": 144.33,
+            "confidence": 1.0,
+            "punctuated_word": "tell"
+          },
+          {
+            "word": "me",
+            "start": 144.33,
+            "end": 144.49,
+            "confidence": 1.0,
+            "punctuated_word": "me"
+          },
+          {
+            "word": "below",
+            "start": 144.49,
+            "end": 144.99,
+            "confidence": 0.748291,
+            "punctuated_word": "below."
+          }
+        ],
+        "id": "004573a2-8dbe-4c3d-8429-3a308f89bb53"
+      },
+      {
+        "start": 145.37001,
+        "end": 147.21,
+        "confidence": 1.0,
+        "channel": 0,
+        "transcript": "Would you rather have $10,000,000",
+        "words": [
+          {
+            "word": "would",
+            "start": 145.37001,
+            "end": 145.61,
+            "confidence": 1.0,
+            "punctuated_word": "Would"
+          },
+          {
+            "word": "you",
+            "start": 145.61,
+            "end": 145.77,
+            "confidence": 1.0,
+            "punctuated_word": "you"
+          },
+          {
+            "word": "rather",
+            "start": 145.77,
+            "end": 146.09001,
+            "confidence": 1.0,
+            "punctuated_word": "rather"
+          },
+          {
+            "word": "have",
+            "start": 146.09001,
+            "end": 146.33,
+            "confidence": 1.0,
+            "punctuated_word": "have"
+          },
+          {
+            "word": "$10,000,000",
+            "start": 146.33,
+            "end": 147.21,
+            "confidence": 1.0,
+            "punctuated_word": "$10,000,000"
+          }
+        ],
+        "id": "2767d120-790b-44f9-80e7-e880ea349331"
+      },
+      {
+        "start": 147.21,
+        "end": 152.57,
+        "confidence": 0.959933,
+        "channel": 0,
+        "transcript": "in the bank but work ninety hours a week for a brutal boss, or have $100,000",
+        "words": [
+          {
+            "word": "in",
+            "start": 147.21,
+            "end": 147.37001,
+            "confidence": 1.0,
+            "punctuated_word": "in"
+          },
+          {
+            "word": "the",
+            "start": 147.37001,
+            "end": 147.53,
+            "confidence": 1.0,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "bank",
+            "start": 147.53,
+            "end": 147.85,
+            "confidence": 1.0,
+            "punctuated_word": "bank"
+          },
+          {
+            "word": "but",
+            "start": 147.85,
+            "end": 148.09001,
+            "confidence": 0.6254883,
+            "punctuated_word": "but"
+          },
+          {
+            "word": "work",
+            "start": 148.09001,
+            "end": 148.33,
+            "confidence": 1.0,
+            "punctuated_word": "work"
+          },
+          {
+            "word": "ninety",
+            "start": 148.33,
+            "end": 148.73001,
+            "confidence": 1.0,
+            "punctuated_word": "ninety"
+          },
+          {
+            "word": "hours",
+            "start": 148.73001,
+            "end": 148.97,
+            "confidence": 1.0,
+            "punctuated_word": "hours"
+          },
+          {
+            "word": "a",
+            "start": 148.97,
+            "end": 149.05,
+            "confidence": 1.0,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "week",
+            "start": 149.05,
+            "end": 149.29001,
+            "confidence": 1.0,
+            "punctuated_word": "week"
+          },
+          {
+            "word": "for",
+            "start": 149.29001,
+            "end": 149.45001,
+            "confidence": 1.0,
+            "punctuated_word": "for"
+          },
+          {
+            "word": "a",
+            "start": 149.45001,
+            "end": 149.61,
+            "confidence": 1.0,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "brutal",
+            "start": 149.61,
+            "end": 150.01001,
+            "confidence": 0.99902344,
+            "punctuated_word": "brutal"
+          },
+          {
+            "word": "boss",
+            "start": 150.01001,
+            "end": 150.51001,
+            "confidence": 0.7352295,
+            "punctuated_word": "boss,"
+          },
+          {
+            "word": "or",
+            "start": 150.73001,
+            "end": 150.97,
+            "confidence": 1.0,
+            "punctuated_word": "or"
+          },
+          {
+            "word": "have",
+            "start": 150.97,
+            "end": 151.29001,
+            "confidence": 1.0,
+            "punctuated_word": "have"
+          },
+          {
+            "word": "$100,000",
+            "start": 151.29001,
+            "end": 152.57,
+            "confidence": 0.99918616,
+            "punctuated_word": "$100,000"
+          }
+        ],
+        "id": "b3a80f8d-6c71-4afc-9372-fc9b617a971a"
+      },
+      {
+        "start": 152.57,
+        "end": 154.65594,
+        "confidence": 0.99365234,
+        "channel": 0,
+        "transcript": "but own every single second of your time?",
+        "words": [
+          {
+            "word": "but",
+            "start": 152.57,
+            "end": 152.73001,
+            "confidence": 0.9536133,
+            "punctuated_word": "but"
+          },
+          {
+            "word": "own",
+            "start": 152.73001,
+            "end": 153.05,
+            "confidence": 0.9970703,
+            "punctuated_word": "own"
+          },
+          {
+            "word": "every",
+            "start": 153.05,
+            "end": 153.29001,
+            "confidence": 1.0,
+            "punctuated_word": "every"
+          },
+          {
+            "word": "single",
+            "start": 153.29001,
+            "end": 153.61,
+            "confidence": 1.0,
+            "punctuated_word": "single"
+          },
+          {
+            "word": "second",
+            "start": 153.61,
+            "end": 153.93001,
+            "confidence": 1.0,
+            "punctuated_word": "second"
+          },
+          {
+            "word": "of",
+            "start": 153.93001,
+            "end": 154.09001,
+            "confidence": 1.0,
+            "punctuated_word": "of"
+          },
+          {
+            "word": "your",
+            "start": 154.09001,
+            "end": 154.25,
+            "confidence": 1.0,
+            "punctuated_word": "your"
+          },
+          {
+            "word": "time",
+            "start": 154.25,
+            "end": 154.65594,
+            "confidence": 0.99853516,
+            "punctuated_word": "time?"
+          }
+        ],
+        "id": "c094f7f6-9328-47db-9c3a-6b6e6a3f39a2"
+      }
+    ]
+  }
+}

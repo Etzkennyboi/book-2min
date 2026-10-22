@@ -1,0 +1,1260 @@
+
+=================================================================================== [SCENE_01] | Target File: scene_01.jpg | Duration: 3.46s ===
+Script: "The psychology of money by Morgan Housel in two minutes."
+
+PROMPT:
+[SCENE_01] Generate a 9:16 vertical cover/opening illustration for 'The Psychology of Money' by Morgan Housel in the signature @sticklit webcomic style on a pure white (#FFFFFF) background.
+
+CRITICAL MANDATE - ZERO TILT & ZERO NECK BENDING:
+The book must stand PERFECTLY CENTERED, 100% upright, flat-facing the camera, level and straight. The title text MUST be 100% horizontal and effortlessly readable with zero tilt!
+
+1. Centered Book (Centerpiece):
+   - A colossal hardcover book planted squarely in the center of the frame, 100% upright and level.
+   - Dark navy-blue and gold hardcover with bold horizontal gold embossed title:
+     "THE PSYCHOLOGY OF MONEY"
+     "MORGAN HOUSEL"
+   - Subtle glowing golden electric sparks crackle around the book perimeter.
+
+2. Protagonist Duo in Money Power Stances:
+   - LEFT: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky black hair, charcoal t-shirt #3A3A3C, grey pants #8E8E93, black boots, confident knowing 4th-wall smirk, one hand in pocket).
+   - RIGHT: Maya (Girl stick figure, circular head with flat warm natural skin tone, high spiky black ponytail with bangs, charcoal t-shirt #3A3A3C, grey pants #8E8E93, black boots, clever analytical wink and smile, hand on hip).
+   - FLOOR: Stacks of gold coins and subtle comic floor-weight impact lines.
+
+3. Top Comic Header:
+   - Centered near top edge: subtle outline watermark '@sticklit'.
+   - Just below watermark, bold handwritten comic header:
+     "The Psychology of Money"
+     "Morgan Housel"
+     "in two minutes"
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_01]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_02] | Target File: scene_02.jpg | Duration: 4.08s ===
+Script: "Most people believe getting rich is about finance formulas, spreadsheets,"
+
+PROMPT:
+[SCENE_02] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "Most people believe getting rich is about finance formulas, spreadsheets,"
+- Visual Directing: Kai sweating comically under a torrential downpour of confusing math formulas, green Excel spreadsheets, and complex calculus symbols.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_02]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_03] | Target File: scene_03.jpg | Duration: 1.36s ===
+Script: "and being a genius."
+
+PROMPT:
+[SCENE_03] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "and being a genius."
+- Visual Directing: Stick figure wearing a comically oversized graduation cap and 5 pairs of spectacles, glowing lightbulb brain smoking from overload.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_03]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_04] | Target File: scene_04.jpg | Duration: 2.64s ===
+Script: "In reality, money is not a science."
+
+PROMPT:
+[SCENE_04] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "In reality, money is not a science."
+- Visual Directing: Maya coolly knocking over a bubbling chemistry beaker labeled 'Financial Science Formula', shattering it cleanly into cartoon glass shards.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_04]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_05] | Target File: scene_05.jpg | Duration: 1.84s ===
+Script: "It is a psychological mirror."
+
+PROMPT:
+[SCENE_05] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "It is a psychological mirror."
+- Visual Directing: Kai looking into a giant ornate antique standing mirror, seeing his inner mind split into a green greed goblin vs a trembling blue fear stickman.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_05]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_06] | Target File: scene_06.jpg | Duration: 2.48s ===
+Script: "Ronald Read was an ordinary janitor"
+
+PROMPT:
+[SCENE_06] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "Ronald Read was an ordinary janitor"
+- Visual Directing: Ronald Read as a humble stickman in blue denim overalls, whistling cheerfully while sweeping a gas station forecourt with a wooden broom.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_06]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_07] | Target File: scene_07.jpg | Duration: 3.44s ===
+Script: "who quietly saved modest wages into index funds."
+
+PROMPT:
+[SCENE_07] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "who quietly saved modest wages into index funds."
+- Visual Directing: Ronald dropping a single silver coin into a transparent glass jar labeled 'Index Fund', glowing with subtle compounding green light.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_07]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_08] | Target File: scene_08.jpg | Duration: 3.60s ===
+Script: "When he died, he left behind $8,000,000."
+
+PROMPT:
+[SCENE_08] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "When he died, he left behind $8,000,000."
+- Visual Directing: Dramatic reveal: A massive steel bank vault swinging open to reveal towering pyramids of gold bullion and $8,000,000 cash; Kai and Maya gasping in awe.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_08]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_09] | Target File: scene_09.jpg | Duration: 5.04s ===
+Script: "Meanwhile, Richard Fuscone was a Harvard educated Wall Street executive"
+
+PROMPT:
+[SCENE_09] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "Meanwhile, Richard Fuscone was a Harvard educated Wall Street executive"
+- Visual Directing: Richard Fuscone in a crisp sharp pinstripe suit, holding a glowing crimson Harvard diploma, standing haughtily on a Wall Street trading podium.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_09]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_10] | Target File: scene_10.jpg | Duration: 1.44s ===
+Script: "who borrowed heavily,"
+
+PROMPT:
+[SCENE_10] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "who borrowed heavily,"
+- Visual Directing: Richard balancing on a dangerously tall, wobbling leaning tower of borrowed bank promissory notes and red debt IOU slips.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_10]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_11] | Target File: scene_11.jpg | Duration: 1.36s ===
+Script: "built a mansion,"
+
+PROMPT:
+[SCENE_11] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "built a mansion,"
+- Visual Directing: Richard boasting in front of a ridiculous, palatial 11-bedroom mega-mansion with dual swimming pools and golden lion statues.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_11]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_12] | Target File: scene_12.jpg | Duration: 1.81s ===
+Script: "and went completely bankrupt."
+
+PROMPT:
+[SCENE_12] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "and went completely bankrupt."
+- Visual Directing: Explosive shockwave! A 2008 financial tsunami crashes over the mansion, leaving Richard in tattered rags holding an upside-down empty piggy bank.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_12]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_13] | Target File: scene_13.jpg | Duration: 3.28s ===
+Script: "Financial success is not about what you know."
+
+PROMPT:
+[SCENE_13] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "Financial success is not about what you know."
+- Visual Directing: A towering stack of thick Harvard finance textbooks being effortlessly toppled by a feather-light behavioral habit.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_13]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_14] | Target File: scene_14.jpg | Duration: 1.84s ===
+Script: "It is about how you behave."
+
+PROMPT:
+[SCENE_14] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "It is about how you behave."
+- Visual Directing: Kai and Maya standing steadfast, arms folded with grounded calm determination like ancient oak trees while market storms rage past them.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_14]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_15] | Target File: scene_15.jpg | Duration: 2.96s ===
+Script: "First, beware the man in the car paradox."
+
+PROMPT:
+[SCENE_15] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "First, beware the man in the car paradox."
+- Visual Directing: Maya pointing with an analytical smirk to a bold neon road warning sign depicting a sleek sports car silhouette with a caution badge.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_15]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_16] | Target File: scene_16.jpg | Duration: 2.48s ===
+Script: "When you see someone driving a Ferrari,"
+
+PROMPT:
+[SCENE_16] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "When you see someone driving a Ferrari,"
+- Visual Directing: A gleaming crimson-red Ferrari 488 spider zooming down a city boulevard at breakneck speed, leaving dynamic cartoon speed lines and tire smoke.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_16]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_17] | Target File: scene_17.jpg | Duration: 3.92s ===
+Script: "you almost never think, wow. Look at that driver."
+
+PROMPT:
+[SCENE_17] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "you almost never think, wow. Look at that driver."
+- Visual Directing: Close-up of the Ferrari driver in dark designer sunglasses, completely ignored by the pedestrians who don't even glance at his face.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_17]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_18] | Target File: scene_18.jpg | Duration: 4.46s ===
+Script: "You think, if I had that car, everyone would admire me."
+
+PROMPT:
+[SCENE_18] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "You think, if I had that car, everyone would admire me."
+- Visual Directing: A sidewalk stickman lost in a giant comic daydream bubble where HE is at the steering wheel, imagining crowds cheering and throwing confetti.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_18]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_19] | Target File: scene_19.jpg | Duration: 3.52s ===
+Script: "Here is the paradox. Nobody is looking at you."
+
+PROMPT:
+[SCENE_19] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "Here is the paradox. Nobody is looking at you."
+- Visual Directing: Perspective shift: The crowd turns their backs entirely on the Ferrari, staring at their own phone screens and personal daydreams.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_19]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_20] | Target File: scene_20.jpg | Duration: 2.00s ===
+Script: "They are only imagining themselves."
+
+PROMPT:
+[SCENE_20] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "They are only imagining themselves."
+- Visual Directing: Three stick figures walking side by side, each with their own comic thought bubble starring themselves as king of the world.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_20]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_21] | Target File: scene_21.jpg | Duration: 3.04s ===
+Script: "Rich is current income and spent money."
+
+PROMPT:
+[SCENE_21] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "Rich is current income and spent money."
+- Visual Directing: A flashy stickman lighting a cigar with a burning $100 bill, tossing stacks of paper money into the air with reckless abandon.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_21]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_22] | Target File: scene_22.jpg | Duration: 5.32s ===
+Script: "Fast cars, luxury watches, and massive mortgages."
+
+PROMPT:
+[SCENE_22] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "Fast cars, luxury watches, and massive mortgages."
+- Visual Directing: A stick figure weighed down comically by a colossal diamond Rolex on one wrist and dragging a massive 3-story suburban house chained to his waist.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_22]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_23] | Target File: scene_23.jpg | Duration: 2.00s ===
+Script: "Wealth is what you do not see."
+
+PROMPT:
+[SCENE_23] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "Wealth is what you do not see."
+- Visual Directing: A quiet, unassuming subterranean concrete vault door hidden behind a bookshelf, solid, silent, and completely unpretentious.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_23]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_24] | Target File: scene_24.jpg | Duration: 3.44s ===
+Script: "It is unspent cash, financial options,"
+
+PROMPT:
+[SCENE_24] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "It is unspent cash, financial options,"
+- Visual Directing: Kai unlocking the secret steel vault door, illuminating neatly stacked green cash bundles that branch into three open golden doorways of life choices.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_24]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_25] | Target File: scene_25.jpg | Duration: 3.22s ===
+Script: "and the quiet freedom to say no."
+
+PROMPT:
+[SCENE_25] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "and the quiet freedom to say no."
+- Visual Directing: Maya serenely holding up a firm stop palm, calmly declining an angry red-faced corporate boss yelling across a boardroom table.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_25]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_26] | Target File: scene_26.jpg | Duration: 3.33s ===
+Script: "Second, understand confounding compounding."
+
+PROMPT:
+[SCENE_26] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "Second, understand confounding compounding."
+- Visual Directing: Kai and Maya standing at the base of a colossal golden exponential curve chart that curves gently at first, then shoots vertically through the clouds.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_26]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_27] | Target File: scene_27.jpg | Duration: 3.28s ===
+Script: "Warren Buffett is famous as the world's greatest investor,"
+
+PROMPT:
+[SCENE_27] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "Warren Buffett is famous as the world's greatest investor,"
+- Visual Directing: A friendly caricature stick figure of Warren Buffett holding an Omaha burger and cherry coke, surrounded by Wall Street stock ticker tapes.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_27]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_28] | Target File: scene_28.jpg | Duration: 3.46s ===
+Script: "but his real superpower is not intelligence."
+
+PROMPT:
+[SCENE_28] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "but his real superpower is not intelligence."
+- Visual Directing: A glowing lightbulb brain placed beside a giant golden pocket watch—the watch emits blinding celestial rays that outshine the brain.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_28]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_29] | Target File: scene_29.jpg | Duration: 1.90s ===
+Script: "It is time."
+
+PROMPT:
+[SCENE_29] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "It is time."
+- Visual Directing: A colossal ornate hourglass with golden sand flowing steadily, bending clock dials and calendar sheets around its gravitational pull.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_29]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_30] | Target File: scene_30.jpg | Duration: 2.98s ===
+Script: "Over 99% of his wealth was accumulated"
+
+PROMPT:
+[SCENE_30] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "Over 99% of his wealth was accumulated"
+- Visual Directing: A giant circular pie chart where a tiny 1% silver sliver is dwarfed by a colossal 99% glowing golden mountain.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_30]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_31] | Target File: scene_31.jpg | Duration: 3.17s ===
+Script: "after his 50 birthday."
+
+PROMPT:
+[SCENE_31] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "after his 50 birthday."
+- Visual Directing: An older stickman with grey temples blowing out 56 birthday candles, suddenly showered in an explosive cartoon geyser of gold coins and deeds.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_31]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_32] | Target File: scene_32.jpg | Duration: 3.36s ===
+Script: "Compounding works like a snowball rolling down an endless mountain."
+
+PROMPT:
+[SCENE_32] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "Compounding works like a snowball rolling down an endless mountain."
+- Visual Directing: A tiny, cute white snowball rolling gently down the high peak of a steep snowy alpine slope, gathering loose snow as it turns.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_32]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_33] | Target File: scene_33.jpg | Duration: 1.12s ===
+Script: "The math only explodes"
+
+PROMPT:
+[SCENE_33] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "The math only explodes"
+- Visual Directing: Mid-mountain: The snowball has grown into an unstoppable 4-story giant boulder of snow and gold coins, rumbling with sonic boom lines!
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_33]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_34] | Target File: scene_34.jpg | Duration: 0.98s ===
+Script: "if you let the snowball roll for decades"
+
+PROMPT:
+[SCENE_34] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "if you let the snowball roll for decades"
+- Visual Directing: Timeline milestone flags (Year 10, Year 20, Year 30, Year 40) as the colossal snowball roars past each marker exponentially bigger.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_34]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_35] | Target File: scene_35.jpg | Duration: 2.06s ===
+Script: "without stepping in front of it."
+
+PROMPT:
+[SCENE_35] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "without stepping in front of it."
+- Visual Directing: Slapstick comedy: An impatient stickman stepping out with a tiny tennis racket to stop the giant boulder, getting flattened like a cartoon pancake!
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_35]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_36] | Target File: scene_36.jpg | Duration: 3.22s ===
+Script: "That leads to the ultimate rule, room for error."
+
+PROMPT:
+[SCENE_36] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "That leads to the ultimate rule, room for error."
+- Visual Directing: Kai walking calmly across a suspension bridge that is reinforced with 5 heavy steel safety cables and a triple-layer safety net underneath.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_36]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_37] | Target File: scene_37.jpg | Duration: 3.33s ===
+Script: "The most important part of any financial plan"
+
+PROMPT:
+[SCENE_37] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "The most important part of any financial plan"
+- Visual Directing: Maya carefully examining an intricate architectural blueprint labeled 'FINANCIAL PLAN A' on a drafting table.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_37]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_38] | Target File: scene_38.jpg | Duration: 3.30s ===
+Script: "is planning for your plan not going according to plan."
+
+PROMPT:
+[SCENE_38] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "is planning for your plan not going according to plan."
+- Visual Directing: A sudden cartoon lightning bolt chars 'PLAN A' in half, but Maya calmly unfolds a glowing titanium reinforced 'PLAN B' with a knowing smirk.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_38]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_39] | Target File: scene_39.jpg | Duration: 3.12s ===
+Script: "Survival is the only math that matters."
+
+PROMPT:
+[SCENE_39] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "Survival is the only math that matters."
+- Visual Directing: A ferocious market storm with swirling hurricane winds; while flimsy stick figures get blown away, Kai is anchored deep into bedrock with heavy iron chains.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_39]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_40] | Target File: scene_40.jpg | Duration: 3.33s ===
+Script: "If you risk what you need to chase what you do not need,"
+
+PROMPT:
+[SCENE_40] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "If you risk what you need to chase what you do not need,"
+- Visual Directing: A greedy stick figure standing on a razor-thin dry branch over a bottomless chasm, stretching precariously to grab an unnecessary shiny golden watch.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_40]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_41] | Target File: scene_41.jpg | Duration: 3.22s ===
+Script: "one bad crash will wipe you out completely."
+
+PROMPT:
+[SCENE_41] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "one bad crash will wipe you out completely."
+- Visual Directing: CRACK! The branch snaps cleanly, sending the greedy figure plummeting into the misty abyss with comical flailing stick limbs and speed lines!
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_41]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_42] | Target File: scene_42.jpg | Duration: 3.52s ===
+Script: "Finally, master the goalpost of enough."
+
+PROMPT:
+[SCENE_42] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "Finally, master the goalpost of enough."
+- Visual Directing: Kai firmly planting heavy steel soccer goalposts into wet concrete, locking them down with thick chains and padlocks labeled 'ENOUGH'.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_42]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_43] | Target File: scene_43.jpg | Duration: 3.76s ===
+Script: "If your expectations rise with every dollar you earn,"
+
+PROMPT:
+[SCENE_43] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "If your expectations rise with every dollar you earn,"
+- Visual Directing: A stick figure collecting a bag of cash, and instantly his pupils turn into spinning dollar signs as two more expensive luxury cravings pop into his head.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_43]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_44] | Target File: scene_44.jpg | Duration: 2.88s ===
+Script: "you will run on a hedonic treadmill forever."
+
+PROMPT:
+[SCENE_44] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "you will run on a hedonic treadmill forever."
+- Visual Directing: A frantic stick figure sprinting on a smoking, motorized gym treadmill that is speeding up relentlessly, desperately reaching for a dangling gold coin.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_44]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_45] | Target File: scene_45.jpg | Duration: 4.64s ===
+Script: "True wealth is not buying luxury toys to impress strangers."
+
+PROMPT:
+[SCENE_45] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "True wealth is not buying luxury toys to impress strangers."
+- Visual Directing: A pompous stick figure standing atop three stacked sports cars holding a golden megaphone, but passersby walk past reading books and ignoring him completely.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_45]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_46] | Target File: scene_46.jpg | Duration: 4.40s ===
+Script: "True wealth is the ability to wake up every morning and say,"
+
+PROMPT:
+[SCENE_46] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "True wealth is the ability to wake up every morning and say,"
+- Visual Directing: Kai waking up peacefully in a sun-drenched minimalist bedroom, stretching leisurely without any alarm clock, breathing in fresh morning air.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_46]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_47] | Target File: scene_47.jpg | Duration: 2.32s ===
+Script: "I can do whatever I want today"
+
+PROMPT:
+[SCENE_47] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "I can do whatever I want today"
+- Visual Directing: Maya standing atop a scenic grassy hillside with arms outstretched toward the morning sun, total unhurried freedom radiating from her posture.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_47]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_48] | Target File: scene_48.jpg | Duration: 3.15s ===
+Script: "with whoever I want for as long as I want."
+
+PROMPT:
+[SCENE_48] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "with whoever I want for as long as I want."
+- Visual Directing: Kai and Maya walking together down a golden sunset beach trail, laughing without watches or phones, perfectly content in the present moment.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_48]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_49] | Target File: scene_49.jpg | Duration: 1.14s ===
+Script: "So tell me below."
+
+PROMPT:
+[SCENE_49] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style for 'The Psychology of Money'.
+
+Scene Narrative:
+- Script: "So tell me below."
+- Visual Directing: Kai and Maya leaning forward toward the camera, breaking the 4th wall, pointing down with engaging, friendly, inviting expressions.
+
+Staging & Details:
+- Clear primary focal punchline with expressive 2D stickman acting.
+- Pure white background, high-contrast black ink lines, flat clean color fills.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_49]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+
+
+
+=== [SCENE_50] | Target File: scene_50.jpg | Duration: 9.67s ===
+Script: "Would you rather have $10,000,000 in the bank but work ninety hours a week for a brutal boss, or have $100,000 but own every single second of your time?"
+
+PROMPT:
+[SCENE_50] Generate a 9:16 vertical cartoon illustration in the viral @sticklit webcomic style featuring a single cohesive horizontal split-screen visual for the final question dilemma of 'The Psychology of Money'.
+
+Layout & Composition:
+- Single cohesive 9:16 vertical image cleanly divided horizontally with a central circular '(VS)' badge:
+  - TOP PANEL: Bleak grey office, stressed stickman chained to desk under paperwork with an angry red-faced boss shouting through a megaphone, late-night clock. Gold bar chained to ankle.
+  - BOTTOM PANEL: Warm sunny tropical porch, serene stickman in colorful hammock under palm tree, reading a book and sipping lemonade, smiley calendar, 100% time freedom.
+- Central circular '(VS)' badge placed directly on the dividing line.
+- Top: Subtle outline watermark '@sticklit' centered near top edge.
+
+Visual & Style Specifications:
+- Tag & Identifier: [SCENE_50]
+- Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+

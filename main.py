@@ -193,7 +193,7 @@ def cmd_pipeline(args):
 
     # Step 2: Speech Alignment
     align_path = OUTPUT_DIR / "pipeline_timestamps.json"
-    align_data = align_speech(vo_path, align_path)
+    align_data = align_speech(vo_path, align_path, script_text=text)
     duration = align_data["duration"]
 
     # Step 3: Subtitles
@@ -215,7 +215,7 @@ def cmd_pipeline(args):
         output_video_path=out_video
     )
 
-    print(f"\n🎉 ALL STEPS COMPLETED!")
+    print("\n[SUCCESS] ALL STEPS COMPLETED!")
     print(f"Final Master Video ready at: {out_video.resolve()}")
 
 
@@ -235,7 +235,7 @@ def main():
     # Subcommand: voiceover
     p_vo = subparsers.add_parser("voiceover", help="Generate voiceover speech")
     p_vo.add_argument("--script", required=True, help="Path to script text file")
-    p_vo.add_argument("--provider", default="deepgram", choices=["deepgram", "edge"], help="TTS provider")
+    p_vo.add_argument("--provider", default="windows", choices=["deepgram", "edge", "windows"], help="TTS provider")
     p_vo.add_argument("--deepgram-key", help="Deepgram API key override")
     p_vo.add_argument("--output", help="Output MP3 file path")
     p_vo.set_defaults(func=cmd_voiceover)
@@ -276,7 +276,7 @@ def main():
     p_pipe.add_argument("--book", default="Rich Dad Poor Dad", help="Book title")
     p_pipe.add_argument("--images-dir", required=True, help="Folder containing ordered scene images")
     p_pipe.add_argument("--script", required=True, help="Script text file")
-    p_pipe.add_argument("--provider", default="deepgram", choices=["deepgram", "edge"], help="TTS provider")
+    p_pipe.add_argument("--provider", default="windows", choices=["deepgram", "edge", "windows"], help="TTS provider")
     p_pipe.add_argument("--deepgram-key", help="Deepgram API key override")
     p_pipe.add_argument("--output", help="Output MP4 path")
     p_pipe.set_defaults(func=cmd_pipeline)

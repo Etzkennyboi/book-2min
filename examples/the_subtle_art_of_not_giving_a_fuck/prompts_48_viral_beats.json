@@ -1,0 +1,486 @@
+{
+  "total_beats": 48,
+  "aspect_ratio": "9:16",
+  "beats": [
+    {
+      "beat_number": 1,
+      "filename": "beat_01.png",
+      "start_time": 0.0,
+      "end_time": 2.96,
+      "duration": 2.96,
+      "spoken_text": "You are not exhausted because your life is hard.",
+      "scene_action": "THE 3 AM EXHAUSTION: High emotional relatability. A stickman sits slumped on the edge of a simple wooden bed at 3 AM. His posture is deeply hunched, shoulders sagging, hands hanging limp between his knees. Dark weary circles under his eyes, sighing heavily with motion lines. A small cartoon moon and clock showing 3:00 float softly in the crisp white background.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. THE 3 AM EXHAUSTION: High emotional relatability. A stickman sits slumped on the edge of a simple wooden bed at 3 AM. His posture is deeply hunched, shoulders sagging, hands hanging limp between his knees. Dark weary circles under his eyes, sighing heavily with motion lines. A small cartoon moon and clock showing 3:00 float softly in the crisp white background."
+    },
+    {
+      "beat_number": 2,
+      "filename": "beat_02.png",
+      "start_time": 2.96,
+      "end_time": 7.36,
+      "duration": 4.4,
+      "spoken_text": "You are exhausted because you care about too many useless things.",
+      "scene_action": "HOOK SCENE WITH BOOK COVER: The stickman stands at a sharp fork in a desert sand path, scratching his messy spiky hair in deep existential confusion. To his left, a golden curved treadmill surrounded by floating dollar bills; to his right, a steep rugged black mountain trail climbing toward a smiling yellow cartoon sun. In the bottom-right corner rests a crisp, bright orange book cover with bold black block letters: 'THE SUBTLE ART OF NOT GIVING A F*CK by Mark Manson' with clean drop shadow. Top center reads: 'Why You Care Too Much'.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. HOOK SCENE WITH BOOK COVER: The stickman stands at a sharp fork in a desert sand path, scratching his messy spiky hair in deep existential confusion. To his left, a golden curved treadmill surrounded by floating dollar bills; to his right, a steep rugged black mountain trail climbing toward a smiling yellow cartoon sun. In the bottom-right corner rests a crisp, bright orange book cover with bold black block letters: 'THE SUBTLE ART OF NOT GIVING A F*CK by Mark Manson' with clean drop shadow. Top center reads: 'Why You Care Too Much'."
+    },
+    {
+      "beat_number": 3,
+      "filename": "beat_03.png",
+      "start_time": 7.36,
+      "end_time": 11.12,
+      "duration": 3.76,
+      "spoken_text": "Every single day society bombards you with one relentless",
+      "scene_action": "SOCIETY'S MEGAPHONE BOMBARDMENT: The stickman is pinned to the floor in the center, hands shielding his face in visceral sensory overload. Looming over him are giant menacing billboard towers with aggressive electric-cyan and crimson glowing slogans: 'BE RICHER', 'LOOK BETTER', 'BUY MORE'. Blaring loudspeaker megaphones beam red soundwaves down at his head, sweat drops flying.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. SOCIETY'S MEGAPHONE BOMBARDMENT: The stickman is pinned to the floor in the center, hands shielding his face in visceral sensory overload. Looming over him are giant menacing billboard towers with aggressive electric-cyan and crimson glowing slogans: 'BE RICHER', 'LOOK BETTER', 'BUY MORE'. Blaring loudspeaker megaphones beam red soundwaves down at his head, sweat drops flying."
+    },
+    {
+      "beat_number": 4,
+      "filename": "beat_04.png",
+      "start_time": 11.12,
+      "end_time": 12.24,
+      "duration": 1.12,
+      "spoken_text": "toxic lie,",
+      "scene_action": "THE GREED TRAP (BE RICHER): A panicked stickman is perched precariously on top of an insanely tall, wobbling pyramid of gold coins that is teetering on the verge of collapsing. Gold coins are slipping beneath his trembling feet. His eyes are wide with terrified paranoia as he desperately juggles floating dollar signs, unable to enjoy a single cent. Bold text above: 'THE GREED TRAP'.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. THE GREED TRAP (BE RICHER): A panicked stickman is perched precariously on top of an insanely tall, wobbling pyramid of gold coins that is teetering on the verge of collapsing. Gold coins are slipping beneath his trembling feet. His eyes are wide with terrified paranoia as he desperately juggles floating dollar signs, unable to enjoy a single cent. Bold text above: 'THE GREED TRAP'."
+    },
+    {
+      "beat_number": 5,
+      "filename": "beat_05.png",
+      "start_time": 12.24,
+      "end_time": 13.12,
+      "duration": 0.88,
+      "spoken_text": "be richer,",
+      "scene_action": "THE FAKE SMILE MASK (BE HAPPIER): High emotional pathos. The stickman stands slumped in front of a mirror with bruised weary eyes and an exhausted frown. With trembling hands, he straps a giant, garish yellow ceramic smiley face mask over his real face with visible brown duct tape, faking joy while his soul is drained.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. THE FAKE SMILE MASK (BE HAPPIER): High emotional pathos. The stickman stands slumped in front of a mirror with bruised weary eyes and an exhausted frown. With trembling hands, he straps a giant, garish yellow ceramic smiley face mask over his real face with visible brown duct tape, faking joy while his soul is drained."
+    },
+    {
+      "beat_number": 6,
+      "filename": "beat_06.png",
+      "start_time": 13.12,
+      "end_time": 14.16,
+      "duration": 1.04,
+      "spoken_text": "be happier,",
+      "scene_action": "TOXIC POSITIVITY STRAIN (BE PERFECT): The stickman is forced into an aggressive double thumbs-up pose with a manic gritted-teeth smile. Blinding neon electric-yellow sparkles and giant cartoon badges labeled 'GOOD VIBES ONLY' buzz violently around his head, while his eye twitches in agonizing comic tension.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. TOXIC POSITIVITY STRAIN (BE PERFECT): The stickman is forced into an aggressive double thumbs-up pose with a manic gritted-teeth smile. Blinding neon electric-yellow sparkles and giant cartoon badges labeled 'GOOD VIBES ONLY' buzz violently around his head, while his eye twitches in agonizing comic tension."
+    },
+    {
+      "beat_number": 7,
+      "filename": "beat_07.png",
+      "start_time": 14.16,
+      "end_time": 21.52,
+      "duration": 7.36,
+      "spoken_text": "be perfect. But Mark Manson uncovered a brutal psychological paradox that conventional self help hides",
+      "scene_action": "UNVEILING THE FORBIDDEN PARADOX: The stickman rips open a heavy dark curtain in the center of the frame, revealing an ancient stone monument inscribed with glowing crimson text: 'THE BACKWARDS LAW'. Dramatic cinematic side-lighting illuminates his awestruck face as dust particles float in the air.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. UNVEILING THE FORBIDDEN PARADOX: The stickman rips open a heavy dark curtain in the center of the frame, revealing an ancient stone monument inscribed with glowing crimson text: 'THE BACKWARDS LAW'. Dramatic cinematic side-lighting illuminates his awestruck face as dust particles float in the air."
+    },
+    {
+      "beat_number": 8,
+      "filename": "beat_08.png",
+      "start_time": 21.52,
+      "end_time": 27.8,
+      "duration": 6.28,
+      "spoken_text": "from you. The desire for more positive experience is itself a negative experience.",
+      "scene_action": "CHASING THE GOLDEN BUTTERFLY MIRAGE: The stickman is sprinting furiously on a hot desert treadmill, tongue dangling out in utter dehydration, reaching forward with desperate scraped hands toward a radiant golden butterfly that flutters just two inches beyond his fingertips. The faster he runs, the hotter the floor burns.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. CHASING THE GOLDEN BUTTERFLY MIRAGE: The stickman is sprinting furiously on a hot desert treadmill, tongue dangling out in utter dehydration, reaching forward with desperate scraped hands toward a radiant golden butterfly that flutters just two inches beyond his fingertips. The faster he runs, the hotter the floor burns."
+    },
+    {
+      "beat_number": 9,
+      "filename": "beat_09.png",
+      "start_time": 27.8,
+      "end_time": 33.4,
+      "duration": 5.6,
+      "spoken_text": "And the acceptance of one's negative experience is itself a positive experience. The",
+      "scene_action": "RADICAL ACCEPTANCE IN THE RAIN: High emotional contrast. A violent downpour of dark rain lashes the scene, but the stickman stands completely serene beneath a sturdy emerald-green umbrella. His eyes are gently closed with a peaceful, knowing smile, hands tucked comfortably in his pockets as raindrops bounce harmlessly off the canvas into a flowering green cactus.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. RADICAL ACCEPTANCE IN THE RAIN: High emotional contrast. A violent downpour of dark rain lashes the scene, but the stickman stands completely serene beneath a sturdy emerald-green umbrella. His eyes are gently closed with a peaceful, knowing smile, hands tucked comfortably in his pockets as raindrops bounce harmlessly off the canvas into a flowering green cactus."
+    },
+    {
+      "beat_number": 10,
+      "filename": "beat_10.png",
+      "start_time": 33.4,
+      "end_time": 38.44,
+      "duration": 5.04,
+      "spoken_text": "harder you desperately chase feeling good, the more inadequate you feel, and",
+      "scene_action": "DROWNING IN FAKE HAPPINESS: The stickman is submerged waist-deep in a bottomless quicksand pit filled with thousands of glowing, hollow plastic smiley faces. His arms are stretched upward desperately as the plastic smiles suffocate and pull him downward.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. DROWNING IN FAKE HAPPINESS: The stickman is submerged waist-deep in a bottomless quicksand pit filled with thousands of glowing, hollow plastic smiley faces. His arms are stretched upward desperately as the plastic smiles suffocate and pull him downward."
+    },
+    {
+      "beat_number": 11,
+      "filename": "beat_11.png",
+      "start_time": 38.44,
+      "end_time": 41.64,
+      "duration": 3.2,
+      "spoken_text": "then you slip into the feedback loop from hell. You",
+      "scene_action": "THE FEEDBACK LOOP FROM HELL: Dramatic cinematic metaphor. The stickman is trapped at the dead center of a roaring circular ouroboros vortex made of searing crimson fire and thick black looping arrows labeled 'ANXIETY' -> 'PANIC' -> 'GUILT' -> 'SHAME'. Jagged red exclamation points explode in an infinite loop around him as he screams with his hands on his face.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. THE FEEDBACK LOOP FROM HELL: Dramatic cinematic metaphor. The stickman is trapped at the dead center of a roaring circular ouroboros vortex made of searing crimson fire and thick black looping arrows labeled 'ANXIETY' -> 'PANIC' -> 'GUILT' -> 'SHAME'. Jagged red exclamation points explode in an infinite loop around him as he screams with his hands on his face."
+    },
+    {
+      "beat_number": 12,
+      "filename": "beat_12.png",
+      "start_time": 41.64,
+      "end_time": 46.45,
+      "duration": 4.81,
+      "spoken_text": "get anxious, and then you get anxious about being anxious. You",
+      "scene_action": "ANXIOUS ABOUT BEING ANXIOUS: The stickman is huddled on a cold stone bench with his head clutched between white-knuckled hands. Floating in an escalating orbit around him are four translucent phantom clones of himself, each biting their nails with wide bloodshot cartoon eyes, whispering spiraling thoughts directly into his ears.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. ANXIOUS ABOUT BEING ANXIOUS: The stickman is huddled on a cold stone bench with his head clutched between white-knuckled hands. Floating in an escalating orbit around him are four translucent phantom clones of himself, each biting their nails with wide bloodshot cartoon eyes, whispering spiraling thoughts directly into his ears."
+    },
+    {
+      "beat_number": 13,
+      "filename": "beat_13.png",
+      "start_time": 46.45,
+      "end_time": 50.8,
+      "duration": 4.35,
+      "spoken_text": "feel guilty, and then you hate yourself for feeling guilty. Conventional",
+      "scene_action": "GUILTY ABOUT FEELING GUILTY: The stickman is crushed flat against the stark white floor beneath the immense gravitational weight of a massive jagged black iron boulder strapped to his spine, with chains dragging in the dust. Dark shadow cracks radiate outward across the floor as he groans in suffocating self-blame.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. GUILTY ABOUT FEELING GUILTY: The stickman is crushed flat against the stark white floor beneath the immense gravitational weight of a massive jagged black iron boulder strapped to his spine, with chains dragging in the dust. Dark shadow cracks radiate outward across the floor as he groans in suffocating self-blame."
+    },
+    {
+      "beat_number": 14,
+      "filename": "beat_14.png",
+      "start_time": 50.8,
+      "end_time": 55.92,
+      "duration": 5.12,
+      "spoken_text": "self help tells you to look in the mirror and shout fake affirmations.",
+      "scene_action": "SCREAMING AFFIRMATIONS INTO THE MIRROR: The stickman stands in an exaggerated martial arts power stance inches away from an ornate gold-framed mirror, veins bulging on his throat, screaming affirmations ('I AM A CHAMPION!') so violently that spit particles fly and his reflection\u2019s hair is blown backward by the shockwave.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. SCREAMING AFFIRMATIONS INTO THE MIRROR: The stickman stands in an exaggerated martial arts power stance inches away from an ornate gold-framed mirror, veins bulging on his throat, screaming affirmations ('I AM A CHAMPION!') so violently that spit particles fly and his reflection\u2019s hair is blown backward by the shockwave."
+    },
+    {
+      "beat_number": 15,
+      "filename": "beat_15.png",
+      "start_time": 55.92,
+      "end_time": 59.41,
+      "duration": 3.49,
+      "spoken_text": "To believe you are entitled to a frictionless life. This",
+      "scene_action": "THE ENTITLEMENT THRONE: The stickman sits pompously on a wobbly tower of soggy cardboard boxes, wearing an absurdly crooked oversized golden paper burger crown. He has his arms crossed with an offended pout, snapping his fingers and expecting red velvet carpets to unroll beneath his feet.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. THE ENTITLEMENT THRONE: The stickman sits pompously on a wobbly tower of soggy cardboard boxes, wearing an absurdly crooked oversized golden paper burger crown. He has his arms crossed with an offended pout, snapping his fingers and expecting red velvet carpets to unroll beneath his feet."
+    },
+    {
+      "beat_number": 16,
+      "filename": "beat_16.png",
+      "start_time": 59.41,
+      "end_time": 62.13,
+      "duration": 2.72,
+      "spoken_text": "path is a trap. Wait, not",
+      "scene_action": "THE RED CARPET TRAPDOOR: Wide dramatic shot. A glossy red carpet pathway leads straight toward a bottomless black pitfall lined with razor-sharp black stone spikes. Above the pit hangs a giant swinging cartoon guillotine blade labeled 'DISAPPOINTMENT'. The stickman's shoe is hovering inches over the edge.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. THE RED CARPET TRAPDOOR: Wide dramatic shot. A glossy red carpet pathway leads straight toward a bottomless black pitfall lined with razor-sharp black stone spikes. Above the pit hangs a giant swinging cartoon guillotine blade labeled 'DISAPPOINTMENT'. The stickman's shoe is hovering inches over the edge."
+    },
+    {
+      "beat_number": 17,
+      "filename": "beat_17.png",
+      "start_time": 62.13,
+      "end_time": 66.13,
+      "duration": 4.0,
+      "spoken_text": "giving a fuck does not mean being indifferent or callous. A",
+      "scene_action": "THE MID-VIDEO REHOOK (WAIT!): A giant red 'HALT / CAUTION' barrier slams down between the viewer and the stickman. The stickman steps through with an assertive, serious gaze, holding up one hand to stop the viewer. Contrasted beside him is an icy blue stone statue with dead hollow eyes, showing what apathy actually looks like.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. THE MID-VIDEO REHOOK (WAIT!): A giant red 'HALT / CAUTION' barrier slams down between the viewer and the stickman. The stickman steps through with an assertive, serious gaze, holding up one hand to stop the viewer. Contrasted beside him is an icy blue stone statue with dead hollow eyes, showing what apathy actually looks like."
+    },
+    {
+      "beat_number": 18,
+      "filename": "beat_18.png",
+      "start_time": 66.13,
+      "end_time": 69.73,
+      "duration": 3.6,
+      "spoken_text": "person who is indifferent is just terrified of the world. Not",
+      "scene_action": "THE BUNKER COWARD: A pathetic, shivering stick figure is curled up inside a dark grey reinforced concrete bunker wrapped in thick steel chains and padlocks. He peeks out of a tiny slit with gigantic, trembling cartoon eyes, terrified of a gentle sunny breeze and singing birds in the outside world.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. THE BUNKER COWARD: A pathetic, shivering stick figure is curled up inside a dark grey reinforced concrete bunker wrapped in thick steel chains and padlocks. He peeks out of a tiny slit with gigantic, trembling cartoon eyes, terrified of a gentle sunny breeze and singing birds in the outside world."
+    },
+    {
+      "beat_number": 19,
+      "filename": "beat_19.png",
+      "start_time": 69.73,
+      "end_time": 73.42,
+      "duration": 3.69,
+      "spoken_text": "giving a fuck means being comfortable with being different. It",
+      "scene_action": "WALKING AGAINST THE HERD: An entire gray army of identical, faceless stick figures march in mindless unison toward the left into a dull fog. In vivid contrast, our protagonist with messy black hair and a vibrant terracotta shirt walks with relaxed stride and confident posture to the right, totally unbothered by their stares.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. WALKING AGAINST THE HERD: An entire gray army of identical, faceless stick figures march in mindless unison toward the left into a dull fog. In vivid contrast, our protagonist with messy black hair and a vibrant terracotta shirt walks with relaxed stride and confident posture to the right, totally unbothered by their stares."
+    },
+    {
+      "beat_number": 20,
+      "filename": "beat_20.png",
+      "start_time": 73.42,
+      "end_time": 77.26,
+      "duration": 3.84,
+      "spoken_text": "means realizing that your fucks are strictly finite. Every morning",
+      "scene_action": "THE FINITE FUCKS JAR: Close-up on the stickman holding a heavy crystal jar labeled 'FUCKS TO GIVE'. Through the transparent glass, only THREE glowing, radiant golden coins remain at the very bottom. He gazes at the coins with solemn, guarded reverence, knowing once they're spent, they're gone forever.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. THE FINITE FUCKS JAR: Close-up on the stickman holding a heavy crystal jar labeled 'FUCKS TO GIVE'. Through the transparent glass, only THREE glowing, radiant golden coins remain at the very bottom. He gazes at the coins with solemn, guarded reverence, knowing once they're spent, they're gone forever."
+    },
+    {
+      "beat_number": 21,
+      "filename": "beat_21.png",
+      "start_time": 77.26,
+      "end_time": 80.86,
+      "duration": 3.6,
+      "spoken_text": "you wake up with only a few golden coins to spend. If",
+      "scene_action": "THE MORNING GOLDEN BUDGET: The stickman wakes up in a sunlit room, sitting peacefully on his bed. Floating gently in his open palm are the three glowing golden tokens, glowing with pristine warm light under the fresh morning sunrise.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. THE MORNING GOLDEN BUDGET: The stickman wakes up in a sunlit room, sitting peacefully on his bed. Floating gently in his open palm are the three glowing golden tokens, glowing with pristine warm light under the fresh morning sunrise."
+    },
+    {
+      "beat_number": 22,
+      "filename": "beat_22.png",
+      "start_time": 80.86,
+      "end_time": 84.06,
+      "duration": 3.2,
+      "spoken_text": "you waste them screaming at slow wifi, raging",
+      "scene_action": "SCREAMING AT SLOW WI-FI: Comedic relatable rage. The stickman violently shakes a smoking black internet router emitting red spark flashes and a frozen 99% loading spinner. Veins throb on his forehead, his hair stands on end, and steam whistles from his cartoon ears.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. SCREAMING AT SLOW WI-FI: Comedic relatable rage. The stickman violently shakes a smoking black internet router emitting red spark flashes and a frozen 99% loading spinner. Veins throb on his forehead, his hair stands on end, and steam whistles from his cartoon ears."
+    },
+    {
+      "beat_number": 23,
+      "filename": "beat_23.png",
+      "start_time": 84.06,
+      "end_time": 86.22,
+      "duration": 2.16,
+      "spoken_text": "at a rude barista, or obsessing",
+      "scene_action": "RAGING AT A RUDE BARISTA: A scowling, grumpy barista with crossed arms and an apron aggressively slams a ceramic mug of hot coffee onto the wooden counter, splashing brown coffee onto the counter with an explosive splash starburst.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. RAGING AT A RUDE BARISTA: A scowling, grumpy barista with crossed arms and an apron aggressively slams a ceramic mug of hot coffee onto the wooden counter, splashing brown coffee onto the counter with an explosive splash starburst."
+    },
+    {
+      "beat_number": 24,
+      "filename": "beat_24.png",
+      "start_time": 86.22,
+      "end_time": 88.5,
+      "duration": 2.28,
+      "spoken_text": "over what strangers think of you, you run",
+      "scene_action": "OBSESSING OVER OPINIONS: Dark lurking silhouettes in the background whispering with sharp black gossip speech bubbles that shoot tiny harmless dart arrows toward the stickman, which bounce off his invisible barrier and shatter into dust on the floor.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. OBSESSING OVER OPINIONS: Dark lurking silhouettes in the background whispering with sharp black gossip speech bubbles that shoot tiny harmless dart arrows toward the stickman, which bounce off his invisible barrier and shatter into dust on the floor."
+    },
+    {
+      "beat_number": 25,
+      "filename": "beat_25.png",
+      "start_time": 88.5,
+      "end_time": 92.42,
+      "duration": 3.92,
+      "spoken_text": "out of fucks for what actually matters, your health, your real",
+      "scene_action": "THE EMPTY JAR HEARTBREAK: Visceral emotional gut-punch. The stickman drops to his knees staring in despair at his shattered glass jar, completely empty with zero golden coins. In the blurred background, an unfinished oil painting, an unread book, and a crying partner sit ignored in the shadows.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. THE EMPTY JAR HEARTBREAK: Visceral emotional gut-punch. The stickman drops to his knees staring in despair at his shattered glass jar, completely empty with zero golden coins. In the blurred background, an unfinished oil painting, an unread book, and a crying partner sit ignored in the shadows."
+    },
+    {
+      "beat_number": 26,
+      "filename": "beat_26.png",
+      "start_time": 92.42,
+      "end_time": 94.9,
+      "duration": 2.48,
+      "spoken_text": "dreams, and the people you love. It all",
+      "scene_action": "WHAT ACTUALLY MATTERS: High emotional warmth. The stickman stands in a warm golden room holding the hand of a loved one, a clean sketchbook open on a desk, and running shoes by the door. A serene, tender smile replaces all the anxiety.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. WHAT ACTUALLY MATTERS: High emotional warmth. The stickman stands in a warm golden room holding the hand of a loved one, a clean sketchbook open on a desk, and running shoes by the door. A serene, tender smile replaces all the anxiety."
+    },
+    {
+      "beat_number": 27,
+      "filename": "beat_27.png",
+      "start_time": 94.9,
+      "end_time": 97.14,
+      "duration": 2.24,
+      "spoken_text": "comes down to values. Bad values",
+      "scene_action": "IT ALL COMES DOWN TO VALUES: Grand compositional framing. The stickman stands at the foot of two towering stone monuments carved into desert bedrock: the left arch is cracked crumbling sandstone labeled 'BAD VALUES'; the right arch is polished emerald-green granite labeled 'GOOD VALUES'.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. IT ALL COMES DOWN TO VALUES: Grand compositional framing. The stickman stands at the foot of two towering stone monuments carved into desert bedrock: the left arch is cracked crumbling sandstone labeled 'BAD VALUES'; the right arch is polished emerald-green granite labeled 'GOOD VALUES'."
+    },
+    {
+      "beat_number": 28,
+      "filename": "beat_28.png",
+      "start_time": 97.14,
+      "end_time": 101.3,
+      "duration": 4.16,
+      "spoken_text": "are external and uncontrollable, constant pleasure, material",
+      "scene_action": "CATCHING SLIPPERY SMOKE: The stickman desperately tries to wrap his arms around swirling black smoke clouds and falling desert sand that effortlessly slip through his open fingers, leaving his hands dirty and empty. Symbol of uncontrollable external values.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. CATCHING SLIPPERY SMOKE: The stickman desperately tries to wrap his arms around swirling black smoke clouds and falling desert sand that effortlessly slip through his open fingers, leaving his hands dirty and empty. Symbol of uncontrollable external values."
+    },
+    {
+      "beat_number": 29,
+      "filename": "beat_29.png",
+      "start_time": 101.3,
+      "end_time": 102.1,
+      "duration": 0.8,
+      "spoken_text": "status, and",
+      "scene_action": "CONSTANT PLEASURE (BURNOUT): The stickman is melted like liquid into a greasy beanbag chair, surrounded by piles of discarded junk food wrappers, energy drink cans, and a blinding blue smartphone screen. His eyes are glazed, totally numb, dead inside from endless dopamine chasing.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. CONSTANT PLEASURE (BURNOUT): The stickman is melted like liquid into a greasy beanbag chair, surrounded by piles of discarded junk food wrappers, energy drink cans, and a blinding blue smartphone screen. His eyes are glazed, totally numb, dead inside from endless dopamine chasing."
+    },
+    {
+      "beat_number": 30,
+      "filename": "beat_30.png",
+      "start_time": 102.1,
+      "end_time": 102.82,
+      "duration": 0.72,
+      "spoken_text": "always having",
+      "scene_action": "MATERIAL STATUS (CRACKED CAR): A vain stick figure wearing oversized sunglasses poses smugly against a flashy red supercar, but a huge jagged fracture runs down the entire vehicle, exposing hollow cardboard and duct tape inside.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. MATERIAL STATUS (CRACKED CAR): A vain stick figure wearing oversized sunglasses poses smugly against a flashy red supercar, but a huge jagged fracture runs down the entire vehicle, exposing hollow cardboard and duct tape inside."
+    },
+    {
+      "beat_number": 31,
+      "filename": "beat_31.png",
+      "start_time": 102.82,
+      "end_time": 105.19,
+      "duration": 2.37,
+      "spoken_text": "to be right. Good values are internal",
+      "scene_action": "ALWAYS HAVING TO BE RIGHT: A red-faced stick figure shouts violently through a megaphone behind a wooden podium, pointing an angry accusatory finger into an empty void while all his former friends walk away into the distance, leaving him utterly alone.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. ALWAYS HAVING TO BE RIGHT: A red-faced stick figure shouts violently through a megaphone behind a wooden podium, pointing an angry accusatory finger into an empty void while all his former friends walk away into the distance, leaving him utterly alone."
+    },
+    {
+      "beat_number": 32,
+      "filename": "beat_32.png",
+      "start_time": 105.19,
+      "end_time": 110.4,
+      "duration": 5.21,
+      "spoken_text": "and controllable, honesty, humility, curiosity, and self",
+      "scene_action": "THE UNBREAKABLE EMERALD PILLAR: The stickman stands calm and composed with his back resting against a massive emerald-green pillar rooted hundreds of feet into bedrock. Fierce windstorms and dust whirlwinds blow violently around him, but the pillar and the stickman do not budge a single millimeter.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. THE UNBREAKABLE EMERALD PILLAR: The stickman stands calm and composed with his back resting against a massive emerald-green pillar rooted hundreds of feet into bedrock. Fierce windstorms and dust whirlwinds blow violently around him, but the pillar and the stickman do not budge a single millimeter."
+    },
+    {
+      "beat_number": 33,
+      "filename": "beat_33.png",
+      "start_time": 110.4,
+      "end_time": 112.0,
+      "duration": 1.6,
+      "spoken_text": "respect. So stop",
+      "scene_action": "HONESTY AND HUMILITY: Two stick figures sit across a simple wooden table sharing hot steaming tea. Both have their palms resting open on the table, looking directly into each other's eyes with warm, relaxed smiles of mutual trust and zero pretension.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. HONESTY AND HUMILITY: Two stick figures sit across a simple wooden table sharing hot steaming tea. Both have their palms resting open on the table, looking directly into each other's eyes with warm, relaxed smiles of mutual trust and zero pretension."
+    },
+    {
+      "beat_number": 34,
+      "filename": "beat_34.png",
+      "start_time": 112.0,
+      "end_time": 114.23,
+      "duration": 2.23,
+      "spoken_text": "asking what success you want.",
+      "scene_action": "CURIOSITY AND SELF-RESPECT: Nighttime aesthetic on white canvas. The stickman gazes with childlike wonder through an antique brass telescope pointed up at a cluster of brilliant golden stars, holding an open notebook with quiet inner pride.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. CURIOSITY AND SELF-RESPECT: Nighttime aesthetic on white canvas. The stickman gazes with childlike wonder through an antique brass telescope pointed up at a cluster of brilliant golden stars, holding an open notebook with quiet inner pride."
+    },
+    {
+      "beat_number": 35,
+      "filename": "beat_35.png",
+      "start_time": 114.23,
+      "end_time": 115.83,
+      "duration": 1.6,
+      "spoken_text": "Ask what pain you are willing to",
+      "scene_action": "PUSHING ASIDE THE HOLLOW TROPHY: With a firm, decisive hand, the stickman shoves a glittering golden trophy off a pedestal, watching it smash to pieces on the floor, while his eyes lock onto a heavy craftsman hammer and workbench.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. PUSHING ASIDE THE HOLLOW TROPHY: With a firm, decisive hand, the stickman shoves a glittering golden trophy off a pedestal, watching it smash to pieces on the floor, while his eyes lock onto a heavy craftsman hammer and workbench."
+    },
+    {
+      "beat_number": 36,
+      "filename": "beat_36.png",
+      "start_time": 115.83,
+      "end_time": 119.21,
+      "duration": 3.38,
+      "spoken_text": "fight for. Because happiness is not a finish line",
+      "scene_action": "WHAT PAIN WILL YOU FIGHT FOR? (HIKING BOOTS): Close-up on the stickman kneeling on red dirt rock, vigorously pulling the leather laces tight on heavy mud-caked hiking boots. Sleeves rolled up, beads of honest sweat on his brow, looking up at a menacing rocky mountain peak with a fierce, hungry grin.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. WHAT PAIN WILL YOU FIGHT FOR? (HIKING BOOTS): Close-up on the stickman kneeling on red dirt rock, vigorously pulling the leather laces tight on heavy mud-caked hiking boots. Sleeves rolled up, beads of honest sweat on his brow, looking up at a menacing rocky mountain peak with a fierce, hungry grin."
+    },
+    {
+      "beat_number": 37,
+      "filename": "beat_37.png",
+      "start_time": 119.21,
+      "end_time": 124.01,
+      "duration": 4.8,
+      "spoken_text": "you cross once. Happiness is the joy of solving problems.",
+      "scene_action": "ERASING THE COMPLEX FORMULA: A giant classroom blackboard covered in crazy, impossible math equations and stress formulas is being violently wiped clean with a giant wet sponge by the stickman, leaving pure, peaceful black slate.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. ERASING THE COMPLEX FORMULA: A giant classroom blackboard covered in crazy, impossible math equations and stress formulas is being violently wiped clean with a giant wet sponge by the stickman, leaving pure, peaceful black slate."
+    },
+    {
+      "beat_number": 38,
+      "filename": "beat_38.png",
+      "start_time": 124.01,
+      "end_time": 126.65,
+      "duration": 2.64,
+      "spoken_text": "When you upgrade your values, you upgrade the",
+      "scene_action": "HAPPINESS IS SOLVING PROBLEMS (WRENCH): The stickman wipes his brow with a greasy cloth, holding a heavy cartoon pipe wrench with a victorious beam. Behind him, clean sparkling blue water flows smoothly from a once-burst pipe into a lush blooming desert garden.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. HAPPINESS IS SOLVING PROBLEMS (WRENCH): The stickman wipes his brow with a greasy cloth, holding a heavy cartoon pipe wrench with a victorious beam. Behind him, clean sparkling blue water flows smoothly from a once-burst pipe into a lush blooming desert garden."
+    },
+    {
+      "beat_number": 39,
+      "filename": "beat_39.png",
+      "start_time": 126.65,
+      "end_time": 130.49,
+      "duration": 3.84,
+      "spoken_text": "quality of your problems. And when you feel completely paralyzed",
+      "scene_action": "UPGRADING YOUR PROBLEMS: Split vertical screen. Top half shows stick figures having a hysterical, screaming brawl over a dropped piece of candy; bottom half shows a focused stickman team sweating together to raise the heavy timber roof beam of a community shelter.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. UPGRADING YOUR PROBLEMS: Split vertical screen. Top half shows stick figures having a hysterical, screaming brawl over a dropped piece of candy; bottom half shows a focused stickman team sweating together to raise the heavy timber roof beam of a community shelter."
+    },
+    {
+      "beat_number": 40,
+      "filename": "beat_40.png",
+      "start_time": 130.49,
+      "end_time": 135.0,
+      "duration": 4.51,
+      "spoken_text": "by overthinking, remember the do something principle. Action is not",
+      "scene_action": "PARALYSIS BY OVERTHINKING: The stickman is stuck waist-deep in thick gray quicksand, arms trembling with analysis paralysis. Floating above his head is a golden clockwork mechanism with three interlocking gears: [ACTION] -> [INSPIRATION] -> [MOTIVATION].",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. PARALYSIS BY OVERTHINKING: The stickman is stuck waist-deep in thick gray quicksand, arms trembling with analysis paralysis. Floating above his head is a golden clockwork mechanism with three interlocking gears: [ACTION] -> [INSPIRATION] -> [MOTIVATION]."
+    },
+    {
+      "beat_number": 41,
+      "filename": "beat_41.png",
+      "start_time": 135.0,
+      "end_time": 137.56,
+      "duration": 2.56,
+      "spoken_text": "just the result of motivation. Action",
+      "scene_action": "THE DO SOMETHING EMBLEM: The stickman reaches out of the mud and taps the first gear labeled [ACTION]. The golden gear begins to turn with a satisfying kinetic click, setting the entire mechanism into motion.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. THE DO SOMETHING EMBLEM: The stickman reaches out of the mud and taps the first gear labeled [ACTION]. The golden gear begins to turn with a satisfying kinetic click, setting the entire mechanism into motion."
+    },
+    {
+      "beat_number": 42,
+      "filename": "beat_42.png",
+      "start_time": 137.56,
+      "end_time": 140.28,
+      "duration": 2.72,
+      "spoken_text": "is the cause of it. Do something small,",
+      "scene_action": "THE COBWEB BENCH: A tragic stick figure sits frozen on a wooden park bench, arms limp, completely covered in thick spiderwebs and dust, staring at the sky waiting for a mythical lightning bolt of inspiration that will never come.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. THE COBWEB BENCH: A tragic stick figure sits frozen on a wooden park bench, arms limp, completely covered in thick spiderwebs and dust, staring at the sky waiting for a mythical lightning bolt of inspiration that will never come."
+    },
+    {
+      "beat_number": 43,
+      "filename": "beat_43.png",
+      "start_time": 140.28,
+      "end_time": 142.68,
+      "duration": 2.4,
+      "spoken_text": "and the momentum will follow. Here is",
+      "scene_action": "STRIKING THE FLINT SPARK: Dynamic close-up. The stickman strikes a sharp black flint stone against rough steel with sudden explosive force. A shower of brilliant golden sparks bursts across the frame, instantly igniting a warm, crackling campfire flame.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. STRIKING THE FLINT SPARK: Dynamic close-up. The stickman strikes a sharp black flint stone against rough steel with sudden explosive force. A shower of brilliant golden sparks bursts across the frame, instantly igniting a warm, crackling campfire flame."
+    },
+    {
+      "beat_number": 44,
+      "filename": "beat_44.png",
+      "start_time": 142.68,
+      "end_time": 146.28,
+      "duration": 3.6,
+      "spoken_text": "the ultimate truth that destroys all the fake noise. One",
+      "scene_action": "THE BOULDER OF MOMENTUM: The stickman uses one finger to give a tiny push to a small round stone atop a hill. As it rolls, it instantly snowballs into a colossal, unstoppable boulder of kinetic energy that smashes straight through concrete barricades.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. THE BOULDER OF MOMENTUM: The stickman uses one finger to give a tiny push to a small round stone atop a hill. As it rolls, it instantly snowballs into a colossal, unstoppable boulder of kinetic energy that smashes straight through concrete barricades."
+    },
+    {
+      "beat_number": 45,
+      "filename": "beat_45.png",
+      "start_time": 146.28,
+      "end_time": 151.77,
+      "duration": 5.49,
+      "spoken_text": "day, you are going to die. Confronting your mortality is your ultimate superpower.",
+      "scene_action": "MEMENTO MORI (YOU ARE GOING TO DIE): Haunting, cinematic beauty. The stickman sits peacefully atop a solitary desert rock under a vast indigo night sky filled with twinkling stars. In both hands, he holds up a stylized minimalist cartoon skull, staring into its hollow eyes with calm, fearless acceptance of his mortality.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. MEMENTO MORI (YOU ARE GOING TO DIE): Haunting, cinematic beauty. The stickman sits peacefully atop a solitary desert rock under a vast indigo night sky filled with twinkling stars. In both hands, he holds up a stylized minimalist cartoon skull, staring into its hollow eyes with calm, fearless acceptance of his mortality."
+    },
+    {
+      "beat_number": 46,
+      "filename": "beat_46.png",
+      "start_time": 151.77,
+      "end_time": 158.73,
+      "duration": 6.96,
+      "spoken_text": "It strips away every shallow drama, every petty argument, and every fake standard. You cannot care",
+      "scene_action": "THE PURIFYING HURRICANE: A massive gust of fresh wind sweeps across the frame. Flying away in the wind like dead autumn leaves are social media notification bells, fake trophies, gossiping masks, and dollar bills. The stickman stands rock-solid at the center, inhaling deeply with clear open lungs.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. THE PURIFYING HURRICANE: A massive gust of fresh wind sweeps across the frame. Flying away in the wind like dead autumn leaves are social media notification bells, fake trophies, gossiping masks, and dollar bills. The stickman stands rock-solid at the center, inhaling deeply with clear open lungs."
+    },
+    {
+      "beat_number": 47,
+      "filename": "beat_47.png",
+      "start_time": 158.73,
+      "end_time": 166.47,
+      "duration": 7.74,
+      "spoken_text": "about everything. So choose carefully what deserves your precious energy because what you give a fuck about is your life. What is",
+      "scene_action": "INVESTING IN THE SACRED HEARTH: Tender emotional close-up. The stickman gently places his last remaining radiant golden coins directly into the heart of a warm, comforting fireplace hearth where a steady golden flame warms his family and creative work.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. INVESTING IN THE SACRED HEARTH: Tender emotional close-up. The stickman gently places his last remaining radiant golden coins directly into the heart of a warm, comforting fireplace hearth where a steady golden flame warms his family and creative work."
+    },
+    {
+      "beat_number": 48,
+      "filename": "beat_48.png",
+      "start_time": 166.47,
+      "end_time": 170.97,
+      "duration": 4.5,
+      "spoken_text": "one petty thing you are refusing to give a fuck about today? Tell me in the comments.",
+      "scene_action": "GRAND SUNRISE FINALE & COMMENT CTA: Epic wide master shot. The stickman stands victorious on the jagged summit of a towering mountain peak at golden dawn. His hair and shirt billow in the wind, his arms are spread wide embracing the world, and a radiant smiling yellow sun bathes the entire pure white canvas in triumphant golden light. Text overlay in corner: 'Drop your answer below \ud83d\udc47'.",
+      "full_prompt": "9:16 vertical 2D cartoon line-art illustration in the StickLit viral book explainer style. Framing: Vertical 9:16 (1080x1920) with generous pure digital white negative space (#FFFFFF), flat borderless graphic aesthetic. Character design: Relatable minimalist 2D stick figure with circular white-filled head, expressive spiky black hair, intense and visceral facial micro-expressions (clear black ink line eyes, curved brows, sweat drops, trembling mouth), wearing a dark charcoal t-shirt, simple grey trousers, and black shoes. Art direction: Bold heavyweight black ink outlines, high visual contrast, selective saturated accent colors (crimson red for stress/traps, radiant gold for value/coins/sun, electric cyan for sweat/water, emerald green for peace/wisdom), punchy visual metaphors. No photorealism, no 3D CGI, no blurry gradients, no paper textures, strictly no clutter. GRAND SUNRISE FINALE & COMMENT CTA: Epic wide master shot. The stickman stands victorious on the jagged summit of a towering mountain peak at golden dawn. His hair and shirt billow in the wind, his arms are spread wide embracing the world, and a radiant smiling yellow sun bathes the entire pure white canvas in triumphant golden light. Text overlay in corner: 'Drop your answer below \ud83d\udc47'."
+    }
+  ]
+}

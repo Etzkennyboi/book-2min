@@ -1,0 +1,446 @@
+{
+  "total_beats": 44,
+  "aspect_ratio": "9:16",
+  "beats": [
+    {
+      "beat_number": 1,
+      "filename": "beat_01.png",
+      "start_time": 0.0,
+      "end_time": 5.12,
+      "duration": 5.12,
+      "spoken_text": "The subtle art of not giving a fuck by Mark Manson in two minutes.",
+      "scene_action": "The stick figure protagonist stands calmly in the center holding a bright orange book with 'THE SUBTLE ART' visible on the cover. Around him, soft golden sparkles hover on the crisp white background. Wide shot, welcoming and grounded posture.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure protagonist stands calmly in the center holding a bright orange book with 'THE SUBTLE ART' visible on the cover. Around him, soft golden sparkles hover on the crisp white background. Wide shot, welcoming and grounded posture."
+    },
+    {
+      "beat_number": 2,
+      "filename": "beat_02.png",
+      "start_time": 5.12,
+      "end_time": 9.12,
+      "duration": 4.0,
+      "spoken_text": "Every single day, society bombards you with one relentless message.",
+      "scene_action": "The stick figure stands in the center looking overwhelmed, hands up defensively as giant neon billboard screens with bold black letters 'BE RICHER', 'BE HAPPIER', 'LOOK BETTER' and loud red megaphone arrows point down directly at him.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure stands in the center looking overwhelmed, hands up defensively as giant neon billboard screens with bold black letters 'BE RICHER', 'BE HAPPIER', 'LOOK BETTER' and loud red megaphone arrows point down directly at him."
+    },
+    {
+      "beat_number": 3,
+      "filename": "beat_03.png",
+      "start_time": 9.12,
+      "end_time": 10.16,
+      "duration": 1.04,
+      "spoken_text": "Be richer.",
+      "scene_action": "The stick figure is frantically balancing on top of a dangerously wobbling, towering pyramid of bright golden coins and dollar signs, sweating profusely with wide panicked eyes, trying to grab even more coins falling from the sky.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure is frantically balancing on top of a dangerously wobbling, towering pyramid of bright golden coins and dollar signs, sweating profusely with wide panicked eyes, trying to grab even more coins falling from the sky."
+    },
+    {
+      "beat_number": 4,
+      "filename": "beat_04.png",
+      "start_time": 10.16,
+      "end_time": 11.2,
+      "duration": 1.04,
+      "spoken_text": "Be happier.",
+      "scene_action": "The stick figure is standing before a mirror holding an oversized bright yellow smiling smiley-face paper mask in front of his face, while his real stick body is slumped and exhausted.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure is standing before a mirror holding an oversized bright yellow smiling smiley-face paper mask in front of his face, while his real stick body is slumped and exhausted."
+    },
+    {
+      "beat_number": 5,
+      "filename": "beat_05.png",
+      "start_time": 11.2,
+      "end_time": 12.76,
+      "duration": 1.56,
+      "spoken_text": "Be more positive.",
+      "scene_action": "The stick figure is forced into a stiff, manic pose giving two giant enthusiastic thumbs-up, surrounded by blinding electric-yellow stars and forced smiling badges, looking comically stressed and strained.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure is forced into a stiff, manic pose giving two giant enthusiastic thumbs-up, surrounded by blinding electric-yellow stars and forced smiling badges, looking comically stressed and strained."
+    },
+    {
+      "beat_number": 6,
+      "filename": "beat_06.png",
+      "start_time": 12.76,
+      "end_time": 17.09,
+      "duration": 4.33,
+      "spoken_text": "And when you feel anxious, you get anxious about being anxious.",
+      "scene_action": "The stick figure clutches both sides of his head in comic distress, wide alarmed eyes, cyan sweat drops flying outward. Surrounding his head is a swirling concentric spiral of bright crimson red question marks and thought loops.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure clutches both sides of his head in comic distress, wide alarmed eyes, cyan sweat drops flying outward. Surrounding his head is a swirling concentric spiral of bright crimson red question marks and thought loops."
+    },
+    {
+      "beat_number": 7,
+      "filename": "beat_07.png",
+      "start_time": 17.09,
+      "end_time": 21.16,
+      "duration": 4.07,
+      "spoken_text": "When you feel guilty, you feel guilty about feeling guilty.",
+      "scene_action": "The stick figure sits slumped on the floor, head down, weighed down by a huge heavy black guilt stone strapped to his back, with dark shadow ripples on the pure white floor.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure sits slumped on the floor, head down, weighed down by a huge heavy black guilt stone strapped to his back, with dark shadow ripples on the pure white floor."
+    },
+    {
+      "beat_number": 8,
+      "filename": "beat_08.png",
+      "start_time": 21.16,
+      "end_time": 24.12,
+      "duration": 2.96,
+      "spoken_text": "Welcome to the feedback loop from hell.",
+      "scene_action": "Dramatic metaphor: The stick figure is trapped inside the center of a circular spinning ouroboros loop of bright crimson flames and looping curved black arrows labeled with infinity symbols. The feedback loop from hell.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. Dramatic metaphor: The stick figure is trapped inside the center of a circular spinning ouroboros loop of bright crimson flames and looping curved black arrows labeled with infinity symbols. The feedback loop from hell."
+    },
+    {
+      "beat_number": 9,
+      "filename": "beat_09.png",
+      "start_time": 24.12,
+      "end_time": 29.54,
+      "duration": 5.42,
+      "spoken_text": "Conventional self help tells you to look in the mirror and shout affirmations,",
+      "scene_action": "The stick figure stands in front of a full-length mirror, comically puffing out his chest and aggressively shouting motivational affirmations at his own reflection with motion lines exploding from his mouth.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure stands in front of a full-length mirror, comically puffing out his chest and aggressively shouting motivational affirmations at his own reflection with motion lines exploding from his mouth."
+    },
+    {
+      "beat_number": 10,
+      "filename": "beat_10.png",
+      "start_time": 29.54,
+      "end_time": 31.94,
+      "duration": 2.4,
+      "spoken_text": "to care deeply about everything,",
+      "scene_action": "The stick figure is frantically juggling six fragile spinning white ceramic plates labeled 'Work', 'Diet', 'Likes', 'Status', 'Opinions', sweating with panicked eyes as one plate teeters on the brink of falling.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure is frantically juggling six fragile spinning white ceramic plates labeled 'Work', 'Diet', 'Likes', 'Status', 'Opinions', sweating with panicked eyes as one plate teeters on the brink of falling."
+    },
+    {
+      "beat_number": 11,
+      "filename": "beat_11.png",
+      "start_time": 31.94,
+      "end_time": 36.34,
+      "duration": 4.4,
+      "spoken_text": "to believe you are special entitled to a frictionless life.",
+      "scene_action": "The stick figure sits arrogantly on a small stool wearing an oversized crooked golden paper crown, arms crossed with an entitled scowl, waiting impatiently for the world to cater to him.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure sits arrogantly on a small stool wearing an oversized crooked golden paper crown, arms crossed with an entitled scowl, waiting impatiently for the world to cater to him."
+    },
+    {
+      "beat_number": 12,
+      "filename": "beat_12.png",
+      "start_time": 36.34,
+      "end_time": 39.14,
+      "duration": 2.8,
+      "spoken_text": "This path is an endless trap.",
+      "scene_action": "The stick figure stands at the edge of a deep black hole trapdoor on a pathway that looked like a shiny red carpet. Red warning exclamation marks hover over the hidden trap.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure stands at the edge of a deep black hole trapdoor on a pathway that looked like a shiny red carpet. Red warning exclamation marks hover over the hidden trap."
+    },
+    {
+      "beat_number": 13,
+      "filename": "beat_13.png",
+      "start_time": 39.14,
+      "end_time": 44.93,
+      "duration": 5.79,
+      "spoken_text": "The desire for more positive experience is itself a negative experience,",
+      "scene_action": "The stick figure is sprinting furiously forward on a black treadmill, tongue sticking out in exhaustion, desperately reaching out with open hands to catch a glowing golden butterfly that stays just an inch out of reach.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure is sprinting furiously forward on a black treadmill, tongue sticking out in exhaustion, desperately reaching out with open hands to catch a glowing golden butterfly that stays just an inch out of reach."
+    },
+    {
+      "beat_number": 14,
+      "filename": "beat_14.png",
+      "start_time": 44.93,
+      "end_time": 50.61,
+      "duration": 5.68,
+      "spoken_text": "and the acceptance of one's negative experience is itself a positive experience.",
+      "scene_action": "The stick figure stands calm and peaceful holding a clean emerald green umbrella. Light blue cartoon rain falls outside the umbrella, but under the umbrella he has a serene smile with hands in his pockets.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure stands calm and peaceful holding a clean emerald green umbrella. Light blue cartoon rain falls outside the umbrella, but under the umbrella he has a serene smile with hands in his pockets."
+    },
+    {
+      "beat_number": 15,
+      "filename": "beat_15.png",
+      "start_time": 50.61,
+      "end_time": 55.22,
+      "duration": 4.61,
+      "spoken_text": "Not giving a fuck does not mean being indifferent or callous.",
+      "scene_action": "Two figures side-by-side: on the left, a cold, stiff, frozen ice mannequin with an 'X' over its heart; on the right, the stick figure smiling with warm human empathy and an open posture.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. Two figures side-by-side: on the left, a cold, stiff, frozen ice mannequin with an 'X' over its heart; on the right, the stick figure smiling with warm human empathy and an open posture."
+    },
+    {
+      "beat_number": 16,
+      "filename": "beat_16.png",
+      "start_time": 55.22,
+      "end_time": 59.38,
+      "duration": 4.16,
+      "spoken_text": "A person who is indifferent is just terrified of the world.",
+      "scene_action": "A cowardly stick figure is curled up inside a dark grey reinforced concrete bunker box with heavy padlocks, peeking out of a tiny window slit with wide terrified eyes, scared of the bright sunny world outside.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. A cowardly stick figure is curled up inside a dark grey reinforced concrete bunker box with heavy padlocks, peeking out of a tiny window slit with wide terrified eyes, scared of the bright sunny world outside."
+    },
+    {
+      "beat_number": 17,
+      "filename": "beat_17.png",
+      "start_time": 59.38,
+      "end_time": 63.62,
+      "duration": 4.24,
+      "spoken_text": "Not giving a fuck means being comfortable with being different.",
+      "scene_action": "A line of identical faceless grey stick figures march in dull lockstep to the left, while the protagonist stick figure with spiky black hair walks confidently to the right with a pleasant smile, comfortable being different.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. A line of identical faceless grey stick figures march in dull lockstep to the left, while the protagonist stick figure with spiky black hair walks confidently to the right with a pleasant smile, comfortable being different."
+    },
+    {
+      "beat_number": 18,
+      "filename": "beat_18.png",
+      "start_time": 63.62,
+      "end_time": 67.16,
+      "duration": 3.54,
+      "spoken_text": "It means realizing that your fucks are finite.",
+      "scene_action": "The stick figure holds up a large transparent glass jar labeled 'FUCKS TO GIVE'. Inside the jar, only three radiant golden coins remain at the bottom. He looks into the jar with a wise, careful expression.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure holds up a large transparent glass jar labeled 'FUCKS TO GIVE'. Inside the jar, only three radiant golden coins remain at the bottom. He looks into the jar with a wise, careful expression."
+    },
+    {
+      "beat_number": 19,
+      "filename": "beat_19.png",
+      "start_time": 67.16,
+      "end_time": 69.72,
+      "duration": 2.56,
+      "spoken_text": "If you give a fuck about your broken Wi Fi,",
+      "scene_action": "The stick figure is shaking an angry red internet router with jagged lightning bolts and flashing 'NO WI-FI' icons, veins popping comically on his forehead in trivial frustration.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure is shaking an angry red internet router with jagged lightning bolts and flashing 'NO WI-FI' icons, veins popping comically on his forehead in trivial frustration."
+    },
+    {
+      "beat_number": 20,
+      "filename": "beat_20.png",
+      "start_time": 69.72,
+      "end_time": 70.92,
+      "duration": 1.2,
+      "spoken_text": "the rude barista,",
+      "scene_action": "A grumpy stick figure barista with arms crossed and an angry scowl slams a spilled cartoon coffee mug onto the counter, splashing brown coffee onto the floor.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. A grumpy stick figure barista with arms crossed and an angry scowl slams a spilled cartoon coffee mug onto the counter, splashing brown coffee onto the floor."
+    },
+    {
+      "beat_number": 21,
+      "filename": "beat_21.png",
+      "start_time": 70.92,
+      "end_time": 72.52,
+      "duration": 1.6,
+      "spoken_text": "and other people's opinions,",
+      "scene_action": "Shady stick figure silhouettes in the background pointing mocking fingers and murmuring black gossip speech bubbles with scribbles, which the protagonist ignores completely.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. Shady stick figure silhouettes in the background pointing mocking fingers and murmuring black gossip speech bubbles with scribbles, which the protagonist ignores completely."
+    },
+    {
+      "beat_number": 22,
+      "filename": "beat_22.png",
+      "start_time": 72.52,
+      "end_time": 75.63,
+      "duration": 3.11,
+      "spoken_text": "you run out of fucks for what actually matters.",
+      "scene_action": "The stick figure looks in shock at his overturned, empty glass jar with zero golden coins left, while in the background an unread book, an acoustic guitar, and a loved one stand neglected.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure looks in shock at his overturned, empty glass jar with zero golden coins left, while in the background an unread book, an acoustic guitar, and a loved one stand neglected."
+    },
+    {
+      "beat_number": 23,
+      "filename": "beat_23.png",
+      "start_time": 75.63,
+      "end_time": 78.03,
+      "duration": 2.4,
+      "spoken_text": "It all comes down to values.",
+      "scene_action": "The stick figure stands at a fork in the road between two giant carved stone signs: one pointing left labeled 'BAD VALUES', one pointing right labeled 'GOOD VALUES'. Thoughtful chin-scratching pose.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure stands at a fork in the road between two giant carved stone signs: one pointing left labeled 'BAD VALUES', one pointing right labeled 'GOOD VALUES'. Thoughtful chin-scratching pose."
+    },
+    {
+      "beat_number": 24,
+      "filename": "beat_24.png",
+      "start_time": 78.03,
+      "end_time": 81.23,
+      "duration": 3.2,
+      "spoken_text": "Bad values are external and uncontrollable,",
+      "scene_action": "The stick figure desperately tries to grab swirling grey smoke and floating dollar bills that slip effortlessly through his open stick hands. External uncontrollable values disappearing.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure desperately tries to grab swirling grey smoke and floating dollar bills that slip effortlessly through his open stick hands. External uncontrollable values disappearing."
+    },
+    {
+      "beat_number": 25,
+      "filename": "beat_25.png",
+      "start_time": 81.23,
+      "end_time": 82.68,
+      "duration": 1.45,
+      "spoken_text": "constant pleasure,",
+      "scene_action": "The stick figure is melted into a messy beanbag chair surrounded by empty pizza boxes, soda cans, and a glowing smartphone screen, wearing a completely numb, empty dazed expression. Hedonic burnout.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure is melted into a messy beanbag chair surrounded by empty pizza boxes, soda cans, and a glowing smartphone screen, wearing a completely numb, empty dazed expression. Hedonic burnout."
+    },
+    {
+      "beat_number": 26,
+      "filename": "beat_26.png",
+      "start_time": 82.68,
+      "end_time": 83.96,
+      "duration": 1.28,
+      "spoken_text": "material status,",
+      "scene_action": "A boastful stick figure wearing sunglasses poses next to a shiny red sports car, but the car is visibly cracked down the middle and held together with weak tape. Fragile material status.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. A boastful stick figure wearing sunglasses poses next to a shiny red sports car, but the car is visibly cracked down the middle and held together with weak tape. Fragile material status."
+    },
+    {
+      "beat_number": 27,
+      "filename": "beat_27.png",
+      "start_time": 83.96,
+      "end_time": 85.88,
+      "duration": 1.92,
+      "spoken_text": "and always being right.",
+      "scene_action": "An angry stick figure shouts through a red megaphone at a podium, pointing an accusatory finger, while an entire crowd of stick friends turns their backs and walks away, leaving him totally alone.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. An angry stick figure shouts through a red megaphone at a podium, pointing an accusatory finger, while an entire crowd of stick friends turns their backs and walks away, leaving him totally alone."
+    },
+    {
+      "beat_number": 28,
+      "filename": "beat_28.png",
+      "start_time": 85.88,
+      "end_time": 88.68,
+      "duration": 2.8,
+      "spoken_text": "Good values are internal and controllable,",
+      "scene_action": "The stick figure stands firmly anchored beside a solid, unbreakable emerald-green pillar rooted deep into the ground, unfazed by blowing wind lines and debris around him. Controllable internal values.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure stands firmly anchored beside a solid, unbreakable emerald-green pillar rooted deep into the ground, unfazed by blowing wind lines and debris around him. Controllable internal values."
+    },
+    {
+      "beat_number": 29,
+      "filename": "beat_29.png",
+      "start_time": 88.68,
+      "end_time": 90.52,
+      "duration": 1.84,
+      "spoken_text": "honesty, humility,",
+      "scene_action": "Two stick figures sit across a simple wooden table sharing tea, looking into each other's eyes with warm authentic expressions and open hands. Honesty and humility.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. Two stick figures sit across a simple wooden table sharing tea, looking into each other's eyes with warm authentic expressions and open hands. Honesty and humility."
+    },
+    {
+      "beat_number": 30,
+      "filename": "beat_30.png",
+      "start_time": 90.52,
+      "end_time": 93.32,
+      "duration": 2.8,
+      "spoken_text": "curiosity, and self respect.",
+      "scene_action": "The stick figure looks through a classic brass telescope up at a cluster of twinkling yellow cartoon stars, holding a small notebook with a proud, dignified smile. Curiosity and self-respect.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure looks through a classic brass telescope up at a cluster of twinkling yellow cartoon stars, holding a small notebook with a proud, dignified smile. Curiosity and self-respect."
+    },
+    {
+      "beat_number": 31,
+      "filename": "beat_31.png",
+      "start_time": 93.32,
+      "end_time": 95.86,
+      "duration": 2.54,
+      "spoken_text": "Stop asking what success you want.",
+      "scene_action": "The stick figure firmly pushes a shiny gold trophy and medal off a pedestal, turning his back on superficial applause to focus on his own craft.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure firmly pushes a shiny gold trophy and medal off a pedestal, turning his back on superficial applause to focus on his own craft."
+    },
+    {
+      "beat_number": 32,
+      "filename": "beat_32.png",
+      "start_time": 95.86,
+      "end_time": 98.34,
+      "duration": 2.48,
+      "spoken_text": "Ask what pain you are willing to sustain.",
+      "scene_action": "The stick figure is kneeling down tightening the laces of heavy climbing boots, sleeves rolled up, looking up at a steep black mountain trail with a determined, excited smile. Ready to choose the struggle.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure is kneeling down tightening the laces of heavy climbing boots, sleeves rolled up, looking up at a steep black mountain trail with a determined, excited smile. Ready to choose the struggle."
+    },
+    {
+      "beat_number": 33,
+      "filename": "beat_33.png",
+      "start_time": 98.34,
+      "end_time": 101.55,
+      "duration": 3.21,
+      "spoken_text": "Because happiness is not an equation you solve once.",
+      "scene_action": "The stick figure uses a big sponge to wipe clean a giant chalkboard covered in complicated, messy math equations, leaving behind a clean, simple surface.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure uses a big sponge to wipe clean a giant chalkboard covered in complicated, messy math equations, leaving behind a clean, simple surface."
+    },
+    {
+      "beat_number": 34,
+      "filename": "beat_34.png",
+      "start_time": 101.55,
+      "end_time": 104.19,
+      "duration": 2.64,
+      "spoken_text": "Happiness comes from solving problems.",
+      "scene_action": "The stick figure holds a cartoon steel wrench with a satisfied grin after successfully fixing a leaky water valve, watching clean blue water flow smoothly into a sparkling bucket.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure holds a cartoon steel wrench with a satisfied grin after successfully fixing a leaky water valve, watching clean blue water flow smoothly into a sparkling bucket."
+    },
+    {
+      "beat_number": 35,
+      "filename": "beat_35.png",
+      "start_time": 104.19,
+      "end_time": 108.36,
+      "duration": 4.17,
+      "spoken_text": "When you upgrade your values, you upgrade the quality of your problems.",
+      "scene_action": "Split vertical composition: Top half shows stick figures having a screaming fight over a broken pencil; bottom half shows stick figures happily teaming up to build a wooden shelter together. Upgrading problems.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. Split vertical composition: Top half shows stick figures having a screaming fight over a broken pencil; bottom half shows stick figures happily teaming up to build a wooden shelter together. Upgrading problems."
+    },
+    {
+      "beat_number": 36,
+      "filename": "beat_36.png",
+      "start_time": 108.36,
+      "end_time": 108.6,
+      "duration": 0.24,
+      "spoken_text": "And when you feel completely stuck, remember the do something principle.",
+      "scene_action": "The stick figure sits stuck in a puddle of thick grey mud, looking puzzled at a circular kinetic emblem with three curved arrows: [Action -> Inspiration -> Motivation].",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure sits stuck in a puddle of thick grey mud, looking puzzled at a circular kinetic emblem with three curved arrows: [Action -> Inspiration -> Motivation]."
+    },
+    {
+      "beat_number": 37,
+      "filename": "beat_37.png",
+      "start_time": 108.6,
+      "end_time": 115.8,
+      "duration": 7.2,
+      "spoken_text": "when you feel completely stuck, remember the do something principle. Action is not just the result of motivation.",
+      "scene_action": "A stick figure sits frozen on a park bench covered in spiderwebs, waiting passively for a lightning bolt of motivation that never arrives.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. A stick figure sits frozen on a park bench covered in spiderwebs, waiting passively for a lightning bolt of motivation that never arrives."
+    },
+    {
+      "beat_number": 38,
+      "filename": "beat_38.png",
+      "start_time": 115.8,
+      "end_time": 117.8,
+      "duration": 2.0,
+      "spoken_text": "Action is the cause of it.",
+      "scene_action": "Close-up of the stick figure's hands striking a flint against steel, creating a brilliant burst of golden sparks that ignites a warm glowing campfire flame. Action causes motivation.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. Close-up of the stick figure's hands striking a flint against steel, creating a brilliant burst of golden sparks that ignites a warm glowing campfire flame. Action causes motivation."
+    },
+    {
+      "beat_number": 39,
+      "filename": "beat_39.png",
+      "start_time": 117.8,
+      "end_time": 121.23,
+      "duration": 3.43,
+      "spoken_text": "Do something small, and the momentum will follow.",
+      "scene_action": "The stick figure gives a tiny gentle tap to a small round black stone on top of a hill, watching it roll forward and trigger a massive, powerful boulder of momentum knocking down brick walls.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure gives a tiny gentle tap to a small round black stone on top of a hill, watching it roll forward and trigger a massive, powerful boulder of momentum knocking down brick walls."
+    },
+    {
+      "beat_number": 40,
+      "filename": "beat_40.png",
+      "start_time": 121.23,
+      "end_time": 124.67,
+      "duration": 3.44,
+      "spoken_text": "Here is the ultimate truth. You are going to die.",
+      "scene_action": "Memento Mori: The stick figure sits quietly on a gentle hill beneath a dark blue night sky filled with stars, holding a stylized minimalist cartoon skull in his hands, reflecting peacefully on life and mortality.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. Memento Mori: The stick figure sits quietly on a gentle hill beneath a dark blue night sky filled with stars, holding a stylized minimalist cartoon skull in his hands, reflecting peacefully on life and mortality."
+    },
+    {
+      "beat_number": 41,
+      "filename": "beat_41.png",
+      "start_time": 124.67,
+      "end_time": 129.88,
+      "duration": 5.21,
+      "spoken_text": "Confronting your mortality strips away all superficial noise.",
+      "scene_action": "A powerful gust of wind blows from left to right, sweeping away social media notification bells, thumbs-up icons, drama speech bubbles, and gossip papers. The stick figure stands grounded and relieved.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. A powerful gust of wind blows from left to right, sweeping away social media notification bells, thumbs-up icons, drama speech bubbles, and gossip papers. The stick figure stands grounded and relieved."
+    },
+    {
+      "beat_number": 42,
+      "filename": "beat_42.png",
+      "start_time": 129.88,
+      "end_time": 132.21,
+      "duration": 2.33,
+      "spoken_text": "You cannot care about everything.",
+      "scene_action": "The stick figure stands with hands in pockets, looking completely relaxed and unbothered as annoying buzzing mosquito flies labeled 'Opinions' buzz past him without touching him.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. The stick figure stands with hands in pockets, looking completely relaxed and unbothered as annoying buzzing mosquito flies labeled 'Opinions' buzz past him without touching him."
+    },
+    {
+      "beat_number": 43,
+      "filename": "beat_43.png",
+      "start_time": 132.21,
+      "end_time": 136.21,
+      "duration": 4.0,
+      "spoken_text": "So choose carefully what deserves your energy",
+      "scene_action": "Close-up of the stick figure's hands gently placing his few precious glowing golden coins into a warm glowing hearth with a steady, peaceful flame.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. Close-up of the stick figure's hands gently placing his few precious glowing golden coins into a warm glowing hearth with a steady, peaceful flame."
+    },
+    {
+      "beat_number": 44,
+      "filename": "beat_44.png",
+      "start_time": 136.21,
+      "end_time": 139.56,
+      "duration": 3.35,
+      "spoken_text": "because what you give a fuck about is your life.",
+      "scene_action": "Grand finale: The stick figure stands tall on the peak of a high mountain cliff at sunrise. Spiky hair blowing in the wind, a bright radiant yellow smiling sun rising over the horizon, arms outstretched in freedom and calm confidence.",
+      "full_prompt": "9:16 vertical cartoon line-art illustration in the StickLit book summary style. Composition: Vertical 9:16 framing (1080x1920) with generous pure white negative space. Background: Solid digitally pure white background (#FFFFFF), completely borderless, flat 2D graphic novel aesthetic. Character design: Minimalist 2D cartoon stick figure, circular white filled head with short spiky black hair, expressive cartoon eyes and mouth showing clear emotion, wearing a casual dark charcoal t-shirt and grey pants. Art style: Bold crisp black ink outlines, clean flat saturated accent colors, minimalist graphic symbolism, readable silhouettes, pure 2D. No photorealism, no 3D CGI, no gradients, no paper textures, no clutter. Grand finale: The stick figure stands tall on the peak of a high mountain cliff at sunrise. Spiky hair blowing in the wind, a bright radiant yellow smiling sun rising over the horizon, arms outstretched in freedom and calm confidence."
+    }
+  ]
+}

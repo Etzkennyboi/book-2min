@@ -32,10 +32,12 @@ def render_video(
     concat_file = output_video_path.parent / "concat_scenes.txt"
     with open(concat_file, "w", encoding="utf-8") as f:
         for img in image_paths:
-            f.write(f"file '{img.resolve()}'\n")
+            img_str = str(img.resolve()).replace("\\", "/")
+            f.write(f"file '{img_str}'\n")
             f.write(f"duration {dur_per_img:.3f}\n")
         # Duplicate last frame for FFmpeg concat demuxer requirement
-        f.write(f"file '{image_paths[-1].resolve()}'\n")
+        last_str = str(image_paths[-1].resolve()).replace("\\", "/")
+        f.write(f"file '{last_str}'\n")
 
     # Escape path for FFmpeg subtitles filter
     escaped_ass = str(subtitles_path.resolve()).replace("\\", "/").replace(":", "\\:")

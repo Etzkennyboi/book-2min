@@ -5,6 +5,7 @@ plus Edge-TTS fallback.
 """
 
 import sys
+import time
 import asyncio
 from pathlib import Path
 from typing import Optional
@@ -31,35 +32,50 @@ def synthesize_deepgram(
         "Content-Type": "application/json"
     }
 
-    # Deepgram limits text payloads to 2000 characters. We chunk by sentences/paragraphs.
+    # Chunk by paragraphs or short sentences (~400 characters) for reliable streaming
     chunks = []
-    current_chunk = []
-    current_len = 0
-
-    sentences = text.replace(". ", ".\n").splitlines()
-    for sentence in sentences:
-        s = sentence.strip()
-        if not s:
-            continue
-        if current_len + len(s) + 1 > 1800:
-            chunks.append(" ".join(current_chunk))
-            current_chunk = [s]
-            current_len = len(s)
+    paragraphs = [p.strip() for p in text.split("\n\n") if p.strip()]
+    for p in paragraphs:
+        if len(p) <= 500:
+            chunks.append(p)
         else:
-            current_chunk.append(s)
-            current_len += len(s) + 1
-
-    if current_chunk:
-        chunks.append(" ".join(current_chunk))
+            sentences = p.replace(". ", ".\n").splitlines()
+            curr = []
+            curr_len = 0
+            for s in sentences:
+                s = s.strip()
+                if not s:
+                    continue
+                if curr_len + len(s) > 400:
+                    chunks.append(" ".join(curr))
+                    curr = [s]
+                    curr_len = len(s)
+                else:
+                    curr.append(s)
+                    curr_len += len(s) + 1
+            if curr:
+                chunks.append(" ".join(curr))
 
     print(f"[Deepgram TTS] Synthesizing with model '{model}' across {len(chunks)} chunk(s)...")
     combined_audio = bytearray()
 
     for idx, chunk in enumerate(chunks, 1):
-        r = requests.post(url, headers=headers, json={"text": chunk})
-        if r.status_code != 200:
-            raise RuntimeError(f"Deepgram API error {r.status_code} on chunk {idx}: {r.text}")
-        combined_audio.extend(r.content)
+        print(f"[Deepgram TTS] Chunk {idx}/{len(chunks)} ({len(chunk)} chars)...")
+        last_err = None
+        for attempt in range(3):
+            try:
+                r = requests.post(url, headers=headers, json={"text": chunk}, timeout=45)
+                if r.status_code == 200:
+                    combined_audio.extend(r.content)
+                    last_err = None
+                    break
+                else:
+                    last_err = RuntimeError(f"Deepgram API error {r.status_code}: {r.text}")
+            except Exception as ex:
+                last_err = ex
+                time.sleep(1.5)
+        if last_err:
+            raise last_err
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, "wb") as f:
@@ -87,6 +103,53 @@ def synthesize_edge_tts(
     print(f"[Edge-TTS] Successfully saved voiceover to {output_path}")
     return output_path
 
+def synthesize_windows_tts(
+    text: str,
+    output_path: Path,
+    voice: str = "Mark"
+) -> Path:
+    """
+    Synthesizes voiceover using native Windows SpeechSynthesizer (zero dependencies, completely offline).
+    """
+    import subprocess
+    print(f"[Windows-TTS] Synthesizing voiceover with voice '{voice}'...")
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    wav_path = output_path.with_suffix(".wav")
+    temp_txt = output_path.with_suffix(".tmp.txt")
+    temp_txt.write_text(text, encoding="utf-8")
+    
+    ps_cmd = f"""
+    Add-Type -AssemblyName System.Speech;
+    $synth = New-Object System.Speech.Synthesis.SpeechSynthesizer;
+    $voices = $synth.GetInstalledVoices() | ForEach-Object {{ $_.VoiceInfo.Name }};
+    $sel = $voices | Where-Object {{ $_ -like '*{voice}*' }} | Select-Object -First 1;
+    if (-not $sel) {{ $sel = $voices | Select-Object -First 1 }};
+    if ($sel) {{ $synth.SelectVoice($sel) }};
+    $synth.Rate = 0;
+    $text = Get-Content -Path '{str(temp_txt.resolve())}' -Raw -Encoding UTF8;
+    $synth.SetOutputToWaveFile('{str(wav_path.resolve())}');
+    $synth.Speak($text);
+    $synth.Dispose();
+    """
+    subprocess.run(["powershell", "-NoProfile", "-Command", ps_cmd], check=True)
+    if temp_txt.exists():
+        temp_txt.unlink()
+    
+    # If output_path requested was mp3, convert with ffmpeg, else return wav
+    if output_path.suffix.lower() == ".mp3":
+        from .config import FFMPEG_PATH
+        subprocess.run([
+            FFMPEG_PATH, "-y", "-i", str(wav_path.resolve()),
+            "-codec:a", "libmp3lame", "-qscale:a", "2", str(output_path.resolve())
+        ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        if wav_path != output_path and wav_path.exists():
+            wav_path.unlink()
+    else:
+        output_path = wav_path
+
+    print(f"[Windows-TTS] Successfully saved voiceover to {output_path}")
+    return output_path
+
 def generate_voiceover(
     text: str,
     output_path: Path,
@@ -100,7 +163,17 @@ def generate_voiceover(
         try:
             return synthesize_deepgram(text, output_path, api_key=deepgram_key)
         except Exception as e:
-            print(f"[Warning] Deepgram synthesis failed ({e}). Falling back to Edge-TTS...")
+            print(f"[Warning] Deepgram synthesis failed ({e}). Falling back to Edge/Windows TTS...")
+            try:
+                return synthesize_edge_tts(text, output_path)
+            except Exception as e2:
+                print(f"[Warning] Edge-TTS failed ({e2}). Falling back to native Windows TTS...")
+                return synthesize_windows_tts(text, output_path)
+    elif provider.lower() == "edge":
+        try:
             return synthesize_edge_tts(text, output_path)
+        except Exception as e:
+            print(f"[Warning] Edge-TTS failed ({e}). Falling back to native Windows TTS...")
+            return synthesize_windows_tts(text, output_path)
     else:
-        return synthesize_edge_tts(text, output_path)
+        return synthesize_windows_tts(text, output_path)

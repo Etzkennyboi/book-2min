@@ -1,0 +1,123 @@
+================================================================================
+ATOMIC HABITS BY JAMES CLEAR — 38 SENSORY MICRO-BEAT PROMPTS (STICKLIT STYLE)
+================================================================================
+Universal Negative Prompt for every scene:
+text, words, letters, watermark clutter, speech bubble words, captions, lower third banners, borders, frames, grey background, 3D render, photorealism, realistic human skin.
+================================================================================
+
+[SCENE 01]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near the top edge is a subtle outline text watermark: "@sticklit". Centered near the upper top, a bold handwritten black comic title: "Atomic Habits", "James Clear", "in two minutes". Composition: Low-angle dramatic perspective. The spiky-haired 2D stick figure in a charcoal t-shirt stands centered, smirking confidently directly into the camera while effortlessly balancing an enormous, weighty, glowing physical white-and-yellow tome of "Atomic Habits" by James Clear on his right shoulder. Bright golden energy sparks crackle around the book. His right boot is planted firmly on the floor, actively stomping and crushing a noisy ringing mechanical alarm clock into broken cogs and springs with comic impact cracks and dust puffs. Clean upper 80% framing with the bottom 250px completely empty pure white negative space. Thick black ink outlines, clean solid color fills, zero 3D clutter.
+
+[SCENE 02]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. The myth of massive action: A stick figure furiously strapped to an enormous roaring rocket booster labeled "MASSIVE ACTION", rocketing straight into the sky with wild speed lines and blinding red flames, screaming in frantic over-exertion. Bottom 250px clear white negative space. Crisp black ink lines, flat clean colors.
+
+[SCENE 03]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. The overhaul trap: A stressed stick figure frantically juggling 10 ticking clocks, calendar pages, and gym dumbbells all at once, eyes wide with terror, trembling sweat drops flying everywhere. Bottom 250px clear white space. Crisp black ink outlines, flat solid colors.
+
+[SCENE 04]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. Burnout and quitting: The exhausted stick figure lies completely flat face-down on the floor in a pile of grey ash, arms limp, with a comical glowing empty red battery icon blinking above his head. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 05]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. The power of tiny beginnings: The stick figure kneels gently on rich dark soil, carefully planting a tiny, glowing radiant golden seed into the ground with a hopeful, gentle smile. Bottom 250px clear white space. Crisp black ink outlines, flat solid colors.
+
+[SCENE 06]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. Daily nourishment: The stick figure pours sparkling water from a green watering can over the tiny seed, which immediately sprouts into a vibrant, glowing green shoot with tiny golden leaves. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 07]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. The 1% compounding curve: A large minimalist graphic chart. An exponential golden hockey stick curve starts flat and suddenly surges aggressively skyward toward the upper right. The protagonist stick figure rides the surging golden curve with arms raised in victory. Beside the peak is a bold yellow badge: "37x". Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 08]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. Reaching the summit: The stick figure stands victoriously atop a glorious golden mountain peak bathed in bright morning sunlight, planting a small victory flag with a confident smile. Bottom 250px clear white space. Crisp black ink outlines, flat solid colors.
+
+[SCENE 09]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. The 1% decline: A contrasting red graphic chart showing a downward decaying trajectory line crashing sharply into the ground, ending at a flatline marked "0.00". A slumped stick figure slides down the red slope clutching his head. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 10]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. The Ice Cube metaphor: Inside a cold blue room with icicles hanging, a colossal, perfectly clear rectangular solid ice block sits on a wooden table. Beside it, a stick figure points a small yellow heating lamp directly at the ice. A thermometer on the wall reads 25 degrees. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 11]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. Heating up: The thermometer on the wall rises to 26 degrees with a bright red mercury line. The heating lamp glows brighter, but the giant ice cube on the table remains totally solid and unmoving. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 12]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. The plateau of frustration: The thermometer reaches 31 degrees. The stick figure wipes sweat from his brow, visibly annoyed and tapping his foot, because the ice block still looks completely frozen solid without a single drop. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 13]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. The phase shift threshold: The thermometer clicks to 32 degrees! Instantly, violent jagged white stress cracks spiderweb across the entire ice block, accompanied by hissing steam plumes and popping sound effect lines. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 14]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. The sudden breakthrough: The entire ice block suddenly liquefies into a rushing, splashing waterfall of sparkling blue water flooding the table and floor, while the stick figure laughs in pure amazement. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 15]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. Stored potential: Inside the stick figure's chest, a glowing neon battery icon charges up to 100% full capacity with pulsing green energy rings and crackling power sparks, symbolizing latent stored effort. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 16]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. The goal fallacy: Two athletic stick figures stand at the starting line of a running track, both looking up with intense desire at the exact same shiny gold medal hanging above the finish line. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 17]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. The system advantage: The winner on the right runs smoothly along an automated golden conveyor track with spinning precision gears and rhythmic water stations, while the loser on the left stumbles blindly in rough dirt with nothing but wishful thinking. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 18]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. Falling from lofty goals: A stick figure standing on a fluffy white cloud labeled "GOALS" suddenly plunges through the dissolving mist as the cloud evaporates into thin air. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 19]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. Landing on solid systems: The stick figure lands firmly on his feet on a solid bedrock foundation constructed of heavy steel interlocking gears and foundation stones labeled "DAILY SYSTEMS". Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 20]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. The 4 Laws blueprint: The protagonist unrolls a grand architectural blueprint scroll in the air, revealing four radiant golden classical pillars glowing with power: "1. Obvious", "2. Attractive", "3. Easy", "4. Satisfying". Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 21]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. Law 1: Make it Obvious. In the center of a clean, bright living room, an acoustic wooden guitar rests proudly on an illuminated spotlighted stand right next to the front door, impossible to ignore. In the dark background corner, a closet door marked "HIDDEN" is shut tight. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 22]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. The bedroom cue: A neat, cozy bed with a fluffy white pillow. Resting squarely in the center of the pillow is an open book with a red bookmark, waiting to be read right before sleeping. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 23]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. Law 2: Make it Attractive. A giant red-and-silver horseshoe magnet labeled "DOPAMINE" pulls the smiling stick figure effortlessly across the floor toward his tidy work desk with flying cartoon magnetic energy arcs. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 24]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. Habit stacking temptation: The stick figure jogs happily on a running treadmill while holding a gaming controller, watching his favorite colorful TV show mounted right at eye level on the treadmill console. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 25]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. Law 3: Make it Easy. The stick figure easily lifts a comical, miniature, lightweight one-pound dumbbell with his pinky finger, smiling breezily with zero strain while a 500-pound iron barbell sits untouched on the ground. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 26]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. The two-minute rule: A giant mechanical stopwatch with red digital numbers ticking at "01:59". The stick figure casually ties the laces on his running shoe, ready to begin before the timer hits two minutes. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 27]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. Child's play friction: The stick figure takes a tiny, effortless one-inch step over a small white chalk line drawn on the floor, smiling smugly as if he just conquered a mountain. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 28]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. Law 4: Make it Satisfying. The stick figure makes a sharp stroke on a wall calendar, triggering an explosive burst of golden holographic checkmarks, sparkling stars, and confetti raining around him with pure satisfaction. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 29]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. Rewiring the brain: A cutaway diagram of the stick figure's head showing a glowing bright yellow lightbulb brain with buzzing cyan electrical synapses instantly connecting two glowing habit pathways. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 30]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. Peeling superficial masks: The stick figure peels off a flimsy paper mask showing a generic goal face, revealing his true, resolute, determined core identity beneath. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 31]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. Identity in the mirror: The stick figure looks into a full-length mirror. Instead of a stickman, the reflection shows a powerful, confident marathon runner and scholar holding a book, radiating calm self-belief. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 32]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. Casting a vote: The stick figure drops a glowing golden ballot coin stamped with a checkmark into a clean wooden ballot box labeled "IDENTITY", smiling as it clinks inside. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 33]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. The transformed self: The stick figure stands centered with hands on hips, head held high, chest puffed out, radiating a golden aura of unshakable self-discipline and quiet confidence. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 34]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. 3D presentation of the book: A clean 3D-angled presentation of the physical paperback book "Atomic Habits" by James Clear on an elevated white marble pedestal with warm golden spotlights shining down and subtle sparkle stars around it. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 35]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. Call to action: The protagonist points with both hands and an animated golden glowing pointer hand straight downward toward the bottom edge (the comment section), with blinking sparkle stars directing the viewer's eyes down. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 36]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. The ultimate choice: The protagonist stands centered, palms open in a questioning gesture breaking the 4th wall, looking directly into the viewer's eyes with an intrigued, inquisitive expression and arched eyebrow. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 37]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Upper 80% framing. Massive motivation fading: A colorful celebration firework rocket explodes into a bright flash, but immediately fizzles out into dull grey smoke and dead sparks falling to the ground after only 3 days. Bottom 250px clear white space. Crisp black ink lines, flat clean colors.
+
+[SCENE 38]
+A minimalist 2D cartoon stick-figure illustration in the viral @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". Composition: Horizontal split-screen layout divided by a clean line across the center with a circular "VS" badge:
+- TOP PANEL: "MASSIVE MOTIVATION (Dies in 3 Days)" — A stick figure frantically cheering under dying firework smoke, looking exhausted and hopeless.
+- BOTTOM PANEL: "TINY DISCIPLINE (Unstoppable in 1 Year)" — A focused stick figure calmly tapping a small chisel against a marble block, revealing a magnificent golden superhero statue emerging.
+Bottom 250px clear white negative space for subtitles. Crisp black ink lines, clean flat colors.

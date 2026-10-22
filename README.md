@@ -1,194 +1,100 @@
-# 📚 Book-2Min
+# 📚 StickLit Master Production Engine (v2.1)
 
-> **High-Retention StickLit Animated Book Summary Video Generator**  
-> Automated end-to-end pipeline for turning any non-fiction book into a viral 2-minute, 9:16 vertical animated video in the visual style of `@sticklit`.
-
----
-
-## 🎯 Overview
-
-Book summaries on TikTok, YouTube Shorts, and Instagram Reels live or die by **audience retention**. Standard talking-head videos or slow slideshows suffer from steep viewer drop-offs.
-
-**Book-2Min** replicates the viral animated format popularized by channels like `@sticklit` (commanding 10M+ views), engineered specifically for maximum watch time:
-- **Fast-Paced Visual Cuts**: 40 unique scene illustrations for a 147-second video (~3.68s per image), preventing visual fatigue.
-- **The Everyman Visual Identity**: A consistent, instantly recognizable protagonist—a black-ink stick figure wearing a crisp white collared shirt and thin black necktie.
-- **Pure Full-Frame 9:16 Art**: No artificial zooming or panning across horizontal crops. Every illustration is composed natively for vertical mobile screens with distressed headlines and callout tags.
-- **Deepgram Flagship Voiceover**: Powered by Deepgram Aura-2 Thalia (`aura-2-thalia-en`), delivering natural, engaging, and professional narrative cadence.
-- **Kinetic Karaoke Subtitles**: Word-by-word active golden yellow highlights (`\c&H0000E6FF&`) against white text with thick black borders, timed to millisecond precision with `faster-whisper`.
-- **Procedural Lo-Fi Backing Track**: Atmospheric ambient chord progression synthesized in pure Python with subtle vinyl crackle and kick heartbeat.
+> **Autonomous End-to-End Pipeline for Viral Animated Book Summary Videos**  
+> Engineered specifically for high-retention mobile formats (TikTok, YouTube Shorts, Instagram Reels) commanding 10M+ views.  
+> **Master Benchmark**: *The Psychology of Money* by Morgan Housel (154.66s / 50 organic scenes / CFR 30.00 fps / zero drift).
 
 ---
 
-## 🏗️ Architecture & Project Structure
+## 🎯 Production Architecture Overview
 
+```mermaid
+flowchart TD
+    A["Stage 1: Deep Book Research<br/>(Chapter frameworks, counter-intuitive psychology, mental models)"] --> B["Stage 2: 2:00-3:00 Script Engine<br/>(340-460 words / 130s-170s, 4-Act Retention Arc)"]
+    B --> C["Stage 3: Deepgram Studio Voiceover<br/>(Aura-2 Thalia + Nova-2 Word-Level Alignment)"]
+    B --> D["Stage 4: Organic Cut Manifest & Golden ASS<br/>(Hard cuts on narrative shifts, #FFE600 subtitles)"]
+    D --> E["Stage 5: Tagged Prompt Directing<br/>([SCENE_XX] tags, locked Duo, centered upright cover)"]
+    E --> F["Stage 6: Fast CFR 30fps Master Render<br/>(Hardlink sequence, ducked BGM mix, midpoint QC auto-sampler)"]
 ```
-book-2min/
-├── .env.example              # Environment variables template
-├── .gitignore                # Production ignore rules (excludes large media/logs)
-├── requirements.txt          # Python dependencies
-├── README.md                 # Project documentation
-├── main.py                   # Unified CLI runner for all pipeline stages
+
+---
+
+## 🏆 Non-Negotiable Master Standards
+
+| Standard | Rule & Specification | Verification Method |
+| :--- | :--- | :--- |
+| **Duration** | **Strictly 2:00 – 3:00 Minutes** (130s–170s sweet spot, ~340–460 words). Squeezed scripts (<120s) strictly rejected. | `ffprobe` format duration |
+| **Pacing** | **Script-Driven Organic Cuts** (~45–55 cuts for a 2.5-min video; avg cut length: 2.8s–3.3s). No rigid 38 quota. | `exact_cues.json` manifest |
+| **Protagonist Duo** | **Kai & Maya**: Minimalist 2D stick limbs (zero muscular bulk), flat warm natural skin tone, charcoal tees (`#3A3A3C`), grey pants (`#8E8E93`), black boots. | Visual Model Sheet & Negative Directives |
+| **Scene 01 Cover** | **Centered Colossal Upright Book**: 100% upright and level, bold horizontal gold lettering, **zero tilt / zero neck bending**, flanked by Kai & Maya. | Midpoint snapshot inspection |
+| **Scene Last Dilemma** | **Single Cohesive Horizontal Split Screen**: Top-vs-bottom divided by black line with central circular **`(VS)`** badge. Never stitched. | Single 9:16 frame verification |
+| **Subtitles** | **Golden Yellow (`#FFE600`, ASS BGR `&H0000E6FF`)**, 5.0px black border, `MarginV = 100`. Bottom 250px safety zone clear. | Burned-in ASS verification |
+
+---
+
+## 📂 Repository Directory Layout
+
+```text
+eager-planck/
+├── sticklit.py                  # Turnkey Master CLI (audit, render, and inspect)
+├── AI_AGENT_WORKFLOW.md         # Autonomous instruction manual for AI agents
+├── README.md                    # Project documentation
 │
-├── src/                      # Modular Python package
-│   ├── __init__.py           # Package exports
-│   ├── config.py             # Global constants, paths, and subtitle styling
-│   ├── script_generator.py   # 5-Beat viral non-fiction hook framework
-│   ├── prompt_engine.py      # StickLit prompt builder (The Everyman formula)
-│   ├── tts_engine.py         # Deepgram Aura-2 Thalia & Edge-TTS synthesis
-│   ├── speech_aligner.py     # Faster-Whisper word-level timestamp alignment
-│   ├── subtitle_generator.py # ASS karaoke generator with active word highlighting
-│   ├── audio_mixer.py        # Procedural Lo-Fi music synthesizer
-│   └── video_renderer.py     # Native FFmpeg 9:16 video assembly engine
+├── books/                       # Golden assets for verified releases
+│   ├── psychology_of_money/     # 50-Scene Master Benchmark (154.66s)
+│   │   ├── script.txt           # Verified 386-word narrative script
+│   │   ├── exact_cues.json      # 50 continuous organic cut cues
+│   │   ├── golden_subtitles.ass # #FFE600 5.0px border ASS subtitles
+│   │   ├── prompts_50_scenes.txt# 50 tagged prompts with [SCENE_XX] prefixes
+│   │   ├── prompts_manifest.json# Automated regex & signature ingestion manifest
+│   │   └── timestamps.json      # Nova-2 word-level alignment
+│   ├── 48_laws_of_power/        # 38-Scene Master Release (107.78s)
+│   └── atomic_habits/           # 38-Scene Master Release (107.23s)
 │
-└── examples/
-    └── rich_dad_poor_dad/    # Complete reference dataset
-        ├── metadata.json     # Production specs, pacing, and scene counts
-        ├── script.txt        # Full 412-word, 147-second script
-        └── prompts.json      # 40 full StickLit scene prompts
+├── src/                         # Modular pipeline engine
+│   ├── config.py                # Global constants (1080x1920, 30fps, API keys)
+│   ├── tts_engine.py            # Deepgram Aura-2 / Edge-TTS audio synthesizer
+│   ├── speech_aligner.py        # Nova-2 word-level aligner
+│   ├── subtitle_generator.py    # ASS subtitle generator with safety margins
+│   ├── audio_mixer.py           # Ducked BGM mixer (-18.4 dB)
+│   └── video_renderer.py        # CFR video encoder
+│
+└── output/                      # Master video files & working directories
+    └── psychology_of_money/
+        ├── psychology_of_money_MASTER_FINAL.mp4 # Final 12.45 MB master video
+        └── psychology_of_money_voiceover.mp3    # Master 154.66s studio audio
 ```
 
 ---
 
-## 🎨 The StickLit Prompt Formula
+## ⚡ Fast CLI Quickstart
 
-All scene illustrations adhere to the strict prompt template:
-
-```
-9:16 vertical cartoon line-art illustration in the StickLit book summary style. Character design: {character_design}. {shot_type}, {focal_action}. Headline across the top: "{headline}". Callout tags: "{tag_1}", "{tag_2}". White background, thick dark ink outlines, pure 2D cartoon rendering, subtle shadow, {color_accents}. {human_clause}.
-```
-
-### Character Design: "The Everyman"
-```
-The Everyman, a classic black-ink stick figure wearing a crisp white collared shirt and thin black necktie
-```
-
-### Key Visual Rules:
-1. **Solid White Background**: Clean, distraction-free backdrop.
-2. **Thick Dark Ink Outlines**: High-contrast 2D cartoon rendering.
-3. **Upper Headline Banner**: Bold distressed block capitals summarizing the core concept.
-4. **Callout Tags**: Two concise micro-labels identifying components or outcomes.
-5. **Selective Color Accents**: Luminous emerald green for cash/assets, crimson red for debt/liabilities/danger, royal purple for the host.
-
----
-
-## 🎙️ Voiceover Engine (Deepgram Aura-2)
-
-The pipeline integrates Deepgram's flagship conversational voice model:
-- **Model**: `aura-2-thalia-en`
-- **Smart Chunking**: Deepgram enforces a 2,000-character payload limit per HTTP request. `src/tts_engine.py` splits long scripts into sentence-aware chunks (<1,800 characters) and concatenates audio byte streams.
-- **Edge-TTS Fallback**: Automatic fallback to Microsoft Edge Neural TTS (`en-US-ChristopherNeural`) if no API key is provided.
-
----
-
-## ⚡ Quickstart & Installation
-
-### 1. Prerequisites
-- Python 3.10+
-- [FFmpeg](https://ffmpeg.org/download.html) installed and added to your system `PATH`.
-
-### 2. Clone & Install Dependencies
+### 1. Audit Image Ingestion
+Verify that all downloaded images map 100% to the script scenes before rendering:
 ```bash
-git clone https://github.com/Etzkennyboi/book-2min.git
-cd book-2min
-
-# Create and activate virtual environment
-python -m venv venv
-# On Windows:
-.\venv\Scripts\activate
-# On macOS/Linux:
-source venv/bin/activate
-
-# Install required packages
-pip install -r requirements.txt
+python sticklit.py audit --book psychology_of_money --images "C:\path\to\downloaded_images"
 ```
 
-### 3. Configure API Credentials
-Copy `.env.example` to `.env` and insert your Deepgram API key:
+### 2. Render Master 9:16 Video
+Normalize frames to 1080x1920 pure white canvas, build CFR 30fps sequence, burn golden subtitles, mix ducked BGM, and render:
 ```bash
-cp .env.example .env
-```
-In `.env`:
-```env
-DEEPGRAM_API_KEY=your_deepgram_api_key_here
-DEEPGRAM_VOICE_MODEL=aura-2-thalia-en
+python sticklit.py render --book psychology_of_money --images "C:\path\to\downloaded_images"
 ```
 
 ---
 
-## 💻 CLI Usage
+## 🎙️ Voiceover & Audio Mixing Specs
 
-The CLI (`main.py`) exposes modular commands for each stage or a single one-step command:
-
-### 1. Generate StickLit Prompts for a Book
-```bash
-python main.py prompts --book "Rich Dad Poor Dad" --output output/prompts.json
-```
-
-### 2. Synthesize Voiceover
-```bash
-python main.py voiceover --script examples/rich_dad_poor_dad/script.txt --provider deepgram --output output/voiceover.mp3
-```
-
-### 3. Extract Word-Level Timestamps with Whisper
-```bash
-python main.py align --audio output/voiceover.mp3 --output output/timestamps.json
-```
-
-### 4. Generate Kinetic Karaoke Subtitles
-```bash
-python main.py subtitles --timestamps output/timestamps.json --output output/subtitles.ass
-```
-
-### 5. Synthesize Procedural Lo-Fi BGM
-```bash
-python main.py bgm --duration 147.26 --output output/bgm.wav
-```
-
-### 6. Render 9:16 Master Video
-```bash
-python main.py render \
-  --images-dir path/to/scene_images/ \
-  --voiceover output/voiceover.mp3 \
-  --subtitles output/subtitles.ass \
-  --duration 147.26 \
-  --output output/rich_dad_poor_dad_master.mp4
-```
-
-### 7. Run Full Pipeline End-to-End
-```bash
-python main.py pipeline \
-  --book "Rich Dad Poor Dad" \
-  --images-dir path/to/scene_images/ \
-  --script examples/rich_dad_poor_dad/script.txt \
-  --provider deepgram \
-  --output output/rich_dad_poor_dad_master.mp4
-```
+* **Voiceover Model**: Deepgram Aura-2 Thalia (`aura-2-thalia-en`) at 24kHz studio quality.
+* **Word Alignment**: Deepgram Nova-2 engine with punctuation and utterance timestamps.
+* **Background Music**: Ambient lo-fi track ducked to **`volume=0.12` (-18.4 dB)** beneath speech via FFmpeg `amix` filter.
 
 ---
 
-## 📊 Reference Case Study: *Rich Dad Poor Dad*
+## 🎬 Master Deliverables Verified
 
-The included reference production demonstrates the complete output specifications:
-
-| Metric | Specification |
-| :--- | :--- |
-| **Duration** | 147.26 seconds (2 mins 27 secs) |
-| **Scenes** | 40 full-frame illustrations |
-| **Pacing** | 3.68 seconds per visual cut |
-| **Resolution** | 1080 x 1920 (9:16 Vertical Video) |
-| **Frame Rate** | 30 FPS |
-| **Voiceover** | Deepgram Aura-2 Thalia (`aura-2-thalia-en`) |
-| **Subtitle Style** | ASS Karaoke (Yellow Active Word, White Inactive, Black Outline) |
-| **Audio Mix** | Voiceover + Lo-Fi backing track with automated ducking |
-
----
-
-## 🤝 Contributing
-
-Contributions and PRs are welcome! Feel free to add support for new AI image backends, expanded book framework templates, or multi-language subtitle pipelines.
-
----
-
-## 📄 License
-
-MIT License. See [LICENSE](LICENSE) for details.
+| Book Title | Runtime | Cut Count | Master Video File | Status |
+| :--- | :---: | :---: | :--- | :---: |
+| *The Psychology of Money* | **154.66s** (2:34) | **50 cuts** | `output/psychology_of_money/psychology_of_money_MASTER_FINAL.mp4` | ✅ Master |
+| *The 48 Laws of Power* | **107.78s** (1:47) | **38 cuts** | `output/48_laws_of_power/48_laws_of_power_MASTER_38.mp4` | ✅ Master |
+| *Atomic Habits* | **107.23s** (1:47) | **38 cuts** | `output/atomic_habits/atomic_habits_MASTER_38.mp4` | ✅ Master |

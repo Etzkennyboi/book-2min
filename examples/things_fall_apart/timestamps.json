@@ -1,0 +1,2335 @@
+{
+  "words": [
+    {
+      "word": "things",
+      "start": 0.08,
+      "end": 0.48,
+      "confidence": 0.9970703,
+      "punctuated_word": "Things"
+    },
+    {
+      "word": "fall",
+      "start": 0.48,
+      "end": 0.64,
+      "confidence": 0.73876953,
+      "punctuated_word": "fall"
+    },
+    {
+      "word": "apart",
+      "start": 0.64,
+      "end": 0.96,
+      "confidence": 1.0,
+      "punctuated_word": "apart"
+    },
+    {
+      "word": "by",
+      "start": 0.96,
+      "end": 1.28,
+      "confidence": 0.99902344,
+      "punctuated_word": "by"
+    },
+    {
+      "word": "chinua",
+      "start": 1.28,
+      "end": 1.78,
+      "confidence": 0.9797363,
+      "punctuated_word": "Chinua"
+    },
+    {
+      "word": "achebe",
+      "start": 1.8399999,
+      "end": 2.34,
+      "confidence": 0.99902344,
+      "punctuated_word": "Achebe"
+    },
+    {
+      "word": "in",
+      "start": 2.3999999,
+      "end": 2.6399999,
+      "confidence": 0.9970703,
+      "punctuated_word": "in"
+    },
+    {
+      "word": "two",
+      "start": 2.6399999,
+      "end": 2.8799999,
+      "confidence": 0.99902344,
+      "punctuated_word": "two"
+    },
+    {
+      "word": "minutes",
+      "start": 2.8799999,
+      "end": 3.3799999,
+      "confidence": 1.0,
+      "punctuated_word": "minutes."
+    },
+    {
+      "word": "most",
+      "start": 3.6,
+      "end": 3.84,
+      "confidence": 1.0,
+      "punctuated_word": "Most"
+    },
+    {
+      "word": "people",
+      "start": 3.84,
+      "end": 4.16,
+      "confidence": 1.0,
+      "punctuated_word": "people"
+    },
+    {
+      "word": "think",
+      "start": 4.16,
+      "end": 4.4,
+      "confidence": 1.0,
+      "punctuated_word": "think"
+    },
+    {
+      "word": "this",
+      "start": 4.4,
+      "end": 4.64,
+      "confidence": 1.0,
+      "punctuated_word": "this"
+    },
+    {
+      "word": "classic",
+      "start": 4.64,
+      "end": 5.12,
+      "confidence": 0.99902344,
+      "punctuated_word": "classic"
+    },
+    {
+      "word": "is",
+      "start": 5.12,
+      "end": 5.2799997,
+      "confidence": 1.0,
+      "punctuated_word": "is"
+    },
+    {
+      "word": "just",
+      "start": 5.2799997,
+      "end": 5.52,
+      "confidence": 1.0,
+      "punctuated_word": "just"
+    },
+    {
+      "word": "about",
+      "start": 5.52,
+      "end": 5.8399997,
+      "confidence": 1.0,
+      "punctuated_word": "about"
+    },
+    {
+      "word": "colonialism",
+      "start": 5.8399997,
+      "end": 6.3399997,
+      "confidence": 0.842041,
+      "punctuated_word": "colonialism,"
+    },
+    {
+      "word": "but",
+      "start": 7.12,
+      "end": 7.44,
+      "confidence": 1.0,
+      "punctuated_word": "but"
+    },
+    {
+      "word": "achebe",
+      "start": 7.44,
+      "end": 7.94,
+      "confidence": 0.9632161,
+      "punctuated_word": "Achebe"
+    },
+    {
+      "word": "created",
+      "start": 8.0,
+      "end": 8.4,
+      "confidence": 1.0,
+      "punctuated_word": "created"
+    },
+    {
+      "word": "one",
+      "start": 8.4,
+      "end": 8.559999,
+      "confidence": 1.0,
+      "punctuated_word": "one"
+    },
+    {
+      "word": "of",
+      "start": 8.559999,
+      "end": 8.72,
+      "confidence": 1.0,
+      "punctuated_word": "of"
+    },
+    {
+      "word": "the",
+      "start": 8.72,
+      "end": 8.88,
+      "confidence": 1.0,
+      "punctuated_word": "the"
+    },
+    {
+      "word": "most",
+      "start": 8.88,
+      "end": 9.12,
+      "confidence": 1.0,
+      "punctuated_word": "most"
+    },
+    {
+      "word": "haunting",
+      "start": 9.12,
+      "end": 9.599999,
+      "confidence": 0.99902344,
+      "punctuated_word": "haunting"
+    },
+    {
+      "word": "psychological",
+      "start": 9.599999,
+      "end": 10.099999,
+      "confidence": 1.0,
+      "punctuated_word": "psychological"
+    },
+    {
+      "word": "studies",
+      "start": 10.4,
+      "end": 10.88,
+      "confidence": 1.0,
+      "punctuated_word": "studies"
+    },
+    {
+      "word": "of",
+      "start": 10.88,
+      "end": 11.04,
+      "confidence": 1.0,
+      "punctuated_word": "of"
+    },
+    {
+      "word": "toxic",
+      "start": 11.04,
+      "end": 11.54,
+      "confidence": 1.0,
+      "punctuated_word": "toxic"
+    },
+    {
+      "word": "pride",
+      "start": 11.679999,
+      "end": 12.0,
+      "confidence": 1.0,
+      "punctuated_word": "pride"
+    },
+    {
+      "word": "ever",
+      "start": 12.0,
+      "end": 12.32,
+      "confidence": 1.0,
+      "punctuated_word": "ever"
+    },
+    {
+      "word": "written",
+      "start": 12.32,
+      "end": 12.82,
+      "confidence": 0.9995117,
+      "punctuated_word": "written."
+    },
+    {
+      "word": "at",
+      "start": 13.425,
+      "end": 13.585,
+      "confidence": 1.0,
+      "punctuated_word": "At"
+    },
+    {
+      "word": "its",
+      "start": 13.585,
+      "end": 13.745001,
+      "confidence": 0.9970703,
+      "punctuated_word": "its"
+    },
+    {
+      "word": "center",
+      "start": 13.745001,
+      "end": 14.145,
+      "confidence": 0.9970703,
+      "punctuated_word": "center"
+    },
+    {
+      "word": "is",
+      "start": 14.145,
+      "end": 14.385,
+      "confidence": 0.9970703,
+      "punctuated_word": "is"
+    },
+    {
+      "word": "okonkwo",
+      "start": 14.385,
+      "end": 14.885,
+      "confidence": 0.99492186,
+      "punctuated_word": "Okonkwo,"
+    },
+    {
+      "word": "a",
+      "start": 15.505,
+      "end": 15.665001,
+      "confidence": 1.0,
+      "punctuated_word": "a"
+    },
+    {
+      "word": "legendary",
+      "start": 15.665001,
+      "end": 16.165,
+      "confidence": 1.0,
+      "punctuated_word": "legendary"
+    },
+    {
+      "word": "wrestler",
+      "start": 16.305,
+      "end": 16.785,
+      "confidence": 1.0,
+      "punctuated_word": "wrestler"
+    },
+    {
+      "word": "and",
+      "start": 16.785,
+      "end": 16.945,
+      "confidence": 1.0,
+      "punctuated_word": "and"
+    },
+    {
+      "word": "warrior",
+      "start": 16.945,
+      "end": 17.345001,
+      "confidence": 0.99902344,
+      "punctuated_word": "warrior"
+    },
+    {
+      "word": "in",
+      "start": 17.345001,
+      "end": 17.585001,
+      "confidence": 1.0,
+      "punctuated_word": "in"
+    },
+    {
+      "word": "pre",
+      "start": 17.585001,
+      "end": 17.825,
+      "confidence": 0.71972656,
+      "punctuated_word": "pre"
+    },
+    {
+      "word": "colonial",
+      "start": 17.825,
+      "end": 18.325,
+      "confidence": 0.9667969,
+      "punctuated_word": "colonial"
+    },
+    {
+      "word": "nigeria",
+      "start": 18.465,
+      "end": 18.965,
+      "confidence": 0.9108887,
+      "punctuated_word": "Nigeria,"
+    },
+    {
+      "word": "revered",
+      "start": 19.585,
+      "end": 19.985,
+      "confidence": 1.0,
+      "punctuated_word": "revered"
+    },
+    {
+      "word": "across",
+      "start": 19.985,
+      "end": 20.465,
+      "confidence": 1.0,
+      "punctuated_word": "across"
+    },
+    {
+      "word": "nine",
+      "start": 20.465,
+      "end": 20.785,
+      "confidence": 1.0,
+      "punctuated_word": "nine"
+    },
+    {
+      "word": "villages",
+      "start": 20.785,
+      "end": 21.265,
+      "confidence": 1.0,
+      "punctuated_word": "villages"
+    },
+    {
+      "word": "for",
+      "start": 21.265,
+      "end": 21.425,
+      "confidence": 1.0,
+      "punctuated_word": "for"
+    },
+    {
+      "word": "his",
+      "start": 21.425,
+      "end": 21.665,
+      "confidence": 1.0,
+      "punctuated_word": "his"
+    },
+    {
+      "word": "ferocious",
+      "start": 21.665,
+      "end": 22.165,
+      "confidence": 0.99902344,
+      "punctuated_word": "ferocious"
+    },
+    {
+      "word": "strength",
+      "start": 22.305,
+      "end": 22.805,
+      "confidence": 0.91430664,
+      "punctuated_word": "strength."
+    },
+    {
+      "word": "yet",
+      "start": 23.425,
+      "end": 23.744999,
+      "confidence": 1.0,
+      "punctuated_word": "Yet"
+    },
+    {
+      "word": "beneath",
+      "start": 23.744999,
+      "end": 24.065,
+      "confidence": 0.87158203,
+      "punctuated_word": "beneath"
+    },
+    {
+      "word": "his",
+      "start": 24.065,
+      "end": 24.305,
+      "confidence": 1.0,
+      "punctuated_word": "his"
+    },
+    {
+      "word": "brutal",
+      "start": 24.305,
+      "end": 24.785,
+      "confidence": 1.0,
+      "punctuated_word": "brutal"
+    },
+    {
+      "word": "exterior",
+      "start": 24.785,
+      "end": 25.285,
+      "confidence": 1.0,
+      "punctuated_word": "exterior"
+    },
+    {
+      "word": "lies",
+      "start": 25.585,
+      "end": 25.904999,
+      "confidence": 0.7963867,
+      "punctuated_word": "lies"
+    },
+    {
+      "word": "a",
+      "start": 25.904999,
+      "end": 26.065,
+      "confidence": 0.99902344,
+      "punctuated_word": "a"
+    },
+    {
+      "word": "crippling",
+      "start": 26.065,
+      "end": 26.565,
+      "confidence": 1.0,
+      "punctuated_word": "crippling"
+    },
+    {
+      "word": "secret",
+      "start": 26.705,
+      "end": 27.105,
+      "confidence": 0.86035156,
+      "punctuated_word": "secret"
+    },
+    {
+      "word": "terror",
+      "start": 27.105,
+      "end": 27.54,
+      "confidence": 0.89086914,
+      "punctuated_word": "terror,"
+    },
+    {
+      "word": "the",
+      "start": 28.1,
+      "end": 28.34,
+      "confidence": 0.9980469,
+      "punctuated_word": "the"
+    },
+    {
+      "word": "fear",
+      "start": 28.34,
+      "end": 28.660002,
+      "confidence": 1.0,
+      "punctuated_word": "fear"
+    },
+    {
+      "word": "of",
+      "start": 28.660002,
+      "end": 28.900002,
+      "confidence": 1.0,
+      "punctuated_word": "of"
+    },
+    {
+      "word": "appearing",
+      "start": 28.900002,
+      "end": 29.300001,
+      "confidence": 0.9980469,
+      "punctuated_word": "appearing"
+    },
+    {
+      "word": "weak",
+      "start": 29.300001,
+      "end": 29.800001,
+      "confidence": 0.9880371,
+      "punctuated_word": "weak."
+    },
+    {
+      "word": "okonkwo's",
+      "start": 29.86,
+      "end": 30.36,
+      "confidence": 0.9614258,
+      "punctuated_word": "Okonkwo's"
+    },
+    {
+      "word": "entire",
+      "start": 30.66,
+      "end": 31.060001,
+      "confidence": 1.0,
+      "punctuated_word": "entire"
+    },
+    {
+      "word": "life",
+      "start": 31.060001,
+      "end": 31.380001,
+      "confidence": 1.0,
+      "punctuated_word": "life"
+    },
+    {
+      "word": "is",
+      "start": 31.380001,
+      "end": 31.54,
+      "confidence": 1.0,
+      "punctuated_word": "is"
+    },
+    {
+      "word": "driven",
+      "start": 31.54,
+      "end": 31.86,
+      "confidence": 1.0,
+      "punctuated_word": "driven"
+    },
+    {
+      "word": "by",
+      "start": 31.86,
+      "end": 32.02,
+      "confidence": 1.0,
+      "punctuated_word": "by"
+    },
+    {
+      "word": "running",
+      "start": 32.02,
+      "end": 32.34,
+      "confidence": 1.0,
+      "punctuated_word": "running"
+    },
+    {
+      "word": "from",
+      "start": 32.34,
+      "end": 32.58,
+      "confidence": 1.0,
+      "punctuated_word": "from"
+    },
+    {
+      "word": "the",
+      "start": 32.58,
+      "end": 32.66,
+      "confidence": 1.0,
+      "punctuated_word": "the"
+    },
+    {
+      "word": "memory",
+      "start": 32.66,
+      "end": 33.06,
+      "confidence": 1.0,
+      "punctuated_word": "memory"
+    },
+    {
+      "word": "of",
+      "start": 33.06,
+      "end": 33.22,
+      "confidence": 1.0,
+      "punctuated_word": "of"
+    },
+    {
+      "word": "his",
+      "start": 33.22,
+      "end": 33.46,
+      "confidence": 1.0,
+      "punctuated_word": "his"
+    },
+    {
+      "word": "father",
+      "start": 33.46,
+      "end": 33.96,
+      "confidence": 0.9741211,
+      "punctuated_word": "father,"
+    },
+    {
+      "word": "a",
+      "start": 34.260002,
+      "end": 34.420002,
+      "confidence": 1.0,
+      "punctuated_word": "a"
+    },
+    {
+      "word": "gentle",
+      "start": 34.420002,
+      "end": 34.82,
+      "confidence": 1.0,
+      "punctuated_word": "gentle"
+    },
+    {
+      "word": "debtor",
+      "start": 34.82,
+      "end": 35.22,
+      "confidence": 0.97802734,
+      "punctuated_word": "debtor"
+    },
+    {
+      "word": "branded",
+      "start": 35.22,
+      "end": 35.620003,
+      "confidence": 0.99316406,
+      "punctuated_word": "branded"
+    },
+    {
+      "word": "a",
+      "start": 35.620003,
+      "end": 35.78,
+      "confidence": 0.9941406,
+      "punctuated_word": "a"
+    },
+    {
+      "word": "coward",
+      "start": 35.78,
+      "end": 36.18,
+      "confidence": 1.0,
+      "punctuated_word": "coward"
+    },
+    {
+      "word": "by",
+      "start": 36.18,
+      "end": 36.34,
+      "confidence": 1.0,
+      "punctuated_word": "by"
+    },
+    {
+      "word": "the",
+      "start": 36.34,
+      "end": 36.420002,
+      "confidence": 1.0,
+      "punctuated_word": "the"
+    },
+    {
+      "word": "clan",
+      "start": 36.420002,
+      "end": 36.920002,
+      "confidence": 0.99072266,
+      "punctuated_word": "clan."
+    },
+    {
+      "word": "to",
+      "start": 37.54,
+      "end": 37.78,
+      "confidence": 1.0,
+      "punctuated_word": "To"
+    },
+    {
+      "word": "prove",
+      "start": 37.78,
+      "end": 38.02,
+      "confidence": 1.0,
+      "punctuated_word": "prove"
+    },
+    {
+      "word": "his",
+      "start": 38.02,
+      "end": 38.260002,
+      "confidence": 1.0,
+      "punctuated_word": "his"
+    },
+    {
+      "word": "manhood",
+      "start": 38.260002,
+      "end": 38.760002,
+      "confidence": 0.9967448,
+      "punctuated_word": "manhood,"
+    },
+    {
+      "word": "okonkwo",
+      "start": 38.82,
+      "end": 39.32,
+      "confidence": 0.9980469,
+      "punctuated_word": "Okonkwo"
+    },
+    {
+      "word": "banishes",
+      "start": 39.54,
+      "end": 40.04,
+      "confidence": 0.92041016,
+      "punctuated_word": "banishes"
+    },
+    {
+      "word": "all",
+      "start": 40.1,
+      "end": 40.34,
+      "confidence": 1.0,
+      "punctuated_word": "all"
+    },
+    {
+      "word": "softness",
+      "start": 40.34,
+      "end": 40.84,
+      "confidence": 0.9996745,
+      "punctuated_word": "softness."
+    },
+    {
+      "word": "he",
+      "start": 41.585003,
+      "end": 41.905003,
+      "confidence": 1.0,
+      "punctuated_word": "He"
+    },
+    {
+      "word": "rules",
+      "start": 41.905003,
+      "end": 42.225002,
+      "confidence": 0.9267578,
+      "punctuated_word": "rules"
+    },
+    {
+      "word": "his",
+      "start": 42.225002,
+      "end": 42.465,
+      "confidence": 1.0,
+      "punctuated_word": "his"
+    },
+    {
+      "word": "compound",
+      "start": 42.465,
+      "end": 42.865,
+      "confidence": 1.0,
+      "punctuated_word": "compound"
+    },
+    {
+      "word": "with",
+      "start": 42.865,
+      "end": 43.105,
+      "confidence": 1.0,
+      "punctuated_word": "with"
+    },
+    {
+      "word": "an",
+      "start": 43.105,
+      "end": 43.345,
+      "confidence": 1.0,
+      "punctuated_word": "an"
+    },
+    {
+      "word": "iron",
+      "start": 43.345,
+      "end": 43.665,
+      "confidence": 1.0,
+      "punctuated_word": "iron"
+    },
+    {
+      "word": "fist",
+      "start": 43.665,
+      "end": 44.165,
+      "confidence": 0.9980469,
+      "punctuated_word": "fist,"
+    },
+    {
+      "word": "beats",
+      "start": 44.385002,
+      "end": 44.625,
+      "confidence": 1.0,
+      "punctuated_word": "beats"
+    },
+    {
+      "word": "his",
+      "start": 44.625,
+      "end": 44.865,
+      "confidence": 1.0,
+      "punctuated_word": "his"
+    },
+    {
+      "word": "family",
+      "start": 44.865,
+      "end": 45.365,
+      "confidence": 0.98999023,
+      "punctuated_word": "family,"
+    },
+    {
+      "word": "and",
+      "start": 45.505,
+      "end": 45.745003,
+      "confidence": 1.0,
+      "punctuated_word": "and"
+    },
+    {
+      "word": "suppresses",
+      "start": 45.745003,
+      "end": 46.245003,
+      "confidence": 1.0,
+      "punctuated_word": "suppresses"
+    },
+    {
+      "word": "every",
+      "start": 46.385002,
+      "end": 46.705,
+      "confidence": 1.0,
+      "punctuated_word": "every"
+    },
+    {
+      "word": "trace",
+      "start": 46.705,
+      "end": 46.945,
+      "confidence": 1.0,
+      "punctuated_word": "trace"
+    },
+    {
+      "word": "of",
+      "start": 46.945,
+      "end": 47.185,
+      "confidence": 1.0,
+      "punctuated_word": "of"
+    },
+    {
+      "word": "affection",
+      "start": 47.185,
+      "end": 47.685,
+      "confidence": 1.0,
+      "punctuated_word": "affection."
+    },
+    {
+      "word": "when",
+      "start": 48.385002,
+      "end": 48.625,
+      "confidence": 1.0,
+      "punctuated_word": "When"
+    },
+    {
+      "word": "the",
+      "start": 48.625,
+      "end": 48.785,
+      "confidence": 1.0,
+      "punctuated_word": "the"
+    },
+    {
+      "word": "village",
+      "start": 48.785,
+      "end": 49.185,
+      "confidence": 0.99902344,
+      "punctuated_word": "village"
+    },
+    {
+      "word": "oracle",
+      "start": 49.185,
+      "end": 49.665,
+      "confidence": 0.9951172,
+      "punctuated_word": "oracle"
+    },
+    {
+      "word": "demands",
+      "start": 49.665,
+      "end": 50.065002,
+      "confidence": 1.0,
+      "punctuated_word": "demands"
+    },
+    {
+      "word": "the",
+      "start": 50.065002,
+      "end": 50.225002,
+      "confidence": 1.0,
+      "punctuated_word": "the"
+    },
+    {
+      "word": "death",
+      "start": 50.225002,
+      "end": 50.465,
+      "confidence": 1.0,
+      "punctuated_word": "death"
+    },
+    {
+      "word": "of",
+      "start": 50.465,
+      "end": 50.545002,
+      "confidence": 1.0,
+      "punctuated_word": "of"
+    },
+    {
+      "word": "aika",
+      "start": 50.545002,
+      "end": 50.865,
+      "confidence": 0.9301758,
+      "punctuated_word": "Aika"
+    },
+    {
+      "word": "mafuna",
+      "start": 50.865,
+      "end": 51.365,
+      "confidence": 0.9539795,
+      "punctuated_word": "Mafuna,"
+    },
+    {
+      "word": "a",
+      "start": 51.825,
+      "end": 51.985,
+      "confidence": 1.0,
+      "punctuated_word": "a"
+    },
+    {
+      "word": "captive",
+      "start": 51.985,
+      "end": 52.465,
+      "confidence": 1.0,
+      "punctuated_word": "captive"
+    },
+    {
+      "word": "boy",
+      "start": 52.465,
+      "end": 52.705,
+      "confidence": 1.0,
+      "punctuated_word": "boy"
+    },
+    {
+      "word": "who",
+      "start": 52.705,
+      "end": 52.865,
+      "confidence": 0.9902344,
+      "punctuated_word": "who"
+    },
+    {
+      "word": "calls",
+      "start": 52.865,
+      "end": 53.185,
+      "confidence": 1.0,
+      "punctuated_word": "calls"
+    },
+    {
+      "word": "okonkwo",
+      "start": 53.185,
+      "end": 53.685,
+      "confidence": 0.99902344,
+      "punctuated_word": "Okonkwo"
+    },
+    {
+      "word": "father",
+      "start": 53.825,
+      "end": 54.325,
+      "confidence": 0.8156738,
+      "punctuated_word": "father,"
+    },
+    {
+      "word": "okonkwo",
+      "start": 54.625,
+      "end": 55.125,
+      "confidence": 0.9992676,
+      "punctuated_word": "Okonkwo"
+    },
+    {
+      "word": "cuts",
+      "start": 55.265,
+      "end": 55.505,
+      "confidence": 1.0,
+      "punctuated_word": "cuts"
+    },
+    {
+      "word": "him",
+      "start": 55.505,
+      "end": 55.745003,
+      "confidence": 1.0,
+      "punctuated_word": "him"
+    },
+    {
+      "word": "down",
+      "start": 55.745003,
+      "end": 55.985,
+      "confidence": 1.0,
+      "punctuated_word": "down"
+    },
+    {
+      "word": "himself",
+      "start": 55.985,
+      "end": 56.485,
+      "confidence": 1.0,
+      "punctuated_word": "himself"
+    },
+    {
+      "word": "purely",
+      "start": 57.27,
+      "end": 57.59,
+      "confidence": 1.0,
+      "punctuated_word": "purely"
+    },
+    {
+      "word": "because",
+      "start": 57.59,
+      "end": 57.989998,
+      "confidence": 0.99902344,
+      "punctuated_word": "because"
+    },
+    {
+      "word": "he",
+      "start": 57.989998,
+      "end": 58.149998,
+      "confidence": 1.0,
+      "punctuated_word": "he"
+    },
+    {
+      "word": "is",
+      "start": 58.149998,
+      "end": 58.39,
+      "confidence": 0.99902344,
+      "punctuated_word": "is"
+    },
+    {
+      "word": "terrified",
+      "start": 58.39,
+      "end": 58.89,
+      "confidence": 1.0,
+      "punctuated_word": "terrified"
+    },
+    {
+      "word": "of",
+      "start": 58.949997,
+      "end": 59.19,
+      "confidence": 1.0,
+      "punctuated_word": "of"
+    },
+    {
+      "word": "being",
+      "start": 59.19,
+      "end": 59.51,
+      "confidence": 1.0,
+      "punctuated_word": "being"
+    },
+    {
+      "word": "seen",
+      "start": 59.51,
+      "end": 59.829998,
+      "confidence": 1.0,
+      "punctuated_word": "seen"
+    },
+    {
+      "word": "as",
+      "start": 59.829998,
+      "end": 60.149998,
+      "confidence": 1.0,
+      "punctuated_word": "as"
+    },
+    {
+      "word": "soft",
+      "start": 60.149998,
+      "end": 60.629997,
+      "confidence": 1.0,
+      "punctuated_word": "soft."
+    },
+    {
+      "word": "here",
+      "start": 60.629997,
+      "end": 60.87,
+      "confidence": 0.99902344,
+      "punctuated_word": "Here"
+    },
+    {
+      "word": "is",
+      "start": 60.87,
+      "end": 61.11,
+      "confidence": 0.99902344,
+      "punctuated_word": "is"
+    },
+    {
+      "word": "achebe's",
+      "start": 61.11,
+      "end": 61.61,
+      "confidence": 0.99609375,
+      "punctuated_word": "Achebe's"
+    },
+    {
+      "word": "brutal",
+      "start": 61.829998,
+      "end": 62.149998,
+      "confidence": 1.0,
+      "punctuated_word": "brutal"
+    },
+    {
+      "word": "truth",
+      "start": 62.149998,
+      "end": 62.649998,
+      "confidence": 0.9321289,
+      "punctuated_word": "truth."
+    },
+    {
+      "word": "rigidity",
+      "start": 63.03,
+      "end": 63.53,
+      "confidence": 1.0,
+      "punctuated_word": "Rigidity"
+    },
+    {
+      "word": "is",
+      "start": 63.59,
+      "end": 63.829998,
+      "confidence": 1.0,
+      "punctuated_word": "is"
+    },
+    {
+      "word": "not",
+      "start": 63.829998,
+      "end": 64.15,
+      "confidence": 1.0,
+      "punctuated_word": "not"
+    },
+    {
+      "word": "strength",
+      "start": 64.15,
+      "end": 64.65,
+      "confidence": 1.0,
+      "punctuated_word": "strength."
+    },
+    {
+      "word": "when",
+      "start": 65.03,
+      "end": 65.27,
+      "confidence": 1.0,
+      "punctuated_word": "When"
+    },
+    {
+      "word": "an",
+      "start": 65.27,
+      "end": 65.43,
+      "confidence": 1.0,
+      "punctuated_word": "an"
+    },
+    {
+      "word": "accidental",
+      "start": 65.43,
+      "end": 65.93,
+      "confidence": 1.0,
+      "punctuated_word": "accidental"
+    },
+    {
+      "word": "gun",
+      "start": 66.15,
+      "end": 66.39,
+      "confidence": 0.9873047,
+      "punctuated_word": "gun"
+    },
+    {
+      "word": "misfire",
+      "start": 66.39,
+      "end": 66.89,
+      "confidence": 0.99902344,
+      "punctuated_word": "misfire"
+    },
+    {
+      "word": "exiles",
+      "start": 67.03,
+      "end": 67.53,
+      "confidence": 0.99902344,
+      "punctuated_word": "exiles"
+    },
+    {
+      "word": "okonkwo",
+      "start": 67.67,
+      "end": 68.17,
+      "confidence": 1.0,
+      "punctuated_word": "Okonkwo"
+    },
+    {
+      "word": "for",
+      "start": 68.39,
+      "end": 68.549995,
+      "confidence": 0.99902344,
+      "punctuated_word": "for"
+    },
+    {
+      "word": "seven",
+      "start": 68.549995,
+      "end": 68.869995,
+      "confidence": 1.0,
+      "punctuated_word": "seven"
+    },
+    {
+      "word": "years",
+      "start": 68.869995,
+      "end": 69.369995,
+      "confidence": 0.99902344,
+      "punctuated_word": "years,"
+    },
+    {
+      "word": "his",
+      "start": 69.509995,
+      "end": 69.75,
+      "confidence": 1.0,
+      "punctuated_word": "his"
+    },
+    {
+      "word": "fragile",
+      "start": 69.75,
+      "end": 70.229996,
+      "confidence": 1.0,
+      "punctuated_word": "fragile"
+    },
+    {
+      "word": "world",
+      "start": 70.229996,
+      "end": 70.63,
+      "confidence": 1.0,
+      "punctuated_word": "world"
+    },
+    {
+      "word": "begins",
+      "start": 70.63,
+      "end": 70.95,
+      "confidence": 1.0,
+      "punctuated_word": "begins"
+    },
+    {
+      "word": "to",
+      "start": 70.95,
+      "end": 71.19,
+      "confidence": 1.0,
+      "punctuated_word": "to"
+    },
+    {
+      "word": "unravel",
+      "start": 71.19,
+      "end": 71.69,
+      "confidence": 1.0,
+      "punctuated_word": "unravel."
+    },
+    {
+      "word": "while",
+      "start": 72.465,
+      "end": 72.784996,
+      "confidence": 1.0,
+      "punctuated_word": "While"
+    },
+    {
+      "word": "he",
+      "start": 72.784996,
+      "end": 72.945,
+      "confidence": 1.0,
+      "punctuated_word": "he"
+    },
+    {
+      "word": "is",
+      "start": 72.945,
+      "end": 73.024994,
+      "confidence": 0.98535156,
+      "punctuated_word": "is"
+    },
+    {
+      "word": "gone",
+      "start": 73.024994,
+      "end": 73.524994,
+      "confidence": 0.9995117,
+      "punctuated_word": "gone,"
+    },
+    {
+      "word": "british",
+      "start": 73.744995,
+      "end": 74.145,
+      "confidence": 1.0,
+      "punctuated_word": "British"
+    },
+    {
+      "word": "colonial",
+      "start": 74.145,
+      "end": 74.645,
+      "confidence": 0.99121094,
+      "punctuated_word": "colonial"
+    },
+    {
+      "word": "missionaries",
+      "start": 74.704994,
+      "end": 75.204994,
+      "confidence": 1.0,
+      "punctuated_word": "missionaries"
+    },
+    {
+      "word": "quietly",
+      "start": 75.424995,
+      "end": 75.924995,
+      "confidence": 1.0,
+      "punctuated_word": "quietly"
+    },
+    {
+      "word": "infiltrate",
+      "start": 76.064995,
+      "end": 76.545,
+      "confidence": 1.0,
+      "punctuated_word": "infiltrate"
+    },
+    {
+      "word": "his",
+      "start": 76.545,
+      "end": 76.784996,
+      "confidence": 1.0,
+      "punctuated_word": "his"
+    },
+    {
+      "word": "homeland",
+      "start": 76.784996,
+      "end": 77.284996,
+      "confidence": 0.9995117,
+      "punctuated_word": "homeland."
+    },
+    {
+      "word": "they",
+      "start": 78.225,
+      "end": 78.384995,
+      "confidence": 1.0,
+      "punctuated_word": "They"
+    },
+    {
+      "word": "don't",
+      "start": 78.384995,
+      "end": 78.625,
+      "confidence": 1.0,
+      "punctuated_word": "don't"
+    },
+    {
+      "word": "just",
+      "start": 78.625,
+      "end": 78.945,
+      "confidence": 1.0,
+      "punctuated_word": "just"
+    },
+    {
+      "word": "bring",
+      "start": 78.945,
+      "end": 79.185,
+      "confidence": 1.0,
+      "punctuated_word": "bring"
+    },
+    {
+      "word": "religion",
+      "start": 79.185,
+      "end": 79.685,
+      "confidence": 0.75805664,
+      "punctuated_word": "religion."
+    },
+    {
+      "word": "they",
+      "start": 80.064995,
+      "end": 80.384995,
+      "confidence": 1.0,
+      "punctuated_word": "They"
+    },
+    {
+      "word": "offer",
+      "start": 80.384995,
+      "end": 80.704994,
+      "confidence": 0.99609375,
+      "punctuated_word": "offer"
+    },
+    {
+      "word": "dignity",
+      "start": 80.704994,
+      "end": 81.185,
+      "confidence": 1.0,
+      "punctuated_word": "dignity"
+    },
+    {
+      "word": "to",
+      "start": 81.185,
+      "end": 81.424995,
+      "confidence": 1.0,
+      "punctuated_word": "to"
+    },
+    {
+      "word": "society's",
+      "start": 81.424995,
+      "end": 81.924995,
+      "confidence": 0.9970703,
+      "punctuated_word": "society's"
+    },
+    {
+      "word": "outcasts",
+      "start": 82.064995,
+      "end": 82.564995,
+      "confidence": 0.99316406,
+      "punctuated_word": "outcasts,"
+    },
+    {
+      "word": "fracturing",
+      "start": 83.185,
+      "end": 83.66499,
+      "confidence": 1.0,
+      "punctuated_word": "fracturing"
+    },
+    {
+      "word": "the",
+      "start": 83.66499,
+      "end": 83.905,
+      "confidence": 1.0,
+      "punctuated_word": "the"
+    },
+    {
+      "word": "tribe",
+      "start": 83.905,
+      "end": 84.225,
+      "confidence": 1.0,
+      "punctuated_word": "tribe"
+    },
+    {
+      "word": "from",
+      "start": 84.225,
+      "end": 84.465,
+      "confidence": 1.0,
+      "punctuated_word": "from"
+    },
+    {
+      "word": "within",
+      "start": 84.465,
+      "end": 84.84,
+      "confidence": 0.9995117,
+      "punctuated_word": "within."
+    },
+    {
+      "word": "when",
+      "start": 85.32,
+      "end": 85.479996,
+      "confidence": 1.0,
+      "punctuated_word": "When"
+    },
+    {
+      "word": "okonkwo",
+      "start": 85.479996,
+      "end": 85.979996,
+      "confidence": 0.98254395,
+      "punctuated_word": "Okonkwo"
+    },
+    {
+      "word": "returns",
+      "start": 86.2,
+      "end": 86.7,
+      "confidence": 0.9458008,
+      "punctuated_word": "returns,"
+    },
+    {
+      "word": "expecting",
+      "start": 86.92,
+      "end": 87.399994,
+      "confidence": 1.0,
+      "punctuated_word": "expecting"
+    },
+    {
+      "word": "his",
+      "start": 87.399994,
+      "end": 87.56,
+      "confidence": 1.0,
+      "punctuated_word": "his"
+    },
+    {
+      "word": "people",
+      "start": 87.56,
+      "end": 87.799995,
+      "confidence": 1.0,
+      "punctuated_word": "people"
+    },
+    {
+      "word": "to",
+      "start": 87.799995,
+      "end": 88.03999,
+      "confidence": 1.0,
+      "punctuated_word": "to"
+    },
+    {
+      "word": "rise",
+      "start": 88.03999,
+      "end": 88.28,
+      "confidence": 1.0,
+      "punctuated_word": "rise"
+    },
+    {
+      "word": "in",
+      "start": 88.28,
+      "end": 88.52,
+      "confidence": 0.9951172,
+      "punctuated_word": "in"
+    },
+    {
+      "word": "war",
+      "start": 88.52,
+      "end": 89.02,
+      "confidence": 0.99902344,
+      "punctuated_word": "war,"
+    },
+    {
+      "word": "he",
+      "start": 89.159996,
+      "end": 89.32,
+      "confidence": 1.0,
+      "punctuated_word": "he"
+    },
+    {
+      "word": "finds",
+      "start": 89.32,
+      "end": 89.64,
+      "confidence": 1.0,
+      "punctuated_word": "finds"
+    },
+    {
+      "word": "a",
+      "start": 89.64,
+      "end": 89.71999,
+      "confidence": 0.99902344,
+      "punctuated_word": "a"
+    },
+    {
+      "word": "village",
+      "start": 89.71999,
+      "end": 90.119995,
+      "confidence": 1.0,
+      "punctuated_word": "village"
+    },
+    {
+      "word": "that",
+      "start": 90.119995,
+      "end": 90.28,
+      "confidence": 1.0,
+      "punctuated_word": "that"
+    },
+    {
+      "word": "has",
+      "start": 90.28,
+      "end": 90.52,
+      "confidence": 1.0,
+      "punctuated_word": "has"
+    },
+    {
+      "word": "moved",
+      "start": 90.52,
+      "end": 90.759995,
+      "confidence": 1.0,
+      "punctuated_word": "moved"
+    },
+    {
+      "word": "on",
+      "start": 90.759995,
+      "end": 91.259995,
+      "confidence": 0.9995117,
+      "punctuated_word": "on."
+    },
+    {
+      "word": "the",
+      "start": 91.479996,
+      "end": 91.71999,
+      "confidence": 1.0,
+      "punctuated_word": "The"
+    },
+    {
+      "word": "culture",
+      "start": 91.71999,
+      "end": 92.03999,
+      "confidence": 1.0,
+      "punctuated_word": "culture"
+    },
+    {
+      "word": "has",
+      "start": 92.03999,
+      "end": 92.28,
+      "confidence": 1.0,
+      "punctuated_word": "has"
+    },
+    {
+      "word": "shifted",
+      "start": 92.28,
+      "end": 92.78,
+      "confidence": 0.9592285,
+      "punctuated_word": "shifted,"
+    },
+    {
+      "word": "and",
+      "start": 92.92,
+      "end": 93.079994,
+      "confidence": 1.0,
+      "punctuated_word": "and"
+    },
+    {
+      "word": "they",
+      "start": 93.079994,
+      "end": 93.399994,
+      "confidence": 1.0,
+      "punctuated_word": "they"
+    },
+    {
+      "word": "refuse",
+      "start": 93.399994,
+      "end": 93.88,
+      "confidence": 0.77441406,
+      "punctuated_word": "refuse"
+    },
+    {
+      "word": "to",
+      "start": 93.88,
+      "end": 94.03999,
+      "confidence": 1.0,
+      "punctuated_word": "to"
+    },
+    {
+      "word": "fight",
+      "start": 94.03999,
+      "end": 94.53999,
+      "confidence": 0.99658203,
+      "punctuated_word": "fight."
+    },
+    {
+      "word": "in",
+      "start": 94.67999,
+      "end": 94.92,
+      "confidence": 1.0,
+      "punctuated_word": "In"
+    },
+    {
+      "word": "a",
+      "start": 94.92,
+      "end": 95.079994,
+      "confidence": 1.0,
+      "punctuated_word": "a"
+    },
+    {
+      "word": "desperate",
+      "start": 95.079994,
+      "end": 95.479996,
+      "confidence": 1.0,
+      "punctuated_word": "desperate"
+    },
+    {
+      "word": "act",
+      "start": 95.479996,
+      "end": 95.71999,
+      "confidence": 0.9892578,
+      "punctuated_word": "act"
+    },
+    {
+      "word": "of",
+      "start": 95.71999,
+      "end": 95.88,
+      "confidence": 1.0,
+      "punctuated_word": "of"
+    },
+    {
+      "word": "fury",
+      "start": 95.88,
+      "end": 96.38,
+      "confidence": 0.99902344,
+      "punctuated_word": "fury,"
+    },
+    {
+      "word": "okonkwo",
+      "start": 96.6,
+      "end": 97.1,
+      "confidence": 0.9995117,
+      "punctuated_word": "Okonkwo"
+    },
+    {
+      "word": "strikes",
+      "start": 97.24,
+      "end": 97.56,
+      "confidence": 1.0,
+      "punctuated_word": "strikes"
+    },
+    {
+      "word": "down",
+      "start": 97.56,
+      "end": 97.799995,
+      "confidence": 1.0,
+      "punctuated_word": "down"
+    },
+    {
+      "word": "a",
+      "start": 97.799995,
+      "end": 97.88,
+      "confidence": 1.0,
+      "punctuated_word": "a"
+    },
+    {
+      "word": "colonial",
+      "start": 97.88,
+      "end": 98.38,
+      "confidence": 1.0,
+      "punctuated_word": "colonial"
+    },
+    {
+      "word": "messenger",
+      "start": 98.439995,
+      "end": 98.939995,
+      "confidence": 0.9511719,
+      "punctuated_word": "messenger."
+    },
+    {
+      "word": "but",
+      "start": 99.515,
+      "end": 99.755005,
+      "confidence": 1.0,
+      "punctuated_word": "But"
+    },
+    {
+      "word": "when",
+      "start": 99.755005,
+      "end": 99.915,
+      "confidence": 1.0,
+      "punctuated_word": "when"
+    },
+    {
+      "word": "his",
+      "start": 99.915,
+      "end": 100.155,
+      "confidence": 1.0,
+      "punctuated_word": "his"
+    },
+    {
+      "word": "clansmen",
+      "start": 100.155,
+      "end": 100.635,
+      "confidence": 0.9680176,
+      "punctuated_word": "clansmen"
+    },
+    {
+      "word": "let",
+      "start": 100.635,
+      "end": 100.795,
+      "confidence": 0.99609375,
+      "punctuated_word": "let"
+    },
+    {
+      "word": "the",
+      "start": 100.795,
+      "end": 100.955,
+      "confidence": 0.99902344,
+      "punctuated_word": "the"
+    },
+    {
+      "word": "other",
+      "start": 100.955,
+      "end": 101.195,
+      "confidence": 1.0,
+      "punctuated_word": "other"
+    },
+    {
+      "word": "messengers",
+      "start": 101.195,
+      "end": 101.695,
+      "confidence": 1.0,
+      "punctuated_word": "messengers"
+    },
+    {
+      "word": "escape",
+      "start": 101.835,
+      "end": 102.335,
+      "confidence": 0.9995117,
+      "punctuated_word": "escape,"
+    },
+    {
+      "word": "the",
+      "start": 102.475,
+      "end": 102.715004,
+      "confidence": 1.0,
+      "punctuated_word": "the"
+    },
+    {
+      "word": "horrifying",
+      "start": 102.715004,
+      "end": 103.215004,
+      "confidence": 1.0,
+      "punctuated_word": "horrifying"
+    },
+    {
+      "word": "truth",
+      "start": 103.275,
+      "end": 103.595,
+      "confidence": 1.0,
+      "punctuated_word": "truth"
+    },
+    {
+      "word": "hits",
+      "start": 103.595,
+      "end": 103.835,
+      "confidence": 1.0,
+      "punctuated_word": "hits"
+    },
+    {
+      "word": "him",
+      "start": 103.835,
+      "end": 104.335,
+      "confidence": 0.9875488,
+      "punctuated_word": "him."
+    },
+    {
+      "word": "he",
+      "start": 104.555,
+      "end": 104.715004,
+      "confidence": 1.0,
+      "punctuated_word": "He"
+    },
+    {
+      "word": "is",
+      "start": 104.715004,
+      "end": 104.955,
+      "confidence": 0.98535156,
+      "punctuated_word": "is"
+    },
+    {
+      "word": "completely",
+      "start": 104.955,
+      "end": 105.455,
+      "confidence": 1.0,
+      "punctuated_word": "completely"
+    },
+    {
+      "word": "alone",
+      "start": 105.515,
+      "end": 106.015,
+      "confidence": 0.9707031,
+      "punctuated_word": "alone."
+    },
+    {
+      "word": "unable",
+      "start": 106.315,
+      "end": 106.715004,
+      "confidence": 1.0,
+      "punctuated_word": "Unable"
+    },
+    {
+      "word": "to",
+      "start": 106.715004,
+      "end": 106.875,
+      "confidence": 1.0,
+      "punctuated_word": "to"
+    },
+    {
+      "word": "adapt",
+      "start": 106.875,
+      "end": 107.195,
+      "confidence": 1.0,
+      "punctuated_word": "adapt"
+    },
+    {
+      "word": "to",
+      "start": 107.195,
+      "end": 107.355,
+      "confidence": 1.0,
+      "punctuated_word": "to"
+    },
+    {
+      "word": "a",
+      "start": 107.355,
+      "end": 107.435,
+      "confidence": 1.0,
+      "punctuated_word": "a"
+    },
+    {
+      "word": "world",
+      "start": 107.435,
+      "end": 107.755005,
+      "confidence": 1.0,
+      "punctuated_word": "world"
+    },
+    {
+      "word": "he",
+      "start": 107.755005,
+      "end": 107.915,
+      "confidence": 0.99902344,
+      "punctuated_word": "he"
+    },
+    {
+      "word": "cannot",
+      "start": 107.915,
+      "end": 108.315,
+      "confidence": 1.0,
+      "punctuated_word": "cannot"
+    },
+    {
+      "word": "control",
+      "start": 108.315,
+      "end": 108.815,
+      "confidence": 0.9909668,
+      "punctuated_word": "control,"
+    },
+    {
+      "word": "the",
+      "start": 108.955,
+      "end": 109.115005,
+      "confidence": 0.99902344,
+      "punctuated_word": "the"
+    },
+    {
+      "word": "greatest",
+      "start": 109.115005,
+      "end": 109.595,
+      "confidence": 1.0,
+      "punctuated_word": "greatest"
+    },
+    {
+      "word": "warrior",
+      "start": 109.595,
+      "end": 109.915,
+      "confidence": 0.9980469,
+      "punctuated_word": "warrior"
+    },
+    {
+      "word": "of",
+      "start": 109.915,
+      "end": 110.155,
+      "confidence": 1.0,
+      "punctuated_word": "of"
+    },
+    {
+      "word": "umuofia",
+      "start": 110.155,
+      "end": 110.655,
+      "confidence": 0.8618164,
+      "punctuated_word": "Umuofia"
+    },
+    {
+      "word": "hangs",
+      "start": 110.955,
+      "end": 111.275,
+      "confidence": 0.9951172,
+      "punctuated_word": "hangs"
+    },
+    {
+      "word": "himself",
+      "start": 111.275,
+      "end": 111.675,
+      "confidence": 1.0,
+      "punctuated_word": "himself"
+    },
+    {
+      "word": "in",
+      "start": 111.675,
+      "end": 111.835,
+      "confidence": 1.0,
+      "punctuated_word": "in"
+    },
+    {
+      "word": "despair",
+      "start": 111.835,
+      "end": 112.335,
+      "confidence": 1.0,
+      "punctuated_word": "despair."
+    },
+    {
+      "word": "things",
+      "start": 112.92,
+      "end": 113.16,
+      "confidence": 0.9970703,
+      "punctuated_word": "Things"
+    },
+    {
+      "word": "fall",
+      "start": 113.16,
+      "end": 113.4,
+      "confidence": 0.7890625,
+      "punctuated_word": "fall"
+    },
+    {
+      "word": "apart",
+      "start": 113.4,
+      "end": 113.72,
+      "confidence": 1.0,
+      "punctuated_word": "apart"
+    },
+    {
+      "word": "proves",
+      "start": 113.72,
+      "end": 114.04,
+      "confidence": 0.9970703,
+      "punctuated_word": "proves"
+    },
+    {
+      "word": "that",
+      "start": 114.04,
+      "end": 114.2,
+      "confidence": 1.0,
+      "punctuated_word": "that"
+    },
+    {
+      "word": "when",
+      "start": 114.2,
+      "end": 114.36,
+      "confidence": 1.0,
+      "punctuated_word": "when"
+    },
+    {
+      "word": "you",
+      "start": 114.36,
+      "end": 114.52,
+      "confidence": 1.0,
+      "punctuated_word": "you"
+    },
+    {
+      "word": "refuse",
+      "start": 114.52,
+      "end": 114.84,
+      "confidence": 0.9980469,
+      "punctuated_word": "refuse"
+    },
+    {
+      "word": "to",
+      "start": 114.84,
+      "end": 115.0,
+      "confidence": 1.0,
+      "punctuated_word": "to"
+    },
+    {
+      "word": "bend",
+      "start": 115.0,
+      "end": 115.24,
+      "confidence": 0.9873047,
+      "punctuated_word": "bend"
+    },
+    {
+      "word": "with",
+      "start": 115.24,
+      "end": 115.48,
+      "confidence": 0.99902344,
+      "punctuated_word": "with"
+    },
+    {
+      "word": "reality",
+      "start": 115.48,
+      "end": 115.96,
+      "confidence": 0.9667969,
+      "punctuated_word": "reality,"
+    },
+    {
+      "word": "you",
+      "start": 115.96,
+      "end": 116.12,
+      "confidence": 0.99902344,
+      "punctuated_word": "you"
+    },
+    {
+      "word": "will",
+      "start": 116.12,
+      "end": 116.36,
+      "confidence": 1.0,
+      "punctuated_word": "will"
+    },
+    {
+      "word": "inevitably",
+      "start": 116.36,
+      "end": 116.86,
+      "confidence": 1.0,
+      "punctuated_word": "inevitably"
+    },
+    {
+      "word": "shatter",
+      "start": 117.0,
+      "end": 117.5,
+      "confidence": 1.0,
+      "punctuated_word": "shatter."
+    },
+    {
+      "word": "if",
+      "start": 117.96,
+      "end": 118.2,
+      "confidence": 0.9941406,
+      "punctuated_word": "If"
+    },
+    {
+      "word": "you",
+      "start": 118.2,
+      "end": 118.28,
+      "confidence": 1.0,
+      "punctuated_word": "you"
+    },
+    {
+      "word": "want",
+      "start": 118.28,
+      "end": 118.52,
+      "confidence": 1.0,
+      "punctuated_word": "want"
+    },
+    {
+      "word": "to",
+      "start": 118.52,
+      "end": 118.68,
+      "confidence": 0.99902344,
+      "punctuated_word": "to"
+    },
+    {
+      "word": "experience",
+      "start": 118.68,
+      "end": 119.18,
+      "confidence": 1.0,
+      "punctuated_word": "experience"
+    },
+    {
+      "word": "the",
+      "start": 119.24,
+      "end": 119.32,
+      "confidence": 0.9970703,
+      "punctuated_word": "the"
+    },
+    {
+      "word": "raw",
+      "start": 119.32,
+      "end": 119.64,
+      "confidence": 1.0,
+      "punctuated_word": "raw"
+    },
+    {
+      "word": "power",
+      "start": 119.64,
+      "end": 119.88,
+      "confidence": 1.0,
+      "punctuated_word": "power"
+    },
+    {
+      "word": "of",
+      "start": 119.88,
+      "end": 120.04,
+      "confidence": 0.99902344,
+      "punctuated_word": "of"
+    },
+    {
+      "word": "african",
+      "start": 120.04,
+      "end": 120.52,
+      "confidence": 0.9902344,
+      "punctuated_word": "African"
+    },
+    {
+      "word": "literature's",
+      "start": 120.52,
+      "end": 121.02,
+      "confidence": 0.9916992,
+      "punctuated_word": "literature's"
+    },
+    {
+      "word": "greatest",
+      "start": 121.08,
+      "end": 121.56,
+      "confidence": 0.99609375,
+      "punctuated_word": "greatest"
+    },
+    {
+      "word": "master",
+      "start": 121.56,
+      "end": 121.85094,
+      "confidence": 0.6098633,
+      "punctuated_word": "master"
+    },
+    {
+      "word": "piece",
+      "start": 122.33094,
+      "end": 122.730934,
+      "confidence": 0.98876953,
+      "punctuated_word": "piece,"
+    },
+    {
+      "word": "grab",
+      "start": 122.730934,
+      "end": 122.97094,
+      "confidence": 0.99902344,
+      "punctuated_word": "grab"
+    },
+    {
+      "word": "the",
+      "start": 122.97094,
+      "end": 123.050934,
+      "confidence": 1.0,
+      "punctuated_word": "the"
+    },
+    {
+      "word": "book",
+      "start": 123.050934,
+      "end": 123.29094,
+      "confidence": 0.9980469,
+      "punctuated_word": "book"
+    },
+    {
+      "word": "from",
+      "start": 123.29094,
+      "end": 123.450935,
+      "confidence": 1.0,
+      "punctuated_word": "from"
+    },
+    {
+      "word": "the",
+      "start": 123.450935,
+      "end": 123.61094,
+      "confidence": 1.0,
+      "punctuated_word": "the"
+    },
+    {
+      "word": "link",
+      "start": 123.61094,
+      "end": 123.93094,
+      "confidence": 0.99609375,
+      "punctuated_word": "link"
+    },
+    {
+      "word": "pinned",
+      "start": 123.93094,
+      "end": 124.17094,
+      "confidence": 0.9951172,
+      "punctuated_word": "pinned"
+    },
+    {
+      "word": "in",
+      "start": 124.17094,
+      "end": 124.33094,
+      "confidence": 1.0,
+      "punctuated_word": "in"
+    },
+    {
+      "word": "the",
+      "start": 124.33094,
+      "end": 124.49094,
+      "confidence": 1.0,
+      "punctuated_word": "the"
+    },
+    {
+      "word": "top",
+      "start": 124.49094,
+      "end": 124.810936,
+      "confidence": 1.0,
+      "punctuated_word": "top"
+    },
+    {
+      "word": "comment",
+      "start": 124.810936,
+      "end": 125.310936,
+      "confidence": 0.9995117,
+      "punctuated_word": "comment."
+    },
+    {
+      "word": "tell",
+      "start": 125.770935,
+      "end": 125.93094,
+      "confidence": 0.99902344,
+      "punctuated_word": "Tell"
+    },
+    {
+      "word": "me",
+      "start": 125.93094,
+      "end": 126.17094,
+      "confidence": 1.0,
+      "punctuated_word": "me"
+    },
+    {
+      "word": "below",
+      "start": 126.17094,
+      "end": 126.67094,
+      "confidence": 0.81884766,
+      "punctuated_word": "below."
+    },
+    {
+      "word": "what",
+      "start": 127.21094,
+      "end": 127.53094,
+      "confidence": 1.0,
+      "punctuated_word": "What"
+    },
+    {
+      "word": "destroys",
+      "start": 127.53094,
+      "end": 128.01094,
+      "confidence": 0.9980469,
+      "punctuated_word": "destroys"
+    },
+    {
+      "word": "a",
+      "start": 128.01094,
+      "end": 128.17093,
+      "confidence": 1.0,
+      "punctuated_word": "a"
+    },
+    {
+      "word": "person",
+      "start": 128.17093,
+      "end": 128.57094,
+      "confidence": 1.0,
+      "punctuated_word": "person"
+    },
+    {
+      "word": "faster",
+      "start": 128.57094,
+      "end": 129.07094,
+      "confidence": 0.798584,
+      "punctuated_word": "faster?"
+    },
+    {
+      "word": "refusing",
+      "start": 129.61093,
+      "end": 130.09094,
+      "confidence": 0.9995117,
+      "punctuated_word": "Refusing"
+    },
+    {
+      "word": "to",
+      "start": 130.09094,
+      "end": 130.25093,
+      "confidence": 1.0,
+      "punctuated_word": "to"
+    },
+    {
+      "word": "show",
+      "start": 130.25093,
+      "end": 130.49094,
+      "confidence": 1.0,
+      "punctuated_word": "show"
+    },
+    {
+      "word": "weakness",
+      "start": 130.49094,
+      "end": 130.99094,
+      "confidence": 1.0,
+      "punctuated_word": "weakness"
+    },
+    {
+      "word": "or",
+      "start": 131.21094,
+      "end": 131.45094,
+      "confidence": 0.8935547,
+      "punctuated_word": "or"
+    },
+    {
+      "word": "refusing",
+      "start": 131.45094,
+      "end": 131.85094,
+      "confidence": 1.0,
+      "punctuated_word": "refusing"
+    },
+    {
+      "word": "to",
+      "start": 131.85094,
+      "end": 132.09094,
+      "confidence": 1.0,
+      "punctuated_word": "to"
+    },
+    {
+      "word": "adapt",
+      "start": 132.09094,
+      "end": 132.59094,
+      "confidence": 0.99560547,
+      "punctuated_word": "adapt?"
+    }
+  ]
+}

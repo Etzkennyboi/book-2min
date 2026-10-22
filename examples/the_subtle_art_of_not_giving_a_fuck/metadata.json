@@ -1,0 +1,16 @@
+{
+  "book_title": "The Subtle Art of Not Giving a F*ck",
+  "author": "Mark Manson",
+  "genre": "Self-Help / Practical Philosophy",
+  "target_duration_seconds": 125,
+  "target_word_count": 340,
+  "visual_style": "StickLit 9:16 Vertical Animated Line-Art",
+  "character": "The Everyman (Black-ink stick figure, white collared shirt, thin black necktie)",
+  "core_beats": [
+    "Beat 1: The Hook & The Feedback Loop From Hell (0:00 - 0:18)",
+    "Beat 2: The Two Paths: Forced Positivity vs Radical Acceptance (0:18 - 0:45)",
+    "Beat 3: The Core Framework: Good Values vs Bad Values (0:45 - 1:18)",
+    "Beat 4: The Escalation: Choose Your Struggle & The Do Something Principle (1:18 - 1:48)",
+    "Beat 5: The Philosophical Reframe: Memento Mori & The Closing Truth (1:48 - 2:05)"
+  ]
+}

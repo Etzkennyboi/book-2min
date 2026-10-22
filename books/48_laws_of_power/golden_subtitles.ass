@@ -1,0 +1,103 @@
+[Script Info]
+Title: The 48 Laws of Power Golden Phrased Captions
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: GoldPhrase100,Arial,84,&H0000E6FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,5.0,0.0,2,80,80,100,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.08,0:00:01.20,GoldPhrase100,,0,0,0,,the 48 laws of
+Dialogue: 0,0:00:01.20,0:00:02.40,GoldPhrase100,,0,0,0,,power by robert greene
+Dialogue: 0,0:00:02.40,0:00:03.22,GoldPhrase100,,0,0,0,,in two minutes
+Dialogue: 0,0:00:03.52,0:00:04.64,GoldPhrase100,,0,0,0,,most people believe that
+Dialogue: 0,0:00:04.64,0:00:05.52,GoldPhrase100,,0,0,0,,if you just work
+Dialogue: 0,0:00:05.52,0:00:06.64,GoldPhrase100,,0,0,0,,hard and play nice
+Dialogue: 0,0:00:06.64,0:00:07.52,GoldPhrase100,,0,0,0,,you will rise to
+Dialogue: 0,0:00:07.52,0:00:08.18,GoldPhrase100,,0,0,0,,the top
+Dialogue: 0,0:00:08.48,0:00:09.22,GoldPhrase100,,0,0,0,,in reality
+Dialogue: 0,0:00:09.44,0:00:10.74,GoldPhrase100,,0,0,0,,naive people get outmaneuvered
+Dialogue: 0,0:00:11.04,0:00:12.32,GoldPhrase100,,0,0,0,,and crushed every single
+Dialogue: 0,0:00:12.32,0:00:12.82,GoldPhrase100,,0,0,0,,day
+Dialogue: 0,0:00:13.20,0:00:14.42,GoldPhrase100,,0,0,0,,power is like gravity
+Dialogue: 0,0:00:14.93,0:00:15.65,GoldPhrase100,,0,0,0,,you don't have to
+Dialogue: 0,0:00:15.65,0:00:16.05,GoldPhrase100,,0,0,0,,like it
+Dialogue: 0,0:00:16.05,0:00:16.86,GoldPhrase100,,0,0,0,,but if you ignore
+Dialogue: 0,0:00:16.86,0:00:17.49,GoldPhrase100,,0,0,0,,its laws
+Dialogue: 0,0:00:17.49,0:00:18.21,GoldPhrase100,,0,0,0,,you fall
+Dialogue: 0,0:00:18.21,0:00:19.59,GoldPhrase100,,0,0,0,,take law number one
+Dialogue: 0,0:00:19.89,0:00:21.52,GoldPhrase100,,0,0,0,,never outshine the master
+Dialogue: 0,0:00:21.89,0:00:23.09,GoldPhrase100,,0,0,0,,nicolas fouquet was a
+Dialogue: 0,0:00:23.09,0:00:24.77,GoldPhrase100,,0,0,0,,brilliant finance minister who
+Dialogue: 0,0:00:24.77,0:00:25.89,GoldPhrase100,,0,0,0,,wanted to impress king
+Dialogue: 0,0:00:25.89,0:00:26.88,GoldPhrase100,,0,0,0,,louis the fourteenth
+Dialogue: 0,0:00:27.26,0:00:28.06,GoldPhrase100,,0,0,0,,he threw the most
+Dialogue: 0,0:00:28.06,0:00:29.44,GoldPhrase100,,0,0,0,,lavish party in history
+Dialogue: 0,0:00:29.74,0:00:30.86,GoldPhrase100,,0,0,0,,showing off his immense
+Dialogue: 0,0:00:30.86,0:00:31.36,GoldPhrase100,,0,0,0,,wealth
+Dialogue: 0,0:00:31.90,0:00:33.28,GoldPhrase100,,0,0,0,,instead of being impressed
+Dialogue: 0,0:00:33.66,0:00:34.88,GoldPhrase100,,0,0,0,,the king felt upstaged
+Dialogue: 0,0:00:35.10,0:00:36.38,GoldPhrase100,,0,0,0,,and terrified of being
+Dialogue: 0,0:00:36.38,0:00:36.88,GoldPhrase100,,0,0,0,,eclipsed
+Dialogue: 0,0:00:37.50,0:00:38.40,GoldPhrase100,,0,0,0,,within weeks
+Dialogue: 0,0:00:38.54,0:00:39.82,GoldPhrase100,,0,0,0,,fouquet was thrown into
+Dialogue: 0,0:00:39.82,0:00:40.86,GoldPhrase100,,0,0,0,,a dark dungeon for
+Dialogue: 0,0:00:40.86,0:00:41.50,GoldPhrase100,,0,0,0,,the rest of his
+Dialogue: 0,0:00:41.50,0:00:41.72,GoldPhrase100,,0,0,0,,life
+Dialogue: 0,0:00:42.27,0:00:43.48,GoldPhrase100,,0,0,0,,always make those above
+Dialogue: 0,0:00:43.48,0:00:45.09,GoldPhrase100,,0,0,0,,you feel comfortably superior
+Dialogue: 0,0:00:45.80,0:00:46.77,GoldPhrase100,,0,0,0,,number four
+Dialogue: 0,0:00:46.84,0:00:48.03,GoldPhrase100,,0,0,0,,always say less than
+Dialogue: 0,0:00:48.03,0:00:48.53,GoldPhrase100,,0,0,0,,necessary
+Dialogue: 0,0:00:49.23,0:00:50.35,GoldPhrase100,,0,0,0,,the more you speak
+Dialogue: 0,0:00:50.35,0:00:51.40,GoldPhrase100,,0,0,0,,the more ordinary you
+Dialogue: 0,0:00:51.40,0:00:52.35,GoldPhrase100,,0,0,0,,look and the more
+Dialogue: 0,0:00:52.35,0:00:53.49,GoldPhrase100,,0,0,0,,leverage you surrender
+Dialogue: 0,0:00:54.11,0:00:55.40,GoldPhrase100,,0,0,0,,powerful people speak in
+Dialogue: 0,0:00:55.40,0:00:56.77,GoldPhrase100,,0,0,0,,short ambiguous sentences
+Dialogue: 0,0:00:57.48,0:00:58.20,GoldPhrase100,,0,0,0,,when you keep your
+Dialogue: 0,0:00:58.20,0:00:59.02,GoldPhrase100,,0,0,0,,mouth shut
+Dialogue: 0,0:00:59.08,0:00:59.96,GoldPhrase100,,0,0,0,,others rush in to
+Dialogue: 0,0:00:59.96,0:01:00.78,GoldPhrase100,,0,0,0,,fill the silence
+Dialogue: 0,0:01:01.24,0:01:02.54,GoldPhrase100,,0,0,0,,exposing their own weaknesses
+Dialogue: 0,0:01:03.08,0:01:04.04,GoldPhrase100,,0,0,0,,law number nine
+Dialogue: 0,0:01:04.04,0:01:05.24,GoldPhrase100,,0,0,0,,win through your actions
+Dialogue: 0,0:01:05.24,0:01:06.30,GoldPhrase100,,0,0,0,,never through argument
+Dialogue: 0,0:01:06.76,0:01:07.64,GoldPhrase100,,0,0,0,,you cannot win an
+Dialogue: 0,0:01:07.64,0:01:08.78,GoldPhrase100,,0,0,0,,argument with words
+Dialogue: 0,0:01:09.08,0:01:09.88,GoldPhrase100,,0,0,0,,even if you are
+Dialogue: 0,0:01:09.88,0:01:11.08,GoldPhrase100,,0,0,0,,right you only breed
+Dialogue: 0,0:01:11.08,0:01:11.58,GoldPhrase100,,0,0,0,,resentment
+Dialogue: 0,0:01:12.56,0:01:13.92,GoldPhrase100,,0,0,0,,demonstrate your value with
+Dialogue: 0,0:01:13.92,0:01:15.69,GoldPhrase100,,0,0,0,,results not endless debate
+Dialogue: 0,0:01:16.23,0:01:17.53,GoldPhrase100,,0,0,0,,law number 48
+Dialogue: 0,0:01:17.83,0:01:18.73,GoldPhrase100,,0,0,0,,assume formlessness
+Dialogue: 0,0:01:19.52,0:01:20.64,GoldPhrase100,,0,0,0,,rigid people who rely
+Dialogue: 0,0:01:20.64,0:01:21.83,GoldPhrase100,,0,0,0,,on brute force shatter
+Dialogue: 0,0:01:21.83,0:01:22.58,GoldPhrase100,,0,0,0,,when hit
+Dialogue: 0,0:01:22.95,0:01:24.31,GoldPhrase100,,0,0,0,,flexible people who adapt
+Dialogue: 0,0:01:24.31,0:01:25.87,GoldPhrase100,,0,0,0,,to changing circumstances are
+Dialogue: 0,0:01:25.87,0:01:27.25,GoldPhrase100,,0,0,0,,impossible to defeat
+Dialogue: 0,0:01:27.71,0:01:28.69,GoldPhrase100,,0,0,0,,be like water
+Dialogue: 0,0:01:28.75,0:01:29.87,GoldPhrase100,,0,0,0,,you don't study power
+Dialogue: 0,0:01:29.87,0:01:30.93,GoldPhrase100,,0,0,0,,to become a manipulator
+Dialogue: 0,0:01:31.55,0:01:32.75,GoldPhrase100,,0,0,0,,you study power so
+Dialogue: 0,0:01:32.75,0:01:33.63,GoldPhrase100,,0,0,0,,you never become a
+Dialogue: 0,0:01:33.63,0:01:34.13,GoldPhrase100,,0,0,0,,victim
+Dialogue: 0,0:01:34.67,0:01:36.03,GoldPhrase100,,0,0,0,,to master all 48
+Dialogue: 0,0:01:36.03,0:01:37.79,GoldPhrase100,,0,0,0,,laws grab the complete
+Dialogue: 0,0:01:37.79,0:01:38.29,GoldPhrase100,,0,0,0,,book
+Dialogue: 0,0:01:38.35,0:01:39.61,GoldPhrase100,,0,0,0,,the direct link is
+Dialogue: 0,0:01:39.61,0:01:40.49,GoldPhrase100,,0,0,0,,pinned in the top
+Dialogue: 0,0:01:40.49,0:01:40.99,GoldPhrase100,,0,0,0,,comment
+Dialogue: 0,0:01:41.29,0:01:42.19,GoldPhrase100,,0,0,0,,tell me below
+Dialogue: 0,0:01:42.41,0:01:43.37,GoldPhrase100,,0,0,0,,would you rather have
+Dialogue: 0,0:01:43.37,0:01:44.81,GoldPhrase100,,0,0,0,,absolute power with zero
+Dialogue: 0,0:01:44.81,0:01:46.17,GoldPhrase100,,0,0,0,,real friends or true
+Dialogue: 0,0:01:46.17,0:01:47.78,GoldPhrase100,,0,0,0,,friendship with zero power

@@ -1,0 +1,445 @@
+{
+  "total_beats": 44,
+  "beats": [
+    {
+      "beat_number": 1,
+      "filename": "beat_01.png",
+      "start_time": 0.0,
+      "end_time": 5.12,
+      "duration": 5.12,
+      "spoken_text": "The subtle art of not giving a fuck by Mark Manson in two minutes.",
+      "scene_action": "A grounded protagonist in a terracotta casual tunic and dark pants standing at a desert crossroads beneath a warm limestone archway. In his hands, he calmly holds a bright orange manuscript book. Warm sandstone gold daylight, clear composition.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A grounded protagonist in a terracotta casual tunic and dark pants standing at a desert crossroads beneath a warm limestone archway. In his hands, he calmly holds a bright orange manuscript book. Warm sandstone gold daylight, clear composition."
+    },
+    {
+      "beat_number": 2,
+      "filename": "beat_02.png",
+      "start_time": 5.12,
+      "end_time": 9.12,
+      "duration": 4.0,
+      "spoken_text": "Every single day, society bombards you with one relentless message.",
+      "scene_action": "A crowded futuristic desert bazaar where giant limestone towers and glowing terracotta billboard screens aggressively beam flashy slogans, megaphone speakers, and dazzling advertisements down at the overwhelmed protagonist.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A crowded futuristic desert bazaar where giant limestone towers and glowing terracotta billboard screens aggressively beam flashy slogans, megaphone speakers, and dazzling advertisements down at the overwhelmed protagonist."
+    },
+    {
+      "beat_number": 3,
+      "filename": "beat_03.png",
+      "start_time": 9.12,
+      "end_time": 10.16,
+      "duration": 1.04,
+      "spoken_text": "Be richer.",
+      "scene_action": "A frantic man in an extravagant gold-embroidered lapis robe frantically stacking towering pyramids of sparkling gold coins and jewel chests, looking paranoid and unfulfilled despite his immense wealth.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A frantic man in an extravagant gold-embroidered lapis robe frantically stacking towering pyramids of sparkling gold coins and jewel chests, looking paranoid and unfulfilled despite his immense wealth."
+    },
+    {
+      "beat_number": 4,
+      "filename": "beat_04.png",
+      "start_time": 10.16,
+      "end_time": 11.2,
+      "duration": 1.04,
+      "spoken_text": "Be happier.",
+      "scene_action": "A theatrical character holding an oversized bright yellow smiling ceramic mask over his real face, while beneath the mask his real mouth is slumped in utter exhaustion.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A theatrical character holding an oversized bright yellow smiling ceramic mask over his real face, while beneath the mask his real mouth is slumped in utter exhaustion."
+    },
+    {
+      "beat_number": 5,
+      "filename": "beat_05.png",
+      "start_time": 11.2,
+      "end_time": 12.76,
+      "duration": 1.56,
+      "spoken_text": "Be more positive.",
+      "scene_action": "A crowd of people forced into excessive thumbs-up poses under blinding neon green and golden banner flags, desperately trying to look relentlessly positive while looking strained.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A crowd of people forced into excessive thumbs-up poses under blinding neon green and golden banner flags, desperately trying to look relentlessly positive while looking strained."
+    },
+    {
+      "beat_number": 6,
+      "filename": "beat_06.png",
+      "start_time": 12.76,
+      "end_time": 17.09,
+      "duration": 4.33,
+      "spoken_text": "And when you feel anxious, you get anxious about being anxious.",
+      "scene_action": "The protagonist sitting on a sandstone bench clutching his head in comic distress, surrounded by a swirling spiral of ghost-like mini transparent duplicates of himself biting their nails in spiraling anxiety.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. The protagonist sitting on a sandstone bench clutching his head in comic distress, surrounded by a swirling spiral of ghost-like mini transparent duplicates of himself biting their nails in spiraling anxiety."
+    },
+    {
+      "beat_number": 7,
+      "filename": "beat_07.png",
+      "start_time": 17.09,
+      "end_time": 21.16,
+      "duration": 4.07,
+      "spoken_text": "When you feel guilty, you feel guilty about feeling guilty.",
+      "scene_action": "The protagonist weighed down by heavy leaden shadow cloaks hanging onto his shoulders, staring downward at his shoes with a slumped posture of layered guilt and remorse.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. The protagonist weighed down by heavy leaden shadow cloaks hanging onto his shoulders, staring downward at his shoes with a slumped posture of layered guilt and remorse."
+    },
+    {
+      "beat_number": 8,
+      "filename": "beat_08.png",
+      "start_time": 21.16,
+      "end_time": 24.12,
+      "duration": 2.96,
+      "spoken_text": "Welcome to the feedback loop from hell.",
+      "scene_action": "A dramatic visual metaphor: a burning circular ouroboros loop of terracotta-red flame and glowing question marks spinning endlessly around the trapped protagonist, depicting the endless feedback loop from hell.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A dramatic visual metaphor: a burning circular ouroboros loop of terracotta-red flame and glowing question marks spinning endlessly around the trapped protagonist, depicting the endless feedback loop from hell."
+    },
+    {
+      "beat_number": 9,
+      "filename": "beat_09.png",
+      "start_time": 24.12,
+      "end_time": 29.54,
+      "duration": 5.42,
+      "spoken_text": "Conventional self help tells you to look in the mirror and shout affirmations,",
+      "scene_action": "A person standing dramatically before an ornate carved limestone mirror, puffing out their chest and aggressively yelling theatrical motivational affirmations at their own reflection.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A person standing dramatically before an ornate carved limestone mirror, puffing out their chest and aggressively yelling theatrical motivational affirmations at their own reflection."
+    },
+    {
+      "beat_number": 10,
+      "filename": "beat_10.png",
+      "start_time": 29.54,
+      "end_time": 31.94,
+      "duration": 2.4,
+      "spoken_text": "to care deeply about everything,",
+      "scene_action": "A frantic character comically juggling ten different fragile glowing ceramic plates and spinning objects labeled with tiny trivial social obligations, sweating profusely as plates wobble in the air.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A frantic character comically juggling ten different fragile glowing ceramic plates and spinning objects labeled with tiny trivial social obligations, sweating profusely as plates wobble in the air."
+    },
+    {
+      "beat_number": 11,
+      "filename": "beat_11.png",
+      "start_time": 31.94,
+      "end_time": 36.34,
+      "duration": 4.4,
+      "spoken_text": "to believe you are special entitled to a frictionless life.",
+      "scene_action": "A pompous character sitting on an ornate velvet chair wearing a clumsy cardboard golden crown, looking indignant with a folded arms pout, expecting red carpets to be unrolled before his feet.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A pompous character sitting on an ornate velvet chair wearing a clumsy cardboard golden crown, looking indignant with a folded arms pout, expecting red carpets to be unrolled before his feet."
+    },
+    {
+      "beat_number": 12,
+      "filename": "beat_12.png",
+      "start_time": 36.34,
+      "end_time": 39.14,
+      "duration": 2.8,
+      "spoken_text": "This path is an endless trap.",
+      "scene_action": "A wide shot of a deceptively beautiful desert trail that abruptly ends at the edge of a deep sandstone pitfall and maze of stone thorns. Dangerously alluring mirage.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A wide shot of a deceptively beautiful desert trail that abruptly ends at the edge of a deep sandstone pitfall and maze of stone thorns. Dangerously alluring mirage."
+    },
+    {
+      "beat_number": 13,
+      "filename": "beat_13.png",
+      "start_time": 39.14,
+      "end_time": 44.93,
+      "duration": 5.79,
+      "spoken_text": "The desire for more positive experience is itself a negative experience,",
+      "scene_action": "A man frantically chasing a radiant glowing golden butterfly through scorching desert dunes, panting with thirst and tripping over rocks as the butterfly drifts further out of reach.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A man frantically chasing a radiant glowing golden butterfly through scorching desert dunes, panting with thirst and tripping over rocks as the butterfly drifts further out of reach."
+    },
+    {
+      "beat_number": 14,
+      "filename": "beat_14.png",
+      "start_time": 44.93,
+      "end_time": 50.61,
+      "duration": 5.68,
+      "spoken_text": "and the acceptance of one's negative experience is itself a positive experience.",
+      "scene_action": "The protagonist sitting peacefully in cross-legged meditation atop a flat warm terracotta rock during a gentle rain shower, smiling serenely as water trickles past him into a blooming desert cactus.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. The protagonist sitting peacefully in cross-legged meditation atop a flat warm terracotta rock during a gentle rain shower, smiling serenely as water trickles past him into a blooming desert cactus."
+    },
+    {
+      "beat_number": 15,
+      "filename": "beat_15.png",
+      "start_time": 50.61,
+      "end_time": 55.22,
+      "duration": 4.61,
+      "spoken_text": "Not giving a fuck does not mean being indifferent or callous.",
+      "scene_action": "Two contrasting figures: on one side, an ice-cold stone mannequin frozen stiff and unresponsive; on the other side, the protagonist with an open, warm, thoughtful human expression.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. Two contrasting figures: on one side, an ice-cold stone mannequin frozen stiff and unresponsive; on the other side, the protagonist with an open, warm, thoughtful human expression."
+    },
+    {
+      "beat_number": 16,
+      "filename": "beat_16.png",
+      "start_time": 55.22,
+      "end_time": 59.38,
+      "duration": 4.16,
+      "spoken_text": "A person who is indifferent is just terrified of the world.",
+      "scene_action": "A cowardly, anxious figure huddled inside a thick concrete bunker with padlocks, peeking through a tiny slit with wide, fearful eyes, terrified of stepping into the sunny world outside.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A cowardly, anxious figure huddled inside a thick concrete bunker with padlocks, peeking through a tiny slit with wide, fearful eyes, terrified of stepping into the sunny world outside."
+    },
+    {
+      "beat_number": 17,
+      "filename": "beat_17.png",
+      "start_time": 59.38,
+      "end_time": 63.62,
+      "duration": 4.24,
+      "spoken_text": "Not giving a fuck means being comfortable with being different.",
+      "scene_action": "A wide limestone city street where a stream of uniform grey-cloaked citizens march to the left, while the protagonist in a vibrant terracotta jacket walks peacefully and confidently to the right with a quiet smile.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A wide limestone city street where a stream of uniform grey-cloaked citizens march to the left, while the protagonist in a vibrant terracotta jacket walks peacefully and confidently to the right with a quiet smile."
+    },
+    {
+      "beat_number": 18,
+      "filename": "beat_18.png",
+      "start_time": 63.62,
+      "end_time": 67.16,
+      "duration": 3.54,
+      "spoken_text": "It means realizing that your fucks are finite.",
+      "scene_action": "The protagonist holding up an exquisite transparent glass jar in the warm directional daylight. Inside the jar are only three glowing golden coins resting on the bottom, symbolizing finite fucks.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. The protagonist holding up an exquisite transparent glass jar in the warm directional daylight. Inside the jar are only three glowing golden coins resting on the bottom, symbolizing finite fucks."
+    },
+    {
+      "beat_number": 19,
+      "filename": "beat_19.png",
+      "start_time": 67.16,
+      "end_time": 69.72,
+      "duration": 2.56,
+      "spoken_text": "If you give a fuck about your broken Wi Fi,",
+      "scene_action": "A comedic scene: the protagonist shaking an overheated internet router emitting angry red cartoon lightning bolts and error symbols, veins popping slightly on his forehead in trivial annoyance.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A comedic scene: the protagonist shaking an overheated internet router emitting angry red cartoon lightning bolts and error symbols, veins popping slightly on his forehead in trivial annoyance."
+    },
+    {
+      "beat_number": 20,
+      "filename": "beat_20.png",
+      "start_time": 69.72,
+      "end_time": 70.92,
+      "duration": 1.2,
+      "spoken_text": "the rude barista,",
+      "scene_action": "An impatient, frowning barista with arms crossed slamming down a ceramic cup of spilled coffee across a wooden counter, glaring with contempt.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. An impatient, frowning barista with arms crossed slamming down a ceramic cup of spilled coffee across a wooden counter, glaring with contempt."
+    },
+    {
+      "beat_number": 21,
+      "filename": "beat_21.png",
+      "start_time": 70.92,
+      "end_time": 72.52,
+      "duration": 1.6,
+      "spoken_text": "and other people's opinions,",
+      "scene_action": "Whispering dark silhouettes in the background pointing mocking fingers and murmuring gossip speech bubbles that dissolve harmlessly into dust before reaching the protagonist.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. Whispering dark silhouettes in the background pointing mocking fingers and murmuring gossip speech bubbles that dissolve harmlessly into dust before reaching the protagonist."
+    },
+    {
+      "beat_number": 22,
+      "filename": "beat_22.png",
+      "start_time": 72.52,
+      "end_time": 75.63,
+      "duration": 3.11,
+      "spoken_text": "you run out of fucks for what actually matters.",
+      "scene_action": "The protagonist staring sadly into his completely empty glass jar, tipped on its side with zero coins remaining, while in the background a neglected loved one and an unfinished painting sit abandoned.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. The protagonist staring sadly into his completely empty glass jar, tipped on its side with zero coins remaining, while in the background a neglected loved one and an unfinished painting sit abandoned."
+    },
+    {
+      "beat_number": 23,
+      "filename": "beat_23.png",
+      "start_time": 75.63,
+      "end_time": 78.03,
+      "duration": 2.4,
+      "spoken_text": "It all comes down to values.",
+      "scene_action": "A grand crossroads in an ancient terracotta and limestone valley. Two giant carved stone monoliths rise toward the bright desert sky, marked with profound inscribed symbols of values.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A grand crossroads in an ancient terracotta and limestone valley. Two giant carved stone monoliths rise toward the bright desert sky, marked with profound inscribed symbols of values."
+    },
+    {
+      "beat_number": 24,
+      "filename": "beat_24.png",
+      "start_time": 78.03,
+      "end_time": 81.23,
+      "duration": 3.2,
+      "spoken_text": "Bad values are external and uncontrollable,",
+      "scene_action": "A figure desperately trying to catch fleeting smoke, sand pouring through fingers, and stormy wind gusts, visually depicting external uncontrollable values slipping away.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A figure desperately trying to catch fleeting smoke, sand pouring through fingers, and stormy wind gusts, visually depicting external uncontrollable values slipping away."
+    },
+    {
+      "beat_number": 25,
+      "filename": "beat_25.png",
+      "start_time": 81.23,
+      "end_time": 82.68,
+      "duration": 1.45,
+      "spoken_text": "constant pleasure,",
+      "scene_action": "A person slumped back on an extravagant silk couch surrounded by scattered empty sweet wrappers and amusement tokens, wearing a dull, numb expression of hedonistic burnout.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A person slumped back on an extravagant silk couch surrounded by scattered empty sweet wrappers and amusement tokens, wearing a dull, numb expression of hedonistic burnout."
+    },
+    {
+      "beat_number": 26,
+      "filename": "beat_26.png",
+      "start_time": 82.68,
+      "end_time": 83.96,
+      "duration": 1.28,
+      "spoken_text": "material status,",
+      "scene_action": "A shallow man leaning boastfully against an ostentatious luxury carriage or sports vehicle, which has visible jagged cracks running down the frame, crumbling from vanity.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A shallow man leaning boastfully against an ostentatious luxury carriage or sports vehicle, which has visible jagged cracks running down the frame, crumbling from vanity."
+    },
+    {
+      "beat_number": 27,
+      "filename": "beat_27.png",
+      "start_time": 83.96,
+      "end_time": 85.88,
+      "duration": 1.92,
+      "spoken_text": "and always being right.",
+      "scene_action": "An arrogant orator shouting red-faced at a stone podium, pointing an accusatory finger, while an entire audience of former friends silently turns their backs and walks away.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. An arrogant orator shouting red-faced at a stone podium, pointing an accusatory finger, while an entire audience of former friends silently turns their backs and walks away."
+    },
+    {
+      "beat_number": 28,
+      "filename": "beat_28.png",
+      "start_time": 85.88,
+      "end_time": 88.68,
+      "duration": 2.8,
+      "spoken_text": "Good values are internal and controllable,",
+      "scene_action": "A strong, solid emerald-green granite column standing firm and unshakeable in the desert ground, rooted deep into the bedrock while dust blows harmlessly around it.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A strong, solid emerald-green granite column standing firm and unshakeable in the desert ground, rooted deep into the bedrock while dust blows harmlessly around it."
+    },
+    {
+      "beat_number": 29,
+      "filename": "beat_29.png",
+      "start_time": 88.68,
+      "end_time": 90.52,
+      "duration": 1.84,
+      "spoken_text": "honesty, humility,",
+      "scene_action": "Two people seated candidly across a simple wooden table sharing tea, looking into each other's eyes with warm authentic vulnerability and open hands.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. Two people seated candidly across a simple wooden table sharing tea, looking into each other's eyes with warm authentic vulnerability and open hands."
+    },
+    {
+      "beat_number": 30,
+      "filename": "beat_30.png",
+      "start_time": 90.52,
+      "end_time": 93.32,
+      "duration": 2.8,
+      "spoken_text": "curiosity, and self respect.",
+      "scene_action": "The protagonist looking through a vintage brass telescope toward the lapis-blue twilight stars, holding an open notebook with quiet inner dignity and serene self-respect.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. The protagonist looking through a vintage brass telescope toward the lapis-blue twilight stars, holding an open notebook with quiet inner dignity and serene self-respect."
+    },
+    {
+      "beat_number": 31,
+      "filename": "beat_31.png",
+      "start_time": 93.32,
+      "end_time": 95.86,
+      "duration": 2.54,
+      "spoken_text": "Stop asking what success you want.",
+      "scene_action": "A man firmly pushing away a hollow, glittering gold trophy on a pedestal, turning his gaze away from cheap applause and superficial validation.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A man firmly pushing away a hollow, glittering gold trophy on a pedestal, turning his gaze away from cheap applause and superficial validation."
+    },
+    {
+      "beat_number": 32,
+      "filename": "beat_32.png",
+      "start_time": 95.86,
+      "end_time": 98.34,
+      "duration": 2.48,
+      "spoken_text": "Ask what pain you are willing to sustain.",
+      "scene_action": "A determined mountaineer kneeling on red sandstone rock, tightening the leather laces of heavy hiking boots with sleeves rolled up, looking up at a daunting rocky summit with fierce joy.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A determined mountaineer kneeling on red sandstone rock, tightening the leather laces of heavy hiking boots with sleeves rolled up, looking up at a daunting rocky summit with fierce joy."
+    },
+    {
+      "beat_number": 33,
+      "filename": "beat_33.png",
+      "start_time": 98.34,
+      "end_time": 101.55,
+      "duration": 3.21,
+      "spoken_text": "Because happiness is not an equation you solve once.",
+      "scene_action": "A massive limestone wall covered in complicated, convoluted chalk math equations being swept away with a wet cloth, revealing clean blank stone beneath.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A massive limestone wall covered in complicated, convoluted chalk math equations being swept away with a wet cloth, revealing clean blank stone beneath."
+    },
+    {
+      "beat_number": 34,
+      "filename": "beat_34.png",
+      "start_time": 101.55,
+      "end_time": 104.19,
+      "duration": 2.64,
+      "spoken_text": "Happiness comes from solving problems.",
+      "scene_action": "The protagonist smiling with practical satisfaction, holding a brass wrench as he tightens a valve on an irrigation pipe, watching clear sparkling water flow smoothly into a desert garden.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. The protagonist smiling with practical satisfaction, holding a brass wrench as he tightens a valve on an irrigation pipe, watching clear sparkling water flow smoothly into a desert garden."
+    },
+    {
+      "beat_number": 35,
+      "filename": "beat_35.png",
+      "start_time": 104.19,
+      "end_time": 108.36,
+      "duration": 4.17,
+      "spoken_text": "When you upgrade your values, you upgrade the quality of your problems.",
+      "scene_action": "Split composition: on the left, an annoying petty fight over a spilled glass; on the right, an inspiring team working together to construct a sturdy stone home in the warm daylight.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. Split composition: on the left, an annoying petty fight over a spilled glass; on the right, an inspiring team working together to construct a sturdy stone home in the warm daylight."
+    },
+    {
+      "beat_number": 36,
+      "filename": "beat_36.png",
+      "start_time": 108.36,
+      "end_time": 112.84,
+      "duration": 4.48,
+      "spoken_text": "And when you feel completely stuck, remember the do something principle.",
+      "scene_action": "The protagonist sitting slumped on the ground feeling paralyzed by indecision, staring at a small circular medallion carved with three revolving arrows: Action, Inspiration, Motivation.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. The protagonist sitting slumped on the ground feeling paralyzed by indecision, staring at a small circular medallion carved with three revolving arrows: Action, Inspiration, Motivation."
+    },
+    {
+      "beat_number": 37,
+      "filename": "beat_37.png",
+      "start_time": 112.84,
+      "end_time": 115.8,
+      "duration": 2.96,
+      "spoken_text": "Action is not just the result of motivation.",
+      "scene_action": "A person sitting endlessly on a stone bench under a tree waiting for a magical lightning bolt of inspiration to strike, while cobwebs slowly gather around his knees.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A person sitting endlessly on a stone bench under a tree waiting for a magical lightning bolt of inspiration to strike, while cobwebs slowly gather around his knees."
+    },
+    {
+      "beat_number": 38,
+      "filename": "beat_38.png",
+      "start_time": 115.8,
+      "end_time": 117.8,
+      "duration": 2.0,
+      "spoken_text": "Action is the cause of it.",
+      "scene_action": "A resolute hand striking a sharp flint against steel, producing a vivid glowing golden spark that ignites a warm, roaring campfire.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A resolute hand striking a sharp flint against steel, producing a vivid glowing golden spark that ignites a warm, roaring campfire."
+    },
+    {
+      "beat_number": 39,
+      "filename": "beat_39.png",
+      "start_time": 117.8,
+      "end_time": 121.23,
+      "duration": 3.43,
+      "spoken_text": "Do something small, and the momentum will follow.",
+      "scene_action": "The protagonist nudging a small round sandstone pebble down a gentle slope, watching it trigger a cascading rolling momentum that effortlessly pushes heavy obstacles aside.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. The protagonist nudging a small round sandstone pebble down a gentle slope, watching it trigger a cascading rolling momentum that effortlessly pushes heavy obstacles aside."
+    },
+    {
+      "beat_number": 40,
+      "filename": "beat_40.png",
+      "start_time": 121.23,
+      "end_time": 124.67,
+      "duration": 3.44,
+      "spoken_text": "Here is the ultimate truth. You are going to die.",
+      "scene_action": "Memento Mori: A profound dramatic twilight scene. The protagonist standing in contemplation holding an ancient stone hourglass beside a stylized clean desert skull under a vast purple and lapis sky.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. Memento Mori: A profound dramatic twilight scene. The protagonist standing in contemplation holding an ancient stone hourglass beside a stylized clean desert skull under a vast purple and lapis sky."
+    },
+    {
+      "beat_number": 41,
+      "filename": "beat_41.png",
+      "start_time": 124.67,
+      "end_time": 129.88,
+      "duration": 5.21,
+      "spoken_text": "Confronting your mortality strips away all superficial noise.",
+      "scene_action": "A powerful warm wind sweeping across the desert plateau, blowing away trivial papers, fake awards, gossiping masks, and noisy junk, leaving only pure earth and open sky.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A powerful warm wind sweeping across the desert plateau, blowing away trivial papers, fake awards, gossiping masks, and noisy junk, leaving only pure earth and open sky."
+    },
+    {
+      "beat_number": 42,
+      "filename": "beat_42.png",
+      "start_time": 129.88,
+      "end_time": 132.21,
+      "duration": 2.33,
+      "spoken_text": "You cannot care about everything.",
+      "scene_action": "The protagonist standing grounded with arms relaxed at his sides, calmly watching dozens of buzzing distraction insects and flying clutter flutter past without flinching or reacting.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. The protagonist standing grounded with arms relaxed at his sides, calmly watching dozens of buzzing distraction insects and flying clutter flutter past without flinching or reacting."
+    },
+    {
+      "beat_number": 43,
+      "filename": "beat_43.png",
+      "start_time": 132.21,
+      "end_time": 136.21,
+      "duration": 4.0,
+      "spoken_text": "So choose carefully what deserves your energy",
+      "scene_action": "A tender close-up of gentle hands carefully placing the remaining radiant golden tokens into a warm terracotta hearth where a steady, nurturing flame burns.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. A tender close-up of gentle hands carefully placing the remaining radiant golden tokens into a warm terracotta hearth where a steady, nurturing flame burns."
+    },
+    {
+      "beat_number": 44,
+      "filename": "beat_44.png",
+      "start_time": 136.21,
+      "end_time": 139.56,
+      "duration": 3.35,
+      "spoken_text": "because what you give a fuck about is your life.",
+      "scene_action": "Master wide shot: The protagonist standing tall at the edge of a breathtaking sandstone canyon at golden sunrise. Clear silhouette, warm wind in hair, looking forward into a radiant horizon with complete peace and purpose.",
+      "full_prompt": "16:9 horizontal clean vibrant 2D digital cartoon illustration. Bold clean linework, soft-to-flat shading, semi-realistic proportions, expressive faces with clear features. Detailed and accurate clothing, objects, and architecture for the setting. Natural but saturated colors with a consistent warm palette (ochre, limestone cream, deep blue, terracotta, sandstone gold, lapis, muted green). Subtle illustrative texture and atmospheric depth. Balanced composition, readable silhouettes, clear foreground/middle-ground separation. Bright desert or soft directional daylight with crisp but gentle shadows. No photorealism, no 3D, no anime/manga, no clutter, no text unless specifically requested. Master wide shot: The protagonist standing tall at the edge of a breathtaking sandstone canyon at golden sunrise. Clear silhouette, warm wind in hair, looking forward into a radiant horizon with complete peace and purpose."
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "headline": "THE SUBTLE ART",
+    "action": "The Everyman stands calm and composed in the center while chaotic red alerts and arrows buzz all around him",
+    "tag_1": "MARK MANSON",
+    "tag_2": "2-MINUTE BLUEPRINT",
+    "shot_type": "Wide shot",
+    "color_accents": "crimson alerts, dark ink outlines"
+  },
+  {
+    "id": 2,
+    "headline": "CONSTANT PRESSURE",
+    "action": "Giant neon billboards flash 'BE RICHER', 'BE HAPPIER', 'LOOK BETTER' crushing down toward The Everyman",
+    "tag_1": "SOCIETY'S NOISE",
+    "tag_2": "OVERLOAD",
+    "shot_type": "Wide shot",
+    "color_accents": "electric cyan billboards, heavy dark drop-shadows"
+  },
+  {
+    "id": 3,
+    "headline": "THE FEEDBACK LOOP FROM HELL",
+    "action": "The Everyman caught in an infinite swirling spiral of mirrors, holding his head with cyan sweat drops flying",
+    "tag_1": "ANXIETY SPIRAL",
+    "tag_2": "SELF-JUDGMENT",
+    "shot_type": "Medium shot",
+    "color_accents": "crimson spiral, cyan sweat drops"
+  },
+  {
+    "id": 4,
+    "headline": "CONVENTIONAL SELF-HELP",
+    "action": "The Everyman forced to look in a golden mirror with exaggerated fake smiley face taped over his head",
+    "tag_1": "TOXIC POSITIVITY",
+    "tag_2": "FAKE AFFIRMATIONS",
+    "shot_type": "Medium shot",
+    "color_accents": "golden yellow mirror, distressed black ink"
+  },
+  {
+    "id": 5,
+    "headline": "THE ENTITLEMENT TRAP",
+    "action": "A stick figure wearing an oversized golden crown sitting atop a shaky tower of cardboard boxes",
+    "tag_1": "DELUSION OF SPECIALNESS",
+    "tag_2": "FRAGILE EGO",
+    "shot_type": "Wide shot",
+    "color_accents": "golden crown, crimson warning signs"
+  },
+  {
+    "id": 6,
+    "headline": "THE BACKWARDS LAW",
+    "action": "Alan Watts scale metaphor: Chasing positive experiences tips the scale into frustration and lack",
+    "tag_1": "ALAN WATTS",
+    "tag_2": "THE PARADOX",
+    "shot_type": "Wide shot",
+    "color_accents": "crimson weight, emerald counter-weight"
+  },
+  {
+    "id": 7,
+    "headline": "RADICAL ACCEPTANCE",
+    "action": "The Everyman stands quietly in rain with an open umbrella, unbothered, while dark clouds dissipate",
+    "tag_1": "NEGATIVE EXPERIENCE",
+    "tag_2": "POSITIVE TRANSFORMATION",
+    "shot_type": "Medium shot",
+    "color_accents": "cyan rain drops, emerald umbrella"
+  },
+  {
+    "id": 8,
+    "headline": "WHAT INDIFFERENCE LOOKS LIKE",
+    "action": "A curled-up stick figure shivering behind a concrete bunker, hiding away from life",
+    "tag_1": "NOT INDIFFERENCE",
+    "tag_2": "FEAR IN DISGUISE",
+    "shot_type": "Wide shot",
+    "color_accents": "dark grey bunker, pale shadows"
+  },
+  {
+    "id": 9,
+    "headline": "COMFORTABLE BEING DIFFERENT",
+    "action": "A sea of identical grey figures walking left, while The Everyman with chin up strides confidently to the right",
+    "tag_1": "COURAGE",
+    "tag_2": "AUTHENTICITY",
+    "shot_type": "Wide shot",
+    "color_accents": "emerald green directional arrow, dark ink"
+  },
+  {
+    "id": 10,
+    "headline": "YOUR FUCKS ARE FINITE",
+    "action": "The Everyman holding an empty transparent jar labeled 'FUCKS TO GIVE' with only 2 glowing golden coins left",
+    "tag_1": "FINITE ENERGY",
+    "tag_2": "BUDGET WISELY",
+    "shot_type": "Close-up",
+    "color_accents": "vibrant golden yellow coins, clean white glass"
+  },
+  {
+    "id": 11,
+    "headline": "THE TRIVIAL DRAIN",
+    "action": "Tiny buzzing cartoon mosquitoes labeled 'Slow WiFi', 'Rude Cashier', 'Bad Traffic' stinging an exhausted figure",
+    "tag_1": "TRIVIAL DRAMA",
+    "tag_2": "ENERGY VAMPIRES",
+    "shot_type": "Wide shot",
+    "color_accents": "crimson mosquitoes, cyan sweat"
+  },
+  {
+    "id": 12,
+    "headline": "THE VALUE FOUNDATION",
+    "action": "Two pillars side-by-side: left pillar is crumbling cracked sandstone, right pillar is solid polished granite",
+    "tag_1": "POOR VALUES",
+    "tag_2": "SOLID FOUNDATION",
+    "shot_type": "Wide shot",
+    "color_accents": "crimson cracks, emerald solid stone"
+  },
+  {
+    "id": 13,
+    "headline": "BAD VALUES: EXTERNAL TRAP",
+    "action": "A stick figure desperately puppet-mastered by floating strings of social media likes, money bags, and applause",
+    "tag_1": "OUT OF CONTROL",
+    "tag_2": "SUPERFICIAL METRICS",
+    "shot_type": "Wide shot",
+    "color_accents": "crimson puppet strings, golden applause"
+  },
+  {
+    "id": 14,
+    "headline": "GOOD VALUES: INTERNAL COMPASS",
+    "action": "The Everyman opens his coat revealing a glowing internal compass pointing steadily North through thick mist",
+    "tag_1": "HONESTY & CURIOSITY",
+    "tag_2": "100% IN YOUR CONTROL",
+    "shot_type": "Medium shot",
+    "color_accents": "emerald green compass needle, soft glow"
+  },
+  {
+    "id": 15,
+    "headline": "CHOOSE YOUR STRUGGLE",
+    "action": "A steep jagged mountain peak. Two climbers: one complaining bitterly, The Everyman grinning while tying hiking boots",
+    "tag_1": "WHAT PAIN DO YOU WANT?",
+    "tag_2": "EMBRACE THE CLIMB",
+    "shot_type": "Wide shot",
+    "color_accents": "crimson mountain rocks, emerald boots"
+  },
+  {
+    "id": 16,
+    "headline": "HAPPINESS IS SOLVING PROBLEMS",
+    "action": "The Everyman with sleeves rolled up, wrench in hand, fixing a leaking pipe into clear flowing water",
+    "tag_1": "NOT A DESTINATION",
+    "tag_2": "ACTIVE ENGAGEMENT",
+    "shot_type": "Medium shot",
+    "color_accents": "cyan flowing water, dark metallic wrench"
+  },
+  {
+    "id": 17,
+    "headline": "UPGRADE YOUR PROBLEMS",
+    "action": "Transition from dirty sewer problem to high-level architectural blueprint problem on a modern desk",
+    "tag_1": "BETTER PROBLEMS",
+    "tag_2": "MEANINGFUL GROWTH",
+    "shot_type": "Wide shot",
+    "color_accents": "emerald blueprint grid, dark ink"
+  },
+  {
+    "id": 18,
+    "headline": "THE PARALYSIS OF OVERTHINKING",
+    "action": "The Everyman glued to a chair under a giant spinning hourglass, frozen while papers pile around him",
+    "tag_1": "ANALYSIS PARALYSIS",
+    "tag_2": "WAITING FOR MOTIVATION",
+    "shot_type": "Medium shot",
+    "color_accents": "crimson hourglass sand, cyan papers"
+  },
+  {
+    "id": 19,
+    "headline": "THE 'DO SOMETHING' PRINCIPLE",
+    "action": "A circular kinetic loop diagram: Action triggers Inspiration, which triggers Motivation, which triggers Action",
+    "tag_1": "ACTION FIRST",
+    "tag_2": "MOMENTUM ENGINE",
+    "shot_type": "Wide shot",
+    "color_accents": "vibrant golden yellow cycle arrows, dark ink"
+  },
+  {
+    "id": 20,
+    "headline": "START RIDICULOUSLY SMALL",
+    "action": "The Everyman takes one single step across a finish line drawn in chalk on the pavement",
+    "tag_1": "ONE MICRO ACTION",
+    "tag_2": "BREAK INERTIA",
+    "shot_type": "Close-up",
+    "color_accents": "emerald chalk line, dark shoes"
+  },
+  {
+    "id": 21,
+    "headline": "MEMENTO MORI",
+    "action": "The Everyman sitting in a field under stars, holding an ancient minimalist carved skull, deep in reflection",
+    "tag_1": "YOU ARE GOING TO DIE",
+    "tag_2": "FINAL PERSPECTIVE",
+    "shot_type": "Wide shot",
+    "color_accents": "pale moonbeam white, deep black ink sky"
+  },
+  {
+    "id": 22,
+    "headline": "STRIPPING THE BULLSHIT",
+    "action": "A sudden gust of wind blows away stacks of unimportant gossip, unread notifications, and petty grievances",
+    "tag_1": "ZERO SUPERFICIAL NOISE",
+    "tag_2": "PURE CLARITY",
+    "shot_type": "Wide shot",
+    "color_accents": "crimson notifications blowing away into ether"
+  },
+  {
+    "id": 23,
+    "headline": "THE ARCHITECTURE OF PURPOSE",
+    "action": "The Everyman standing next to 3 solid iron pillars: 'Integrity', 'Craft', 'Loved Ones'",
+    "tag_1": "THE VITAL FEW",
+    "tag_2": "NON-NEGOTIABLES",
+    "shot_type": "Wide shot",
+    "color_accents": "emerald green accents, bold solid lines"
+  },
+  {
+    "id": 24,
+    "headline": "WHAT YOU CARE ABOUT IS YOUR LIFE",
+    "action": "The Everyman stands on an open sunrise horizon, tie blowing gently in the breeze, looking forward with steady confidence",
+    "tag_1": "THE MASTER TAKEAWAY",
+    "tag_2": "CHOOSE WISELY",
+    "shot_type": "Wide shot",
+    "color_accents": "golden sunrise glow, crisp dark ink"
+  }
+]
