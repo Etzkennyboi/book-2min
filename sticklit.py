@@ -279,23 +279,21 @@ def cmd_render(args):
         shutil.rmtree(seq_dir)
     seq_dir.mkdir(parents=True, exist_ok=True)
 
-    created = 0
+    current_frame = 0
     for idx, sc in enumerate(scenes, 1):
-        st = sc["start_sec"]
         et = sc["end_sec"]
-        sf = int(round(st * FPS))
-        ef = int(round(et * FPS))
+        ef = total_frames if idx == len(scenes) else int(round(et * FPS))
         src_frame = (norm_dir / f"scene_{idx:02d}.jpg").resolve()
-        for f in range(sf, min(ef, total_frames)):
+        for f in range(current_frame, min(ef, total_frames)):
             dst_link = seq_dir / f"frame_{f:05d}.jpg"
             try:
                 os.link(src_frame, dst_link)
             except FileExistsError:
                 pass
-            created += 1
+        current_frame = ef
 
     last_frame = (norm_dir / f"scene_{len(scenes):02d}.jpg").resolve()
-    for f in range(created, total_frames):
+    for f in range(current_frame, total_frames):
         dst_link = seq_dir / f"frame_{f:05d}.jpg"
         try:
             os.link(last_frame, dst_link)
