@@ -1,0 +1,2748 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "01a168ce-0ce1-7b11-af49-df2588ab2d91",
+    "sha256": "79044082e8b034f0154d678ab9e6b9f4fd0bd4383e8c216e8e5bac475fbc2290",
+    "created": "2026-10-23T12:48:18.628Z",
+    "duration": 140.63994,
+    "channels": 1,
+    "models": [
+      "1abfe86b-e047-4eed-858a-35e5625b41ee"
+    ],
+    "model_info": {
+      "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+        "name": "2-general-nova",
+        "version": "2024-01-06.5664",
+        "arch": "nova-2"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "The Richest Man in Babylon by George s Classen in two minutes. Four thousand years ago, Babylon was the wealthiest city on Earth. Its streets were paved with gold, yet most citizens lived in desperate poverty. Why? Because they spent every single coin they earned. Here is the timeless secret of Arkad, the richest man in Babylon. First, start thy purse to fattening. Pay yourself first. For every 10 coins you earn, spend only 9. If you pay the merchant, the landlord, and the tailor first, you are a financial slave working for everyone except yourself. That tenth coin is yours to keep forever. Second, control thy expenditures. Do not confuse necessary expenses with your desires. What you call necessities will always grow to equal your income unless you set clear boundaries. Budget your expenses so you have gold to pay yourself without depriving your life. Third, make thy gold multiply. A hoarded coin is dead metal. Gold is a willing worker. Put every coin to work so its golden children and grandchildren earn income for you while you sleep. Wealth is not the coins in your pocket. It is the steady stream of income flowing continuously into your purse. Fourth, guard thy treasures from loss. The first sound principle of investment is security of your principle. Never trust get rich quick schemes, and never ask a brick for advice on buying diamonds. Consult only wise men who have proven experience managing gold. Fifth, make of thy dwelling a profitable investment. Own your own roof so your heart is proud and your living costs are reduced. Sixth, ensure a future income. Provide in advance for your old age and protect your family against sudden misfortune. And seventh, increase thy ability to earn. The more wisdom you acquire, the more gold you will attract. Cultivate your skills, respect yourself, and seize opportunities without hesitation. Gold flees the man who gambles, but clings to the man who follows these timeless laws. So tell me in the comments below. Would you rather look rich today while drowning in secret debt or live modestly and build unbreakable generational wealth?",
+            "confidence": 1.0,
+            "words": [
+              {
+                "word": "the",
+                "start": 0.24,
+                "end": 0.39999998,
+                "confidence": 0.9980469,
+                "punctuated_word": "The"
+              },
+              {
+                "word": "richest",
+                "start": 0.39999998,
+                "end": 0.88,
+                "confidence": 0.91430664,
+                "punctuated_word": "Richest"
+              },
+              {
+                "word": "man",
+                "start": 0.88,
+                "end": 1.04,
+                "confidence": 0.82910156,
+                "punctuated_word": "Man"
+              },
+              {
+                "word": "in",
+                "start": 1.04,
+                "end": 1.1999999,
+                "confidence": 0.98535156,
+                "punctuated_word": "in"
+              },
+              {
+                "word": "babylon",
+                "start": 1.1999999,
+                "end": 1.6999999,
+                "confidence": 1.0,
+                "punctuated_word": "Babylon"
+              },
+              {
+                "word": "by",
+                "start": 1.76,
+                "end": 1.92,
+                "confidence": 0.9941406,
+                "punctuated_word": "by"
+              },
+              {
+                "word": "george",
+                "start": 1.92,
+                "end": 2.32,
+                "confidence": 0.9921875,
+                "punctuated_word": "George"
+              },
+              {
+                "word": "s",
+                "start": 2.32,
+                "end": 2.56,
+                "confidence": 0.7294922,
+                "punctuated_word": "s"
+              },
+              {
+                "word": "classen",
+                "start": 2.56,
+                "end": 2.96,
+                "confidence": 0.61848956,
+                "punctuated_word": "Classen"
+              },
+              {
+                "word": "in",
+                "start": 2.96,
+                "end": 3.12,
+                "confidence": 0.99609375,
+                "punctuated_word": "in"
+              },
+              {
+                "word": "two",
+                "start": 3.12,
+                "end": 3.28,
+                "confidence": 0.99609375,
+                "punctuated_word": "two"
+              },
+              {
+                "word": "minutes",
+                "start": 3.28,
+                "end": 3.78,
+                "confidence": 0.9980469,
+                "punctuated_word": "minutes."
+              },
+              {
+                "word": "four",
+                "start": 4.3199997,
+                "end": 4.64,
+                "confidence": 1.0,
+                "punctuated_word": "Four"
+              },
+              {
+                "word": "thousand",
+                "start": 4.64,
+                "end": 4.96,
+                "confidence": 1.0,
+                "punctuated_word": "thousand"
+              },
+              {
+                "word": "years",
+                "start": 4.96,
+                "end": 5.2799997,
+                "confidence": 1.0,
+                "punctuated_word": "years"
+              },
+              {
+                "word": "ago",
+                "start": 5.2799997,
+                "end": 5.7799997,
+                "confidence": 1.0,
+                "punctuated_word": "ago,"
+              },
+              {
+                "word": "babylon",
+                "start": 5.8399997,
+                "end": 6.3199997,
+                "confidence": 1.0,
+                "punctuated_word": "Babylon"
+              },
+              {
+                "word": "was",
+                "start": 6.3199997,
+                "end": 6.48,
+                "confidence": 1.0,
+                "punctuated_word": "was"
+              },
+              {
+                "word": "the",
+                "start": 6.48,
+                "end": 6.56,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "wealthiest",
+                "start": 6.56,
+                "end": 7.06,
+                "confidence": 1.0,
+                "punctuated_word": "wealthiest"
+              },
+              {
+                "word": "city",
+                "start": 7.12,
+                "end": 7.44,
+                "confidence": 1.0,
+                "punctuated_word": "city"
+              },
+              {
+                "word": "on",
+                "start": 7.44,
+                "end": 7.6,
+                "confidence": 1.0,
+                "punctuated_word": "on"
+              },
+              {
+                "word": "earth",
+                "start": 7.6,
+                "end": 8.1,
+                "confidence": 0.78100586,
+                "punctuated_word": "Earth."
+              },
+              {
+                "word": "its",
+                "start": 8.559999,
+                "end": 8.88,
+                "confidence": 0.99609375,
+                "punctuated_word": "Its"
+              },
+              {
+                "word": "streets",
+                "start": 8.88,
+                "end": 9.28,
+                "confidence": 1.0,
+                "punctuated_word": "streets"
+              },
+              {
+                "word": "were",
+                "start": 9.28,
+                "end": 9.44,
+                "confidence": 1.0,
+                "punctuated_word": "were"
+              },
+              {
+                "word": "paved",
+                "start": 9.44,
+                "end": 9.76,
+                "confidence": 1.0,
+                "punctuated_word": "paved"
+              },
+              {
+                "word": "with",
+                "start": 9.76,
+                "end": 10.0,
+                "confidence": 1.0,
+                "punctuated_word": "with"
+              },
+              {
+                "word": "gold",
+                "start": 10.0,
+                "end": 10.5,
+                "confidence": 0.9921875,
+                "punctuated_word": "gold,"
+              },
+              {
+                "word": "yet",
+                "start": 10.559999,
+                "end": 10.8,
+                "confidence": 1.0,
+                "punctuated_word": "yet"
+              },
+              {
+                "word": "most",
+                "start": 10.8,
+                "end": 11.12,
+                "confidence": 0.99609375,
+                "punctuated_word": "most"
+              },
+              {
+                "word": "citizens",
+                "start": 11.12,
+                "end": 11.599999,
+                "confidence": 1.0,
+                "punctuated_word": "citizens"
+              },
+              {
+                "word": "lived",
+                "start": 11.599999,
+                "end": 11.92,
+                "confidence": 1.0,
+                "punctuated_word": "lived"
+              },
+              {
+                "word": "in",
+                "start": 11.92,
+                "end": 12.08,
+                "confidence": 1.0,
+                "punctuated_word": "in"
+              },
+              {
+                "word": "desperate",
+                "start": 12.08,
+                "end": 12.559999,
+                "confidence": 1.0,
+                "punctuated_word": "desperate"
+              },
+              {
+                "word": "poverty",
+                "start": 12.559999,
+                "end": 13.059999,
+                "confidence": 1.0,
+                "punctuated_word": "poverty."
+              },
+              {
+                "word": "why",
+                "start": 13.599999,
+                "end": 14.099999,
+                "confidence": 1.0,
+                "punctuated_word": "Why?"
+              },
+              {
+                "word": "because",
+                "start": 14.16,
+                "end": 14.48,
+                "confidence": 1.0,
+                "punctuated_word": "Because"
+              },
+              {
+                "word": "they",
+                "start": 14.48,
+                "end": 14.639999,
+                "confidence": 1.0,
+                "punctuated_word": "they"
+              },
+              {
+                "word": "spent",
+                "start": 14.639999,
+                "end": 15.04,
+                "confidence": 0.9741211,
+                "punctuated_word": "spent"
+              },
+              {
+                "word": "every",
+                "start": 15.04,
+                "end": 15.36,
+                "confidence": 1.0,
+                "punctuated_word": "every"
+              },
+              {
+                "word": "single",
+                "start": 15.36,
+                "end": 15.615,
+                "confidence": 0.99902344,
+                "punctuated_word": "single"
+              },
+              {
+                "word": "coin",
+                "start": 15.695,
+                "end": 16.015,
+                "confidence": 1.0,
+                "punctuated_word": "coin"
+              },
+              {
+                "word": "they",
+                "start": 16.015,
+                "end": 16.095,
+                "confidence": 1.0,
+                "punctuated_word": "they"
+              },
+              {
+                "word": "earned",
+                "start": 16.095,
+                "end": 16.595,
+                "confidence": 0.9995117,
+                "punctuated_word": "earned."
+              },
+              {
+                "word": "here",
+                "start": 17.055,
+                "end": 17.295,
+                "confidence": 1.0,
+                "punctuated_word": "Here"
+              },
+              {
+                "word": "is",
+                "start": 17.295,
+                "end": 17.455,
+                "confidence": 0.9243164,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "the",
+                "start": 17.455,
+                "end": 17.615,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "timeless",
+                "start": 17.615,
+                "end": 18.095,
+                "confidence": 0.9970703,
+                "punctuated_word": "timeless"
+              },
+              {
+                "word": "secret",
+                "start": 18.095,
+                "end": 18.414999,
+                "confidence": 1.0,
+                "punctuated_word": "secret"
+              },
+              {
+                "word": "of",
+                "start": 18.414999,
+                "end": 18.654999,
+                "confidence": 1.0,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "arkad",
+                "start": 18.654999,
+                "end": 19.154999,
+                "confidence": 0.9288737,
+                "punctuated_word": "Arkad,"
+              },
+              {
+                "word": "the",
+                "start": 19.295,
+                "end": 19.455,
+                "confidence": 0.99902344,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "richest",
+                "start": 19.455,
+                "end": 19.855,
+                "confidence": 0.99609375,
+                "punctuated_word": "richest"
+              },
+              {
+                "word": "man",
+                "start": 19.855,
+                "end": 20.095,
+                "confidence": 1.0,
+                "punctuated_word": "man"
+              },
+              {
+                "word": "in",
+                "start": 20.095,
+                "end": 20.335,
+                "confidence": 1.0,
+                "punctuated_word": "in"
+              },
+              {
+                "word": "babylon",
+                "start": 20.335,
+                "end": 20.835,
+                "confidence": 0.9980469,
+                "punctuated_word": "Babylon."
+              },
+              {
+                "word": "first",
+                "start": 21.535,
+                "end": 22.035,
+                "confidence": 0.9995117,
+                "punctuated_word": "First,"
+              },
+              {
+                "word": "start",
+                "start": 22.175,
+                "end": 22.494999,
+                "confidence": 1.0,
+                "punctuated_word": "start"
+              },
+              {
+                "word": "thy",
+                "start": 22.494999,
+                "end": 22.735,
+                "confidence": 0.97509766,
+                "punctuated_word": "thy"
+              },
+              {
+                "word": "purse",
+                "start": 22.735,
+                "end": 23.055,
+                "confidence": 0.99609375,
+                "punctuated_word": "purse"
+              },
+              {
+                "word": "to",
+                "start": 23.055,
+                "end": 23.215,
+                "confidence": 0.9970703,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "fattening",
+                "start": 23.215,
+                "end": 23.715,
+                "confidence": 0.99243164,
+                "punctuated_word": "fattening."
+              },
+              {
+                "word": "pay",
+                "start": 24.095,
+                "end": 24.415,
+                "confidence": 1.0,
+                "punctuated_word": "Pay"
+              },
+              {
+                "word": "yourself",
+                "start": 24.415,
+                "end": 24.895,
+                "confidence": 1.0,
+                "punctuated_word": "yourself"
+              },
+              {
+                "word": "first",
+                "start": 24.895,
+                "end": 25.395,
+                "confidence": 0.9980469,
+                "punctuated_word": "first."
+              },
+              {
+                "word": "for",
+                "start": 25.695,
+                "end": 25.935,
+                "confidence": 1.0,
+                "punctuated_word": "For"
+              },
+              {
+                "word": "every",
+                "start": 25.935,
+                "end": 26.335,
+                "confidence": 1.0,
+                "punctuated_word": "every"
+              },
+              {
+                "word": "10",
+                "start": 26.335,
+                "end": 26.575,
+                "confidence": 1.0,
+                "punctuated_word": "10"
+              },
+              {
+                "word": "coins",
+                "start": 26.575,
+                "end": 26.895,
+                "confidence": 1.0,
+                "punctuated_word": "coins"
+              },
+              {
+                "word": "you",
+                "start": 26.895,
+                "end": 27.134998,
+                "confidence": 0.99902344,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "earn",
+                "start": 27.134998,
+                "end": 27.615,
+                "confidence": 0.99902344,
+                "punctuated_word": "earn,"
+              },
+              {
+                "word": "spend",
+                "start": 27.615,
+                "end": 28.015,
+                "confidence": 0.99902344,
+                "punctuated_word": "spend"
+              },
+              {
+                "word": "only",
+                "start": 28.015,
+                "end": 28.335,
+                "confidence": 1.0,
+                "punctuated_word": "only"
+              },
+              {
+                "word": "9",
+                "start": 28.335,
+                "end": 28.835,
+                "confidence": 1.0,
+                "punctuated_word": "9."
+              },
+              {
+                "word": "if",
+                "start": 29.134998,
+                "end": 29.294998,
+                "confidence": 1.0,
+                "punctuated_word": "If"
+              },
+              {
+                "word": "you",
+                "start": 29.294998,
+                "end": 29.535,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "pay",
+                "start": 29.535,
+                "end": 29.695,
+                "confidence": 0.9902344,
+                "punctuated_word": "pay"
+              },
+              {
+                "word": "the",
+                "start": 29.695,
+                "end": 29.855,
+                "confidence": 0.99609375,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "merchant",
+                "start": 29.855,
+                "end": 30.3,
+                "confidence": 0.9995117,
+                "punctuated_word": "merchant,"
+              },
+              {
+                "word": "the",
+                "start": 30.539999,
+                "end": 30.699999,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "landlord",
+                "start": 30.699999,
+                "end": 31.199999,
+                "confidence": 0.9970703,
+                "punctuated_word": "landlord,"
+              },
+              {
+                "word": "and",
+                "start": 31.42,
+                "end": 31.66,
+                "confidence": 1.0,
+                "punctuated_word": "and"
+              },
+              {
+                "word": "the",
+                "start": 31.66,
+                "end": 31.82,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "tailor",
+                "start": 31.82,
+                "end": 32.14,
+                "confidence": 0.99902344,
+                "punctuated_word": "tailor"
+              },
+              {
+                "word": "first",
+                "start": 32.14,
+                "end": 32.62,
+                "confidence": 0.99853516,
+                "punctuated_word": "first,"
+              },
+              {
+                "word": "you",
+                "start": 32.62,
+                "end": 32.86,
+                "confidence": 0.99902344,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "are",
+                "start": 32.86,
+                "end": 32.94,
+                "confidence": 0.9790039,
+                "punctuated_word": "are"
+              },
+              {
+                "word": "a",
+                "start": 32.94,
+                "end": 33.18,
+                "confidence": 0.9980469,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "financial",
+                "start": 33.18,
+                "end": 33.66,
+                "confidence": 1.0,
+                "punctuated_word": "financial"
+              },
+              {
+                "word": "slave",
+                "start": 33.66,
+                "end": 34.059998,
+                "confidence": 1.0,
+                "punctuated_word": "slave"
+              },
+              {
+                "word": "working",
+                "start": 34.059998,
+                "end": 34.379997,
+                "confidence": 0.99609375,
+                "punctuated_word": "working"
+              },
+              {
+                "word": "for",
+                "start": 34.379997,
+                "end": 34.62,
+                "confidence": 1.0,
+                "punctuated_word": "for"
+              },
+              {
+                "word": "everyone",
+                "start": 34.62,
+                "end": 35.1,
+                "confidence": 0.99902344,
+                "punctuated_word": "everyone"
+              },
+              {
+                "word": "except",
+                "start": 35.1,
+                "end": 35.5,
+                "confidence": 0.9790039,
+                "punctuated_word": "except"
+              },
+              {
+                "word": "yourself",
+                "start": 35.5,
+                "end": 36.0,
+                "confidence": 0.99853516,
+                "punctuated_word": "yourself."
+              },
+              {
+                "word": "that",
+                "start": 36.54,
+                "end": 36.78,
+                "confidence": 1.0,
+                "punctuated_word": "That"
+              },
+              {
+                "word": "tenth",
+                "start": 36.78,
+                "end": 37.18,
+                "confidence": 0.99902344,
+                "punctuated_word": "tenth"
+              },
+              {
+                "word": "coin",
+                "start": 37.18,
+                "end": 37.42,
+                "confidence": 1.0,
+                "punctuated_word": "coin"
+              },
+              {
+                "word": "is",
+                "start": 37.42,
+                "end": 37.66,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "yours",
+                "start": 37.66,
+                "end": 38.059998,
+                "confidence": 1.0,
+                "punctuated_word": "yours"
+              },
+              {
+                "word": "to",
+                "start": 38.059998,
+                "end": 38.14,
+                "confidence": 1.0,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "keep",
+                "start": 38.14,
+                "end": 38.64,
+                "confidence": 1.0,
+                "punctuated_word": "keep"
+              },
+              {
+                "word": "forever",
+                "start": 38.86,
+                "end": 39.36,
+                "confidence": 0.9621582,
+                "punctuated_word": "forever."
+              },
+              {
+                "word": "second",
+                "start": 39.98,
+                "end": 40.48,
+                "confidence": 0.99853516,
+                "punctuated_word": "Second,"
+              },
+              {
+                "word": "control",
+                "start": 40.86,
+                "end": 41.34,
+                "confidence": 0.92089844,
+                "punctuated_word": "control"
+              },
+              {
+                "word": "thy",
+                "start": 41.34,
+                "end": 41.579998,
+                "confidence": 0.41015625,
+                "punctuated_word": "thy"
+              },
+              {
+                "word": "expenditures",
+                "start": 41.579998,
+                "end": 42.079998,
+                "confidence": 0.99853516,
+                "punctuated_word": "expenditures."
+              },
+              {
+                "word": "do",
+                "start": 42.78,
+                "end": 43.019997,
+                "confidence": 0.99902344,
+                "punctuated_word": "Do"
+              },
+              {
+                "word": "not",
+                "start": 43.019997,
+                "end": 43.26,
+                "confidence": 1.0,
+                "punctuated_word": "not"
+              },
+              {
+                "word": "confuse",
+                "start": 43.26,
+                "end": 43.76,
+                "confidence": 1.0,
+                "punctuated_word": "confuse"
+              },
+              {
+                "word": "necessary",
+                "start": 43.82,
+                "end": 44.32,
+                "confidence": 0.9980469,
+                "punctuated_word": "necessary"
+              },
+              {
+                "word": "expenses",
+                "start": 44.379997,
+                "end": 44.879997,
+                "confidence": 0.9970703,
+                "punctuated_word": "expenses"
+              },
+              {
+                "word": "with",
+                "start": 44.94,
+                "end": 45.1,
+                "confidence": 0.9892578,
+                "punctuated_word": "with"
+              },
+              {
+                "word": "your",
+                "start": 45.1,
+                "end": 45.34,
+                "confidence": 0.9892578,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "desires",
+                "start": 45.34,
+                "end": 45.645,
+                "confidence": 0.9812012,
+                "punctuated_word": "desires."
+              },
+              {
+                "word": "what",
+                "start": 46.445,
+                "end": 46.605,
+                "confidence": 0.9951172,
+                "punctuated_word": "What"
+              },
+              {
+                "word": "you",
+                "start": 46.605,
+                "end": 46.845,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "call",
+                "start": 46.845,
+                "end": 47.165,
+                "confidence": 1.0,
+                "punctuated_word": "call"
+              },
+              {
+                "word": "necessities",
+                "start": 47.165,
+                "end": 47.665,
+                "confidence": 1.0,
+                "punctuated_word": "necessities"
+              },
+              {
+                "word": "will",
+                "start": 47.725,
+                "end": 48.045002,
+                "confidence": 1.0,
+                "punctuated_word": "will"
+              },
+              {
+                "word": "always",
+                "start": 48.045002,
+                "end": 48.445,
+                "confidence": 1.0,
+                "punctuated_word": "always"
+              },
+              {
+                "word": "grow",
+                "start": 48.445,
+                "end": 48.765,
+                "confidence": 1.0,
+                "punctuated_word": "grow"
+              },
+              {
+                "word": "to",
+                "start": 48.765,
+                "end": 48.925,
+                "confidence": 1.0,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "equal",
+                "start": 48.925,
+                "end": 49.245,
+                "confidence": 1.0,
+                "punctuated_word": "equal"
+              },
+              {
+                "word": "your",
+                "start": 49.245,
+                "end": 49.485,
+                "confidence": 1.0,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "income",
+                "start": 49.485,
+                "end": 49.985,
+                "confidence": 1.0,
+                "punctuated_word": "income"
+              },
+              {
+                "word": "unless",
+                "start": 50.205,
+                "end": 50.525,
+                "confidence": 0.9448242,
+                "punctuated_word": "unless"
+              },
+              {
+                "word": "you",
+                "start": 50.525,
+                "end": 50.685,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "set",
+                "start": 50.685,
+                "end": 50.925,
+                "confidence": 1.0,
+                "punctuated_word": "set"
+              },
+              {
+                "word": "clear",
+                "start": 50.925,
+                "end": 51.245,
+                "confidence": 1.0,
+                "punctuated_word": "clear"
+              },
+              {
+                "word": "boundaries",
+                "start": 51.245,
+                "end": 51.745,
+                "confidence": 0.99853516,
+                "punctuated_word": "boundaries."
+              },
+              {
+                "word": "budget",
+                "start": 52.365,
+                "end": 52.765,
+                "confidence": 1.0,
+                "punctuated_word": "Budget"
+              },
+              {
+                "word": "your",
+                "start": 52.765,
+                "end": 53.005,
+                "confidence": 1.0,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "expenses",
+                "start": 53.005,
+                "end": 53.505,
+                "confidence": 1.0,
+                "punctuated_word": "expenses"
+              },
+              {
+                "word": "so",
+                "start": 53.645,
+                "end": 53.805,
+                "confidence": 0.94970703,
+                "punctuated_word": "so"
+              },
+              {
+                "word": "you",
+                "start": 53.805,
+                "end": 53.965,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "have",
+                "start": 53.965,
+                "end": 54.205,
+                "confidence": 1.0,
+                "punctuated_word": "have"
+              },
+              {
+                "word": "gold",
+                "start": 54.205,
+                "end": 54.525,
+                "confidence": 0.9941406,
+                "punctuated_word": "gold"
+              },
+              {
+                "word": "to",
+                "start": 54.525,
+                "end": 54.605,
+                "confidence": 1.0,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "pay",
+                "start": 54.605,
+                "end": 54.845,
+                "confidence": 1.0,
+                "punctuated_word": "pay"
+              },
+              {
+                "word": "yourself",
+                "start": 54.845,
+                "end": 55.345,
+                "confidence": 1.0,
+                "punctuated_word": "yourself"
+              },
+              {
+                "word": "without",
+                "start": 55.645,
+                "end": 56.045,
+                "confidence": 0.96435547,
+                "punctuated_word": "without"
+              },
+              {
+                "word": "depriving",
+                "start": 56.045,
+                "end": 56.525,
+                "confidence": 1.0,
+                "punctuated_word": "depriving"
+              },
+              {
+                "word": "your",
+                "start": 56.525,
+                "end": 56.765,
+                "confidence": 0.99902344,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "life",
+                "start": 56.765,
+                "end": 57.265,
+                "confidence": 0.9995117,
+                "punctuated_word": "life."
+              },
+              {
+                "word": "third",
+                "start": 57.485,
+                "end": 57.985,
+                "confidence": 0.970459,
+                "punctuated_word": "Third,"
+              },
+              {
+                "word": "make",
+                "start": 58.045,
+                "end": 58.364998,
+                "confidence": 0.99902344,
+                "punctuated_word": "make"
+              },
+              {
+                "word": "thy",
+                "start": 58.364998,
+                "end": 58.605,
+                "confidence": 0.9428711,
+                "punctuated_word": "thy"
+              },
+              {
+                "word": "gold",
+                "start": 58.605,
+                "end": 59.005,
+                "confidence": 0.97998047,
+                "punctuated_word": "gold"
+              },
+              {
+                "word": "multiply",
+                "start": 59.005,
+                "end": 59.505,
+                "confidence": 0.9975586,
+                "punctuated_word": "multiply."
+              },
+              {
+                "word": "a",
+                "start": 59.885002,
+                "end": 60.125,
+                "confidence": 0.7890625,
+                "punctuated_word": "A"
+              },
+              {
+                "word": "hoarded",
+                "start": 60.125,
+                "end": 60.605,
+                "confidence": 0.99609375,
+                "punctuated_word": "hoarded"
+              },
+              {
+                "word": "coin",
+                "start": 60.605,
+                "end": 60.845,
+                "confidence": 0.9902344,
+                "punctuated_word": "coin"
+              },
+              {
+                "word": "is",
+                "start": 60.845,
+                "end": 61.165,
+                "confidence": 0.95166016,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "dead",
+                "start": 61.165,
+                "end": 61.325,
+                "confidence": 0.9863281,
+                "punctuated_word": "dead"
+              },
+              {
+                "word": "metal",
+                "start": 61.325,
+                "end": 61.62,
+                "confidence": 0.92626953,
+                "punctuated_word": "metal."
+              },
+              {
+                "word": "gold",
+                "start": 62.579998,
+                "end": 62.739998,
+                "confidence": 0.99609375,
+                "punctuated_word": "Gold"
+              },
+              {
+                "word": "is",
+                "start": 62.739998,
+                "end": 62.86,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "a",
+                "start": 62.86,
+                "end": 62.98,
+                "confidence": 1.0,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "willing",
+                "start": 62.98,
+                "end": 63.46,
+                "confidence": 1.0,
+                "punctuated_word": "willing"
+              },
+              {
+                "word": "worker",
+                "start": 63.46,
+                "end": 63.96,
+                "confidence": 0.99316406,
+                "punctuated_word": "worker."
+              },
+              {
+                "word": "put",
+                "start": 64.18,
+                "end": 64.42,
+                "confidence": 1.0,
+                "punctuated_word": "Put"
+              },
+              {
+                "word": "every",
+                "start": 64.42,
+                "end": 64.74,
+                "confidence": 1.0,
+                "punctuated_word": "every"
+              },
+              {
+                "word": "coin",
+                "start": 64.74,
+                "end": 64.979996,
+                "confidence": 1.0,
+                "punctuated_word": "coin"
+              },
+              {
+                "word": "to",
+                "start": 64.979996,
+                "end": 65.22,
+                "confidence": 1.0,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "work",
+                "start": 65.22,
+                "end": 65.7,
+                "confidence": 1.0,
+                "punctuated_word": "work"
+              },
+              {
+                "word": "so",
+                "start": 65.7,
+                "end": 65.94,
+                "confidence": 0.6401367,
+                "punctuated_word": "so"
+              },
+              {
+                "word": "its",
+                "start": 65.94,
+                "end": 66.18,
+                "confidence": 0.91259766,
+                "punctuated_word": "its"
+              },
+              {
+                "word": "golden",
+                "start": 66.18,
+                "end": 66.659996,
+                "confidence": 0.9970703,
+                "punctuated_word": "golden"
+              },
+              {
+                "word": "children",
+                "start": 66.659996,
+                "end": 66.979996,
+                "confidence": 1.0,
+                "punctuated_word": "children"
+              },
+              {
+                "word": "and",
+                "start": 66.979996,
+                "end": 67.299995,
+                "confidence": 0.99902344,
+                "punctuated_word": "and"
+              },
+              {
+                "word": "grandchildren",
+                "start": 67.299995,
+                "end": 67.799995,
+                "confidence": 1.0,
+                "punctuated_word": "grandchildren"
+              },
+              {
+                "word": "earn",
+                "start": 68.02,
+                "end": 68.26,
+                "confidence": 0.99902344,
+                "punctuated_word": "earn"
+              },
+              {
+                "word": "income",
+                "start": 68.26,
+                "end": 68.659996,
+                "confidence": 1.0,
+                "punctuated_word": "income"
+              },
+              {
+                "word": "for",
+                "start": 68.659996,
+                "end": 68.82,
+                "confidence": 1.0,
+                "punctuated_word": "for"
+              },
+              {
+                "word": "you",
+                "start": 68.82,
+                "end": 69.14,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "while",
+                "start": 69.14,
+                "end": 69.299995,
+                "confidence": 1.0,
+                "punctuated_word": "while"
+              },
+              {
+                "word": "you",
+                "start": 69.299995,
+                "end": 69.46,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "sleep",
+                "start": 69.46,
+                "end": 69.96,
+                "confidence": 1.0,
+                "punctuated_word": "sleep."
+              },
+              {
+                "word": "wealth",
+                "start": 70.42,
+                "end": 70.82,
+                "confidence": 0.99902344,
+                "punctuated_word": "Wealth"
+              },
+              {
+                "word": "is",
+                "start": 70.82,
+                "end": 70.979996,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "not",
+                "start": 70.979996,
+                "end": 71.22,
+                "confidence": 1.0,
+                "punctuated_word": "not"
+              },
+              {
+                "word": "the",
+                "start": 71.22,
+                "end": 71.299995,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "coins",
+                "start": 71.299995,
+                "end": 71.619995,
+                "confidence": 1.0,
+                "punctuated_word": "coins"
+              },
+              {
+                "word": "in",
+                "start": 71.619995,
+                "end": 71.78,
+                "confidence": 1.0,
+                "punctuated_word": "in"
+              },
+              {
+                "word": "your",
+                "start": 71.78,
+                "end": 72.02,
+                "confidence": 1.0,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "pocket",
+                "start": 72.02,
+                "end": 72.52,
+                "confidence": 0.9748535,
+                "punctuated_word": "pocket."
+              },
+              {
+                "word": "it",
+                "start": 72.659996,
+                "end": 72.82,
+                "confidence": 1.0,
+                "punctuated_word": "It"
+              },
+              {
+                "word": "is",
+                "start": 72.82,
+                "end": 73.06,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "the",
+                "start": 73.06,
+                "end": 73.22,
+                "confidence": 0.9819336,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "steady",
+                "start": 73.22,
+                "end": 73.619995,
+                "confidence": 1.0,
+                "punctuated_word": "steady"
+              },
+              {
+                "word": "stream",
+                "start": 73.619995,
+                "end": 73.94,
+                "confidence": 1.0,
+                "punctuated_word": "stream"
+              },
+              {
+                "word": "of",
+                "start": 73.94,
+                "end": 74.18,
+                "confidence": 1.0,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "income",
+                "start": 74.18,
+                "end": 74.595,
+                "confidence": 1.0,
+                "punctuated_word": "income"
+              },
+              {
+                "word": "flowing",
+                "start": 74.835,
+                "end": 75.075005,
+                "confidence": 1.0,
+                "punctuated_word": "flowing"
+              },
+              {
+                "word": "continuously",
+                "start": 75.075005,
+                "end": 75.575005,
+                "confidence": 1.0,
+                "punctuated_word": "continuously"
+              },
+              {
+                "word": "into",
+                "start": 75.955,
+                "end": 76.275,
+                "confidence": 1.0,
+                "punctuated_word": "into"
+              },
+              {
+                "word": "your",
+                "start": 76.275,
+                "end": 76.515,
+                "confidence": 1.0,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "purse",
+                "start": 76.515,
+                "end": 77.015,
+                "confidence": 1.0,
+                "punctuated_word": "purse."
+              },
+              {
+                "word": "fourth",
+                "start": 77.395004,
+                "end": 77.895004,
+                "confidence": 0.97314453,
+                "punctuated_word": "Fourth,"
+              },
+              {
+                "word": "guard",
+                "start": 78.195,
+                "end": 78.595,
+                "confidence": 0.99902344,
+                "punctuated_word": "guard"
+              },
+              {
+                "word": "thy",
+                "start": 78.595,
+                "end": 78.835,
+                "confidence": 0.9838867,
+                "punctuated_word": "thy"
+              },
+              {
+                "word": "treasures",
+                "start": 78.835,
+                "end": 79.235,
+                "confidence": 0.99902344,
+                "punctuated_word": "treasures"
+              },
+              {
+                "word": "from",
+                "start": 79.235,
+                "end": 79.475,
+                "confidence": 1.0,
+                "punctuated_word": "from"
+              },
+              {
+                "word": "loss",
+                "start": 79.475,
+                "end": 79.975,
+                "confidence": 0.99853516,
+                "punctuated_word": "loss."
+              },
+              {
+                "word": "the",
+                "start": 80.435,
+                "end": 80.595,
+                "confidence": 1.0,
+                "punctuated_word": "The"
+              },
+              {
+                "word": "first",
+                "start": 80.595,
+                "end": 80.915,
+                "confidence": 1.0,
+                "punctuated_word": "first"
+              },
+              {
+                "word": "sound",
+                "start": 80.915,
+                "end": 81.235,
+                "confidence": 1.0,
+                "punctuated_word": "sound"
+              },
+              {
+                "word": "principle",
+                "start": 81.235,
+                "end": 81.715004,
+                "confidence": 0.9941406,
+                "punctuated_word": "principle"
+              },
+              {
+                "word": "of",
+                "start": 81.715004,
+                "end": 81.875,
+                "confidence": 1.0,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "investment",
+                "start": 81.875,
+                "end": 82.375,
+                "confidence": 1.0,
+                "punctuated_word": "investment"
+              },
+              {
+                "word": "is",
+                "start": 82.675,
+                "end": 82.915,
+                "confidence": 0.9980469,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "security",
+                "start": 82.915,
+                "end": 83.415,
+                "confidence": 1.0,
+                "punctuated_word": "security"
+              },
+              {
+                "word": "of",
+                "start": 83.475,
+                "end": 83.555,
+                "confidence": 1.0,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "your",
+                "start": 83.555,
+                "end": 83.795,
+                "confidence": 1.0,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "principle",
+                "start": 83.795,
+                "end": 84.295,
+                "confidence": 0.9819336,
+                "punctuated_word": "principle."
+              },
+              {
+                "word": "never",
+                "start": 84.675,
+                "end": 85.075,
+                "confidence": 1.0,
+                "punctuated_word": "Never"
+              },
+              {
+                "word": "trust",
+                "start": 85.075,
+                "end": 85.555,
+                "confidence": 1.0,
+                "punctuated_word": "trust"
+              },
+              {
+                "word": "get",
+                "start": 85.555,
+                "end": 85.795,
+                "confidence": 0.83935547,
+                "punctuated_word": "get"
+              },
+              {
+                "word": "rich",
+                "start": 85.795,
+                "end": 86.195,
+                "confidence": 1.0,
+                "punctuated_word": "rich"
+              },
+              {
+                "word": "quick",
+                "start": 86.195,
+                "end": 86.515,
+                "confidence": 0.97509766,
+                "punctuated_word": "quick"
+              },
+              {
+                "word": "schemes",
+                "start": 86.515,
+                "end": 87.015,
+                "confidence": 0.84814453,
+                "punctuated_word": "schemes,"
+              },
+              {
+                "word": "and",
+                "start": 87.475,
+                "end": 87.715004,
+                "confidence": 0.9980469,
+                "punctuated_word": "and"
+              },
+              {
+                "word": "never",
+                "start": 87.715004,
+                "end": 88.035,
+                "confidence": 1.0,
+                "punctuated_word": "never"
+              },
+              {
+                "word": "ask",
+                "start": 88.035,
+                "end": 88.275,
+                "confidence": 0.9951172,
+                "punctuated_word": "ask"
+              },
+              {
+                "word": "a",
+                "start": 88.275,
+                "end": 88.355,
+                "confidence": 0.9658203,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "brick",
+                "start": 88.355,
+                "end": 88.77,
+                "confidence": 0.96777344,
+                "punctuated_word": "brick"
+              },
+              {
+                "word": "for",
+                "start": 88.93,
+                "end": 89.17,
+                "confidence": 0.9892578,
+                "punctuated_word": "for"
+              },
+              {
+                "word": "advice",
+                "start": 89.17,
+                "end": 89.57,
+                "confidence": 0.99609375,
+                "punctuated_word": "advice"
+              },
+              {
+                "word": "on",
+                "start": 89.57,
+                "end": 89.81,
+                "confidence": 1.0,
+                "punctuated_word": "on"
+              },
+              {
+                "word": "buying",
+                "start": 89.81,
+                "end": 90.13,
+                "confidence": 0.99902344,
+                "punctuated_word": "buying"
+              },
+              {
+                "word": "diamonds",
+                "start": 90.13,
+                "end": 90.63,
+                "confidence": 0.9970703,
+                "punctuated_word": "diamonds."
+              },
+              {
+                "word": "consult",
+                "start": 91.25,
+                "end": 91.75,
+                "confidence": 1.0,
+                "punctuated_word": "Consult"
+              },
+              {
+                "word": "only",
+                "start": 91.81,
+                "end": 92.21,
+                "confidence": 1.0,
+                "punctuated_word": "only"
+              },
+              {
+                "word": "wise",
+                "start": 92.21,
+                "end": 92.60999,
+                "confidence": 0.9980469,
+                "punctuated_word": "wise"
+              },
+              {
+                "word": "men",
+                "start": 92.60999,
+                "end": 92.77,
+                "confidence": 0.9970703,
+                "punctuated_word": "men"
+              },
+              {
+                "word": "who",
+                "start": 92.77,
+                "end": 93.009995,
+                "confidence": 0.99902344,
+                "punctuated_word": "who"
+              },
+              {
+                "word": "have",
+                "start": 93.009995,
+                "end": 93.17,
+                "confidence": 0.9951172,
+                "punctuated_word": "have"
+              },
+              {
+                "word": "proven",
+                "start": 93.17,
+                "end": 93.649994,
+                "confidence": 1.0,
+                "punctuated_word": "proven"
+              },
+              {
+                "word": "experience",
+                "start": 93.649994,
+                "end": 94.149994,
+                "confidence": 0.9970703,
+                "punctuated_word": "experience"
+              },
+              {
+                "word": "managing",
+                "start": 94.28999,
+                "end": 94.78999,
+                "confidence": 0.9980469,
+                "punctuated_word": "managing"
+              },
+              {
+                "word": "gold",
+                "start": 94.85,
+                "end": 95.35,
+                "confidence": 0.9995117,
+                "punctuated_word": "gold."
+              },
+              {
+                "word": "fifth",
+                "start": 95.649994,
+                "end": 96.149994,
+                "confidence": 0.9580078,
+                "punctuated_word": "Fifth,"
+              },
+              {
+                "word": "make",
+                "start": 96.53,
+                "end": 96.77,
+                "confidence": 0.99902344,
+                "punctuated_word": "make"
+              },
+              {
+                "word": "of",
+                "start": 96.77,
+                "end": 96.92999,
+                "confidence": 0.9941406,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "thy",
+                "start": 96.92999,
+                "end": 97.17,
+                "confidence": 0.9472656,
+                "punctuated_word": "thy"
+              },
+              {
+                "word": "dwelling",
+                "start": 97.17,
+                "end": 97.57,
+                "confidence": 1.0,
+                "punctuated_word": "dwelling"
+              },
+              {
+                "word": "a",
+                "start": 97.57,
+                "end": 97.729996,
+                "confidence": 0.9941406,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "profitable",
+                "start": 97.729996,
+                "end": 98.229996,
+                "confidence": 1.0,
+                "punctuated_word": "profitable"
+              },
+              {
+                "word": "investment",
+                "start": 98.369995,
+                "end": 98.869995,
+                "confidence": 0.9946289,
+                "punctuated_word": "investment."
+              },
+              {
+                "word": "own",
+                "start": 99.409996,
+                "end": 99.649994,
+                "confidence": 1.0,
+                "punctuated_word": "Own"
+              },
+              {
+                "word": "your",
+                "start": 99.649994,
+                "end": 99.89,
+                "confidence": 1.0,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "own",
+                "start": 99.89,
+                "end": 100.13,
+                "confidence": 1.0,
+                "punctuated_word": "own"
+              },
+              {
+                "word": "roof",
+                "start": 100.13,
+                "end": 100.63,
+                "confidence": 1.0,
+                "punctuated_word": "roof"
+              },
+              {
+                "word": "so",
+                "start": 100.689995,
+                "end": 100.85,
+                "confidence": 0.5180664,
+                "punctuated_word": "so"
+              },
+              {
+                "word": "your",
+                "start": 100.85,
+                "end": 101.09,
+                "confidence": 1.0,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "heart",
+                "start": 101.09,
+                "end": 101.329994,
+                "confidence": 1.0,
+                "punctuated_word": "heart"
+              },
+              {
+                "word": "is",
+                "start": 101.329994,
+                "end": 101.56999,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "proud",
+                "start": 101.56999,
+                "end": 102.06999,
+                "confidence": 1.0,
+                "punctuated_word": "proud"
+              },
+              {
+                "word": "and",
+                "start": 102.21,
+                "end": 102.369995,
+                "confidence": 0.51904297,
+                "punctuated_word": "and"
+              },
+              {
+                "word": "your",
+                "start": 102.369995,
+                "end": 102.689995,
+                "confidence": 1.0,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "living",
+                "start": 102.689995,
+                "end": 103.009995,
+                "confidence": 1.0,
+                "punctuated_word": "living"
+              },
+              {
+                "word": "costs",
+                "start": 103.009995,
+                "end": 103.409996,
+                "confidence": 0.99902344,
+                "punctuated_word": "costs"
+              },
+              {
+                "word": "are",
+                "start": 103.409996,
+                "end": 103.665,
+                "confidence": 1.0,
+                "punctuated_word": "are"
+              },
+              {
+                "word": "reduced",
+                "start": 103.745,
+                "end": 104.245,
+                "confidence": 0.9941406,
+                "punctuated_word": "reduced."
+              },
+              {
+                "word": "sixth",
+                "start": 104.705,
+                "end": 105.205,
+                "confidence": 0.90478516,
+                "punctuated_word": "Sixth,"
+              },
+              {
+                "word": "ensure",
+                "start": 105.745,
+                "end": 106.225,
+                "confidence": 0.9428711,
+                "punctuated_word": "ensure"
+              },
+              {
+                "word": "a",
+                "start": 106.225,
+                "end": 106.305,
+                "confidence": 0.9980469,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "future",
+                "start": 106.305,
+                "end": 106.785,
+                "confidence": 1.0,
+                "punctuated_word": "future"
+              },
+              {
+                "word": "income",
+                "start": 106.785,
+                "end": 107.285,
+                "confidence": 0.95458984,
+                "punctuated_word": "income."
+              },
+              {
+                "word": "provide",
+                "start": 107.665,
+                "end": 108.065,
+                "confidence": 1.0,
+                "punctuated_word": "Provide"
+              },
+              {
+                "word": "in",
+                "start": 108.065,
+                "end": 108.305,
+                "confidence": 0.94628906,
+                "punctuated_word": "in"
+              },
+              {
+                "word": "advance",
+                "start": 108.305,
+                "end": 108.705,
+                "confidence": 0.99902344,
+                "punctuated_word": "advance"
+              },
+              {
+                "word": "for",
+                "start": 108.705,
+                "end": 108.865,
+                "confidence": 0.99902344,
+                "punctuated_word": "for"
+              },
+              {
+                "word": "your",
+                "start": 108.865,
+                "end": 109.105,
+                "confidence": 1.0,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "old",
+                "start": 109.105,
+                "end": 109.425,
+                "confidence": 1.0,
+                "punctuated_word": "old"
+              },
+              {
+                "word": "age",
+                "start": 109.425,
+                "end": 109.825,
+                "confidence": 1.0,
+                "punctuated_word": "age"
+              },
+              {
+                "word": "and",
+                "start": 109.825,
+                "end": 110.065,
+                "confidence": 0.95703125,
+                "punctuated_word": "and"
+              },
+              {
+                "word": "protect",
+                "start": 110.065,
+                "end": 110.465004,
+                "confidence": 1.0,
+                "punctuated_word": "protect"
+              },
+              {
+                "word": "your",
+                "start": 110.465004,
+                "end": 110.705,
+                "confidence": 0.9980469,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "family",
+                "start": 110.705,
+                "end": 111.185,
+                "confidence": 1.0,
+                "punctuated_word": "family"
+              },
+              {
+                "word": "against",
+                "start": 111.185,
+                "end": 111.585,
+                "confidence": 0.99902344,
+                "punctuated_word": "against"
+              },
+              {
+                "word": "sudden",
+                "start": 111.585,
+                "end": 111.905,
+                "confidence": 0.99902344,
+                "punctuated_word": "sudden"
+              },
+              {
+                "word": "misfortune",
+                "start": 111.905,
+                "end": 112.405,
+                "confidence": 0.9499512,
+                "punctuated_word": "misfortune."
+              },
+              {
+                "word": "and",
+                "start": 113.025,
+                "end": 113.265,
+                "confidence": 0.9980469,
+                "punctuated_word": "And"
+              },
+              {
+                "word": "seventh",
+                "start": 113.265,
+                "end": 113.765,
+                "confidence": 0.99853516,
+                "punctuated_word": "seventh,"
+              },
+              {
+                "word": "increase",
+                "start": 114.065,
+                "end": 114.545,
+                "confidence": 0.99902344,
+                "punctuated_word": "increase"
+              },
+              {
+                "word": "thy",
+                "start": 114.545,
+                "end": 114.785,
+                "confidence": 0.7963867,
+                "punctuated_word": "thy"
+              },
+              {
+                "word": "ability",
+                "start": 114.785,
+                "end": 115.265,
+                "confidence": 1.0,
+                "punctuated_word": "ability"
+              },
+              {
+                "word": "to",
+                "start": 115.265,
+                "end": 115.505005,
+                "confidence": 1.0,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "earn",
+                "start": 115.505005,
+                "end": 116.005005,
+                "confidence": 0.9970703,
+                "punctuated_word": "earn."
+              },
+              {
+                "word": "the",
+                "start": 116.065,
+                "end": 116.305,
+                "confidence": 1.0,
+                "punctuated_word": "The"
+              },
+              {
+                "word": "more",
+                "start": 116.305,
+                "end": 116.465,
+                "confidence": 1.0,
+                "punctuated_word": "more"
+              },
+              {
+                "word": "wisdom",
+                "start": 116.465,
+                "end": 116.945,
+                "confidence": 1.0,
+                "punctuated_word": "wisdom"
+              },
+              {
+                "word": "you",
+                "start": 116.945,
+                "end": 117.105,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "acquire",
+                "start": 117.105,
+                "end": 117.51,
+                "confidence": 0.9951172,
+                "punctuated_word": "acquire,"
+              },
+              {
+                "word": "the",
+                "start": 117.91,
+                "end": 118.07,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "more",
+                "start": 118.07,
+                "end": 118.39,
+                "confidence": 1.0,
+                "punctuated_word": "more"
+              },
+              {
+                "word": "gold",
+                "start": 118.39,
+                "end": 118.71,
+                "confidence": 0.99902344,
+                "punctuated_word": "gold"
+              },
+              {
+                "word": "you",
+                "start": 118.71,
+                "end": 118.87,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "will",
+                "start": 118.87,
+                "end": 119.19,
+                "confidence": 0.99902344,
+                "punctuated_word": "will"
+              },
+              {
+                "word": "attract",
+                "start": 119.19,
+                "end": 119.69,
+                "confidence": 0.99853516,
+                "punctuated_word": "attract."
+              },
+              {
+                "word": "cultivate",
+                "start": 120.07,
+                "end": 120.55,
+                "confidence": 0.9996745,
+                "punctuated_word": "Cultivate"
+              },
+              {
+                "word": "your",
+                "start": 120.55,
+                "end": 120.79,
+                "confidence": 1.0,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "skills",
+                "start": 120.79,
+                "end": 121.29,
+                "confidence": 0.8869629,
+                "punctuated_word": "skills,"
+              },
+              {
+                "word": "respect",
+                "start": 121.51,
+                "end": 121.91,
+                "confidence": 0.99902344,
+                "punctuated_word": "respect"
+              },
+              {
+                "word": "yourself",
+                "start": 121.91,
+                "end": 122.39,
+                "confidence": 0.9609375,
+                "punctuated_word": "yourself,"
+              },
+              {
+                "word": "and",
+                "start": 122.39,
+                "end": 122.630005,
+                "confidence": 1.0,
+                "punctuated_word": "and"
+              },
+              {
+                "word": "seize",
+                "start": 122.630005,
+                "end": 123.03,
+                "confidence": 0.9707031,
+                "punctuated_word": "seize"
+              },
+              {
+                "word": "opportunities",
+                "start": 123.03,
+                "end": 123.53,
+                "confidence": 1.0,
+                "punctuated_word": "opportunities"
+              },
+              {
+                "word": "without",
+                "start": 123.67,
+                "end": 123.990005,
+                "confidence": 1.0,
+                "punctuated_word": "without"
+              },
+              {
+                "word": "hesitation",
+                "start": 123.990005,
+                "end": 124.490005,
+                "confidence": 1.0,
+                "punctuated_word": "hesitation."
+              },
+              {
+                "word": "gold",
+                "start": 125.51,
+                "end": 125.83,
+                "confidence": 0.99902344,
+                "punctuated_word": "Gold"
+              },
+              {
+                "word": "flees",
+                "start": 125.83,
+                "end": 126.23,
+                "confidence": 0.9748535,
+                "punctuated_word": "flees"
+              },
+              {
+                "word": "the",
+                "start": 126.23,
+                "end": 126.39,
+                "confidence": 0.99902344,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "man",
+                "start": 126.39,
+                "end": 126.630005,
+                "confidence": 1.0,
+                "punctuated_word": "man"
+              },
+              {
+                "word": "who",
+                "start": 126.630005,
+                "end": 126.79,
+                "confidence": 1.0,
+                "punctuated_word": "who"
+              },
+              {
+                "word": "gambles",
+                "start": 126.79,
+                "end": 127.29,
+                "confidence": 0.9124349,
+                "punctuated_word": "gambles,"
+              },
+              {
+                "word": "but",
+                "start": 127.590004,
+                "end": 127.83,
+                "confidence": 1.0,
+                "punctuated_word": "but"
+              },
+              {
+                "word": "clings",
+                "start": 127.83,
+                "end": 128.15,
+                "confidence": 1.0,
+                "punctuated_word": "clings"
+              },
+              {
+                "word": "to",
+                "start": 128.15,
+                "end": 128.31,
+                "confidence": 1.0,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "the",
+                "start": 128.31,
+                "end": 128.47,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "man",
+                "start": 128.47,
+                "end": 128.71,
+                "confidence": 1.0,
+                "punctuated_word": "man"
+              },
+              {
+                "word": "who",
+                "start": 128.71,
+                "end": 128.87,
+                "confidence": 0.99902344,
+                "punctuated_word": "who"
+              },
+              {
+                "word": "follows",
+                "start": 128.87,
+                "end": 129.35,
+                "confidence": 1.0,
+                "punctuated_word": "follows"
+              },
+              {
+                "word": "these",
+                "start": 129.35,
+                "end": 129.59,
+                "confidence": 1.0,
+                "punctuated_word": "these"
+              },
+              {
+                "word": "timeless",
+                "start": 129.59,
+                "end": 130.07,
+                "confidence": 1.0,
+                "punctuated_word": "timeless"
+              },
+              {
+                "word": "laws",
+                "start": 130.07,
+                "end": 130.57,
+                "confidence": 0.9980469,
+                "punctuated_word": "laws."
+              },
+              {
+                "word": "so",
+                "start": 131.03,
+                "end": 131.27,
+                "confidence": 0.99316406,
+                "punctuated_word": "So"
+              },
+              {
+                "word": "tell",
+                "start": 131.27,
+                "end": 131.51001,
+                "confidence": 0.9980469,
+                "punctuated_word": "tell"
+              },
+              {
+                "word": "me",
+                "start": 131.51001,
+                "end": 131.67,
+                "confidence": 0.99902344,
+                "punctuated_word": "me"
+              },
+              {
+                "word": "in",
+                "start": 131.67,
+                "end": 131.75,
+                "confidence": 0.9980469,
+                "punctuated_word": "in"
+              },
+              {
+                "word": "the",
+                "start": 131.75,
+                "end": 131.91,
+                "confidence": 0.99902344,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "comments",
+                "start": 131.91,
+                "end": 132.31,
+                "confidence": 0.99902344,
+                "punctuated_word": "comments"
+              },
+              {
+                "word": "below",
+                "start": 132.31,
+                "end": 132.81,
+                "confidence": 0.7692871,
+                "punctuated_word": "below."
+              },
+              {
+                "word": "would",
+                "start": 133.48494,
+                "end": 133.64494,
+                "confidence": 1.0,
+                "punctuated_word": "Would"
+              },
+              {
+                "word": "you",
+                "start": 133.64494,
+                "end": 133.80495,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "rather",
+                "start": 133.80495,
+                "end": 134.12494,
+                "confidence": 1.0,
+                "punctuated_word": "rather"
+              },
+              {
+                "word": "look",
+                "start": 134.12494,
+                "end": 134.36494,
+                "confidence": 1.0,
+                "punctuated_word": "look"
+              },
+              {
+                "word": "rich",
+                "start": 134.36494,
+                "end": 134.60493,
+                "confidence": 1.0,
+                "punctuated_word": "rich"
+              },
+              {
+                "word": "today",
+                "start": 134.60493,
+                "end": 135.00494,
+                "confidence": 1.0,
+                "punctuated_word": "today"
+              },
+              {
+                "word": "while",
+                "start": 135.00494,
+                "end": 135.24493,
+                "confidence": 1.0,
+                "punctuated_word": "while"
+              },
+              {
+                "word": "drowning",
+                "start": 135.24493,
+                "end": 135.56494,
+                "confidence": 0.9970703,
+                "punctuated_word": "drowning"
+              },
+              {
+                "word": "in",
+                "start": 135.56494,
+                "end": 135.80495,
+                "confidence": 0.99902344,
+                "punctuated_word": "in"
+              },
+              {
+                "word": "secret",
+                "start": 135.80495,
+                "end": 136.12494,
+                "confidence": 1.0,
+                "punctuated_word": "secret"
+              },
+              {
+                "word": "debt",
+                "start": 136.12494,
+                "end": 136.62494,
+                "confidence": 1.0,
+                "punctuated_word": "debt"
+              },
+              {
+                "word": "or",
+                "start": 137.00494,
+                "end": 137.32494,
+                "confidence": 0.43847656,
+                "punctuated_word": "or"
+              },
+              {
+                "word": "live",
+                "start": 137.32494,
+                "end": 137.72495,
+                "confidence": 0.9970703,
+                "punctuated_word": "live"
+              },
+              {
+                "word": "modestly",
+                "start": 137.72495,
+                "end": 138.22495,
+                "confidence": 1.0,
+                "punctuated_word": "modestly"
+              },
+              {
+                "word": "and",
+                "start": 138.28494,
+                "end": 138.52493,
+                "confidence": 0.9980469,
+                "punctuated_word": "and"
+              },
+              {
+                "word": "build",
+                "start": 138.52493,
+                "end": 138.84494,
+                "confidence": 1.0,
+                "punctuated_word": "build"
+              },
+              {
+                "word": "unbreakable",
+                "start": 138.84494,
+                "end": 139.34494,
+                "confidence": 1.0,
+                "punctuated_word": "unbreakable"
+              },
+              {
+                "word": "generational",
+                "start": 139.56494,
+                "end": 140.06494,
+                "confidence": 0.9970703,
+                "punctuated_word": "generational"
+              },
+              {
+                "word": "wealth",
+                "start": 140.12494,
+                "end": 140.62494,
+                "confidence": 0.9970703,
+                "punctuated_word": "wealth?"
+              }
+            ],
+            "paragraphs": {
+              "transcript": "\nThe Richest Man in Babylon by George s Classen in two minutes. Four thousand years ago, Babylon was the wealthiest city on Earth. Its streets were paved with gold, yet most citizens lived in desperate poverty. Why? Because they spent every single coin they earned.\n\nHere is the timeless secret of Arkad, the richest man in Babylon. First, start thy purse to fattening. Pay yourself first. For every 10 coins you earn, spend only 9. If you pay the merchant, the landlord, and the tailor first, you are a financial slave working for everyone except yourself.\n\nThat tenth coin is yours to keep forever. Second, control thy expenditures. Do not confuse necessary expenses with your desires. What you call necessities will always grow to equal your income unless you set clear boundaries. Budget your expenses so you have gold to pay yourself without depriving your life.\n\nThird, make thy gold multiply. A hoarded coin is dead metal. Gold is a willing worker. Put every coin to work so its golden children and grandchildren earn income for you while you sleep. Wealth is not the coins in your pocket.\n\nIt is the steady stream of income flowing continuously into your purse. Fourth, guard thy treasures from loss. The first sound principle of investment is security of your principle. Never trust get rich quick schemes, and never ask a brick for advice on buying diamonds. Consult only wise men who have proven experience managing gold.\n\nFifth, make of thy dwelling a profitable investment. Own your own roof so your heart is proud and your living costs are reduced. Sixth, ensure a future income. Provide in advance for your old age and protect your family against sudden misfortune. And seventh, increase thy ability to earn.\n\nThe more wisdom you acquire, the more gold you will attract. Cultivate your skills, respect yourself, and seize opportunities without hesitation. Gold flees the man who gambles, but clings to the man who follows these timeless laws. So tell me in the comments below. Would you rather look rich today while drowning in secret debt or live modestly and build unbreakable generational wealth?",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "The Richest Man in Babylon by George s Classen in two minutes.",
+                      "start": 0.24,
+                      "end": 3.78
+                    },
+                    {
+                      "text": "Four thousand years ago, Babylon was the wealthiest city on Earth.",
+                      "start": 4.3199997,
+                      "end": 8.1
+                    },
+                    {
+                      "text": "Its streets were paved with gold, yet most citizens lived in desperate poverty.",
+                      "start": 8.559999,
+                      "end": 13.059999
+                    },
+                    {
+                      "text": "Why?",
+                      "start": 13.599999,
+                      "end": 14.099999
+                    },
+                    {
+                      "text": "Because they spent every single coin they earned.",
+                      "start": 14.16,
+                      "end": 16.595
+                    }
+                  ],
+                  "num_words": 45,
+                  "start": 0.24,
+                  "end": 16.595
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Here is the timeless secret of Arkad, the richest man in Babylon.",
+                      "start": 17.055,
+                      "end": 20.835
+                    },
+                    {
+                      "text": "First, start thy purse to fattening.",
+                      "start": 21.535,
+                      "end": 23.715
+                    },
+                    {
+                      "text": "Pay yourself first.",
+                      "start": 24.095,
+                      "end": 25.395
+                    },
+                    {
+                      "text": "For every 10 coins you earn, spend only 9.",
+                      "start": 25.695,
+                      "end": 28.835
+                    },
+                    {
+                      "text": "If you pay the merchant, the landlord, and the tailor first, you are a financial slave working for everyone except yourself.",
+                      "start": 29.134998,
+                      "end": 36.0
+                    }
+                  ],
+                  "num_words": 51,
+                  "start": 17.055,
+                  "end": 36.0
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "That tenth coin is yours to keep forever.",
+                      "start": 36.54,
+                      "end": 39.36
+                    },
+                    {
+                      "text": "Second, control thy expenditures.",
+                      "start": 39.98,
+                      "end": 42.079998
+                    },
+                    {
+                      "text": "Do not confuse necessary expenses with your desires.",
+                      "start": 42.78,
+                      "end": 45.645
+                    },
+                    {
+                      "text": "What you call necessities will always grow to equal your income unless you set clear boundaries.",
+                      "start": 46.445,
+                      "end": 51.745
+                    },
+                    {
+                      "text": "Budget your expenses so you have gold to pay yourself without depriving your life.",
+                      "start": 52.365,
+                      "end": 57.265
+                    }
+                  ],
+                  "num_words": 50,
+                  "start": 36.54,
+                  "end": 57.265
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Third, make thy gold multiply.",
+                      "start": 57.485,
+                      "end": 59.505
+                    },
+                    {
+                      "text": "A hoarded coin is dead metal.",
+                      "start": 59.885002,
+                      "end": 61.62
+                    },
+                    {
+                      "text": "Gold is a willing worker.",
+                      "start": 62.579998,
+                      "end": 63.96
+                    },
+                    {
+                      "text": "Put every coin to work so its golden children and grandchildren earn income for you while you sleep.",
+                      "start": 64.18,
+                      "end": 69.96
+                    },
+                    {
+                      "text": "Wealth is not the coins in your pocket.",
+                      "start": 70.42,
+                      "end": 72.52
+                    }
+                  ],
+                  "num_words": 42,
+                  "start": 57.485,
+                  "end": 72.52
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "It is the steady stream of income flowing continuously into your purse.",
+                      "start": 72.659996,
+                      "end": 77.015
+                    },
+                    {
+                      "text": "Fourth, guard thy treasures from loss.",
+                      "start": 77.395004,
+                      "end": 79.975
+                    },
+                    {
+                      "text": "The first sound principle of investment is security of your principle.",
+                      "start": 80.435,
+                      "end": 84.295
+                    },
+                    {
+                      "text": "Never trust get rich quick schemes, and never ask a brick for advice on buying diamonds.",
+                      "start": 84.675,
+                      "end": 90.63
+                    },
+                    {
+                      "text": "Consult only wise men who have proven experience managing gold.",
+                      "start": 91.25,
+                      "end": 95.35
+                    }
+                  ],
+                  "num_words": 55,
+                  "start": 72.659996,
+                  "end": 95.35
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Fifth, make of thy dwelling a profitable investment.",
+                      "start": 95.649994,
+                      "end": 98.869995
+                    },
+                    {
+                      "text": "Own your own roof so your heart is proud and your living costs are reduced.",
+                      "start": 99.409996,
+                      "end": 104.245
+                    },
+                    {
+                      "text": "Sixth, ensure a future income.",
+                      "start": 104.705,
+                      "end": 107.285
+                    },
+                    {
+                      "text": "Provide in advance for your old age and protect your family against sudden misfortune.",
+                      "start": 107.665,
+                      "end": 112.405
+                    },
+                    {
+                      "text": "And seventh, increase thy ability to earn.",
+                      "start": 113.025,
+                      "end": 116.005005
+                    }
+                  ],
+                  "num_words": 49,
+                  "start": 95.649994,
+                  "end": 116.005005
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "The more wisdom you acquire, the more gold you will attract.",
+                      "start": 116.065,
+                      "end": 119.69
+                    },
+                    {
+                      "text": "Cultivate your skills, respect yourself, and seize opportunities without hesitation.",
+                      "start": 120.07,
+                      "end": 124.490005
+                    },
+                    {
+                      "text": "Gold flees the man who gambles, but clings to the man who follows these timeless laws.",
+                      "start": 125.51,
+                      "end": 130.57
+                    },
+                    {
+                      "text": "So tell me in the comments below.",
+                      "start": 131.03,
+                      "end": 132.81
+                    },
+                    {
+                      "text": "Would you rather look rich today while drowning in secret debt or live modestly and build unbreakable generational wealth?",
+                      "start": 133.48494,
+                      "end": 140.62494
+                    }
+                  ],
+                  "num_words": 63,
+                  "start": 116.065,
+                  "end": 140.62494
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

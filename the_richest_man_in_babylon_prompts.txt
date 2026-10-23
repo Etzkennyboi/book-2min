@@ -1,0 +1,785 @@
+================================================================================
+THE RICHEST MAN IN BABYLON — 44 SENSORY MICRO-BEAT PROMPT SHEET (LOCKED DUO CONSISTENCY)
+================================================================================
+AUTHOR: George S. Clason
+RUNTIME: 140.62s (2:20 min) | SCENES: 44 Organic Cuts | STYLE: @sticklit Webcomic v2.2 Turbo
+
+HOW TO ACHIEVE 100% CHARACTER CONSISTENCY ACROSS ALL 44 SCENES:
+1. Canonical Protagonist Duo DNA:
+   - KAI (Boy): Circular head with flat warm natural skin tone (#E8BEAC / golden tan), messy spiky jet-black anime hair tuft, dark charcoal crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), sturdy black combat boots, expressive comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk.
+   - MAYA (Girl): Circular head with flat warm natural skin tone (#E8BEAC / golden tan), high energetic spiky jet-black ponytail tied with band with fringe bangs, dark charcoal crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), sturdy black combat boots, expressive comic eyes, arched eyebrows, analytical wink and clever mastermind smile, minimalist 2D black stick limbs with strictly zero muscular bulk.
+2. Universal Format & Canvas Rules:
+   - 9:16 Vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless, zero gradients, zero floor/wall texture.
+   - Centered near top edge: subtle outline watermark '@sticklit'.
+   - 250px Subtitle Safety Zone: All characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden subtitles.
+3. Universal Anti-Drift Negative Prompt (Paste into every generation):
+   (defined muscles, muscular body, thick limbs, realistic human anatomy, 3D render, CGI, gradient background, dark background, borders, frames, cut off heads, tilted book covers, realistic faces, realistic clothing wrinkles)
+================================================================================
+
+--------------------------------------------------------------------------------
+SCENE 01 / 44 | TIME:   0.00s ->   4.32s (Duration: 4.32s)
+SCRIPT VO: "The Richest Man in Babylon by George S. Clason in two minutes."
+--------------------------------------------------------------------------------
+[SCENE_01] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter. Near the top center, small subtle text: '@sticklit'.
+
+CRITICAL MANDATE - ZERO TILT & ZERO NECK BENDING:
+The book must stand PERFECTLY CENTERED, 100% upright, flat-facing the camera, level and straight. The title text MUST be 100% horizontal and effortlessly readable with zero tilt!
+
+1. Centered Book (Centerpiece):
+   - A colossal, towering ancient-themed hardcover book planted squarely in the center of the frame, 100% upright and level.
+   - Rich sandstone-gold borders, deep lapis-blue central panel, with bold, perfectly horizontal gold serif embossed title:
+     "THE RICHEST MAN IN BABYLON"
+     "GEORGE S. CLASON"
+   - Subtle glowing golden cuneiform sparks crackle softly around the perimeter of the book.
+
+2. Babylonian Wealth Mastery Duo Action:
+   - LEFT SIDE: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky black hair, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black boots, minimalist 2D stick limbs). Leans coolly against the left edge of the book with one hand in pocket, while using his other hand to pour a gleaming cascade of gold coins from a plump leather purse into an overflowing treasure chest, giving an effortless knowing 4th-wall smirk.
+   - RIGHT SIDE: Maya (Girl stick figure, circular head with flat warm natural skin tone, high spiky black ponytail with bangs, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black boots, minimalist 2D stick limbs). Stands proudly holding a glowing ancient Babylonian clay tablet inscribed with gold financial rules, giving a sharp analytical wink and triumphant smile.
+   - FLOOR / FREEDOM: Broken iron debt chains lie shattered at their feet on the pure white floor with comic impact dust puffs.
+   - TOP VIRAL HOOK BUBBLE: A bold comic speech bubble reading: "The Ancient Secret to Never Being Broke!"
+
+3. Top Comic Header:
+   - Centered near top edge: subtle outline '@sticklit'
+   - Bold handwritten comic title:
+     "The Richest Man in Babylon"
+     "George S. Clason"
+     "in two minutes"
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave bottom 250px completely clear pure white negative space.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+--------------------------------------------------------------------------------
+SCENE 02 / 44 | TIME:   4.32s ->   8.56s (Duration: 4.24s)
+SCRIPT VO: "Four thousand years ago, Babylon was the wealthiest city on Earth."
+--------------------------------------------------------------------------------
+[SCENE_02] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A majestic panoramic view of ancient Babylon: golden sandstone towers, hanging terrace gardens, and merchant ships sailing on the sparkling Euphrates river under bright sun.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 03 / 44 | TIME:   8.56s ->  13.60s (Duration: 5.04s)
+SCRIPT VO: "Its streets were paved with gold, yet most citizens lived in desperate poverty."
+--------------------------------------------------------------------------------
+[SCENE_03] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A stark contrast: wealthy royal chariots rolling across polished stones, while poor stickmen citizens sit by the roadside holding empty, deflated cloth coin pouches with sad comic eyes.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 04 / 44 | TIME:  13.60s ->  17.05s (Duration: 3.45s)
+SCRIPT VO: "Why? Because they spent every single coin they earned."
+--------------------------------------------------------------------------------
+[SCENE_04] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A stickman laborer receiving a pouch of shiny gold coins, and immediately handing every single coin away to flashy market merchants selling wine, fine silks, and sweet pastries until his hands are completely empty.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 05 / 44 | TIME:  17.05s ->  21.54s (Duration: 4.49s)
+SCRIPT VO: "Here is the timeless secret of Arkad, the richest man in Babylon."
+--------------------------------------------------------------------------------
+[SCENE_05] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Arkad (a wise, smiling 2D stickman in an elegant Babylonian tunic with a golden trim) standing calmly with arms outstretched, radiating a warm golden aura while holding a giant glowing clay tablet.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 06 / 44 | TIME:  21.54s ->  24.09s (Duration: 2.55s)
+SCRIPT VO: "First, start thy purse to fattening."
+--------------------------------------------------------------------------------
+[SCENE_06] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A flat, deflated leather coin purse expanding like a cartoon balloon into a giant, plump, heavy golden pouch stuffed full of round coins.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 07 / 44 | TIME:  24.09s ->  25.70s (Duration: 1.61s)
+SCRIPT VO: "Pay yourself first."
+--------------------------------------------------------------------------------
+[SCENE_07] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Kai standing triumphantly at the head of a line of creditors, firmly placing the first gleaming golden coin directly into his own private locked chest before paying anyone else.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 08 / 44 | TIME:  25.70s ->  29.13s (Duration: 3.43s)
+SCRIPT VO: "For every ten coins you earn, spend only nine."
+--------------------------------------------------------------------------------
+[SCENE_08] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A neat visual infographic: 10 golden coins stacked in a row. 9 coins are moved to a basket labeled 'LIVING COSTS', while the 10th coin glows with a golden halo labeled 'YOUR WEALTH'.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 09 / 44 | TIME:  29.13s ->  32.62s (Duration: 3.49s)
+SCRIPT VO: "If you pay the merchant, the landlord, and the tailor first,"
+--------------------------------------------------------------------------------
+[SCENE_09] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A crowded queue of greedy vendor stickmen (a grumpy landlord holding a rent lease, a tailor holding robes, a merchant holding fruit) greedily reaching their hands out toward a panicked worker.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 10 / 44 | TIME:  32.62s ->  36.54s (Duration: 3.92s)
+SCRIPT VO: "you are a financial slave working for everyone except yourself."
+--------------------------------------------------------------------------------
+[SCENE_10] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A stressed stickman attached to heavy iron ball-and-chain weights labeled 'EXPENSES', running endlessly like a treadmill slave while other merchants count his earnings.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 11 / 44 | TIME:  36.54s ->  39.98s (Duration: 3.44s)
+SCRIPT VO: "That tenth coin is yours to keep, forever."
+--------------------------------------------------------------------------------
+[SCENE_11] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Maya placing a massive glowing gold coin into a solid steel bank vault with a heavy padlock, winking directly at the viewer with an untouchable sovereign smile.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 12 / 44 | TIME:  39.98s ->  42.78s (Duration: 2.80s)
+SCRIPT VO: "Second, control thy expenditures."
+--------------------------------------------------------------------------------
+[SCENE_12] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Kai holding a giant pair of golden scissors, decisively snipping a tangled rope of unnecessary receipts, luxury bills, and impulse purchases.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 13 / 44 | TIME:  42.78s ->  46.45s (Duration: 3.67s)
+SCRIPT VO: "Do not confuse necessary expenses with your desires."
+--------------------------------------------------------------------------------
+[SCENE_13] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A giant two-sided ancient scale: on the left plate, simple bread, clean water, and shelter balance evenly; on the right plate, a mountain of luxury gold trinkets and exotic perfumes tilts wildly out of control.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 14 / 44 | TIME:  46.45s ->  50.20s (Duration: 3.75s)
+SCRIPT VO: "What you call necessities will always grow to equal your income"
+--------------------------------------------------------------------------------
+[SCENE_14] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A visual comparison: as a stickman's salary sack grows from 1x to 5x, his pile of luxury 'necessities' instantly balloons to the exact same size, leaving him with zero savings.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 15 / 44 | TIME:  50.20s ->  52.37s (Duration: 2.17s)
+SCRIPT VO: "unless you set clear boundaries."
+--------------------------------------------------------------------------------
+[SCENE_15] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Maya planting a solid brick wall labeled 'BUDGET BOUNDARY' between a growing pile of savings and a mob of shiny impulse temptations.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 16 / 44 | TIME:  52.37s ->  55.65s (Duration: 3.28s)
+SCRIPT VO: "Budget your expenses so you have gold to pay yourself,"
+--------------------------------------------------------------------------------
+[SCENE_16] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Kai neatly writing on a crisp Babylonian parchment ledger with a quill, carefully allocating gold coins into labeled ceramic jars: 'SAVINGS 10%', 'FOOD', 'HOME'.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 17 / 44 | TIME:  55.65s ->  57.48s (Duration: 1.83s)
+SCRIPT VO: "without depriving your life."
+--------------------------------------------------------------------------------
+[SCENE_17] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Kai and Maya enjoying a delicious, wholesome meal together under a shaded grapevine arbor, smiling happily with comfortable abundance and peace of mind.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 18 / 44 | TIME:  57.48s ->  59.89s (Duration: 2.41s)
+SCRIPT VO: "Third, make thy gold multiply."
+--------------------------------------------------------------------------------
+[SCENE_18] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A single golden coin splitting into three, then nine, then twenty-seven sparkling coins that multiply exponentially across the frame with bright comic sparkles.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 19 / 44 | TIME:  59.89s ->  62.58s (Duration: 2.69s)
+SCRIPT VO: "A hoarded coin is dead metal."
+--------------------------------------------------------------------------------
+[SCENE_19] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A gloomy, dusty dungeon corner where cold grey coins sit lifeless under spiderwebs, turning rusty and stagnant inside a buried clay pot.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 20 / 44 | TIME:  62.58s ->  64.18s (Duration: 1.60s)
+SCRIPT VO: "Gold is a willing worker."
+--------------------------------------------------------------------------------
+[SCENE_20] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Cute 2D cartoon gold coins wearing tiny construction hardhats, marching cheerfully with miniature pickaxes and wheelbarrows to build a golden tower of wealth.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 21 / 44 | TIME:  64.18s ->  68.02s (Duration: 3.84s)
+SCRIPT VO: "Put every coin to work so its golden children and grandchildren"
+--------------------------------------------------------------------------------
+[SCENE_21] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A cartoon family tree of golden coins: a large gold coin patriarch surrounded by dozens of energetic child and grandchild coins, all holding smaller bags of gold.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 22 / 44 | TIME:  68.02s ->  70.42s (Duration: 2.40s)
+SCRIPT VO: "earn income for you while you sleep."
+--------------------------------------------------------------------------------
+[SCENE_22] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Kai sleeping peacefully in a comfortable hammock under crescent moon and stars, while cheerful little coin workers quietly stack golden bullion bars beneath him.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 23 / 44 | TIME:  70.42s ->  72.66s (Duration: 2.24s)
+SCRIPT VO: "Wealth is not the coins in your pocket."
+--------------------------------------------------------------------------------
+[SCENE_23] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A stickman pulling his empty pockets inside out with a shrug, showing that physical pocket cash disappears the moment you spend it.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 24 / 44 | TIME:  72.66s ->  77.40s (Duration: 4.74s)
+SCRIPT VO: "It is the steady stream of income flowing continuously into your purse."
+--------------------------------------------------------------------------------
+[SCENE_24] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A magnificent glowing aquamarine canal of golden water flowing continuously from an abundant mountain spring directly into Maya's leather purse, never running dry.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 25 / 44 | TIME:  77.40s ->  80.44s (Duration: 3.04s)
+SCRIPT VO: "Fourth, guard thy treasures from loss."
+--------------------------------------------------------------------------------
+[SCENE_25] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Maya standing as an alert royal sentinel with a polished gold shield labeled 'PRESERVATION', deflecting dangerous flying arrows of risk away from a treasure chest.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 26 / 44 | TIME:  80.44s ->  84.67s (Duration: 4.23s)
+SCRIPT VO: "The first sound principle of investment is security of your principal."
+--------------------------------------------------------------------------------
+[SCENE_26] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A solid, unshakeable stone bedrock foundation supporting a golden vault, completely unmoved by raging stormy waves crashing around it.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 27 / 44 | TIME:  84.67s ->  87.47s (Duration: 2.80s)
+SCRIPT VO: "Never trust get-rich-quick schemes,"
+--------------------------------------------------------------------------------
+[SCENE_27] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A shady carnival barker stickman with a mustache holding a glowing sign reading '1000% PROFIT IN 3 DAYS!', while Kai crosses his arms and smirks in total refusal.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 28 / 44 | TIME:  87.47s ->  91.25s (Duration: 3.78s)
+SCRIPT VO: "and never ask a bricklayer for advice on buying diamonds."
+--------------------------------------------------------------------------------
+[SCENE_28] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A confused bricklayer holding a trowel full of wet mortar, examining a giant glittering diamond with a magnifying glass while Maya facepalms with comic sweat drops.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 29 / 44 | TIME:  91.25s ->  95.65s (Duration: 4.40s)
+SCRIPT VO: "Consult only wise men who have proven experience managing gold."
+--------------------------------------------------------------------------------
+[SCENE_29] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Kai and Maya sitting respectfully before a circle of wise, gray-bearded Babylonian financial elders holding certified ledgers and golden compasses.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 30 / 44 | TIME:  95.65s ->  99.41s (Duration: 3.76s)
+SCRIPT VO: "Fifth, make of thy dwelling a profitable investment."
+--------------------------------------------------------------------------------
+[SCENE_30] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Kai standing proudly before his own debt-free Babylonian home with clean whitewashed walls, a green courtyard, and a thriving fig tree bearing sweet fruit.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 31 / 44 | TIME:  99.41s -> 102.21s (Duration: 2.80s)
+SCRIPT VO: "Own your own roof so your heart is proud"
+--------------------------------------------------------------------------------
+[SCENE_31] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Kai placing a golden key into his front door, hand on his chest with a warm, proud smile of sovereign ownership.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 32 / 44 | TIME: 102.21s -> 104.70s (Duration: 2.49s)
+SCRIPT VO: "and your living costs are reduced."
+--------------------------------------------------------------------------------
+[SCENE_32] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A rent payment bill dissolving into thin air, leaving extra golden coins falling into Maya's savings jar.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 33 / 44 | TIME: 104.70s -> 107.67s (Duration: 2.97s)
+SCRIPT VO: "Sixth, insure a future income."
+--------------------------------------------------------------------------------
+[SCENE_33] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+An umbrella made of solid woven gold shielding an elderly stickman couple from torrential storm clouds, keeping them completely warm and dry.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 34 / 44 | TIME: 107.67s -> 109.83s (Duration: 2.16s)
+SCRIPT VO: "Provide in advance for your old age"
+--------------------------------------------------------------------------------
+[SCENE_34] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A cheerful elderly stick figure with a cane and white beard sitting comfortably in a rocking chair, surrounded by grandchildren and overflowing food baskets.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 35 / 44 | TIME: 109.83s -> 113.03s (Duration: 3.20s)
+SCRIPT VO: "and protect your family against sudden misfortune."
+--------------------------------------------------------------------------------
+[SCENE_35] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A protective golden dome glowing around a peaceful stickman family home, repelling lightning strikes and dark misfortune clouds outside.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 36 / 44 | TIME: 113.03s -> 116.06s (Duration: 3.03s)
+SCRIPT VO: "And seventh, increase thy ability to earn."
+--------------------------------------------------------------------------------
+[SCENE_36] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Kai sharpening an ornate iron tool at a blacksmith forge, his skill bar leveling up dynamically from 'NOVICE' to 'MASTER BLACKSMITH' with glowing sparks.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 37 / 44 | TIME: 116.06s -> 120.07s (Duration: 4.01s)
+SCRIPT VO: "The more wisdom you acquire, the more gold you will attract."
+--------------------------------------------------------------------------------
+[SCENE_37] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Maya reading an ancient scroll of wisdom, her head glowing with brilliant light that magnetically pulls floating golden coins toward her like a magnet.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 38 / 44 | TIME: 120.07s -> 122.39s (Duration: 2.32s)
+SCRIPT VO: "Cultivate your skills, respect yourself,"
+--------------------------------------------------------------------------------
+[SCENE_38] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Kai standing tall in a polished artisan tunic, shaking hands with wealthy merchant patrons who gladly pay premium gold for his masterwork craftsmanship.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 39 / 44 | TIME: 122.39s -> 125.51s (Duration: 3.12s)
+SCRIPT VO: "and seize opportunities without hesitation."
+--------------------------------------------------------------------------------
+[SCENE_39] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A glowing golden door labeled 'OPPORTUNITY' swinging open; Maya leaps through boldly without a second of fear, grabbing a golden victory scroll.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 40 / 44 | TIME: 125.51s -> 127.59s (Duration: 2.08s)
+SCRIPT VO: "Gold flees the man who gambles,"
+--------------------------------------------------------------------------------
+[SCENE_40] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A reckless stickman throwing dice at a shady tavern table, while tiny golden coins with wings frantically fly away from his pockets into the dark.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 41 / 44 | TIME: 127.59s -> 131.03s (Duration: 3.44s)
+SCRIPT VO: "but clings to the man who follows these timeless laws."
+--------------------------------------------------------------------------------
+[SCENE_41] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Kai and Maya standing serene and confident, with dozens of solid gold coins magnetically locking onto their belts and purses like loyal soldiers.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 42 / 44 | TIME: 131.03s -> 133.48s (Duration: 2.45s)
+SCRIPT VO: "So tell me in the comments below."
+--------------------------------------------------------------------------------
+[SCENE_42] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Kai and Maya standing side-by-side, both pointing dynamic cartoon arrows straight down toward the comment section with engaging smiles and arched eyebrows.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 43 / 44 | TIME: 133.48s -> 137.00s (Duration: 3.52s)
+SCRIPT VO: "Would you rather look rich today while drowning in secret debt?"
+--------------------------------------------------------------------------------
+[SCENE_43] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A flashy merchant stickman dressed in gaudy purple silk and heavy gold chains, smiling fake for the crowd while chained underwater under a massive sinking anchor labeled '$250,000 DEBT'.
+
+Character Consistency DNA:
+- Minimalist 2D stick limbs (thin black ink lines, strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), charcoal crewneck tee (#3A3A3C), grey straight stick pants (#8E8E93), black boots.
+- Kai: messy spiky black hair, knowing smirk. Maya: high spiky ponytail with front fringe bangs, analytical wink/smile.
+
+Framing & Constraints:
+- Subtitle Safety: Keep all characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden yellow subtitles.
+- Negative Prompt: (defined muscles, muscular body, thick limbs, realistic anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures)
+
+--------------------------------------------------------------------------------
+SCENE 44 / 44 | TIME: 137.00s -> 140.62s (Duration: 3.62s)
+SCRIPT VO: "Or live modestly and build unbreakable generational wealth?"
+--------------------------------------------------------------------------------
+[SCENE_44] 9:16 vertical 2D minimalist cartoon illustration in the viral @sticklit webcomic style featuring a single cohesive horizontal split-screen visual for the final question dilemma of 'The Richest Man in Babylon'. Solid pure digital white (#FFFFFF) background, borderless.
+
+Visual & Layout Specifications:
+1. Layout: A clean horizontal split-screen divided across the middle by a crisp black divider line with a central circular '(VS)' badge:
+   - TOP PANEL (Choice A: Flashy Illusion & Crushing Debt):
+     A flashy merchant stickman wearing ostentatious purple silk robes and heavy gold chains, sweating profusely with wide panicked eyes as three angry debt collectors brandish overdue rent rolls and unpaid promissory notes. His private vault behind him stands wide open, utterly empty with spiderwebs and dust.
+   - BOTTOM PANEL (Choice B: Modest Living & Generational Wealth):
+     A serene, peaceful stickman dressed in simple, comfortable clothing, resting happily under a shaded terrace in Babylon's lush hanging gardens. Beside him stand three massive solid-gold vaults overflowing with gleaming gold bullion bars and growing coin stacks, radiating total security, abundance, and timeless family freedom.
+2. Central Badge: A bold circular badge in the middle of the divider line labeled '(VS)' in comic punch font.
+3. Top Branding: Subtle outline watermark text centered near top edge: '@sticklit'.
+
+Visual & Style Specifications:
+- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of each panel area; leave the bottom 250px completely clear pure white negative space for golden subtitles.
+- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, CGI, dark background, borders, frames, gradients)

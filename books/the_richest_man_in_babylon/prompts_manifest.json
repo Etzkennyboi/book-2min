@@ -1,0 +1,750 @@
+[
+  {
+    "scene_id": 1,
+    "filename": "scene_01.jpg",
+    "signature": "colossal_centered_upright_book",
+    "keywords": [
+      "scene_01",
+      "scene1",
+      "colossal",
+      "centered",
+      "upright",
+      "book",
+      "the",
+      "richest",
+      "babylon",
+      "george"
+    ]
+  },
+  {
+    "scene_id": 2,
+    "filename": "scene_02.jpg",
+    "signature": "majestic_panoramic_view_ancient",
+    "keywords": [
+      "scene_02",
+      "scene2",
+      "majestic",
+      "panoramic",
+      "view",
+      "ancient",
+      "babylon",
+      "golden",
+      "sandstone",
+      "towers"
+    ]
+  },
+  {
+    "scene_id": 3,
+    "filename": "scene_03.jpg",
+    "signature": "stark_contrast_wealthy_royal",
+    "keywords": [
+      "scene_03",
+      "scene3",
+      "stark",
+      "contrast",
+      "wealthy",
+      "royal",
+      "chariots",
+      "rolling",
+      "across",
+      "polished"
+    ]
+  },
+  {
+    "scene_id": 4,
+    "filename": "scene_04.jpg",
+    "signature": "stickman_laborer_receiving_pouch",
+    "keywords": [
+      "scene_04",
+      "scene4",
+      "stickman",
+      "laborer",
+      "receiving",
+      "pouch",
+      "shiny",
+      "gold",
+      "coins",
+      "immediately"
+    ]
+  },
+  {
+    "scene_id": 5,
+    "filename": "scene_05.jpg",
+    "signature": "arkad_wise_smiling_stickman",
+    "keywords": [
+      "scene_05",
+      "scene5",
+      "arkad",
+      "wise",
+      "smiling",
+      "stickman",
+      "elegant",
+      "babylonian",
+      "tunic",
+      "with"
+    ]
+  },
+  {
+    "scene_id": 6,
+    "filename": "scene_06.jpg",
+    "signature": "flat_deflated_leather_coin",
+    "keywords": [
+      "scene_06",
+      "scene6",
+      "flat",
+      "deflated",
+      "leather",
+      "coin",
+      "purse",
+      "expanding",
+      "like",
+      "cartoon"
+    ]
+  },
+  {
+    "scene_id": 7,
+    "filename": "scene_07.jpg",
+    "signature": "standing_triumphantly_head_line",
+    "keywords": [
+      "scene_07",
+      "scene7",
+      "standing",
+      "triumphantly",
+      "head",
+      "line",
+      "creditors",
+      "firmly",
+      "placing",
+      "first"
+    ]
+  },
+  {
+    "scene_id": 8,
+    "filename": "scene_08.jpg",
+    "signature": "neat_visual_infographic_golden",
+    "keywords": [
+      "scene_08",
+      "scene8",
+      "neat",
+      "visual",
+      "infographic",
+      "golden",
+      "coins",
+      "stacked",
+      "row",
+      "coins"
+    ]
+  },
+  {
+    "scene_id": 9,
+    "filename": "scene_09.jpg",
+    "signature": "crowded_queue_greedy_vendor",
+    "keywords": [
+      "scene_09",
+      "scene9",
+      "crowded",
+      "queue",
+      "greedy",
+      "vendor",
+      "stickmen",
+      "grumpy",
+      "landlord",
+      "holding"
+    ]
+  },
+  {
+    "scene_id": 10,
+    "filename": "scene_10.jpg",
+    "signature": "stressed_stickman_attached_heavy",
+    "keywords": [
+      "scene_10",
+      "scene10",
+      "stressed",
+      "stickman",
+      "attached",
+      "heavy",
+      "iron",
+      "ballandchain",
+      "weights",
+      "labeled"
+    ]
+  },
+  {
+    "scene_id": 11,
+    "filename": "scene_11.jpg",
+    "signature": "maya_placing_massive_glowing",
+    "keywords": [
+      "scene_11",
+      "scene11",
+      "maya",
+      "placing",
+      "massive",
+      "glowing",
+      "gold",
+      "coin",
+      "into",
+      "solid"
+    ]
+  },
+  {
+    "scene_id": 12,
+    "filename": "scene_12.jpg",
+    "signature": "holding_giant_pair_golden",
+    "keywords": [
+      "scene_12",
+      "scene12",
+      "holding",
+      "giant",
+      "pair",
+      "golden",
+      "scissors",
+      "decisively",
+      "snipping",
+      "tangled"
+    ]
+  },
+  {
+    "scene_id": 13,
+    "filename": "scene_13.jpg",
+    "signature": "giant_twosided_ancient_scale",
+    "keywords": [
+      "scene_13",
+      "scene13",
+      "giant",
+      "twosided",
+      "ancient",
+      "scale",
+      "left",
+      "plate",
+      "simple",
+      "bread"
+    ]
+  },
+  {
+    "scene_id": 14,
+    "filename": "scene_14.jpg",
+    "signature": "visual_comparison_stickmans_salary",
+    "keywords": [
+      "scene_14",
+      "scene14",
+      "visual",
+      "comparison",
+      "stickmans",
+      "salary",
+      "sack",
+      "grows",
+      "from",
+      "pile"
+    ]
+  },
+  {
+    "scene_id": 15,
+    "filename": "scene_15.jpg",
+    "signature": "maya_planting_solid_brick",
+    "keywords": [
+      "scene_15",
+      "scene15",
+      "maya",
+      "planting",
+      "solid",
+      "brick",
+      "wall",
+      "labeled",
+      "budget",
+      "boundary"
+    ]
+  },
+  {
+    "scene_id": 16,
+    "filename": "scene_16.jpg",
+    "signature": "neatly_writing_crisp_babylonian",
+    "keywords": [
+      "scene_16",
+      "scene16",
+      "neatly",
+      "writing",
+      "crisp",
+      "babylonian",
+      "parchment",
+      "ledger",
+      "with",
+      "quill"
+    ]
+  },
+  {
+    "scene_id": 17,
+    "filename": "scene_17.jpg",
+    "signature": "maya_enjoying_delicious_wholesome",
+    "keywords": [
+      "scene_17",
+      "scene17",
+      "maya",
+      "enjoying",
+      "delicious",
+      "wholesome",
+      "meal",
+      "together",
+      "under",
+      "shaded"
+    ]
+  },
+  {
+    "scene_id": 18,
+    "filename": "scene_18.jpg",
+    "signature": "single_golden_coin_splitting",
+    "keywords": [
+      "scene_18",
+      "scene18",
+      "single",
+      "golden",
+      "coin",
+      "splitting",
+      "into",
+      "three",
+      "then",
+      "nine"
+    ]
+  },
+  {
+    "scene_id": 19,
+    "filename": "scene_19.jpg",
+    "signature": "gloomy_dusty_dungeon_corner",
+    "keywords": [
+      "scene_19",
+      "scene19",
+      "gloomy",
+      "dusty",
+      "dungeon",
+      "corner",
+      "where",
+      "cold",
+      "grey",
+      "coins"
+    ]
+  },
+  {
+    "scene_id": 20,
+    "filename": "scene_20.jpg",
+    "signature": "cute_cartoon_gold_coins",
+    "keywords": [
+      "scene_20",
+      "scene20",
+      "cute",
+      "cartoon",
+      "gold",
+      "coins",
+      "wearing",
+      "tiny",
+      "construction",
+      "hardhats"
+    ]
+  },
+  {
+    "scene_id": 21,
+    "filename": "scene_21.jpg",
+    "signature": "cartoon_family_tree_golden",
+    "keywords": [
+      "scene_21",
+      "scene21",
+      "cartoon",
+      "family",
+      "tree",
+      "golden",
+      "coins",
+      "large",
+      "gold",
+      "coin"
+    ]
+  },
+  {
+    "scene_id": 22,
+    "filename": "scene_22.jpg",
+    "signature": "sleeping_peacefully_comfortable_hammock",
+    "keywords": [
+      "scene_22",
+      "scene22",
+      "sleeping",
+      "peacefully",
+      "comfortable",
+      "hammock",
+      "under",
+      "crescent",
+      "moon",
+      "stars"
+    ]
+  },
+  {
+    "scene_id": 23,
+    "filename": "scene_23.jpg",
+    "signature": "stickman_pulling_empty_pockets",
+    "keywords": [
+      "scene_23",
+      "scene23",
+      "stickman",
+      "pulling",
+      "empty",
+      "pockets",
+      "inside",
+      "with",
+      "shrug",
+      "showing"
+    ]
+  },
+  {
+    "scene_id": 24,
+    "filename": "scene_24.jpg",
+    "signature": "magnificent_glowing_aquamarine_canal",
+    "keywords": [
+      "scene_24",
+      "scene24",
+      "magnificent",
+      "glowing",
+      "aquamarine",
+      "canal",
+      "golden",
+      "water",
+      "flowing",
+      "continuously"
+    ]
+  },
+  {
+    "scene_id": 25,
+    "filename": "scene_25.jpg",
+    "signature": "maya_standing_alert_royal",
+    "keywords": [
+      "scene_25",
+      "scene25",
+      "maya",
+      "standing",
+      "alert",
+      "royal",
+      "sentinel",
+      "with",
+      "polished",
+      "gold"
+    ]
+  },
+  {
+    "scene_id": 26,
+    "filename": "scene_26.jpg",
+    "signature": "solid_unshakeable_stone_bedrock",
+    "keywords": [
+      "scene_26",
+      "scene26",
+      "solid",
+      "unshakeable",
+      "stone",
+      "bedrock",
+      "foundation",
+      "supporting",
+      "golden",
+      "vault"
+    ]
+  },
+  {
+    "scene_id": 27,
+    "filename": "scene_27.jpg",
+    "signature": "shady_carnival_barker_stickman",
+    "keywords": [
+      "scene_27",
+      "scene27",
+      "shady",
+      "carnival",
+      "barker",
+      "stickman",
+      "with",
+      "mustache",
+      "holding",
+      "glowing"
+    ]
+  },
+  {
+    "scene_id": 28,
+    "filename": "scene_28.jpg",
+    "signature": "confused_bricklayer_holding_trowel",
+    "keywords": [
+      "scene_28",
+      "scene28",
+      "confused",
+      "bricklayer",
+      "holding",
+      "trowel",
+      "full",
+      "mortar",
+      "examining",
+      "giant"
+    ]
+  },
+  {
+    "scene_id": 29,
+    "filename": "scene_29.jpg",
+    "signature": "maya_sitting_respectfully_before",
+    "keywords": [
+      "scene_29",
+      "scene29",
+      "maya",
+      "sitting",
+      "respectfully",
+      "before",
+      "circle",
+      "wise",
+      "graybearded",
+      "babylonian"
+    ]
+  },
+  {
+    "scene_id": 30,
+    "filename": "scene_30.jpg",
+    "signature": "standing_proudly_before_debtfree",
+    "keywords": [
+      "scene_30",
+      "scene30",
+      "standing",
+      "proudly",
+      "before",
+      "debtfree",
+      "babylonian",
+      "home",
+      "with",
+      "clean"
+    ]
+  },
+  {
+    "scene_id": 31,
+    "filename": "scene_31.jpg",
+    "signature": "placing_golden_into_front",
+    "keywords": [
+      "scene_31",
+      "scene31",
+      "placing",
+      "golden",
+      "into",
+      "front",
+      "door",
+      "hand",
+      "chest",
+      "with"
+    ]
+  },
+  {
+    "scene_id": 32,
+    "filename": "scene_32.jpg",
+    "signature": "rent_payment_bill_dissolving",
+    "keywords": [
+      "scene_32",
+      "scene32",
+      "rent",
+      "payment",
+      "bill",
+      "dissolving",
+      "into",
+      "thin",
+      "air",
+      "leaving"
+    ]
+  },
+  {
+    "scene_id": 33,
+    "filename": "scene_33.jpg",
+    "signature": "umbrella_made_solid_woven",
+    "keywords": [
+      "scene_33",
+      "scene33",
+      "umbrella",
+      "made",
+      "solid",
+      "woven",
+      "gold",
+      "shielding",
+      "elderly",
+      "stickman"
+    ]
+  },
+  {
+    "scene_id": 34,
+    "filename": "scene_34.jpg",
+    "signature": "cheerful_elderly_stick_figure",
+    "keywords": [
+      "scene_34",
+      "scene34",
+      "cheerful",
+      "elderly",
+      "stick",
+      "figure",
+      "with",
+      "cane",
+      "white",
+      "beard"
+    ]
+  },
+  {
+    "scene_id": 35,
+    "filename": "scene_35.jpg",
+    "signature": "protective_golden_dome_glowing",
+    "keywords": [
+      "scene_35",
+      "scene35",
+      "protective",
+      "golden",
+      "dome",
+      "glowing",
+      "around",
+      "peaceful",
+      "stickman",
+      "family"
+    ]
+  },
+  {
+    "scene_id": 36,
+    "filename": "scene_36.jpg",
+    "signature": "sharpening_ornate_iron_tool",
+    "keywords": [
+      "scene_36",
+      "scene36",
+      "sharpening",
+      "ornate",
+      "iron",
+      "tool",
+      "blacksmith",
+      "forge",
+      "skill",
+      "leveling"
+    ]
+  },
+  {
+    "scene_id": 37,
+    "filename": "scene_37.jpg",
+    "signature": "maya_reading_ancient_scroll",
+    "keywords": [
+      "scene_37",
+      "scene37",
+      "maya",
+      "reading",
+      "ancient",
+      "scroll",
+      "wisdom",
+      "head",
+      "glowing",
+      "with"
+    ]
+  },
+  {
+    "scene_id": 38,
+    "filename": "scene_38.jpg",
+    "signature": "standing_tall_polished_artisan",
+    "keywords": [
+      "scene_38",
+      "scene38",
+      "standing",
+      "tall",
+      "polished",
+      "artisan",
+      "tunic",
+      "shaking",
+      "hands",
+      "with"
+    ]
+  },
+  {
+    "scene_id": 39,
+    "filename": "scene_39.jpg",
+    "signature": "glowing_golden_door_labeled",
+    "keywords": [
+      "scene_39",
+      "scene39",
+      "glowing",
+      "golden",
+      "door",
+      "labeled",
+      "opportunity",
+      "swinging",
+      "open",
+      "maya"
+    ]
+  },
+  {
+    "scene_id": 40,
+    "filename": "scene_40.jpg",
+    "signature": "reckless_stickman_throwing_dice",
+    "keywords": [
+      "scene_40",
+      "scene40",
+      "reckless",
+      "stickman",
+      "throwing",
+      "dice",
+      "shady",
+      "tavern",
+      "table",
+      "while"
+    ]
+  },
+  {
+    "scene_id": 41,
+    "filename": "scene_41.jpg",
+    "signature": "maya_standing_serene_confident",
+    "keywords": [
+      "scene_41",
+      "scene41",
+      "maya",
+      "standing",
+      "serene",
+      "confident",
+      "with",
+      "dozens",
+      "solid",
+      "gold"
+    ]
+  },
+  {
+    "scene_id": 42,
+    "filename": "scene_42.jpg",
+    "signature": "maya_standing_sidebyside_both",
+    "keywords": [
+      "scene_42",
+      "scene42",
+      "maya",
+      "standing",
+      "sidebyside",
+      "both",
+      "pointing",
+      "dynamic",
+      "cartoon",
+      "arrows"
+    ]
+  },
+  {
+    "scene_id": 43,
+    "filename": "scene_43.jpg",
+    "signature": "flashy_merchant_stickman_dressed",
+    "keywords": [
+      "scene_43",
+      "scene43",
+      "flashy",
+      "merchant",
+      "stickman",
+      "dressed",
+      "gaudy",
+      "purple",
+      "silk",
+      "heavy"
+    ]
+  },
+  {
+    "scene_id": 44,
+    "filename": "scene_44.jpg",
+    "signature": "single_cohesive_916_vertical",
+    "keywords": [
+      "scene_44",
+      "scene44",
+      "single",
+      "cohesive",
+      "916",
+      "vertical",
+      "image",
+      "split",
+      "horizontally",
+      "with"
+    ]
+  }
+]
