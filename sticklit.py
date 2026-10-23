@@ -19,6 +19,8 @@ import subprocess
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
 from PIL import Image
+import cv2
+import numpy as np
 
 BASE_DIR = Path(__file__).resolve().parent
 BOOKS_DIR = BASE_DIR / "books"
@@ -272,41 +274,69 @@ def cmd_render(args):
             t.result()
     print(f"  -> Parallel normalization done in {time.time() - t_start:.2f}s")
 
-    # Stage 2: CFR hardlinks
-    t_stage2 = time.time()
-    print(f"\n[Stage 2/3] Building CFR 30.000 fps hardlink sequence ({total_frames} frames)...")
-    if seq_dir.exists():
-        shutil.rmtree(seq_dir)
-    seq_dir.mkdir(parents=True, exist_ok=True)
-
-    current_frame = 0
-    for idx, sc in enumerate(scenes, 1):
-        et = sc["end_sec"]
-        ef = total_frames if idx == len(scenes) else int(round(et * FPS))
-        src_frame = (norm_dir / f"scene_{idx:02d}.jpg").resolve()
-        for f in range(current_frame, min(ef, total_frames)):
-            dst_link = seq_dir / f"frame_{f:05d}.jpg"
-            try:
-                os.link(src_frame, dst_link)
-            except FileExistsError:
-                pass
-        current_frame = ef
-
-    last_frame = (norm_dir / f"scene_{len(scenes):02d}.jpg").resolve()
-    for f in range(current_frame, total_frames):
-        dst_link = seq_dir / f"frame_{f:05d}.jpg"
-        try:
-            os.link(last_frame, dst_link)
-        except FileExistsError:
-            pass
-    print(f"  -> Hardlink sequence ready in {time.time() - t_stage2:.2f}s")
-
-    # Stage 3: Fast Video Encoding
+    # Stage 2 & 3: Streaming Ken Burns Motion Engine & Direct Encoding
     out_video = Path(args.output) if args.output else out_dir / f"{book_slug}_MASTER_FINAL.mp4"
     out_video.parent.mkdir(parents=True, exist_ok=True)
 
+    t_stage2 = time.time()
+    print(f"\n[Stage 2/3] Loading normalized frames into RAM for Ken Burns motion...")
+    norm_images = {}
+    for s_id in range(1, len(scenes) + 1):
+        img_path = norm_dir / f"scene_{s_id:02d}.jpg"
+        img = cv2.imread(str(img_path))
+        if img is None:
+            raise FileNotFoundError(f"Missing normalized frame: {img_path}")
+        if img.shape[0] != TARGET_H or img.shape[1] != TARGET_W:
+            img = cv2.resize(img, (TARGET_W, TARGET_H), interpolation=cv2.INTER_LANCZOS4)
+        norm_images[s_id] = img
+    print(f"  -> {len(norm_images)} frames cached in RAM in {time.time() - t_stage2:.2f}s")
+
+    def get_scene_frame(s_id, progress):
+        img = norm_images[s_id]
+        pattern = s_id % 5
+        if s_id == 1:
+            # Scene 1: Subtle push in (+3.5%) centered on colossal upright book
+            scale = 1.0 + 0.035 * progress
+            tx = 0.0
+            ty = -10.0 * progress
+        elif s_id == len(scenes):
+            # Scene Last: Symmetrical push in (+3.5%) centered on (VS) badge
+            scale = 1.0 + 0.035 * progress
+            tx = 0.0
+            ty = 0.0
+        elif pattern == 1: # Zoom In
+            scale = 1.0 + 0.045 * progress
+            tx = 15.0 * (progress - 0.5)
+            ty = -8.0 * (progress - 0.5)
+        elif pattern == 2: # Zoom Out
+            scale = 1.045 - 0.045 * progress
+            tx = -15.0 * (progress - 0.5)
+            ty = 8.0 * (progress - 0.5)
+        elif pattern == 3: # Pan Right
+            scale = 1.03
+            tx = 25.0 * (progress - 0.5)
+            ty = 0.0
+        elif pattern == 4: # Pan Left
+            scale = 1.03
+            tx = -25.0 * (progress - 0.5)
+            ty = 0.0
+        else: # Diagonal Float
+            scale = 1.01 + 0.03 * progress
+            tx = 18.0 * (progress - 0.5)
+            ty = 18.0 * (progress - 0.5)
+            
+        M = np.array([
+            [scale, 0, tx + (TARGET_W / 2.0) * (1.0 - scale)],
+            [0, scale, ty + (TARGET_H / 2.0) * (1.0 - scale)]
+        ], dtype=np.float32)
+        return cv2.warpAffine(
+            img, M, (TARGET_W, TARGET_H),
+            borderMode=cv2.BORDER_CONSTANT,
+            borderValue=(255, 255, 255)
+        )
+
     t_stage3 = time.time()
-    print(f"\n[Stage 3/3] Encoding Master Video with Golden Subtitles & Audio Mixing (Turbo)...")
+    print(f"\n[Stage 3/3] Streaming Ken Burns Motion + Cross-Dissolves to FFmpeg ({total_frames} frames)...")
     escaped_ass = str(subtitles_file.resolve()).replace("\\", "/").replace(":", "\\:")
     filter_complex = (
         f"[0:v]format=yuv420p,subtitles='{escaped_ass}'[v_final];"
@@ -317,8 +347,12 @@ def cmd_render(args):
 
     cmd = [
         "ffmpeg", "-y",
-        "-framerate", str(FPS),
-        "-i", str((seq_dir / "frame_%05d.jpg").resolve()),
+        "-f", "rawvideo",
+        "-vcodec", "rawvideo",
+        "-s", f"{TARGET_W}x{TARGET_H}",
+        "-pix_fmt", "bgr24",
+        "-r", str(FPS),
+        "-i", "-",
         "-i", str(voiceover_file.resolve()),
         "-i", str(BGM_PATH.resolve()),
         "-filter_complex", filter_complex,
@@ -337,13 +371,43 @@ def cmd_render(args):
 
     log_path = out_dir / "render.log"
     with open(log_path, "w", encoding="utf-8") as lf:
-        proc = subprocess.run(cmd, stdout=lf, stderr=lf)
+        proc = subprocess.Popen(cmd, stdin=subprocess.PIPE, stdout=lf, stderr=lf)
+        
+        dissolve_frames = 9 # 0.30s transition
+        half_d = dissolve_frames // 2
+        
+        for f in range(total_frames):
+            t_sec = f / float(FPS)
+            cur_idx = 0
+            while cur_idx < len(scenes) and t_sec >= scenes[cur_idx]["end_sec"]:
+                cur_idx += 1
+            cur_idx = min(cur_idx, len(scenes) - 1)
+            
+            sc = scenes[cur_idx]
+            s_start = sc["start_sec"]
+            s_end = sc["end_sec"]
+            s_dur = max(s_end - s_start, 0.01)
+            progress = min(max((t_sec - s_start) / s_dur, 0.0), 1.0)
+            
+            cur_frame = get_scene_frame(sc["scene_id"], progress)
+            
+            # Check for cross-dissolve zone at scene boundary
+            end_frame = int(round(s_end * FPS))
+            if cur_idx + 1 < len(scenes) and (end_frame - half_d <= f <= end_frame + half_d):
+                next_sc = scenes[cur_idx + 1]
+                next_progress = min(max((t_sec - next_sc["start_sec"]) / max(next_sc["end_sec"] - next_sc["start_sec"], 0.01), 0.0), 1.0)
+                next_frame = get_scene_frame(next_sc["scene_id"], next_progress)
+                alpha = (f - (end_frame - half_d)) / float(dissolve_frames)
+                alpha = min(max(alpha, 0.0), 1.0)
+                cur_frame = cv2.addWeighted(cur_frame, 1.0 - alpha, next_frame, alpha, 0.0)
+                
+            proc.stdin.write(cur_frame.tobytes())
+            
+        proc.stdin.close()
+        proc.wait()
 
     if proc.returncode != 0:
         raise RuntimeError(f"FFmpeg render failed. See {log_path}")
-
-    if seq_dir.exists():
-        shutil.rmtree(seq_dir)
 
     encode_dur = time.time() - t_stage3
     total_time = time.time() - t_start
