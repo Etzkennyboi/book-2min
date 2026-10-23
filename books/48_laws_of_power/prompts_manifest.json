@@ -1,0 +1,767 @@
+[
+  {
+    "scene_id": 1,
+    "filename": "scene_01.jpg",
+    "signature": "colossal_centered_upright_book",
+    "keywords": [
+      "scene_01",
+      "scene1",
+      "scene_1",
+      "colossal_centered_upright_book",
+      "colossal",
+      "centered",
+      "upright",
+      "book",
+      "the",
+      "laws"
+    ]
+  },
+  {
+    "scene_id": 2,
+    "filename": "scene_02.jpg",
+    "signature": "naive_stickman_smiling_cheerfully",
+    "keywords": [
+      "scene_02",
+      "scene2",
+      "scene_2",
+      "naive_stickman_smiling_cheerfully",
+      "naive",
+      "stickman",
+      "smiling",
+      "cheerfully",
+      "with",
+      "halo"
+    ]
+  },
+  {
+    "scene_id": 3,
+    "filename": "scene_03.jpg",
+    "signature": "maya_stepping_forward_dramatically",
+    "keywords": [
+      "scene_03",
+      "scene3",
+      "scene_3",
+      "maya_stepping_forward_dramatically",
+      "maya",
+      "stepping",
+      "forward",
+      "dramatically",
+      "with",
+      "sharp"
+    ]
+  },
+  {
+    "scene_id": 4,
+    "filename": "scene_04.jpg",
+    "signature": "colossal_stone_chessboard_fist",
+    "keywords": [
+      "scene_04",
+      "scene4",
+      "scene_4",
+      "colossal_stone_chessboard_fist",
+      "colossal",
+      "stone",
+      "chessboard",
+      "fist",
+      "labeled",
+      "strategy"
+    ]
+  },
+  {
+    "scene_id": 5,
+    "filename": "scene_05.jpg",
+    "signature": "dropping_solid_golden_apple",
+    "keywords": [
+      "scene_05",
+      "scene5",
+      "scene_5",
+      "dropping_solid_golden_apple",
+      "dropping",
+      "solid",
+      "golden",
+      "apple",
+      "that",
+      "plunges"
+    ]
+  },
+  {
+    "scene_id": 6,
+    "filename": "scene_06.jpg",
+    "signature": "blindfolded_stickman_casually_stepping",
+    "keywords": [
+      "scene_06",
+      "scene6",
+      "scene_6",
+      "blindfolded_stickman_casually_stepping",
+      "blindfolded",
+      "stickman",
+      "casually",
+      "stepping",
+      "high",
+      "cliff"
+    ]
+  },
+  {
+    "scene_id": 7,
+    "filename": "scene_07.jpg",
+    "signature": "massive_stone_tablet_carved",
+    "keywords": [
+      "scene_07",
+      "scene7",
+      "scene_7",
+      "massive_stone_tablet_carved",
+      "massive",
+      "stone",
+      "tablet",
+      "carved",
+      "with",
+      "roman"
+    ]
+  },
+  {
+    "scene_id": 8,
+    "filename": "scene_08.jpg",
+    "signature": "fouquet_depicted_extravagant_stick",
+    "keywords": [
+      "scene_08",
+      "scene8",
+      "scene_8",
+      "fouquet_depicted_extravagant_stick",
+      "fouquet",
+      "depicted",
+      "extravagant",
+      "stick",
+      "figure",
+      "ornate"
+    ]
+  },
+  {
+    "scene_id": 9,
+    "filename": "scene_09.jpg",
+    "signature": "opulent_palace_illuminated_bursting",
+    "keywords": [
+      "scene_09",
+      "scene9",
+      "scene_9",
+      "opulent_palace_illuminated_bursting",
+      "opulent",
+      "palace",
+      "illuminated",
+      "bursting",
+      "fireworks",
+      "fountains"
+    ]
+  },
+  {
+    "scene_id": 10,
+    "filename": "scene_10.jpg",
+    "signature": "king_louis_glowering_with",
+    "keywords": [
+      "scene_10",
+      "scene10",
+      "scene_10",
+      "king_louis_glowering_with",
+      "king",
+      "louis",
+      "glowering",
+      "with",
+      "jealousy",
+      "wounded"
+    ]
+  },
+  {
+    "scene_id": 11,
+    "filename": "scene_11.jpg",
+    "signature": "heavy_iron_dungeon_bars",
+    "keywords": [
+      "scene_11",
+      "scene11",
+      "scene_11",
+      "heavy_iron_dungeon_bars",
+      "heavy",
+      "iron",
+      "dungeon",
+      "bars",
+      "slamming",
+      "shut"
+    ]
+  },
+  {
+    "scene_id": 12,
+    "filename": "scene_12.jpg",
+    "signature": "subtly_holding_shining_golden",
+    "keywords": [
+      "scene_12",
+      "scene12",
+      "scene_12",
+      "subtly_holding_shining_golden",
+      "subtly",
+      "holding",
+      "shining",
+      "golden",
+      "mirror",
+      "reflect"
+    ]
+  },
+  {
+    "scene_id": 13,
+    "filename": "scene_13.jpg",
+    "signature": "maya_covering_brilliant_glowing",
+    "keywords": [
+      "scene_13",
+      "scene13",
+      "scene_13",
+      "maya_covering_brilliant_glowing",
+      "maya",
+      "covering",
+      "brilliant",
+      "glowing",
+      "star",
+      "hands"
+    ]
+  },
+  {
+    "scene_id": 14,
+    "filename": "scene_14.jpg",
+    "signature": "massive_stone_tablet_carved",
+    "keywords": [
+      "scene_14",
+      "scene14",
+      "scene_14",
+      "massive_stone_tablet_carved",
+      "massive",
+      "stone",
+      "tablet",
+      "carved",
+      "with",
+      "roman"
+    ]
+  },
+  {
+    "scene_id": 15,
+    "filename": "scene_15.jpg",
+    "signature": "transparent_stick_figure_whose",
+    "keywords": [
+      "scene_15",
+      "scene15",
+      "scene_15",
+      "transparent_stick_figure_whose",
+      "transparent",
+      "stick",
+      "figure",
+      "whose",
+      "thoughts",
+      "visible"
+    ]
+  },
+  {
+    "scene_id": 16,
+    "filename": "scene_16.jpg",
+    "signature": "shadowy_opponent_stick_figures",
+    "keywords": [
+      "scene_16",
+      "scene16",
+      "scene_16",
+      "shadowy_opponent_stick_figures",
+      "shadowy",
+      "opponent",
+      "stick",
+      "figures",
+      "digging",
+      "deep"
+    ]
+  },
+  {
+    "scene_id": 17,
+    "filename": "scene_17.jpg",
+    "signature": "deploying_giant_billowing_cloud",
+    "keywords": [
+      "scene_17",
+      "scene17",
+      "scene_17",
+      "deploying_giant_billowing_cloud",
+      "deploying",
+      "giant",
+      "billowing",
+      "cloud",
+      "comic",
+      "smoke"
+    ]
+  },
+  {
+    "scene_id": 18,
+    "filename": "scene_18.jpg",
+    "signature": "holding_glowing_magicians_sparkling",
+    "keywords": [
+      "scene_18",
+      "scene18",
+      "scene_18",
+      "holding_glowing_magicians_sparkling",
+      "holding",
+      "glowing",
+      "magicians",
+      "sparkling",
+      "with",
+      "left"
+    ]
+  },
+  {
+    "scene_id": 19,
+    "filename": "scene_19.jpg",
+    "signature": "stone_tablet_carved_with",
+    "keywords": [
+      "scene_19",
+      "scene19",
+      "scene_19",
+      "stone_tablet_carved_with",
+      "stone",
+      "tablet",
+      "carved",
+      "with",
+      "roman",
+      "numeral"
+    ]
+  },
+  {
+    "scene_id": 20,
+    "filename": "scene_20.jpg",
+    "signature": "maya_seated_calmly_behind",
+    "keywords": [
+      "scene_20",
+      "scene20",
+      "scene_20",
+      "maya_seated_calmly_behind",
+      "maya",
+      "seated",
+      "calmly",
+      "behind",
+      "executive",
+      "desk"
+    ]
+  },
+  {
+    "scene_id": 21,
+    "filename": "scene_21.jpg",
+    "signature": "sweaty_nervous_stickman_babbling",
+    "keywords": [
+      "scene_21",
+      "scene21",
+      "scene_21",
+      "sweaty_nervous_stickman_babbling",
+      "sweaty",
+      "nervous",
+      "stickman",
+      "babbling",
+      "uncontrollably",
+      "with"
+    ]
+  },
+  {
+    "scene_id": 22,
+    "filename": "scene_22.jpg",
+    "signature": "cartoon_stickman_speaking_dynamite",
+    "keywords": [
+      "scene_22",
+      "scene22",
+      "scene_22",
+      "cartoon_stickman_speaking_dynamite",
+      "cartoon",
+      "stickman",
+      "speaking",
+      "dynamite",
+      "word",
+      "bubble"
+    ]
+  },
+  {
+    "scene_id": 23,
+    "filename": "scene_23.jpg",
+    "signature": "staring_blankly_silently_with",
+    "keywords": [
+      "scene_23",
+      "scene23",
+      "scene_23",
+      "staring_blankly_silently_with",
+      "staring",
+      "blankly",
+      "silently",
+      "with",
+      "arched",
+      "eyebrows"
+    ]
+  },
+  {
+    "scene_id": 24,
+    "filename": "scene_24.jpg",
+    "signature": "panicked_rival_accidentally_dropping",
+    "keywords": [
+      "scene_24",
+      "scene24",
+      "scene_24",
+      "panicked_rival_accidentally_dropping",
+      "panicked",
+      "rival",
+      "accidentally",
+      "dropping",
+      "open",
+      "locked"
+    ]
+  },
+  {
+    "scene_id": 25,
+    "filename": "scene_25.jpg",
+    "signature": "stone_tablet_carved_with",
+    "keywords": [
+      "scene_25",
+      "scene25",
+      "scene_25",
+      "stone_tablet_carved_with",
+      "stone",
+      "tablet",
+      "carved",
+      "with",
+      "roman",
+      "numeral"
+    ]
+  },
+  {
+    "scene_id": 26,
+    "filename": "scene_26.jpg",
+    "signature": "stick_figures_screaming_redfaced",
+    "keywords": [
+      "scene_26",
+      "scene26",
+      "scene_26",
+      "stick_figures_screaming_redfaced",
+      "stick",
+      "figures",
+      "screaming",
+      "redfaced",
+      "each",
+      "other"
+    ]
+  },
+  {
+    "scene_id": 27,
+    "filename": "scene_27.jpg",
+    "signature": "defeated_opponent_walking_away",
+    "keywords": [
+      "scene_27",
+      "scene27",
+      "scene_27",
+      "defeated_opponent_walking_away",
+      "defeated",
+      "opponent",
+      "walking",
+      "away",
+      "with",
+      "clenched"
+    ]
+  },
+  {
+    "scene_id": 28,
+    "filename": "scene_28.jpg",
+    "signature": "maya_ignoring_screaming_debater",
+    "keywords": [
+      "scene_28",
+      "scene28",
+      "scene_28",
+      "maya_ignoring_screaming_debater",
+      "maya",
+      "ignoring",
+      "screaming",
+      "debater",
+      "turning",
+      "back"
+    ]
+  },
+  {
+    "scene_id": 29,
+    "filename": "scene_29.jpg",
+    "signature": "pointing_silently_glowing_digital",
+    "keywords": [
+      "scene_29",
+      "scene29",
+      "scene_29",
+      "pointing_silently_glowing_digital",
+      "pointing",
+      "silently",
+      "glowing",
+      "digital",
+      "scoreboard",
+      "reading"
+    ]
+  },
+  {
+    "scene_id": 30,
+    "filename": "scene_30.jpg",
+    "signature": "maya_standing_surrounded_respectful",
+    "keywords": [
+      "scene_30",
+      "scene30",
+      "scene_30",
+      "maya_standing_surrounded_respectful",
+      "maya",
+      "standing",
+      "surrounded",
+      "respectful",
+      "nodding",
+      "peers"
+    ]
+  },
+  {
+    "scene_id": 31,
+    "filename": "scene_31.jpg",
+    "signature": "stone_tablet_carved_with",
+    "keywords": [
+      "scene_31",
+      "scene31",
+      "scene_31",
+      "stone_tablet_carved_with",
+      "stone",
+      "tablet",
+      "carved",
+      "with",
+      "roman",
+      "numeral"
+    ]
+  },
+  {
+    "scene_id": 32,
+    "filename": "scene_32.jpg",
+    "signature": "trembling_hesitant_stick_figure",
+    "keywords": [
+      "scene_32",
+      "scene32",
+      "scene_32",
+      "trembling_hesitant_stick_figure",
+      "trembling",
+      "hesitant",
+      "stick",
+      "figure",
+      "pausing",
+      "timidly"
+    ]
+  },
+  {
+    "scene_id": 33,
+    "filename": "scene_33.jpg",
+    "signature": "maya_standing_poised_before",
+    "keywords": [
+      "scene_33",
+      "scene33",
+      "scene_33",
+      "maya_standing_poised_before",
+      "maya",
+      "standing",
+      "poised",
+      "before",
+      "fork",
+      "road"
+    ]
+  },
+  {
+    "scene_id": 34,
+    "filename": "scene_34.jpg",
+    "signature": "kicking_open_massive_double",
+    "keywords": [
+      "scene_34",
+      "scene34",
+      "scene_34",
+      "kicking_open_massive_double",
+      "kicking",
+      "open",
+      "massive",
+      "double",
+      "fortress",
+      "doors"
+    ]
+  },
+  {
+    "scene_id": 35,
+    "filename": "scene_35.jpg",
+    "signature": "cheering_crowd_stick_figures",
+    "keywords": [
+      "scene_35",
+      "scene35",
+      "scene_35",
+      "cheering_crowd_stick_figures",
+      "cheering",
+      "crowd",
+      "stick",
+      "figures",
+      "hoisting",
+      "maya"
+    ]
+  },
+  {
+    "scene_id": 36,
+    "filename": "scene_36.jpg",
+    "signature": "stone_tablet_carved_with",
+    "keywords": [
+      "scene_36",
+      "scene36",
+      "scene_36",
+      "stone_tablet_carved_with",
+      "stone",
+      "tablet",
+      "carved",
+      "with",
+      "roman",
+      "numeral"
+    ]
+  },
+  {
+    "scene_id": 37,
+    "filename": "scene_37.jpg",
+    "signature": "massive_golden_warhammer_slamming",
+    "keywords": [
+      "scene_37",
+      "scene37",
+      "scene_37",
+      "massive_golden_warhammer_slamming",
+      "massive",
+      "golden",
+      "warhammer",
+      "slamming",
+      "down",
+      "onto"
+    ]
+  },
+  {
+    "scene_id": 38,
+    "filename": "scene_38.jpg",
+    "signature": "wounded_green_cartoon_snake",
+    "keywords": [
+      "scene_38",
+      "scene38",
+      "scene_38",
+      "wounded_green_cartoon_snake",
+      "wounded",
+      "green",
+      "cartoon",
+      "snake",
+      "slithering",
+      "into"
+    ]
+  },
+  {
+    "scene_id": 39,
+    "filename": "scene_39.jpg",
+    "signature": "giant_serpent_lunging_unexpectedly",
+    "keywords": [
+      "scene_39",
+      "scene39",
+      "scene_39",
+      "giant_serpent_lunging_unexpectedly",
+      "giant",
+      "serpent",
+      "lunging",
+      "unexpectedly",
+      "from",
+      "shadows"
+    ]
+  },
+  {
+    "scene_id": 40,
+    "filename": "scene_40.jpg",
+    "signature": "maya_planting_solid_steel",
+    "keywords": [
+      "scene_40",
+      "scene40",
+      "scene_40",
+      "maya_planting_solid_steel",
+      "maya",
+      "planting",
+      "solid",
+      "steel",
+      "perimeter",
+      "vault"
+    ]
+  },
+  {
+    "scene_id": 41,
+    "filename": "scene_41.jpg",
+    "signature": "stone_tablet_carved_with",
+    "keywords": [
+      "scene_41",
+      "scene41",
+      "scene_41",
+      "stone_tablet_carved_with",
+      "stone",
+      "tablet",
+      "carved",
+      "with",
+      "roman",
+      "numeral"
+    ]
+  },
+  {
+    "scene_id": 42,
+    "filename": "scene_42.jpg",
+    "signature": "rigid_inflexible_glass_stickman",
+    "keywords": [
+      "scene_42",
+      "scene42",
+      "scene_42",
+      "rigid_inflexible_glass_stickman",
+      "rigid",
+      "inflexible",
+      "glass",
+      "stickman",
+      "struck",
+      "flying"
+    ]
+  },
+  {
+    "scene_id": 43,
+    "filename": "scene_43.jpg",
+    "signature": "maya_seamlessly_shifting_into",
+    "keywords": [
+      "scene_43",
+      "scene43",
+      "scene_43",
+      "maya_seamlessly_shifting_into",
+      "maya",
+      "seamlessly",
+      "shifting",
+      "into",
+      "fluid",
+      "translucent"
+    ]
+  },
+  {
+    "scene_id": 44,
+    "filename": "scene_44.jpg",
+    "signature": "maya_standing_sidebyside_both",
+    "keywords": [
+      "scene_44",
+      "scene44",
+      "scene_44",
+      "maya_standing_sidebyside_both",
+      "maya",
+      "standing",
+      "sidebyside",
+      "both",
+      "pointing",
+      "dynamic"
+    ]
+  },
+  {
+    "scene_id": 45,
+    "filename": "scene_45.jpg",
+    "signature": "single_cohesive_916_vertical",
+    "keywords": [
+      "scene_45",
+      "scene45",
+      "scene_45",
+      "single_cohesive_916_vertical",
+      "single",
+      "cohesive",
+      "916",
+      "vertical",
+      "image",
+      "split"
+    ]
+  }
+]

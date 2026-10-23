@@ -1,306 +1,548 @@
-[
-  {
-    "beat": 1,
-    "start": 0.08,
-    "end": 3.52,
-    "duration": 3.44,
-    "description": "Beat 01: Hook - Upgraded Cover 3 Power Flex",
-    "matched_text": "the 48 laws of power"
-  },
-  {
-    "beat": 2,
-    "start": 3.52,
-    "end": 5.84,
-    "duration": 2.32,
-    "description": "Beat 02: Naive - Working late night under single lamp",
-    "matched_text": "most people believe that"
-  },
-  {
-    "beat": 3,
-    "start": 5.84,
-    "end": 8.48,
-    "duration": 2.64,
-    "description": "Beat 03: Naive - Climbing corporate ladder with flower",
-    "matched_text": "and play nice you"
-  },
-  {
-    "beat": 4,
-    "start": 8.48,
-    "end": 11.04,
-    "duration": 2.56,
-    "description": "Beat 04: Trap - Silhouette tripping worker with tripwire",
-    "matched_text": "in reality naive"
-  },
-  {
-    "beat": 5,
-    "start": 11.04,
-    "end": 13.2,
-    "duration": 2.16,
-    "description": "Beat 05: Impact - Hydraulic press flattening into pancake",
-    "matched_text": "and crushed every"
-  },
-  {
-    "beat": 6,
-    "start": 13.2,
-    "end": 16.05,
-    "duration": 2.86,
-    "description": "Beat 06: Gravity - Gravitational vortex pulling downward",
-    "matched_text": "power is like gravity"
-  },
-  {
-    "beat": 7,
-    "start": 16.05,
-    "end": 18.21,
-    "duration": 2.16,
-    "description": "Beat 07: Fall - Stick figure falling off cliff into clouds",
-    "matched_text": "but if you ignore"
-  },
-  {
-    "beat": 8,
-    "start": 18.21,
-    "end": 21.89,
-    "duration": 3.68,
-    "description": "Beat 08: Law 1 - Radiant Sun completely eclipsing small candle",
-    "matched_text": "take law number one"
-  },
-  {
-    "beat": 9,
-    "start": 21.89,
-    "end": 24.54,
-    "duration": 2.64,
-    "description": "Beat 09: Fouquet - Counting gold coins and designing ch\u00e2teaux",
-    "matched_text": "nicolas fouquet was a"
-  },
-  {
-    "beat": 10,
-    "start": 24.54,
-    "end": 27.26,
-    "duration": 2.73,
-    "description": "Beat 10: Bowing - Presenting extravagant gold tray to King",
-    "matched_text": "who wanted to impress"
-  },
-  {
-    "beat": 11,
-    "start": 27.26,
-    "end": 29.74,
-    "duration": 2.48,
-    "description": "Beat 11: Party - Popping giant champagne bottle with fireworks",
-    "matched_text": "he threw the most"
-  },
-  {
-    "beat": 12,
-    "start": 29.74,
-    "end": 31.9,
-    "duration": 2.16,
-    "description": "Beat 12: Wealth - Towering mountains of sparkling gems",
-    "matched_text": "showing off his immense"
-  },
-  {
-    "beat": 13,
-    "start": 31.9,
-    "end": 35.1,
-    "duration": 3.2,
-    "description": "Beat 13: Envy - King Louis red face, steaming ears, clenched fists",
-    "matched_text": "instead of being impressed"
-  },
-  {
-    "beat": 14,
-    "start": 35.1,
-    "end": 37.5,
-    "duration": 2.4,
-    "description": "Beat 14: Shadow - King looking in mirror at towering Fouquet shadow",
-    "matched_text": "and terrified of being"
-  },
-  {
-    "beat": 15,
-    "start": 37.5,
-    "end": 39.5,
-    "duration": 2.0,
-    "description": "Beat 15: Arrest - Royal halberd guards dragging Fouquet away",
-    "matched_text": "within weeks fouquet"
-  },
-  {
-    "beat": 16,
-    "start": 39.5,
-    "end": 42.27,
-    "duration": 2.77,
-    "description": "Beat 16: Prison - Iron barred dungeon gate slamming with padlock",
-    "matched_text": "into a dark dungeon"
-  },
-  {
-    "beat": 17,
-    "start": 42.27,
-    "end": 45.8,
-    "duration": 3.52,
-    "description": "Beat 17: Flattery - Courtier holding mirror making king look 2x tall",
-    "matched_text": "always make those above"
-  },
-  {
-    "beat": 18,
-    "start": 45.8,
-    "end": 49.23,
-    "duration": 3.44,
-    "description": "Beat 18: Law 4 - Master with golden padlock zipper mouth",
-    "matched_text": "number four always say"
-  },
-  {
-    "beat": 19,
-    "start": 49.23,
-    "end": 51.8,
-    "duration": 2.56,
-    "description": "Beat 19: Runaway - Mouth overflowing with messy scribbled blah blah",
-    "matched_text": "the more you speak"
-  },
-  {
-    "beat": 20,
-    "start": 51.8,
-    "end": 54.11,
-    "duration": 2.32,
-    "description": "Beat 20: Leverage - Handing over golden key to grinning rival",
-    "matched_text": "and the more leverage"
-  },
-  {
-    "beat": 21,
-    "start": 54.11,
-    "end": 57.48,
-    "duration": 3.37,
-    "description": "Beat 21: Ambiguity - Master leaning in saying one word PERHAPS",
-    "matched_text": "powerful people speak in"
-  },
-  {
-    "beat": 22,
-    "start": 57.48,
-    "end": 61.24,
-    "duration": 3.76,
-    "description": "Beat 22: Tension - Sweating rivals babbling frantically in silence",
-    "matched_text": "when you keep your"
-  },
-  {
-    "beat": 23,
-    "start": 61.24,
-    "end": 63.08,
-    "duration": 1.84,
-    "description": "Beat 23: Exposed - Secret cards falling out of rival sleeve",
-    "matched_text": "exposing their own weaknesses"
-  },
-  {
-    "beat": 24,
-    "start": 63.08,
-    "end": 66.76,
-    "duration": 3.68,
-    "description": "Beat 24: Law 9 - Megaphones yelling clashing soundwaves",
-    "matched_text": "law number nine win"
-  },
-  {
-    "beat": 25,
-    "start": 66.76,
-    "end": 70.28,
-    "duration": 3.52,
-    "description": "Beat 25: Stubborn - Holding IM RIGHT sign vs stubborn crossed arms",
-    "matched_text": "you cannot win an"
-  },
-  {
-    "beat": 26,
-    "start": 70.28,
-    "end": 72.56,
-    "duration": 2.28,
-    "description": "Beat 26: Resentment - Dark vengeful glowing embers inside chest",
-    "matched_text": "you only breed resentment"
-  },
-  {
-    "beat": 27,
-    "start": 72.56,
-    "end": 76.23,
-    "duration": 3.68,
-    "description": "Beat 27: Proof - Unveiling working golden clockwork engine",
-    "matched_text": "demonstrate your value with"
-  },
-  {
-    "beat": 28,
-    "start": 76.23,
-    "end": 79.52,
-    "duration": 3.28,
-    "description": "Beat 28: Law 48 - Fluid stream flowing effortlessly around stone",
-    "matched_text": "law number 48 assume"
-  },
-  {
-    "beat": 29,
-    "start": 79.52,
-    "end": 82.95,
-    "duration": 3.44,
-    "description": "Beat 29: Brittle - Rigid stone stickman shattering under hammer",
-    "matched_text": "rigid people who rely"
-  },
-  {
-    "beat": 30,
-    "start": 82.95,
-    "end": 85.71,
-    "duration": 2.75,
-    "description": "Beat 30: Bamboo - Bending smoothly in fierce gale wind",
-    "matched_text": "flexible people who adapt"
-  },
-  {
-    "beat": 31,
-    "start": 85.71,
-    "end": 88.75,
-    "duration": 3.04,
-    "description": "Beat 31: Water - Axe slicing harmlessly through cyan fluid body",
-    "matched_text": "are impossible to defeat"
-  },
-  {
-    "beat": 32,
-    "start": 88.75,
-    "end": 91.55,
-    "duration": 2.8,
-    "description": "Beat 32: Autonomy - Snapping and pushing away puppet strings",
-    "matched_text": "you don't study power"
-  },
-  {
-    "beat": 33,
-    "start": 91.55,
-    "end": 94.67,
-    "duration": 3.12,
-    "description": "Beat 33: Defense - Golden shield deflecting flying daggers",
-    "matched_text": "you study power so"
-  },
-  {
-    "beat": 34,
-    "start": 94.67,
-    "end": 98.35,
-    "duration": 3.68,
-    "description": "Beat 34: Book - 3D presentation of the physical book tome",
-    "matched_text": "to master all 48"
-  },
-  {
-    "beat": 35,
-    "start": 98.35,
-    "end": 101.29,
-    "duration": 2.94,
-    "description": "Beat 35: Action - Golden animated finger pointing to comment section",
-    "matched_text": "the direct link is"
-  },
-  {
-    "beat": 36,
-    "start": 101.29,
-    "end": 103.05,
-    "duration": 1.76,
-    "description": "Beat 36: Dilemma - Character gesturing question to viewer",
-    "matched_text": "tell me below would"
-  },
-  {
-    "beat": 37,
-    "start": 103.05,
-    "end": 105.69,
-    "duration": 2.64,
-    "description": "Beat 37: Power - Solitary figure on frozen mountain throne",
-    "matched_text": "have absolute power with"
-  },
-  {
-    "beat": 38,
-    "start": 105.69,
-    "end": 107.78,
-    "duration": 2.09,
-    "description": "Beat 38: Friendship - Warm glowing campfire with real friends",
-    "matched_text": "or true friendship with"
-  }
-]
+{
+  "book_title": "The 48 Laws of Power",
+  "author": "Robert Greene",
+  "total_audio_duration_sec": 155.9,
+  "total_scenes": 45,
+  "scenes": [
+    {
+      "scene_id": 1,
+      "scene_tag": "SCENE_01",
+      "scene_name": "scene_01",
+      "image_file": "scene_01.jpg",
+      "slug": "48_laws_scene_01",
+      "start_sec": 0.16,
+      "end_sec": 3.22,
+      "duration_sec": 3.06,
+      "script_text": "The 48 Laws of Power by Robert Greene in two minutes.",
+      "visual_concept": "Colossal centered upright book 'THE 48 LAWS OF POWER' by Robert Greene with zero tilt; Kai and Maya in sovereign royal power stances with floating golden crown and sceptre, crushing a white chess king on the white floor."
+    },
+    {
+      "scene_id": 2,
+      "scene_tag": "SCENE_02",
+      "scene_name": "scene_02",
+      "image_file": "scene_02.jpg",
+      "slug": "48_laws_scene_02",
+      "start_sec": 3.22,
+      "end_sec": 6.82,
+      "duration_sec": 3.6,
+      "script_text": "Most people believe that if you just work hard and play nice,",
+      "visual_concept": "Naive stickman smiling cheerfully with halo, handing flowers and working at a neat desk, completely unaware of sharp daggers circling behind him."
+    },
+    {
+      "scene_id": 3,
+      "scene_tag": "SCENE_03",
+      "scene_name": "scene_03",
+      "image_file": "scene_03.jpg",
+      "slug": "48_laws_scene_03",
+      "start_sec": 6.82,
+      "end_sec": 10.26,
+      "duration_sec": 3.44,
+      "script_text": "virtue will protect you. Here is the brutal truth.",
+      "visual_concept": "Maya stepping forward dramatically with sharp analytical eyes, pointing down at the shattered flower vase with a bold red warning badge reading 'REALITY CHECK'."
+    },
+    {
+      "scene_id": 4,
+      "scene_tag": "SCENE_04",
+      "scene_name": "scene_04",
+      "image_file": "scene_04.jpg",
+      "slug": "48_laws_scene_04",
+      "start_sec": 10.26,
+      "end_sec": 13.06,
+      "duration_sec": 2.8,
+      "script_text": "Virtue without strategy gets you crushed.",
+      "visual_concept": "A colossal stone chessboard fist labeled 'STRATEGY' crashing down, shattering a delicate glass shield labeled 'PURE VIRTUE' into flying fragments with comic impact lines."
+    },
+    {
+      "scene_id": 5,
+      "scene_tag": "SCENE_05",
+      "scene_name": "scene_05",
+      "image_file": "scene_05.jpg",
+      "slug": "48_laws_scene_05",
+      "start_sec": 13.06,
+      "end_sec": 14.58,
+      "duration_sec": 1.52,
+      "script_text": "Power is like gravity.",
+      "visual_concept": "Kai dropping a solid golden apple that plunges downward at high speed, creating gravity distortion grid lines and shockwave rings on the white floor."
+    },
+    {
+      "scene_id": 6,
+      "scene_tag": "SCENE_06",
+      "scene_name": "scene_06",
+      "image_file": "scene_06.jpg",
+      "slug": "48_laws_scene_06",
+      "start_sec": 14.58,
+      "end_sec": 18.49,
+      "duration_sec": 3.91,
+      "script_text": "You don't have to like it, but if you ignore its laws, you fall.",
+      "visual_concept": "A blindfolded stickman casually stepping off a high cliff edge into thin air, flailing comically as he plunges downward with speed lines."
+    },
+    {
+      "scene_id": 7,
+      "scene_tag": "SCENE_07",
+      "scene_name": "scene_07",
+      "image_file": "scene_07.jpg",
+      "slug": "48_laws_scene_07",
+      "start_sec": 18.49,
+      "end_sec": 21.93,
+      "duration_sec": 3.44,
+      "script_text": "Take Law Number One. Never outshine the master.",
+      "visual_concept": "A massive stone tablet carved with Roman numeral 'I' and golden text 'NEVER OUTSHINE THE MASTER'. Kai stands beside it with arms crossed and a knowing smirk."
+    },
+    {
+      "scene_id": 8,
+      "scene_tag": "SCENE_08",
+      "scene_name": "scene_08",
+      "image_file": "scene_08.jpg",
+      "slug": "48_laws_scene_08",
+      "start_sec": 21.93,
+      "end_sec": 25.36,
+      "duration_sec": 3.43,
+      "script_text": "Nicolas Fouquet was the brilliant French finance minister",
+      "visual_concept": "Fouquet depicted as an extravagant stick figure in an ornate velvet cape, proudly counting sparkling golden coins overflowing from velvet treasure chests."
+    },
+    {
+      "scene_id": 9,
+      "scene_tag": "SCENE_09",
+      "scene_name": "scene_09",
+      "image_file": "scene_09.jpg",
+      "slug": "48_laws_scene_09",
+      "start_sec": 25.36,
+      "end_sec": 31.24,
+      "duration_sec": 5.88,
+      "script_text": "who built a magnificent palace and threw the most lavish party in history to impress King Louis the fourteenth.",
+      "visual_concept": "An opulent palace illuminated by bursting fireworks and fountains; Fouquet bowing grandly while presenting a golden feast to King Louis XIV on a towering royal throne."
+    },
+    {
+      "scene_id": 10,
+      "scene_tag": "SCENE_10",
+      "scene_name": "scene_10",
+      "image_file": "scene_10.jpg",
+      "slug": "48_laws_scene_10",
+      "start_sec": 31.24,
+      "end_sec": 34.12,
+      "duration_sec": 2.88,
+      "script_text": "The result? The King felt outshone,",
+      "visual_concept": "King Louis XIV glowering with jealousy and wounded royal pride, his face shadowed in dark crimson ink as fireworks reflect coldly in his narrowed eyes."
+    },
+    {
+      "scene_id": 11,
+      "scene_tag": "SCENE_11",
+      "scene_name": "scene_11",
+      "image_file": "scene_11.jpg",
+      "slug": "48_laws_scene_11",
+      "start_sec": 34.12,
+      "end_sec": 38.2,
+      "duration_sec": 4.08,
+      "script_text": "humiliated, and threw Fouquet into a dark dungeon for the rest of his life.",
+      "visual_concept": "Heavy iron dungeon bars slamming shut with a violent 'CLANG!' lock icon; Fouquet sitting miserable and chained in a dark stone cell with a single dripping candle."
+    },
+    {
+      "scene_id": 12,
+      "scene_tag": "SCENE_12",
+      "scene_name": "scene_12",
+      "image_file": "scene_12.jpg",
+      "slug": "48_laws_scene_12",
+      "start_sec": 38.2,
+      "end_sec": 40.98,
+      "duration_sec": 2.78,
+      "script_text": "Always make those above you appear brilliant,",
+      "visual_concept": "Kai subtly holding a shining golden mirror to reflect brilliant glowing light onto an insecure royal boss, making the boss glow like a golden sun while Kai steps into the soft shadows."
+    },
+    {
+      "scene_id": 13,
+      "scene_tag": "SCENE_13",
+      "scene_name": "scene_13",
+      "image_file": "scene_13.jpg",
+      "slug": "48_laws_scene_13",
+      "start_sec": 40.98,
+      "end_sec": 42.88,
+      "duration_sec": 1.9,
+      "script_text": "and keep your own brilliance concealed.",
+      "visual_concept": "Maya covering a brilliant glowing star in her hands with a dark charcoal cloak, giving a clever mastermind wink directly at the viewer."
+    },
+    {
+      "scene_id": 14,
+      "scene_tag": "SCENE_14",
+      "scene_name": "scene_14",
+      "image_file": "scene_14.jpg",
+      "slug": "48_laws_scene_14",
+      "start_sec": 42.88,
+      "end_sec": 46.8,
+      "duration_sec": 3.92,
+      "script_text": "Next, Law Number Three. Conceal your intentions.",
+      "visual_concept": "A massive stone tablet carved with Roman numeral 'III' and gold text 'CONCEAL YOUR INTENTIONS'. Maya stands beside it holding a mysterious folded blueprint."
+    },
+    {
+      "scene_id": 15,
+      "scene_tag": "SCENE_15",
+      "scene_name": "scene_15",
+      "image_file": "scene_15.jpg",
+      "slug": "48_laws_scene_15",
+      "start_sec": 46.8,
+      "end_sec": 50.48,
+      "duration_sec": 3.68,
+      "script_text": "If people know what you are aiming for, they can build defenses,",
+      "visual_concept": "A transparent stick figure whose thoughts are visible in a glowing thought bubble; across from him, rivals rapidly stack spiked barricades and shield walls."
+    },
+    {
+      "scene_id": 16,
+      "scene_tag": "SCENE_16",
+      "scene_name": "scene_16",
+      "image_file": "scene_16.jpg",
+      "slug": "48_laws_scene_16",
+      "start_sec": 50.48,
+      "end_sec": 53.27,
+      "duration_sec": 2.79,
+      "script_text": "lay traps, or sabotage your path.",
+      "visual_concept": "Shadowy opponent stick figures digging deep pitfall traps with sharp wooden stakes along an open path, grinning maliciously from behind bushes."
+    },
+    {
+      "scene_id": 17,
+      "scene_tag": "SCENE_17",
+      "scene_name": "scene_17",
+      "image_file": "scene_17.jpg",
+      "slug": "48_laws_scene_17",
+      "start_sec": 53.27,
+      "end_sec": 55.75,
+      "duration_sec": 2.48,
+      "script_text": "Use decoy goals and smoke screens.",
+      "visual_concept": "Kai deploying a giant billowing cloud of comic smoke and pointing an oversized decoy arrow labeled 'ATTACK HERE' toward an empty wooden target."
+    },
+    {
+      "scene_id": 18,
+      "scene_tag": "SCENE_18",
+      "scene_name": "scene_18",
+      "image_file": "scene_18.jpg",
+      "slug": "48_laws_scene_18",
+      "start_sec": 55.75,
+      "end_sec": 59.1,
+      "duration_sec": 3.35,
+      "script_text": "Let them watch your left hand while your right hand strikes.",
+      "visual_concept": "Kai holding a glowing magician's sparkling red orb with his left hand high in the air, while his right hand quietly checkmates the white king on the board below."
+    },
+    {
+      "scene_id": 19,
+      "scene_tag": "SCENE_19",
+      "scene_name": "scene_19",
+      "image_file": "scene_19.jpg",
+      "slug": "48_laws_scene_19",
+      "start_sec": 59.1,
+      "end_sec": 63.02,
+      "duration_sec": 3.92,
+      "script_text": "Then, Law Number Four. Always say less than necessary.",
+      "visual_concept": "Stone tablet carved with Roman numeral 'IV' and bold text 'SAY LESS THAN NECESSARY'. Kai stands calmly with a single finger placed across his closed lips in silent mystery."
+    },
+    {
+      "scene_id": 20,
+      "scene_tag": "SCENE_20",
+      "scene_name": "scene_20",
+      "image_file": "scene_20.jpg",
+      "slug": "48_laws_scene_20",
+      "start_sec": 63.02,
+      "end_sec": 67.02,
+      "duration_sec": 4.0,
+      "script_text": "Powerful people impress and intimidate by saying very little.",
+      "visual_concept": "Maya seated calmly behind an executive desk with hands steepled, uttering zero words while radiating an untouchable, intimidating golden pressure aura."
+    },
+    {
+      "scene_id": 21,
+      "scene_tag": "SCENE_21",
+      "scene_name": "scene_21",
+      "image_file": "scene_21.jpg",
+      "slug": "48_laws_scene_21",
+      "start_sec": 67.02,
+      "end_sec": 69.66,
+      "duration_sec": 2.64,
+      "script_text": "The more you speak, the more common you appear,",
+      "visual_concept": "A sweaty, nervous stickman babbling uncontrollably with a giant comic speech bubble overflowing with meaningless words, shrinking in stature as he speaks."
+    },
+    {
+      "scene_id": 22,
+      "scene_tag": "SCENE_22",
+      "scene_name": "scene_22",
+      "image_file": "scene_22.jpg",
+      "slug": "48_laws_scene_22",
+      "start_sec": 69.66,
+      "end_sec": 72.12,
+      "duration_sec": 2.46,
+      "script_text": "and the higher the risk of uttering something foolish.",
+      "visual_concept": "A cartoon stickman speaking a red dynamite word bubble with a burning fuse that explodes into his own face with comic black soot marks and spiral eyes."
+    },
+    {
+      "scene_id": 23,
+      "scene_tag": "SCENE_23",
+      "scene_name": "scene_23",
+      "image_file": "scene_23.jpg",
+      "slug": "48_laws_scene_23",
+      "start_sec": 72.12,
+      "end_sec": 76.34,
+      "duration_sec": 4.22,
+      "script_text": "Silence makes people uncomfortable, forcing them to fill the void,",
+      "visual_concept": "Kai staring blankly and silently with arched eyebrows at a frantic opponent who is sweating profusely, fidgeting, and desperately babbling to break the unbearable silence."
+    },
+    {
+      "scene_id": 24,
+      "scene_tag": "SCENE_24",
+      "scene_name": "scene_24",
+      "image_file": "scene_24.jpg",
+      "slug": "48_laws_scene_24",
+      "start_sec": 76.34,
+      "end_sec": 77.97,
+      "duration_sec": 1.63,
+      "script_text": "and reveal their own hidden secrets.",
+      "visual_concept": "The panicked rival accidentally dropping open his locked briefcase, spilling top-secret classified documents and keys onto the table directly in front of Maya."
+    },
+    {
+      "scene_id": 25,
+      "scene_tag": "SCENE_25",
+      "scene_name": "scene_25",
+      "image_file": "scene_25.jpg",
+      "slug": "48_laws_scene_25",
+      "start_sec": 77.97,
+      "end_sec": 83.08,
+      "duration_sec": 5.11,
+      "script_text": "Next, Law Number Nine. Win through actions, never through argument.",
+      "visual_concept": "Stone tablet carved with Roman numeral 'IX' and bold text 'WIN THROUGH ACTIONS, NEVER ARGUMENT'. Kai gestures calmly between a shouting stickman and a finished masterpiece."
+    },
+    {
+      "scene_id": 26,
+      "scene_tag": "SCENE_26",
+      "scene_name": "scene_26",
+      "image_file": "scene_26.jpg",
+      "slug": "48_laws_scene_26",
+      "start_sec": 83.08,
+      "end_sec": 87.34,
+      "duration_sec": 4.26,
+      "script_text": "A verbal debate victory is hollow and breeds bitter resentment",
+      "visual_concept": "Two stick figures screaming red-faced at each other through megaphones, their aggressive speech bubbles clashing in midair while both stand on crumbling dirt mounds."
+    },
+    {
+      "scene_id": 27,
+      "scene_tag": "SCENE_27",
+      "scene_name": "scene_27",
+      "image_file": "scene_27.jpg",
+      "slug": "48_laws_scene_27",
+      "start_sec": 87.34,
+      "end_sec": 88.7,
+      "duration_sec": 1.36,
+      "script_text": "that lasts for years.",
+      "visual_concept": "The defeated opponent walking away with clenched fists and dark jagged lightning storm clouds brewing over his head, nursing a bitter grudge for years."
+    },
+    {
+      "scene_id": 28,
+      "scene_tag": "SCENE_28",
+      "scene_name": "scene_28",
+      "image_file": "scene_28.jpg",
+      "slug": "48_laws_scene_28",
+      "start_sec": 88.7,
+      "end_sec": 90.86,
+      "duration_sec": 2.16,
+      "script_text": "Never argue. Demonstrate.",
+      "visual_concept": "Maya ignoring a screaming debater, turning her back calmly to assemble a flawless, towering golden architectural bridge that instantly stands firm and solid."
+    },
+    {
+      "scene_id": 29,
+      "scene_tag": "SCENE_29",
+      "scene_name": "scene_29",
+      "image_file": "scene_29.jpg",
+      "slug": "48_laws_scene_29",
+      "start_sec": 90.86,
+      "end_sec": 93.66,
+      "duration_sec": 2.8,
+      "script_text": "When you show results without arguing,",
+      "visual_concept": "Kai pointing silently at a glowing digital scoreboard reading 'GOAL: 100% COMPLETE' while his critics freeze in awe with jaws dropped to the floor."
+    },
+    {
+      "scene_id": 30,
+      "scene_tag": "SCENE_30",
+      "scene_name": "scene_30",
+      "image_file": "scene_30.jpg",
+      "slug": "48_laws_scene_30",
+      "start_sec": 93.66,
+      "end_sec": 96.08,
+      "duration_sec": 2.42,
+      "script_text": "you win without making enemies.",
+      "visual_concept": "Kai and Maya standing surrounded by respectful nodding peers who applaud their undeniable victory, with zero resentment or conflict in the room."
+    },
+    {
+      "scene_id": 31,
+      "scene_tag": "SCENE_31",
+      "scene_name": "scene_31",
+      "image_file": "scene_31.jpg",
+      "slug": "48_laws_scene_31",
+      "start_sec": 96.08,
+      "end_sec": 100.16,
+      "duration_sec": 4.08,
+      "script_text": "Then, Law Number 28. Enter action with boldness.",
+      "visual_concept": "Stone tablet carved with Roman numeral 'XXVIII' and gold text 'ENTER ACTION WITH BOLDNESS'. Kai leaps forward heroically, eyes blazing with total confidence."
+    },
+    {
+      "scene_id": 32,
+      "scene_tag": "SCENE_32",
+      "scene_name": "scene_32",
+      "image_file": "scene_32.jpg",
+      "slug": "48_laws_scene_32",
+      "start_sec": 100.16,
+      "end_sec": 103.92,
+      "duration_sec": 3.76,
+      "script_text": "Timidity creates hesitation and invites disaster.",
+      "visual_concept": "A trembling, hesitant stick figure pausing timidly at a doorway, getting tangled in his own trembling feet as the door slams shut in his face."
+    },
+    {
+      "scene_id": 33,
+      "scene_tag": "SCENE_33",
+      "scene_name": "scene_33",
+      "image_file": "scene_33.jpg",
+      "slug": "48_laws_scene_33",
+      "start_sec": 103.92,
+      "end_sec": 108.0,
+      "duration_sec": 4.08,
+      "script_text": "If you are unsure of a course of action, do not attempt it.",
+      "visual_concept": "Maya standing poised before a fork in the road with a giant red 'DO NOT ENTER' warning hand, analyzing maps and choosing to wait for total certainty."
+    },
+    {
+      "scene_id": 34,
+      "scene_tag": "SCENE_34",
+      "scene_name": "scene_34",
+      "image_file": "scene_34.jpg",
+      "slug": "48_laws_scene_34",
+      "start_sec": 108.0,
+      "end_sec": 110.67,
+      "duration_sec": 2.67,
+      "script_text": "Audacity strikes fear into your rivals,",
+      "visual_concept": "Kai kicking open massive double fortress doors with bold swagger, sending shockwaves through a room of stunned, terrified rival generals."
+    },
+    {
+      "scene_id": 35,
+      "scene_tag": "SCENE_35",
+      "scene_name": "scene_35",
+      "image_file": "scene_35.jpg",
+      "slug": "48_laws_scene_35",
+      "start_sec": 110.67,
+      "end_sec": 112.53,
+      "duration_sec": 1.86,
+      "script_text": "and everyone admires the bold.",
+      "visual_concept": "A cheering crowd of stick figures hoisting Kai and Maya onto their shoulders in celebration as golden confetti rains down from above."
+    },
+    {
+      "scene_id": 36,
+      "scene_tag": "SCENE_36",
+      "scene_name": "scene_36",
+      "image_file": "scene_36.jpg",
+      "slug": "48_laws_scene_36",
+      "start_sec": 112.53,
+      "end_sec": 116.53,
+      "duration_sec": 4.0,
+      "script_text": "When conflict is unavoidable, remember Law Number 15.",
+      "visual_concept": "Stone tablet carved with Roman numeral 'XV' and bold crimson text 'CRUSH YOUR ENEMY TOTALLY'. Kai draws an ornate black sword with a resolute, serious gaze."
+    },
+    {
+      "scene_id": 37,
+      "scene_tag": "SCENE_37",
+      "scene_name": "scene_37",
+      "image_file": "scene_37.jpg",
+      "slug": "48_laws_scene_37",
+      "start_sec": 116.53,
+      "end_sec": 118.45,
+      "duration_sec": 1.92,
+      "script_text": "Crush your enemy totally.",
+      "visual_concept": "A massive golden warhammer slamming down onto a cracked stone chessboard, shattering the enemy's black fortress into dust with shockwaves."
+    },
+    {
+      "scene_id": 38,
+      "scene_tag": "SCENE_38",
+      "scene_name": "scene_38",
+      "image_file": "scene_38.jpg",
+      "slug": "48_laws_scene_38",
+      "start_sec": 118.45,
+      "end_sec": 121.47,
+      "duration_sec": 3.02,
+      "script_text": "A viper only half-crushed will heal, hide,",
+      "visual_concept": "A wounded green cartoon snake slithering into dark shadows beneath a hollow log, glowing eyes narrowing as it secretly recovers its strength."
+    },
+    {
+      "scene_id": 39,
+      "scene_tag": "SCENE_39",
+      "scene_name": "scene_39",
+      "image_file": "scene_39.jpg",
+      "slug": "48_laws_scene_39",
+      "start_sec": 121.47,
+      "end_sec": 123.38,
+      "duration_sec": 1.91,
+      "script_text": "and strike back with deadlier venom.",
+      "visual_concept": "The giant serpent lunging unexpectedly from the shadows with bared dripping fangs, striking at an unsuspecting stickman who thought he was safe."
+    },
+    {
+      "scene_id": 40,
+      "scene_tag": "SCENE_40",
+      "scene_name": "scene_40",
+      "image_file": "scene_40.jpg",
+      "slug": "48_laws_scene_40",
+      "start_sec": 123.38,
+      "end_sec": 127.56,
+      "duration_sec": 4.18,
+      "script_text": "If you must defeat a rival, leave zero room for retaliation.",
+      "visual_concept": "Maya planting a solid steel perimeter vault door and turning a triple lock wheel, ensuring the threat is completely sealed with zero loopholes."
+    },
+    {
+      "scene_id": 41,
+      "scene_tag": "SCENE_41",
+      "scene_name": "scene_41",
+      "image_file": "scene_41.jpg",
+      "slug": "48_laws_scene_41",
+      "start_sec": 127.56,
+      "end_sec": 131.96,
+      "duration_sec": 4.4,
+      "script_text": "And finally, Law 48. Assume formlessness.",
+      "visual_concept": "Stone tablet carved with Roman numeral 'XLVIII' and shimmering aquamarine text 'ASSUME FORMLESSNESS'. Water droplets splash gracefully around the letters."
+    },
+    {
+      "scene_id": 42,
+      "scene_tag": "SCENE_42",
+      "scene_name": "scene_42",
+      "image_file": "scene_42.jpg",
+      "slug": "48_laws_scene_42",
+      "start_sec": 131.96,
+      "end_sec": 137.79,
+      "duration_sec": 5.83,
+      "script_text": "Rigid plans shatter under pressure. Fixed strategies become predictable targets.",
+      "visual_concept": "A rigid, inflexible glass stickman struck by a flying rock, shattering into sharp shards, while an enemy artillery target locks onto fixed fortress coordinates."
+    },
+    {
+      "scene_id": 43,
+      "scene_tag": "SCENE_43",
+      "scene_name": "scene_43",
+      "image_file": "scene_43.jpg",
+      "slug": "48_laws_scene_43",
+      "start_sec": 137.79,
+      "end_sec": 143.79,
+      "duration_sec": 6.0,
+      "script_text": "Be like water, flowing around obstacles, unpredictable and impossible to pin down.",
+      "visual_concept": "Kai and Maya seamlessly shifting into fluid, translucent blue water waves that effortlessly glide around sharp boulders and spears with zero resistance."
+    },
+    {
+      "scene_id": 44,
+      "scene_tag": "SCENE_44",
+      "scene_name": "scene_44",
+      "image_file": "scene_44.jpg",
+      "slug": "48_laws_scene_44",
+      "start_sec": 143.79,
+      "end_sec": 145.9,
+      "duration_sec": 2.11,
+      "script_text": "So tell me in the comments below.",
+      "visual_concept": "Kai and Maya standing side-by-side, both pointing dynamic comic arrows straight down toward the comment section with engaging smiles and raised eyebrows."
+    },
+    {
+      "scene_id": 45,
+      "scene_tag": "SCENE_45",
+      "scene_name": "scene_45",
+      "image_file": "scene_45.jpg",
+      "slug": "48_laws_scene_45",
+      "start_sec": 145.9,
+      "end_sec": 155.9,
+      "duration_sec": 10.0,
+      "script_text": "Would you rather sit alone on a cold throne with absolute supreme power and zero real friends, or live around a warm campfire with true friendship and zero power?",
+      "visual_concept": "Single cohesive 9:16 vertical image split horizontally with central (VS) badge. Top: Shivering crowned stickman alone on a desolate frozen stone throne with chests of gold. Bottom: Warm glowing orange campfire with cheerful stickmen laughing with arms around each other."
+    }
+  ]
+}

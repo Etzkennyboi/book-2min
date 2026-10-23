@@ -1,244 +1,807 @@
 ================================================================================
-THE 48 LAWS OF POWER — 38 SENSORY MICRO-BEAT PROMPT SHEET (LOCKED DUO CONSISTENCY)
+THE 48 LAWS OF POWER — 45 SENSORY MICRO-BEAT PROMPT SHEET (LOCKED DUO CONSISTENCY)
 ================================================================================
-HOW TO ACHIEVE 100% CHARACTER CONSISTENCY ACROSS ALL 38 SCENES:
-1. Canonical Reference Image Anchor:
-   - Use the locked Character Model Sheet or Scene 01 Cover image as your Character Reference (--cref <URL> in Midjourney/Nano Banana, or IP-Adapter in Stable Diffusion).
-   - Set Character Weight: --cw 100 (forces identical face, hair, and clothing across all beats).
-2. Verbatim DNA Prompt Block:
-   - Every prompt below contains an identical, immutable [PROTAGONIST DNA] block that forces the AI engine to generate the exact same minimalist 2D stickman proportions, hair geometry, and flat warm skin tone.
+AUTHOR: Robert Greene
+RUNTIME: 155.90s (2:35 min) | SCENES: 45 Organic Cuts | STYLE: @sticklit Webcomic v2.2 Turbo
+
+HOW TO ACHIEVE 100% CHARACTER CONSISTENCY ACROSS ALL 45 SCENES:
+1. Canonical Protagonist Duo DNA:
+   - KAI (Boy): Circular head with flat warm natural skin tone (#E8BEAC / golden tan), messy spiky jet-black anime hair tuft, dark charcoal crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), sturdy black combat boots, expressive comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk.
+   - MAYA (Girl): Circular head with flat warm natural skin tone (#E8BEAC / golden tan), high energetic spiky jet-black ponytail tied with band with fringe bangs, dark charcoal crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), sturdy black combat boots, expressive comic eyes, arched eyebrows, analytical wink and clever mastermind smile, minimalist 2D black stick limbs with strictly zero muscular bulk.
+2. Universal Format & Canvas Rules:
+   - 9:16 Vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless, zero gradients, zero floor/wall texture.
+   - Centered near top edge: subtle outline watermark '@sticklit'.
+   - 250px Subtitle Safety Zone: All characters, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for golden subtitles.
 3. Universal Anti-Drift Negative Prompt (Paste into every generation):
-   defined muscles, muscular body, thick limbs, realistic human anatomy, 3D render, photorealism, realistic facial features, skin pores, gradients, 3D shading, anime webtoon proportions, text, watermark clutter, lower third banners, borders, frames.
+   (defined muscles, muscular body, thick limbs, realistic human anatomy, 3D render, CGI, gradient background, dark background, borders, frames, cut off heads, tilted book covers, realistic faces, realistic clothing wrinkles)
 ================================================================================
 
-[SCENE 01]
-Audio: 0.08s - 3.52s ("the 48 laws of power")
-Beat 01: Master Cover Hook — Centered Power Monolith & Royal Throne
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top edge: subtle outline text "@sticklit". Centered top bold comic header: "The 48 Laws of Power / Robert Greene / in two minutes". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, dark arched eyebrows, confident smirk, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes. Girl: high spiky jet-black ponytail with front bangs, clever wink and smirk, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] In the exact center, a colossal upright hardcover book "THE 48 LAWS OF POWER - ROBERT GREENE" stands perfectly vertical and level with bold horizontal gold serif text, zero tilt. The Boy sits on a minimalist royal chair wearing a tilted gold crown with steepled fingers. The Girl stands beside the throne holding an ornate gold sceptre with a mastermind wink. Broken white chess pieces lie defeated at the base. Upper 80% framing, bottom 250px completely clear pure white negative space.
+--------------------------------------------------------------------------------
+SCENE 01 / 45 | TIME:   0.16s ->   3.22s (Duration: 3.06s)
+SCRIPT VO: "The 48 Laws of Power by Robert Greene in two minutes."
+--------------------------------------------------------------------------------
+[SCENE_01] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter. Near the top center, small subtle text: '@sticklit'.
 
-[SCENE 02]
-Audio: 3.52s - 5.84s ("most people believe that")
-Beat 02: Naive Belief — Stamping Papers Late at Night
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, dark arched eyebrows, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. The Boy wearing an innocent blue necktie sits happily at a small wooden desk under a single glowing yellow desk lamp late at night, cheerfully stamping tall stacks of paperwork with an innocent smile. Beside the desk, the Girl leans against the table with crossed arms, looking down at the paperwork with a skeptical, arched eyebrow. Bottom 250px completely clear white negative space.
+CRITICAL MANDATE - ZERO TILT & ZERO NECK BENDING:
+The book must stand PERFECTLY CENTERED, 100% upright, flat-facing the camera, level and straight. The title text MUST be 100% horizontal and effortlessly readable with zero tilt!
 
-[SCENE 03]
-Audio: 5.84s - 8.48s ("and play nice you")
-Beat 03: Corporate Ladder — Climbing with Bouquet
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. The Boy wearing the blue necktie climbs up a tall wooden ladder toward a golden corporate cloud, holding a bouquet of flowers with an optimistic trusting smile. At the base of the ladder, the Girl looks upward with hands cupped around her mouth, urgently calling out to warn him of danger. Bottom 250px completely clear white negative space.
+1. Centered Book (Centerpiece):
+   - A colossal, towering hardcover book planted squarely in the center of the frame, 100% upright and level.
+   - Iconic crimson-red left and right border panels, solid black central spine/panel, with bold, perfectly horizontal gold serif embossed title:
+     "THE 48 LAWS OF POWER"
+     "ROBERT GREENE"
+   - Subtle glowing golden electric sparks crackle around the outer edges of the book.
 
-[SCENE 04]
-Audio: 8.48s - 11.04s ("in reality naive")
-Beat 04: The Sabotage — Silhouette Tripwire
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. From the shadowy left edge, a sneaky black silhouette figure pulls a taut tripwire while another shadowy hand kicks the ladder away. The Boy tumbles backward off the ladder in shock, flowers scattering, sweat droplets flying. The Girl rushes in from the right with wide alarmed eyes, reaching out both hands to catch him. Bottom 250px clear white negative space.
+2. Royal Power Duo Action & Visual Contrast:
+   - LEFT SIDE: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky black hair, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black boots, minimalist 2D stick limbs). Sits like a young monarch on a minimalist royal chair directly in front of the left book corner, arms crossed with effortless cool swagger and a knowing 4th-wall smirk. Above him hovers a glowing golden royal crown.
+   - RIGHT SIDE: Maya (Girl stick figure, circular head with flat warm natural skin tone, high spiky black ponytail with bangs, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black boots, minimalist 2D stick limbs). Stands poised beside the book holding an ornate golden royal sceptre, winking with a clever mastermind smile.
+   - FLOOR / IMPACT: At their feet, a white chess king lies toppled and shattered on the pure white floor with subtle impact dust puffs.
+   - TOP VIRAL HOOK BUBBLE: A bold comic speech bubble reading: "The Rules of Power Nobody Teaches You!"
 
-[SCENE 05]
-Audio: 11.04s - 13.20s ("and crushed every")
-Beat 05: Devastating Impact — 100-Ton Hydraulic Press
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. A colossal 100-ton hydraulic press slams onto the floor with immense force. Underneath, the Boy is flattened into a comical paper-thin accordion. Beside the press, the Girl stands dusting off concrete debris with wide shocked cartoon eyes as radial comic shockwave lines and dust clouds burst outward. Bottom 250px clear white negative space.
+3. Top Comic Header:
+   - Centered near top edge: subtle outline '@sticklit'
+   - Bold handwritten comic title:
+     "The 48 Laws of Power"
+     "Robert Greene"
+     "in two minutes"
 
-[SCENE 06]
-Audio: 13.20s - 16.05s ("power is like gravity")
-Beat 06: Cosmic Force — Gravitational Downward Vortex
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. The Boy and Girl are caught in an intense downward gravitational vortex, flailing their thin stick arms as heavy black iron chess pieces, golden apples, and stone boulders are sucked violently downward toward a dense black planetary core with curved force lines. Bottom 250px clear white negative space.
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave bottom 250px completely clear pure white negative space.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
 
-[SCENE 07]
-Audio: 16.05s - 18.21s ("but if you ignore")
-Beat 07: Ignorance Penalized — Plunging Off the Cliff
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. The Boy and Girl plunge helplessly off a sheer cliff edge into deep grey storm clouds below, clutching their heads in panic with wide spiral eyes and vertical speed lines streaming upward. Bottom 250px clear white negative space.
 
-[SCENE 08]
-Audio: 18.21s - 21.89s ("take law number one")
-Beat 08: Law 1 Emblem — Blinding Sun Eclipsing Candle
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. Across the top, a colossal radiant golden sun wearing a royal crown radiates blinding yellow rays. Below, the Boy holds a tiny flickering candle completely invisible in the sun's glare, while the Girl points up at the blinding sun with a cautious, knowing expression. Bottom 250px clear white space.
+--------------------------------------------------------------------------------
+SCENE 02 / 45 | TIME:   3.22s ->   6.82s (Duration: 3.60s)
+SCRIPT VO: "Most people believe that if you just work hard and play nice,"
+--------------------------------------------------------------------------------
+[SCENE_02] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
 
-[SCENE 09]
-Audio: 21.89s - 24.54s ("nicolas fouquet was a")
-Beat 09: The Historical Foil — Counting Gold and Châteaux Blueprints
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. The Boy, portraying finance minister Nicolas Fouquet, wears a fancy 17th-century French courtier ruffled collar over his charcoal shirt, proudly sitting at a drafting table counting tall stacks of glittering gold coins beside grand architectural blueprints of a lavish château. Beside him, the Girl reviews the financial ledgers with an amused smile. Bottom 250px clear white space.
+Visual Action & Narrative Beat:
+Naive stickman smiling cheerfully with halo, handing flowers and working at a neat desk, completely unaware of sharp daggers circling behind him.
 
-[SCENE 10]
-Audio: 24.54s - 27.26s ("who wanted to impress")
-Beat 10: The Extravagant Gift — Golden Tray to King Louis
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. The Boy in his fancy ruffled collar bows deeply with an eager smile, holding up a sparkling golden tray piled with jewels and a mini golden palace model. In the background, crowned King Louis XIV watches from his throne with a cold, unblinking glare, while the Girl reaches out a hand warning the Boy of the King's envy. Bottom 250px clear white space.
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. 
 
-[SCENE 11]
-Audio: 27.26s - 29.74s ("he threw the most")
-Beat 11: The Vaux Gala — Champagne Spray and Fireworks
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. The Boy gleefully pops the cork off an oversized champagne bottle as golden liquid sprays in arcs. Beside him, the Girl dances in celebration with arms raised as colorful fireworks burst overhead and golden confetti showers down. Bottom 250px clear white negative space.
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
 
-[SCENE 12]
-Audio: 29.74s - 31.90s ("showing off his immense")
-Beat 12: Flaunting Riches — Mountain of Treasure
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. The Boy balances joyfully atop a towering mountain of glittering gold coins and open treasure chests, throwing coins into the air with open arms, completely unaware of the danger. The Girl stands halfway up looking down in growing concern. Bottom 250px clear white space.
 
-[SCENE 13]
-Audio: 31.90s - 35.10s ("instead of being impressed")
-Beat 13: Royal Fury — King Louis XIV Visceral Envy
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading.] Upper 80% framing. Extreme close-up of King Louis XIV sitting on his royal throne: face boiling furious crimson red, burning red pupils glaring with venomous jealousy, white steam whistling from both ears, and fists gripping the throne armrests with wood-splintering strain. In the lower corner, tiny silhouettes of the Boy and Girl shrink in the King's shadow. Bottom 250px clear white space.
+--------------------------------------------------------------------------------
+SCENE 03 / 45 | TIME:   6.82s ->  10.26s (Duration: 3.44s)
+SCRIPT VO: "virtue will protect you. Here is the brutal truth."
+--------------------------------------------------------------------------------
+[SCENE_03] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
 
-[SCENE 14]
-Audio: 35.10s - 37.50s ("and terrified of being")
-Beat 14: Royal Paranoia — The Mirror of Eclipse
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93.] Upper 80% framing. King Louis XIV stands before an ornate full-length gilded mirror. Instead of his reflection, the mirror reveals the gigantic, glowing, laughing shadow of the Boy and Girl towering over the King's tiny crown, showing his fear of being eclipsed. Bottom 250px clear white negative space.
+Visual Action & Narrative Beat:
+Maya stepping forward dramatically with sharp analytical eyes, pointing down at the shattered flower vase with a bold red warning badge reading 'REALITY CHECK'.
 
-[SCENE 15]
-Audio: 37.50s - 39.50s ("within weeks fouquet")
-Beat 15: Swift Arrest — Dragged by Musketeer Guards
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. Two imposing royal guards in steel breastplates with tall halberds seize the Boy by his collar, dragging him backward across the stone floor as his champagne flute shatters. The Girl watches from the side in shock, hands over her mouth. Bottom 250px clear white negative space.
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. Maya has signature high spiky jet-black cartoon ponytail with bangs.
 
-[SCENE 16]
-Audio: 39.50s - 42.27s ("into a dark dungeon")
-Beat 16: Iron Slam — Dungeon Cell and Heavy Padlock
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. Heavy vertical black iron dungeon bars slam shut with a metallic clank and giant brass padlock. Inside the dim cell, the Boy sits on a cold stone block wearing tattered rags, head in his hands with dizzy spiral eyes and sweat pouring down. Bottom 250px clear white space.
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
 
-[SCENE 17]
-Audio: 42.27s - 45.80s ("always make those above")
-Beat 17: Flattery Remedy — The Vanity Mirror Trick
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. The Girl, acting as a clever courtier, bows gracefully low while holding up an angled golden vanity mirror for King Louis XIV. In the mirror, the King looks twice as tall, broad-shouldered, and radiant, smiling with smug satisfaction while the Girl winks discreetly at the viewer. Bottom 250px clear white negative space.
 
-[SCENE 18]
-Audio: 45.80s - 49.23s ("number four always say")
-Beat 18: Law 4 Emblem — Golden Padlock Zipper
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, dark arched eyebrows, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. The Boy sits perfectly upright and serene in an armchair with steepled fingers. Across his mouth is a clean metallic golden zipper and small golden padlock. Piercing analytical eyes radiate a calm cyan aura. Beside him, the Girl stands with arms crossed, nodding with approval. Bottom 250px clear white space.
+--------------------------------------------------------------------------------
+SCENE 04 / 45 | TIME:  10.26s ->  13.06s (Duration: 2.80s)
+SCRIPT VO: "Virtue without strategy gets you crushed."
+--------------------------------------------------------------------------------
+[SCENE_04] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
 
-[SCENE 19]
-Audio: 49.23s - 51.80s ("the more you speak")
-Beat 19: The Blabbermouth Trap — Tangled Speech Scribbles
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. An unpolished rival stick figure sits at a conference table, talking frantically with wide sweaty eyes as a chaotic, tangled speech bubble full of scribbled lines spills out of his mouth. Across the table, the Girl watches him calmly, resting her chin on her hand with a sly, calculating smirk. Bottom 250px clear white space.
+Visual Action & Narrative Beat:
+A colossal stone chessboard fist labeled 'STRATEGY' crashing down, shattering a delicate glass shield labeled 'PURE VIRTUE' into flying fragments with comic impact lines.
 
-[SCENE 20]
-Audio: 51.80s - 54.11s ("and the more leverage")
-Beat 20: Surrendering Leverage — Handing Over the Golden Key
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, dark arched eyebrows, confident smirk, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. The blabbering rival, completely distracted by his own nervous chattering, unknowingly hands over a glowing golden master key across the desk directly into the Boy's calm, waiting open hand. The Boy accepts it with a knowing smirk. Bottom 250px clear white space.
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. 
 
-[SCENE 21]
-Audio: 54.11s - 57.48s ("powerful people speak in")
-Beat 21: Strategic Ambiguity — The Single Question Mark
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. The Boy and Girl sit in authority at the head of a sleek conference table. The Boy raises a single index finger calmly, as a minimalist speech bubble appears containing only a single bold black question mark: "?". The entire meeting room freezes in nervous awe. Bottom 250px clear white negative space.
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
 
-[SCENE 22]
-Audio: 57.48s - 61.24s ("when you keep your")
-Beat 22: Tension in Silence — Rivals Sweating Rivers
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. The Boy and Girl sit completely quiet and motionless with stone-cold confidence. Directly opposite them, two rival stick figures squirm in agony, wiping rivers of sweat with handkerchiefs, fingernails tapping nervously, breaking under the psychological silence. Bottom 250px clear white space.
 
-[SCENE 23]
-Audio: 61.24s - 63.08s ("exposing their own weaknesses")
-Beat 23: Secret Exposed — Hidden Ace Falling from Sleeve
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. The sweating rival panics so thoroughly that a secret ace of spades card and confidential folded papers slip out of his jacket sleeve, fluttering to the floor right in front of the Girl's black boots. The Girl points at the dropped card with a triumphant smirk. Bottom 250px clear white negative space.
+--------------------------------------------------------------------------------
+SCENE 05 / 45 | TIME:  13.06s ->  14.58s (Duration: 1.52s)
+SCRIPT VO: "Power is like gravity."
+--------------------------------------------------------------------------------
+[SCENE_05] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
 
-[SCENE 24]
-Audio: 63.08s - 66.76s ("law number nine win")
-Beat 24: Law 9 Emblem — Yelling Megaphones Clashing
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. A furious rival screams through a bright red megaphone with jagged zigzag soundwaves. The Boy casually puts on black noise-canceling headphones, walking past with hands in pockets and a calm smile, refusing to argue with words. Bottom 250px clear white space.
+Visual Action & Narrative Beat:
+Kai dropping a solid golden apple that plunges downward at high speed, creating gravity distortion grid lines and shockwave rings on the white floor.
 
-[SCENE 25]
-Audio: 66.76s - 70.28s ("you cannot win an")
-Beat 25: Stubborn Deadlock — Refusing the Chart
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. The rival passionately thrusts forward an "I'M RIGHT" chart with checkmarks, but the Girl turns her back, folding her arms across her charcoal tee with an unyielding, unimpressed expression, proving words cannot change a closed mind. Bottom 250px clear white space.
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. Kai has signature messy spiky jet-black cartoon hair.
 
-[SCENE 26]
-Audio: 70.28s - 72.56s ("you only breed resentment")
-Beat 26: Toxic Resentment — Fiery Crimson Embers in Chest
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. The defeated rival stands with clenched fists and forced smile, but inside his chest fiery crimson embers burn with toxic resentment and dark smoke spirals. Beside him, the Boy observes this hidden venom with sharp analytical eyes. Bottom 250px clear white space.
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
 
-[SCENE 27]
-Audio: 72.56s - 76.23s ("demonstrate your value with")
-Beat 27: Proof by Demonstration — Unveiling Golden Clockwork
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. The Boy and Girl proudly pull a red velvet sheet off a presentation table, unveiling a gleaming, working golden clockwork engine with spinning gears and glowing amber bulbs. Surrounding skeptics drop their jaws in silent, indisputable awe. Bottom 250px clear white negative space.
 
-[SCENE 28]
-Audio: 76.23s - 79.52s ("law number 48 assume")
-Beat 28: Law 48 Emblem — Fluid Stream Around Granite Pillars
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. The Boy's body morphs into a luminous stream of clear cyan water, gliding effortlessly around jagged black boulders and heavy iron pillars without a single scratch, as the Girl smiles proudly beside the flowing stream. Bottom 250px clear white space.
+--------------------------------------------------------------------------------
+SCENE 06 / 45 | TIME:  14.58s ->  18.49s (Duration: 3.91s)
+SCRIPT VO: "You don't have to like it, but if you ignore its laws, you fall."
+--------------------------------------------------------------------------------
+[SCENE_06] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
 
-[SCENE 29]
-Audio: 79.52s - 82.95s ("rigid people who rely")
-Beat 29: Brittle Rigidity — Stone Figure Shattering Under Sledgehammer
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading.] Upper 80% framing. A stiff rival carved of solid grey granite is struck by a massive black iron sledgehammer. Instead of bending, the stone figure violently cracks and shatters into dozens of flying brittle rock shards and dust clouds. Bottom 250px clear white negative space.
+Visual Action & Narrative Beat:
+A blindfolded stickman casually stepping off a high cliff edge into thin air, flailing comically as he plunges downward with speed lines.
 
-[SCENE 30]
-Audio: 82.95s - 85.71s ("flexible people who adapt")
-Beat 30: Flexible Bamboo — Bending Gracefully in the Storm
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. The Girl, slender and resilient like green bamboo, bends gracefully almost flat to the ground as hurricane winds roar past, smiling serenely as the gale winds sweep harmlessly overhead, while a stiff wooden sign snaps behind her. Bottom 250px clear white space.
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. 
 
-[SCENE 31]
-Audio: 85.71s - 88.75s ("when you become formless")
-Beat 31: Untouchable Fluidity — Battleaxe Slicing Through Water
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. An armored rival swings a giant battleaxe with all his might, but the blade slices straight through the Boy's fluid cyan liquid torso with zero resistance, splashing clear droplets as the Boy gives a calm, playful wink at the viewer. Bottom 250px clear white space.
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
 
-[SCENE 32]
-Audio: 88.75s - 91.55s ("you don't study power")
-Beat 32: Autonomy Reclaimed — Golden Scissors Snipping Puppet Strings
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. The Girl firmly snips dark marionette strings dangling from above with golden scissors, while the Boy knocks aside a sinister wooden puppet master crossbar with contempt. Bottom 250px clear white negative space.
 
-[SCENE 33]
-Audio: 91.55s - 94.67s ("you study power so")
-Beat 33: Ultimate Defense — Golden Kite Shield Against Arrows
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. The Boy and Girl stand back-to-back behind a glowing golden kite shield. Flying poison darts, daggers, and shadowy whispers bounce harmlessly off the shield surface in bursts of golden sparks. Bottom 250px clear white space.
+--------------------------------------------------------------------------------
+SCENE 07 / 45 | TIME:  18.49s ->  21.93s (Duration: 3.44s)
+SCRIPT VO: "Take Law Number One. Never outshine the master."
+--------------------------------------------------------------------------------
+[SCENE_07] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
 
-[SCENE 34]
-Audio: 94.67s - 98.35s ("to master all 48")
-Beat 34: The Sacred Tome — Centered Book on Elevated Pedestal
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] In the exact center, a colossal physical hardcover tome of "The 48 Laws of Power" with crimson-and-black cover and gold horizontal lettering rests upright and level on a white marble plinth under warm golden spotlights. The Boy (left) and Girl (right) proudly present the book with open hands. Clean upper 80% framing, bottom 250px clear white space.
+Visual Action & Narrative Beat:
+A massive stone tablet carved with Roman numeral 'I' and golden text 'NEVER OUTSHINE THE MASTER'. Kai stands beside it with arms crossed and a knowing smirk.
 
-[SCENE 35]
-Audio: 98.35s - 101.29s ("the direct link is")
-Beat 35: Call to Action — Pointing Down to Comment Section
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. The Boy and Girl stand together breaking the 4th wall, smiling warmly while both pointing animated glowing golden pointer arrows straight downward toward the bottom edge (the comment section) with blinking sparkle stars. Bottom 250px clear white space.
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. Kai has signature messy spiky jet-black cartoon hair.
 
-[SCENE 36]
-Audio: 101.29s - 103.05s ("tell me below would")
-Beat 36: The Dilemma Setup — Open Palms Question Gesture
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes. Girl: high spiky jet-black ponytail with front bangs, matching charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. The Boy and Girl stand side-by-side looking directly into the viewer's eyes with inquisitive expressions, arched eyebrows, and open-palm questioning gestures. Bottom 250px clear white negative space.
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
 
-[SCENE 37]
-Audio: 103.05s - 105.69s ("have absolute power with")
-Beat 37: Dilemma Option A — Solitary Monarch on Icy Throne
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top: "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading. Boy: messy jet-black spiky hair tuft, charcoal t-shirt #3A3A3C, grey stick trousers #8E8E93, black shoes.] Upper 80% framing. Choice A: Absolute Power with Zero Friends. The Boy wears a heavy golden crown, sitting on a monolithic cold stone throne on an icy mountain peak under storm clouds, shivering alone with arms wrapped around his chest, surrounded by locked gold chests. Bottom 250px clear white space.
 
-[SCENE 38]
-Audio: 105.69s - 107.78s ("or true friendship with")
-Beat 38: Final Dilemma Horizontal Split Screen (Single Cohesive Image)
-Prompt:
-A minimalist 2D cartoon stick-figure illustration in the signature @sticklit webcomic style on a pure solid white (#FFFFFF) background with 9:16 vertical aspect ratio. Centered near top edge: subtle outline text "@sticklit". [CANONICAL PROTAGONIST DNA: Minimalist 2D stick figures with thin black ink limbs, flat warm natural skin tone on simple circular heads, crisp solid colors, zero 3D shading.] Composition: A clean, perfectly balanced HORIZONTAL SPLIT SCREEN divided across the middle by a crisp black line with a central circular "(VS)" badge.
-- TOP PANEL (Choice A: Absolute Power, Zero Friends): The Boy with warm skin tone wearing an oversized heavy golden crown sits on a cold stone throne on a desolate icy mountain peak under bleak clouds, shivering alone with arms wrapped around himself, surrounded by cold chests of gold.
-- BOTTOM PANEL (Choice B: True Friendship, Zero Power): The Boy and Girl with warm skin tones sit together with a close friend around a crackling warm orange campfire under gentle night stars, laughing heartily with arms over each other's shoulders, roasting marshmallows on sticks.
-Subtitle safety: Keep the lower 250px of the bottom panel completely clear pure white negative space for subtitles. Crisp black ink lines, clean flat colors, zero 3D clutter.
-================================================================================
+--------------------------------------------------------------------------------
+SCENE 08 / 45 | TIME:  21.93s ->  25.36s (Duration: 3.43s)
+SCRIPT VO: "Nicolas Fouquet was the brilliant French finance minister"
+--------------------------------------------------------------------------------
+[SCENE_08] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Fouquet depicted as an extravagant stick figure in an ornate velvet cape, proudly counting sparkling golden coins overflowing from velvet treasure chests.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. 
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 09 / 45 | TIME:  25.36s ->  31.24s (Duration: 5.88s)
+SCRIPT VO: "who built a magnificent palace and threw the most lavish party in history to impress King Louis the fourteenth."
+--------------------------------------------------------------------------------
+[SCENE_09] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+An opulent palace illuminated by bursting fireworks and fountains; Fouquet bowing grandly while presenting a golden feast to King Louis XIV on a towering royal throne.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. 
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 10 / 45 | TIME:  31.24s ->  34.12s (Duration: 2.88s)
+SCRIPT VO: "The result? The King felt outshone,"
+--------------------------------------------------------------------------------
+[SCENE_10] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+King Louis XIV glowering with jealousy and wounded royal pride, his face shadowed in dark crimson ink as fireworks reflect coldly in his narrowed eyes.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. 
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 11 / 45 | TIME:  34.12s ->  38.20s (Duration: 4.08s)
+SCRIPT VO: "humiliated, and threw Fouquet into a dark dungeon for the rest of his life."
+--------------------------------------------------------------------------------
+[SCENE_11] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Heavy iron dungeon bars slamming shut with a violent 'CLANG!' lock icon; Fouquet sitting miserable and chained in a dark stone cell with a single dripping candle.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. 
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 12 / 45 | TIME:  38.20s ->  40.98s (Duration: 2.78s)
+SCRIPT VO: "Always make those above you appear brilliant,"
+--------------------------------------------------------------------------------
+[SCENE_12] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Kai subtly holding a shining golden mirror to reflect brilliant glowing light onto an insecure royal boss, making the boss glow like a golden sun while Kai steps into the soft shadows.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. Kai has signature messy spiky jet-black cartoon hair.
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 13 / 45 | TIME:  40.98s ->  42.88s (Duration: 1.90s)
+SCRIPT VO: "and keep your own brilliance concealed."
+--------------------------------------------------------------------------------
+[SCENE_13] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Maya covering a brilliant glowing star in her hands with a dark charcoal cloak, giving a clever mastermind wink directly at the viewer.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. Maya has signature high spiky jet-black cartoon ponytail with bangs.
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 14 / 45 | TIME:  42.88s ->  46.80s (Duration: 3.92s)
+SCRIPT VO: "Next, Law Number Three. Conceal your intentions."
+--------------------------------------------------------------------------------
+[SCENE_14] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A massive stone tablet carved with Roman numeral 'III' and gold text 'CONCEAL YOUR INTENTIONS'. Maya stands beside it holding a mysterious folded blueprint.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. Maya has signature high spiky jet-black cartoon ponytail with bangs.
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 15 / 45 | TIME:  46.80s ->  50.48s (Duration: 3.68s)
+SCRIPT VO: "If people know what you are aiming for, they can build defenses,"
+--------------------------------------------------------------------------------
+[SCENE_15] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A transparent stick figure whose thoughts are visible in a glowing thought bubble; across from him, rivals rapidly stack spiked barricades and shield walls.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. 
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 16 / 45 | TIME:  50.48s ->  53.27s (Duration: 2.79s)
+SCRIPT VO: "lay traps, or sabotage your path."
+--------------------------------------------------------------------------------
+[SCENE_16] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Shadowy opponent stick figures digging deep pitfall traps with sharp wooden stakes along an open path, grinning maliciously from behind bushes.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. 
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 17 / 45 | TIME:  53.27s ->  55.75s (Duration: 2.48s)
+SCRIPT VO: "Use decoy goals and smoke screens."
+--------------------------------------------------------------------------------
+[SCENE_17] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Kai deploying a giant billowing cloud of comic smoke and pointing an oversized decoy arrow labeled 'ATTACK HERE' toward an empty wooden target.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. Kai has signature messy spiky jet-black cartoon hair.
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 18 / 45 | TIME:  55.75s ->  59.10s (Duration: 3.35s)
+SCRIPT VO: "Let them watch your left hand while your right hand strikes."
+--------------------------------------------------------------------------------
+[SCENE_18] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Kai holding a glowing magician's sparkling red orb with his left hand high in the air, while his right hand quietly checkmates the white king on the board below.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. Kai has signature messy spiky jet-black cartoon hair.
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 19 / 45 | TIME:  59.10s ->  63.02s (Duration: 3.92s)
+SCRIPT VO: "Then, Law Number Four. Always say less than necessary."
+--------------------------------------------------------------------------------
+[SCENE_19] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Stone tablet carved with Roman numeral 'IV' and bold text 'SAY LESS THAN NECESSARY'. Kai stands calmly with a single finger placed across his closed lips in silent mystery.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. Kai has signature messy spiky jet-black cartoon hair.
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 20 / 45 | TIME:  63.02s ->  67.02s (Duration: 4.00s)
+SCRIPT VO: "Powerful people impress and intimidate by saying very little."
+--------------------------------------------------------------------------------
+[SCENE_20] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Maya seated calmly behind an executive desk with hands steepled, uttering zero words while radiating an untouchable, intimidating golden pressure aura.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. Maya has signature high spiky jet-black cartoon ponytail with bangs.
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 21 / 45 | TIME:  67.02s ->  69.66s (Duration: 2.64s)
+SCRIPT VO: "The more you speak, the more common you appear,"
+--------------------------------------------------------------------------------
+[SCENE_21] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A sweaty, nervous stickman babbling uncontrollably with a giant comic speech bubble overflowing with meaningless words, shrinking in stature as he speaks.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. 
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 22 / 45 | TIME:  69.66s ->  72.12s (Duration: 2.46s)
+SCRIPT VO: "and the higher the risk of uttering something foolish."
+--------------------------------------------------------------------------------
+[SCENE_22] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A cartoon stickman speaking a red dynamite word bubble with a burning fuse that explodes into his own face with comic black soot marks and spiral eyes.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. 
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 23 / 45 | TIME:  72.12s ->  76.34s (Duration: 4.22s)
+SCRIPT VO: "Silence makes people uncomfortable, forcing them to fill the void,"
+--------------------------------------------------------------------------------
+[SCENE_23] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Kai staring blankly and silently with arched eyebrows at a frantic opponent who is sweating profusely, fidgeting, and desperately babbling to break the unbearable silence.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. Kai has signature messy spiky jet-black cartoon hair.
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 24 / 45 | TIME:  76.34s ->  77.97s (Duration: 1.63s)
+SCRIPT VO: "and reveal their own hidden secrets."
+--------------------------------------------------------------------------------
+[SCENE_24] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+The panicked rival accidentally dropping open his locked briefcase, spilling top-secret classified documents and keys onto the table directly in front of Maya.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. Maya has signature high spiky jet-black cartoon ponytail with bangs.
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 25 / 45 | TIME:  77.97s ->  83.08s (Duration: 5.11s)
+SCRIPT VO: "Next, Law Number Nine. Win through actions, never through argument."
+--------------------------------------------------------------------------------
+[SCENE_25] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Stone tablet carved with Roman numeral 'IX' and bold text 'WIN THROUGH ACTIONS, NEVER ARGUMENT'. Kai gestures calmly between a shouting stickman and a finished masterpiece.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. Kai has signature messy spiky jet-black cartoon hair.
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 26 / 45 | TIME:  83.08s ->  87.34s (Duration: 4.26s)
+SCRIPT VO: "A verbal debate victory is hollow and breeds bitter resentment"
+--------------------------------------------------------------------------------
+[SCENE_26] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Two stick figures screaming red-faced at each other through megaphones, their aggressive speech bubbles clashing in midair while both stand on crumbling dirt mounds.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. 
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 27 / 45 | TIME:  87.34s ->  88.70s (Duration: 1.36s)
+SCRIPT VO: "that lasts for years."
+--------------------------------------------------------------------------------
+[SCENE_27] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+The defeated opponent walking away with clenched fists and dark jagged lightning storm clouds brewing over his head, nursing a bitter grudge for years.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. 
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 28 / 45 | TIME:  88.70s ->  90.86s (Duration: 2.16s)
+SCRIPT VO: "Never argue. Demonstrate."
+--------------------------------------------------------------------------------
+[SCENE_28] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Maya ignoring a screaming debater, turning her back calmly to assemble a flawless, towering golden architectural bridge that instantly stands firm and solid.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. Maya has signature high spiky jet-black cartoon ponytail with bangs.
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 29 / 45 | TIME:  90.86s ->  93.66s (Duration: 2.80s)
+SCRIPT VO: "When you show results without arguing,"
+--------------------------------------------------------------------------------
+[SCENE_29] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Kai pointing silently at a glowing digital scoreboard reading 'GOAL: 100% COMPLETE' while his critics freeze in awe with jaws dropped to the floor.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. Kai has signature messy spiky jet-black cartoon hair.
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 30 / 45 | TIME:  93.66s ->  96.08s (Duration: 2.42s)
+SCRIPT VO: "you win without making enemies."
+--------------------------------------------------------------------------------
+[SCENE_30] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Kai and Maya standing surrounded by respectful nodding peers who applaud their undeniable victory, with zero resentment or conflict in the room.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. Kai has signature messy spiky jet-black cartoon hair.Maya has signature high spiky jet-black cartoon ponytail with bangs.
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 31 / 45 | TIME:  96.08s -> 100.16s (Duration: 4.08s)
+SCRIPT VO: "Then, Law Number 28. Enter action with boldness."
+--------------------------------------------------------------------------------
+[SCENE_31] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Stone tablet carved with Roman numeral 'XXVIII' and gold text 'ENTER ACTION WITH BOLDNESS'. Kai leaps forward heroically, eyes blazing with total confidence.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. Kai has signature messy spiky jet-black cartoon hair.
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 32 / 45 | TIME: 100.16s -> 103.92s (Duration: 3.76s)
+SCRIPT VO: "Timidity creates hesitation and invites disaster."
+--------------------------------------------------------------------------------
+[SCENE_32] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A trembling, hesitant stick figure pausing timidly at a doorway, getting tangled in his own trembling feet as the door slams shut in his face.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. 
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 33 / 45 | TIME: 103.92s -> 108.00s (Duration: 4.08s)
+SCRIPT VO: "If you are unsure of a course of action, do not attempt it."
+--------------------------------------------------------------------------------
+[SCENE_33] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Maya standing poised before a fork in the road with a giant red 'DO NOT ENTER' warning hand, analyzing maps and choosing to wait for total certainty.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. Maya has signature high spiky jet-black cartoon ponytail with bangs.
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 34 / 45 | TIME: 108.00s -> 110.67s (Duration: 2.67s)
+SCRIPT VO: "Audacity strikes fear into your rivals,"
+--------------------------------------------------------------------------------
+[SCENE_34] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Kai kicking open massive double fortress doors with bold swagger, sending shockwaves through a room of stunned, terrified rival generals.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. Kai has signature messy spiky jet-black cartoon hair.
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 35 / 45 | TIME: 110.67s -> 112.53s (Duration: 1.86s)
+SCRIPT VO: "and everyone admires the bold."
+--------------------------------------------------------------------------------
+[SCENE_35] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A cheering crowd of stick figures hoisting Kai and Maya onto their shoulders in celebration as golden confetti rains down from above.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. Kai has signature messy spiky jet-black cartoon hair.Maya has signature high spiky jet-black cartoon ponytail with bangs.
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 36 / 45 | TIME: 112.53s -> 116.53s (Duration: 4.00s)
+SCRIPT VO: "When conflict is unavoidable, remember Law Number 15."
+--------------------------------------------------------------------------------
+[SCENE_36] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Stone tablet carved with Roman numeral 'XV' and bold crimson text 'CRUSH YOUR ENEMY TOTALLY'. Kai draws an ornate black sword with a resolute, serious gaze.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. Kai has signature messy spiky jet-black cartoon hair.
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 37 / 45 | TIME: 116.53s -> 118.45s (Duration: 1.92s)
+SCRIPT VO: "Crush your enemy totally."
+--------------------------------------------------------------------------------
+[SCENE_37] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A massive golden warhammer slamming down onto a cracked stone chessboard, shattering the enemy's black fortress into dust with shockwaves.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. 
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 38 / 45 | TIME: 118.45s -> 121.47s (Duration: 3.02s)
+SCRIPT VO: "A viper only half-crushed will heal, hide,"
+--------------------------------------------------------------------------------
+[SCENE_38] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A wounded green cartoon snake slithering into dark shadows beneath a hollow log, glowing eyes narrowing as it secretly recovers its strength.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. 
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 39 / 45 | TIME: 121.47s -> 123.38s (Duration: 1.91s)
+SCRIPT VO: "and strike back with deadlier venom."
+--------------------------------------------------------------------------------
+[SCENE_39] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+The giant serpent lunging unexpectedly from the shadows with bared dripping fangs, striking at an unsuspecting stickman who thought he was safe.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. 
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 40 / 45 | TIME: 123.38s -> 127.56s (Duration: 4.18s)
+SCRIPT VO: "If you must defeat a rival, leave zero room for retaliation."
+--------------------------------------------------------------------------------
+[SCENE_40] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Maya planting a solid steel perimeter vault door and turning a triple lock wheel, ensuring the threat is completely sealed with zero loopholes.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. Maya has signature high spiky jet-black cartoon ponytail with bangs.
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 41 / 45 | TIME: 127.56s -> 131.96s (Duration: 4.40s)
+SCRIPT VO: "And finally, Law 48. Assume formlessness."
+--------------------------------------------------------------------------------
+[SCENE_41] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Stone tablet carved with Roman numeral 'XLVIII' and shimmering aquamarine text 'ASSUME FORMLESSNESS'. Water droplets splash gracefully around the letters.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. 
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 42 / 45 | TIME: 131.96s -> 137.79s (Duration: 5.83s)
+SCRIPT VO: "Rigid plans shatter under pressure. Fixed strategies become predictable targets."
+--------------------------------------------------------------------------------
+[SCENE_42] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+A rigid, inflexible glass stickman struck by a flying rock, shattering into sharp shards, while an enemy artillery target locks onto fixed fortress coordinates.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. 
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 43 / 45 | TIME: 137.79s -> 143.79s (Duration: 6.00s)
+SCRIPT VO: "Be like water, flowing around obstacles, unpredictable and impossible to pin down."
+--------------------------------------------------------------------------------
+[SCENE_43] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Kai and Maya seamlessly shifting into fluid, translucent blue water waves that effortlessly glide around sharp boulders and spears with zero resistance.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. Kai has signature messy spiky jet-black cartoon hair.Maya has signature high spiky jet-black cartoon ponytail with bangs.
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 44 / 45 | TIME: 143.79s -> 145.90s (Duration: 2.11s)
+SCRIPT VO: "So tell me in the comments below."
+--------------------------------------------------------------------------------
+[SCENE_44] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the signature @sticklit style. Solid pure digital white (#FFFFFF) background, borderless, zero background clutter. Crisp black ink linework, clean solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+Visual Action & Narrative Beat:
+Kai and Maya standing side-by-side, both pointing dynamic comic arrows straight down toward the comment section with engaging smiles and raised eyebrows.
+
+Characters & Anatomy:
+Minimalist 2D cartoon stick figures: thin crisp black ink line arms and legs (strictly zero muscular bulk), circular heads with flat warm natural skin tone (#E8BEAC), dark charcoal short-sleeve crewneck tee (#3A3A3C), straight medium grey trousers (#8E8E93), black boots. Kai has signature messy spiky jet-black cartoon hair.Maya has signature high spiky jet-black cartoon ponytail with bangs.
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space for subtitles.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
+
+--------------------------------------------------------------------------------
+SCENE 45 / 45 | TIME: 145.90s -> 155.90s (Duration: 10.00s)
+SCRIPT VO: "Would you rather sit alone on a cold throne with absolute supreme power and zero real friends, or live around a warm campfire with true friendship and zero power?"
+--------------------------------------------------------------------------------
+[SCENE_LAST] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients. Near the top center, small subtle text: '@sticklit'.
+
+CRITICAL MANDATE - SINGLE COHESIVE HORIZONTAL SPLIT SCREEN:
+Generate as ONE single 9:16 vertical image divided across the exact center by a crisp horizontal black line with a bold circular '(VS)' badge in the middle. Do NOT generate two separate images.
+
+1. The Final Dilemma Question: "Would you rather sit alone on a cold throne with absolute supreme power and zero real friends, or live around a warm campfire with true friendship and zero power?"
+
+2. TOP PANEL (Choice A - Absolute Power with Zero Friends):
+   Bleak cold icy mountain summit under dark grey storm clouds. A solitary stick figure wearing an oversized heavy golden crown sits on a cold stone throne, shivering with arms wrapped around himself, surrounded by massive chests overflowing with cold gold coins, utterly alone and miserable in his isolated supremacy.
+
+3. BOTTOM PANEL (Choice B - True Friendship with Zero Power):
+   Warm joyful evening under gentle twinkling cartoon stars. Three cheerful stick figures sit closely together around a glowing warm orange campfire, laughing heartily with arms over each other's shoulders, toasting marshmallows on sticks, radiating genuine connection, love, and human warmth.
+
+4. Central Badge:
+   A prominent circular comic badge centered on the divider line labeled '(VS)' in bold punch font.
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork strictly in the upper 80% of each panel area; leave the bottom 250px completely clear pure white negative space.
+- Negative Prompt: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads)
+
