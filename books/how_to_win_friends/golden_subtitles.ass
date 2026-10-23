@@ -1,0 +1,146 @@
+[Script Info]
+Title: How to Win Friends and Influence People - Golden Kinetic Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,72,&H00FFFFFF,&H0000E6FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,5.5,0,2,80,80,280,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.24,0:00:00.88,Default,,0,0,0,,{\k16}HOW {\k8}TO {\k40}WIN
+Dialogue: 0,0:00:00.88,0:00:01.84,Default,,0,0,0,,{\k24}FRIENDS {\k24}AND {\k48}INFLUENCE
+Dialogue: 0,0:00:01.84,0:00:02.64,Default,,0,0,0,,{\k32}PEOPLE {\k16}BY {\k32}DALE
+Dialogue: 0,0:00:02.64,0:00:03.44,Default,,0,0,0,,{\k48}CARNEGIE {\k16}IN {\k16}TWO
+Dialogue: 0,0:00:03.44,0:00:04.66,Default,,0,0,0,,{\k50}MINUTES. {\k24}MOST {\k32}PEOPLE
+Dialogue: 0,0:00:04.66,0:00:05.78,Default,,0,0,0,,{\k40}BELIEVE {\k40}HUMAN {\k32}BEINGS
+Dialogue: 0,0:00:05.78,0:00:06.50,Default,,0,0,0,,{\k16}ARE {\k40}CREATURES {\k16}OF
+Dialogue: 0,0:00:06.50,0:00:08.20,Default,,0,0,0,,{\k50}LOGIC. {\k16}IN {\k50}REALITY,
+Dialogue: 0,0:00:08.34,0:00:09.06,Default,,0,0,0,,{\k16}WE {\k24}ARE {\k32}CREATURES
+Dialogue: 0,0:00:09.06,0:00:09.80,Default,,0,0,0,,{\k24}OF {\k50}EMOTION,
+Dialogue: 0,0:00:10.18,0:00:11.14,Default,,0,0,0,,{\k40}DRIVEN {\k24}BY {\k32}PRIDE
+Dialogue: 0,0:00:11.14,0:00:11.96,Default,,0,0,0,,{\k32}AND {\k50}EGO.
+Dialogue: 0,0:00:12.26,0:00:12.82,Default,,0,0,0,,{\k16}IF {\k16}YOU {\k24}WANT
+Dialogue: 0,0:00:12.82,0:00:13.80,Default,,0,0,0,,{\k8}TO {\k40}GATHER {\k50}HONEY,
+Dialogue: 0,0:00:13.86,0:00:14.58,Default,,0,0,0,,{\k24}DON'T {\k24}KICK {\k24}OVER
+Dialogue: 0,0:00:14.58,0:00:15.24,Default,,0,0,0,,{\k16}THE {\k50}BEEHIVE.
+Dialogue: 0,0:00:15.60,0:00:16.74,Default,,0,0,0,,{\k24}RULE {\k40}NUMBER {\k50}ONE,
+Dialogue: 0,0:00:16.80,0:00:17.70,Default,,0,0,0,,{\k40}NEVER {\k50}CRITICIZE,
+Dialogue: 0,0:00:18.24,0:00:19.78,Default,,0,0,0,,{\k50}CONDEMN, {\k32}OR {\k50}COMPLAIN.
+Dialogue: 0,0:00:20.16,0:00:21.36,Default,,0,0,0,,{\k50}CRITICISM {\k24}PUTS {\k32}PEOPLE
+Dialogue: 0,0:00:21.36,0:00:22.26,Default,,0,0,0,,{\k16}ON {\k24}THE {\k50}DEFENSIVE
+Dialogue: 0,0:00:22.40,0:00:23.28,Default,,0,0,0,,{\k24}AND {\k40}WOUNDS {\k24}THEIR
+Dialogue: 0,0:00:23.28,0:00:24.98,Default,,0,0,0,,{\k50}PRIDE. {\k32}EVEN {\k50}NOTORIOUS
+Dialogue: 0,0:00:25.04,0:00:26.44,Default,,0,0,0,,{\k50}CRIMINALS {\k50}JUSTIFY {\k24}THEIR
+Dialogue: 0,0:00:26.44,0:00:27.80,Default,,0,0,0,,{\k50}ACTIONS. {\k24}IF {\k16}A
+Dialogue: 0,0:00:27.80,0:00:28.68,Default,,0,0,0,,{\k32}KILLER {\k40}BELIEVES {\k16}HE
+Dialogue: 0,0:00:28.68,0:00:29.40,Default,,0,0,0,,{\k16}HAS {\k16}A {\k40}TENDER
+Dialogue: 0,0:00:29.40,0:00:31.00,Default,,0,0,0,,{\k50}HEART, {\k48}ORDINARY {\k40}PEOPLE
+Dialogue: 0,0:00:31.00,0:00:31.72,Default,,0,0,0,,{\k16}WILL {\k24}NEVER {\k32}BLAME
+Dialogue: 0,0:00:31.72,0:00:33.50,Default,,0,0,0,,{\k50}THEMSELVES. {\k24}RULE {\k48}NUMBER
+Dialogue: 0,0:00:33.50,0:00:35.18,Default,,0,0,0,,{\k50}TWO. {\k48}GIVE {\k48}HONEST
+Dialogue: 0,0:00:35.18,0:00:36.80,Default,,0,0,0,,{\k32}AND {\k50}SINCERE {\k50}APPRECIATION.
+Dialogue: 0,0:00:37.74,0:00:38.94,Default,,0,0,0,,{\k24}THE {\k50}DEEPEST {\k40}CRAVING
+Dialogue: 0,0:00:38.94,0:00:40.06,Default,,0,0,0,,{\k24}IN {\k40}HUMAN {\k48}NATURE
+Dialogue: 0,0:00:40.06,0:00:40.88,Default,,0,0,0,,{\k16}IS {\k16}THE {\k50}DESIRE
+Dialogue: 0,0:00:40.94,0:00:41.92,Default,,0,0,0,,{\k16}TO {\k32}FEEL {\k50}IMPORTANT.
+Dialogue: 0,0:00:43.01,0:00:44.23,Default,,0,0,0,,{\k48}FLATTERY {\k24}IS {\k50}FAKE,
+Dialogue: 0,0:00:44.37,0:00:45.73,Default,,0,0,0,,{\k40}BUT {\k50}SINCERE {\k32}PRAISE
+Dialogue: 0,0:00:45.73,0:00:46.87,Default,,0,0,0,,{\k24}IS {\k40}LIFE {\k50}CHANGING.
+Dialogue: 0,0:00:47.56,0:00:48.62,Default,,0,0,0,,{\k40}PRAISE {\k16}THE {\k50}SLIGHTEST
+Dialogue: 0,0:00:48.69,0:00:49.80,Default,,0,0,0,,{\k50}IMPROVEMENT {\k24}AND {\k24}BE
+Dialogue: 0,0:00:49.80,0:00:50.69,Default,,0,0,0,,{\k40}LAVISH {\k16}IN {\k32}YOUR
+Dialogue: 0,0:00:50.69,0:00:52.28,Default,,0,0,0,,{\k50}ENCOURAGEMENT. {\k16}RULE {\k40}NUMBER
+Dialogue: 0,0:00:52.28,0:00:53.32,Default,,0,0,0,,{\k50}THREE. {\k24}SPARK {\k16}IN
+Dialogue: 0,0:00:53.32,0:00:53.96,Default,,0,0,0,,{\k16}THE {\k16}OTHER {\k32}PERSON
+Dialogue: 0,0:00:53.96,0:00:55.02,Default,,0,0,0,,{\k16}AN {\k40}EAGER {\k50}WANT.
+Dialogue: 0,0:00:55.40,0:00:55.96,Default,,0,0,0,,{\k24}WHEN {\k8}YOU {\k24}GO
+Dialogue: 0,0:00:55.96,0:00:56.76,Default,,0,0,0,,{\k40}FISHING, {\k16}YOU {\k24}DON'T
+Dialogue: 0,0:00:56.76,0:00:57.24,Default,,0,0,0,,{\k16}BAIT {\k8}THE {\k24}HOOK
+Dialogue: 0,0:00:57.24,0:00:58.20,Default,,0,0,0,,{\k24}WITH {\k48}STRAWBERRIES {\k24}AND
+Dialogue: 0,0:00:58.20,0:00:59.16,Default,,0,0,0,,{\k50}CREAM. {\k24}YOU {\k16}BAIT
+Dialogue: 0,0:00:59.16,0:01:00.06,Default,,0,0,0,,{\k16}IT {\k24}WITH {\k50}WORMS.
+Dialogue: 0,0:01:00.36,0:01:01.24,Default,,0,0,0,,{\k40}STOP {\k24}TALKING {\k24}ABOUT
+Dialogue: 0,0:01:01.24,0:01:02.14,Default,,0,0,0,,{\k24}WHAT {\k16}YOU {\k50}WANT.
+Dialogue: 0,0:01:02.44,0:01:03.08,Default,,0,0,0,,{\k24}TALK {\k24}ABOUT {\k16}WHAT
+Dialogue: 0,0:01:03.08,0:01:03.80,Default,,0,0,0,,{\k24}THEY {\k24}WANT {\k24}AND
+Dialogue: 0,0:01:03.80,0:01:04.36,Default,,0,0,0,,{\k16}SHOW {\k24}THEM {\k16}HOW
+Dialogue: 0,0:01:04.36,0:01:04.94,Default,,0,0,0,,{\k8}TO {\k24}GET {\k26}IT.
+Dialogue: 0,0:01:05.18,0:01:06.32,Default,,0,0,0,,{\k24}RULE {\k40}NUMBER {\k50}FOUR,
+Dialogue: 0,0:01:06.62,0:01:08.14,Default,,0,0,0,,{\k40}BECOME {\k50}GENUINELY {\k48}INTERESTED
+Dialogue: 0,0:01:08.14,0:01:09.12,Default,,0,0,0,,{\k16}IN {\k32}OTHER {\k50}PEOPLE.
+Dialogue: 0,0:01:09.66,0:01:10.30,Default,,0,0,0,,{\k16}YOU {\k24}CAN {\k24}MAKE
+Dialogue: 0,0:01:10.30,0:01:11.10,Default,,0,0,0,,{\k24}MORE {\k40}FRIENDS {\k16}IN
+Dialogue: 0,0:01:11.10,0:01:12.06,Default,,0,0,0,,{\k24}TWO {\k48}MONTHS {\k24}BY
+Dialogue: 0,0:01:12.06,0:01:13.18,Default,,0,0,0,,{\k40}CARING {\k32}ABOUT {\k40}OTHERS
+Dialogue: 0,0:01:13.18,0:01:13.74,Default,,0,0,0,,{\k16}THAN {\k16}YOU {\k24}CAN
+Dialogue: 0,0:01:13.74,0:01:14.64,Default,,0,0,0,,{\k24}IN {\k16}TWO {\k50}YEARS,
+Dialogue: 0,0:01:14.86,0:01:15.50,Default,,0,0,0,,{\k32}TRYING {\k16}TO {\k16}GET
+Dialogue: 0,0:01:15.50,0:01:16.62,Default,,0,0,0,,{\k40}PEOPLE {\k48}INTERESTED {\k24}IN
+Dialogue: 0,0:01:16.62,0:01:17.71,Default,,0,0,0,,{\k37}YOU. {\k24}RULE {\k32}NUMBER
+Dialogue: 0,0:01:17.71,0:01:19.17,Default,,0,0,0,,{\k50}FIVE, {\k50}SMILE.
+Dialogue: 0,0:01:19.47,0:01:20.43,Default,,0,0,0,,{\k24}AN {\k40}ACTION {\k32}SPEAKS
+Dialogue: 0,0:01:20.43,0:01:21.31,Default,,0,0,0,,{\k32}LOUDER {\k24}THAN {\k32}WORDS,
+Dialogue: 0,0:01:21.31,0:01:22.13,Default,,0,0,0,,{\k16}AND {\k16}A {\k50}GENUINE
+Dialogue: 0,0:01:22.19,0:01:23.09,Default,,0,0,0,,{\k40}SMILE {\k50}SAYS,
+Dialogue: 0,0:01:23.31,0:01:24.35,Default,,0,0,0,,{\k24}I {\k32}LIKE {\k48}YOU.
+Dialogue: 0,0:01:24.35,0:01:24.99,Default,,0,0,0,,{\k24}YOU {\k24}MAKE {\k16}ME
+Dialogue: 0,0:01:24.99,0:01:26.40,Default,,0,0,0,,{\k45}HAPPY. {\k24}RULE {\k48}NUMBER
+Dialogue: 0,0:01:26.40,0:01:28.00,Default,,0,0,0,,{\k50}SIX. {\k40}REMEMBER {\k32}THAT
+Dialogue: 0,0:01:28.00,0:01:28.80,Default,,0,0,0,,{\k8}A {\k40}PERSON'S {\k32}NAME
+Dialogue: 0,0:01:28.80,0:01:29.36,Default,,0,0,0,,{\k16}IS {\k24}TO {\k16}THAT
+Dialogue: 0,0:01:29.36,0:01:30.40,Default,,0,0,0,,{\k40}PERSON {\k16}THE {\k48}SWEETEST
+Dialogue: 0,0:01:30.40,0:01:31.28,Default,,0,0,0,,{\k40}SOUND {\k16}IN {\k32}ANY
+Dialogue: 0,0:01:31.28,0:01:33.38,Default,,0,0,0,,{\k50}LANGUAGE. {\k48}ANDREW {\k50}CARNEGIE
+Dialogue: 0,0:01:33.44,0:01:34.16,Default,,0,0,0,,{\k24}BUILT {\k16}A {\k32}STEEL
+Dialogue: 0,0:01:34.16,0:01:35.12,Default,,0,0,0,,{\k48}EMPIRE {\k32}BECAUSE {\k16}HE
+Dialogue: 0,0:01:35.12,0:01:36.16,Default,,0,0,0,,{\k48}REMEMBERED {\k40}NAMES {\k16}AND
+Dialogue: 0,0:01:36.16,0:01:37.52,Default,,0,0,0,,{\k40}NAMED {\k50}FACTORIES {\k32}AFTER
+Dialogue: 0,0:01:37.52,0:01:38.26,Default,,0,0,0,,{\k24}HIS {\k50}PARTNERS.
+Dialogue: 0,0:01:38.61,0:01:39.75,Default,,0,0,0,,{\k32}RULE {\k32}NUMBER {\k50}SEVEN,
+Dialogue: 0,0:01:40.05,0:01:40.69,Default,,0,0,0,,{\k24}BE {\k8}A {\k32}GREAT
+Dialogue: 0,0:01:40.69,0:01:42.53,Default,,0,0,0,,{\k50}LISTENER. {\k50}ENCOURAGE {\k40}OTHERS
+Dialogue: 0,0:01:42.53,0:01:43.17,Default,,0,0,0,,{\k16}TO {\k24}TALK {\k24}ABOUT
+Dialogue: 0,0:01:43.17,0:01:44.21,Default,,0,0,0,,{\k50}THEMSELVES {\k24}AND {\k24}THEIR
+Dialogue: 0,0:01:44.21,0:01:45.66,Default,,0,0,0,,{\k50}ACHIEVEMENTS. {\k24}RULE {\k24}NUMBER
+Dialogue: 0,0:01:45.66,0:01:46.86,Default,,0,0,0,,{\k50}EIGHT. {\k24}THE {\k24}ONLY
+Dialogue: 0,0:01:46.86,0:01:47.42,Default,,0,0,0,,{\k16}WAY {\k24}TO {\k16}GET
+Dialogue: 0,0:01:47.42,0:01:47.82,Default,,0,0,0,,{\k8}THE {\k24}BEST {\k8}OF
+Dialogue: 0,0:01:47.82,0:01:48.62,Default,,0,0,0,,{\k16}AN {\k48}ARGUMENT {\k16}IS
+Dialogue: 0,0:01:48.62,0:01:49.68,Default,,0,0,0,,{\k16}TO {\k40}AVOID {\k50}IT.
+Dialogue: 0,0:01:49.90,0:01:50.62,Default,,0,0,0,,{\k16}YOU {\k32}CANNOT {\k24}WIN
+Dialogue: 0,0:01:50.62,0:01:51.50,Default,,0,0,0,,{\k16}AN {\k40}ARGUMENT {\k32}WITH
+Dialogue: 0,0:01:51.50,0:01:52.62,Default,,0,0,0,,{\k50}WORDS. {\k16}IF {\k24}YOU
+Dialogue: 0,0:01:52.62,0:01:53.84,Default,,0,0,0,,{\k48}LOSE, {\k24}YOU {\k50}LOSE.
+Dialogue: 0,0:01:53.98,0:01:54.54,Default,,0,0,0,,{\k32}AND {\k8}IF {\k16}YOU
+Dialogue: 0,0:01:54.54,0:01:55.58,Default,,0,0,0,,{\k48}WIN, {\k16}YOU {\k40}CRUSH
+Dialogue: 0,0:01:55.58,0:01:56.22,Default,,0,0,0,,{\k16}THEIR {\k32}PRIDE {\k16}AND
+Dialogue: 0,0:01:56.22,0:01:57.20,Default,,0,0,0,,{\k32}CREATE {\k16}AN {\k50}ENEMY.
+Dialogue: 0,0:01:57.42,0:01:58.30,Default,,0,0,0,,{\k32}SHOW {\k40}RESPECT {\k16}FOR
+Dialogue: 0,0:01:58.30,0:01:59.02,Default,,0,0,0,,{\k24}THEIR {\k48}OPINION,
+Dialogue: 0,0:01:59.02,0:01:59.82,Default,,0,0,0,,{\k24}AND {\k32}NEVER {\k24}SAY
+Dialogue: 0,0:01:59.82,0:02:00.55,Default,,0,0,0,,{\k16}YOU {\k16}ARE {\k41}WRONG.
+Dialogue: 0,0:02:00.71,0:02:01.59,Default,,0,0,0,,{\k32}AND {\k24}RULE {\k32}NUMBER
+Dialogue: 0,0:02:01.59,0:02:02.63,Default,,0,0,0,,{\k50}NINE, {\k32}LET {\k8}THE
+Dialogue: 0,0:02:02.63,0:02:03.51,Default,,0,0,0,,{\k24}OTHER {\k32}PERSON {\k32}FEEL
+Dialogue: 0,0:02:03.51,0:02:04.23,Default,,0,0,0,,{\k16}THE {\k32}IDEA {\k24}IS
+Dialogue: 0,0:02:04.23,0:02:05.91,Default,,0,0,0,,{\k50}THEIRS. {\k32}PEOPLE {\k40}SUPPORT
+Dialogue: 0,0:02:05.91,0:02:06.55,Default,,0,0,0,,{\k16}WHAT {\k16}THEY {\k32}HELP
+Dialogue: 0,0:02:06.55,0:02:07.64,Default,,0,0,0,,{\k50}CREATE. {\k16}SO {\k16}TELL
+Dialogue: 0,0:02:07.64,0:02:08.12,Default,,0,0,0,,{\k24}ME {\k16}IN {\k8}THE
+Dialogue: 0,0:02:08.12,0:02:08.94,Default,,0,0,0,,{\k32}COMMENTS {\k50}BELOW.
+Dialogue: 0,0:02:09.48,0:02:10.20,Default,,0,0,0,,{\k24}WOULD {\k16}YOU {\k32}RATHER
+Dialogue: 0,0:02:10.20,0:02:11.08,Default,,0,0,0,,{\k32}WIN {\k24}EVERY {\k32}DEBATE
+Dialogue: 0,0:02:11.08,0:02:11.96,Default,,0,0,0,,{\k24}WITH {\k24}COLD {\k40}LOGIC
+Dialogue: 0,0:02:11.96,0:02:12.84,Default,,0,0,0,,{\k24}AND {\k32}WALK {\k32}ALONE
+Dialogue: 0,0:02:12.84,0:02:13.24,Default,,0,0,0,,{\k16}IN {\k8}A {\k16}ROOM
+Dialogue: 0,0:02:13.24,0:02:14.22,Default,,0,0,0,,{\k16}OF {\k32}BITTER {\k50}ENEMIES?
+Dialogue: 0,0:02:14.92,0:02:16.46,Default,,0,0,0,,{\k50}OR {\k32}STAY {\k50}HUMBLE,
+Dialogue: 0,0:02:16.68,0:02:17.58,Default,,0,0,0,,{\k40}LISTEN {\k50}DEEPLY,
+Dialogue: 0,0:02:17.88,0:02:18.52,Default,,0,0,0,,{\k24}AND {\k24}BUILD {\k16}AN
+Dialogue: 0,0:02:18.52,0:02:19.72,Default,,0,0,0,,{\k50}UNBREAKABLE {\k40}CIRCLE {\k16}OF
+Dialogue: 0,0:02:19.72,0:02:21.26,Default,,0,0,0,,{\k48}LOYAL {\k50}LIFELONG {\k50}ALLIES?
