@@ -1,24 +1,30 @@
-
 =================================================================================== [SCENE_01] | Target File: scene_01.jpg | Duration: 3.46s ===
 Script: "The psychology of money by Morgan Housel in two minutes."
 
-PROMPT:
-[SCENE_01] Generate a 9:16 vertical cover/opening illustration for 'The Psychology of Money' by Morgan Housel in the signature @sticklit webcomic style on a pure white (#FFFFFF) background.
+VIRAL HOOK THUMBNAIL ARCHITECTURE (MANDATORY INTENTIONAL LOGIC):
+Scene 01 is the 0.2-second scroll-stopping thumbnail and opening hook. Characters must NEVER be passive mannequins. They must physically act out the core contrarian thesis or shocking contrast of the book.
+
+PROMPT (OPTION A - THE $8M SHOCK PARADOX):
+[SCENE_01] Generate a 9:16 vertical viral thumbnail / opening hook illustration for 'The Psychology of Money' by Morgan Housel in the signature @sticklit webcomic style on a pure white (#FFFFFF) background.
 
 CRITICAL MANDATE - ZERO TILT & ZERO NECK BENDING:
 The book must stand PERFECTLY CENTERED, 100% upright, flat-facing the camera, level and straight. The title text MUST be 100% horizontal and effortlessly readable with zero tilt!
 
 1. Centered Book (Centerpiece):
-   - A colossal hardcover book planted squarely in the center of the frame, 100% upright and level.
-   - Dark navy-blue and gold hardcover with bold horizontal gold embossed title:
+   - A colossal, towering hardcover book planted squarely in the center of the frame, 100% upright and level.
+   - Elegant dark navy-blue and gold hardcover with bold, perfectly horizontal gold embossed title:
      "THE PSYCHOLOGY OF MONEY"
      "MORGAN HOUSEL"
-   - Subtle glowing golden electric sparks crackle around the book perimeter.
+   - Electric golden sparks crackle softly around the perimeter of the book.
 
-2. Protagonist Duo in Money Power Stances:
-   - LEFT: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky black hair, charcoal t-shirt #3A3A3C, grey pants #8E8E93, black boots, confident knowing 4th-wall smirk, one hand in pocket).
-   - RIGHT: Maya (Girl stick figure, circular head with flat warm natural skin tone, high spiky black ponytail with bangs, charcoal t-shirt #3A3A3C, grey pants #8E8E93, black boots, clever analytical wink and smile, hand on hip).
-   - FLOOR: Stacks of gold coins and subtle comic floor-weight impact lines.
+2. High-Drama Character Action & Visual Contrast (Quiet Wealth vs Arrogant Debt):
+   - LEFT SIDE (Quiet Wealth / The Janitor Paradox):
+     Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky black hair, charcoal t-shirt #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs).
+     He leans coolly with one arm over a simple wooden janitor broom, while resting his other hand on top of a massive, glowing, transparent bank vault packed with EIGHT MILLION DOLLARS in neat gold bullion bars ($8,000,000)! He looks directly at the camera with an effortless, knowing smirk.
+   - RIGHT SIDE (Arrogant Ego Destroyed):
+     Maya (Girl stick figure, circular head with flat warm natural skin tone, high spiky black ponytail with bangs, charcoal t-shirt #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs).
+     She smirks and points a finger down in mocking analysis at a tiny, stressed-out stickman in a shredded business suit whose head is buried under a collapsing mountain of unpaid luxury bills, foreclosure notices, and a smoking, crushed sports car.
+   - TOP VIRAL HOOK BUBBLE: A bold, comic speech bubble / headline banner reading: "How a Janitor Beat Wall Street!"
 
 3. Top Comic Header:
    - Centered near top edge: subtle outline watermark '@sticklit'.
@@ -30,10 +36,13 @@ The book must stand PERFECTLY CENTERED, 100% upright, flat-facing the camera, le
 Visual & Style Specifications:
 - Tag & Identifier: [SCENE_01]
 - Canvas & Framing: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless.
-- Subtitle Safety Zone: Keep all character artwork strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space.
-- Aesthetic: Viral 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
+- Subtitle Safety Zone: All characters, props, and artwork placed strictly in the upper 80%; leave the bottom 250px completely clear pure white negative space.
+- Aesthetic: 2D minimalist cartoon webcomic style, bold crisp black ink outlines, clean solid color fills, zero 3D rendering, zero gradients.
 - Character Anatomy: Minimalist 2D stick limbs (thin black ink lines, zero muscular bulk), circular 2D heads with flat warm natural skin tone, charcoal grey t-shirts (#3A3A3C), grey straight trousers (#8E8E93), black boots.
-- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, cut off heads).
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, floor textures, wall textures, cut off heads, tilted book).
+
+[ALTERNATIVE HOOK B - KINETIC CATHARSIS]: Kai violently swinging golden battleaxe labeled 'SAVING' shattering giant 'GOLDEN HANDCUFFS' off spinning debt hamster wheel, while Maya stands on gold pyramid holding glowing 'TIME FREEDOM' master key.
+[ALTERNATIVE HOOK C - EXPONENTIAL TSUNAMI]: Kai with retro sunglasses surfing the crest of a colossal tidal wave of gold coins & cash: 'Compounding is my superpower', while Maya tracks time with glowing golden pocket watch, and a panicked 'Day Trader' flees in corner.
 
 
 

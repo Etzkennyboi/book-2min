@@ -52,11 +52,18 @@ Violating any of these = reject and restart.
 **Negative directives for every prompt** (add to ALL prompts):  
 `(defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, shadows)`
 
-### Rule 4 — Scene 01: The Book Cover (ZERO TILT LAW)
-- Book must be **centered, 100% upright, flat-facing the camera, perfectly level**
-- Title lettering must be **100% horizontal** — viewer must read it with zero head tilt
-- Flanked by Kai (left) and Maya (right) in money/power/relevant stances
-- **Zero tilt. Zero rotation. Zero neck bending. No exceptions.**
+### Rule 4 — Scene 01: The Intentional Viral Hook & Thumbnail Standard (ZERO TILT + HIGH DRAMA)
+- **The Hook Principle**: Scene 01 is not a polite book cover; it is the **0.2-second scroll-stopping thumbnail & opening hook**. Characters must **NEVER** stand around passively like mannequins. They must physically act out the core contrarian thesis or shocking contrast of the book.
+- **The 3 Hook Archetypes (Mandatory to pick one)**:
+  1. `PARADOX_SHOCK` (e.g., *"How a Janitor Beat Wall Street!"*): Quiet wealth vs. arrogant debt. Kai leaning coolly on a broom beside an $8,000,000 bullion vault, while Maya points down in mocking analysis at a panicked banker crushed by bills and a wrecked supercar.
+  2. `KINETIC_CATHARSIS` (e.g., *"Escape The Golden Handcuffs!"*): Kai in combat stance violently swinging a golden axe labeled `SAVING`, shattering glowing `GOLDEN HANDCUFFS` off a spinning debt hamster wheel, while Maya holds high the glowing `TIME FREEDOM` master key.
+  3. `EXPONENTIAL_SCALE` (e.g., *"Surfing The Compounding Tsunami!"*): Kai in retro sunglasses surfing the crest of an enormous curling wave of gold coins & cash (*"Compounding is my superpower"*), Maya tracking time with a glowing golden stopwatch, while a panicked "Day Trader" runs in terror.
+- **The Book Geometry (ZERO TILT LAW)**:
+  - Book must be **centered, 100% upright, flat-facing the camera, perfectly level**.
+  - Title lettering must be **100% horizontal gold embossing** — viewer reads it with zero head tilt.
+  - **Zero tilt. Zero rotation. Zero neck bending. No exceptions.**
+- **Top Comic Header**: Centered watermark `@sticklit`, Book Title, Author, "in two minutes", plus a high-curiosity speech bubble hook.
+- **Subtitle Safety Zone**: Bottom 250px completely clear pure white `#FFFFFF` negative space.
 
 ### Rule 5 — Last Scene: The VS Split Screen (ONE IMAGE)
 - A single cohesive 9:16 image split horizontally down the middle
@@ -164,10 +171,13 @@ zero background clutter. Near the top center, small subtle text: '@sticklit'.
 Bottom 250px is completely clear white negative space.
 ```
 
-**Scene 01 prompt must include:**
-- Centered colossal upright book facing the camera flat (zero tilt)
-- Bold horizontal gold lettering: "[BOOK TITLE]" / "[AUTHOR]" / "in two minutes"
-- Kai left, Maya right, in relevant power stances
+**Scene 01 prompt must follow the Intentional Viral Hook Architecture:**
+Use `pipeline.prompt_engine.build_scene_01_hook_prompt()` or format manually:
+- **Hook Archetype**: Select `paradox_shock`, `kinetic_catharsis`, or `exponential_scale`.
+- **Active Conflict**: Kai and Maya must physically act out the core paradox (e.g. leaning on $8M vault vs crushed Wall Street banker, shattering debt handcuffs with golden axe, or surfing a compounding wave).
+- **Speech Bubble Banner**: Include a high-curiosity hook banner (e.g. *"How a Janitor Beat Wall Street!"*).
+- **Centered Colossal Book (Zero Tilt)**: 100% upright, flat-facing camera, perfectly horizontal gold embossed title and author.
+- **Subtitle Safety Zone**: Upper 80% placement; bottom 250px completely clear pure white `#FFFFFF` space.
 
 **Last scene prompt must include:**
 - Single 9:16 horizontal split-screen image (NOT two separate images)
