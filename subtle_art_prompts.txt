@@ -1,0 +1,293 @@
+================================================================================
+THE SUBTLE ART OF NOT GIVING A F*CK - 44-SCENE MASTER PROMPT SHEET
+================================================================================
+Book: The Subtle Art of Not Giving a F*ck by Mark Manson
+Runtime: 145.89s (~2:26 min) | 44 Scenes | 402 Aligned Words
+Style: 2D Minimalist StickLit Webcomic | 9:16 Vertical (1080x1920)
+Color Palette: Pure Digital White (#FFFFFF) background, Charcoal Tee (#3A3A3C),
+Flat Warm Skin (#E8BEAC), Grey Pants (#8E8E93), Golden Accents (#FFE600).
+Protagonists: Kai (spiky black hair) & Maya (spiky ponytail with bangs).
+Subtitle Safe Zone: Upper 80% canvas active, bottom 250px completely clear.
+================================================================================
+
+--- SCENE 01 (0.00s - 4.42s | 4.42s) ---
+Script: "The Subtle Art of Not Giving a F*ck by Mark Manson in two minutes."
+File: scene_01.png
+Prompt:
+9:16 vertical comic book cover on pure white (#FFFFFF) background. 
+
+Top Header: Bold black handwritten comic text reading:
+"WHY TRYING TO BE HAPPY MAKES YOU MISERABLE"
+"The Secret Art of Choosing Your Struggle"
+
+Center: A colossal, perfectly upright hardcover book standing flat and level with zero tilt:
+"THE SUBTLE ART OF NOT GIVING A F*CK"
+"MARK MANSON"
+Embossed in horizontal gold serif letters.
+
+Characters: Two 2D minimalist stick figures in charcoal t-shirts (#3A3A3C), grey pants (#8E8E93), and black combat boots with flat warm skin tone (#E8BEAC).
+- Left: A confident boy with messy spiky black hair holding an oversized glowing golden shredder cutting away thousands of floating social media notifications, thumbs-up icons, and toxic self-help banners into gold dust.
+- Right: A sharp girl with a high spiky black ponytail and bangs, arms crossed, winking at the camera.
+- Left side: A stressed, overwhelmed stickman sweating under a mountain of fake smile masks and bills.
+- Right side: Warm, peaceful, grounded friends smiling calmly through life's challenges.
+- At their feet lie broken iron padlocks labeled 'CARE ABOUT EVERYTHING'.
+
+Framing: All artwork strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, minimalist 2D webcomic aesthetic.
+
+--- SCENE 02 (4.42s - 7.21s | 2.79s) ---
+Script: "Our culture tells you that the key to a good life"
+File: scene_02.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'Our culture tells you that the key to a good life'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: A giant neon billboard in a crowded city flashing commercial slogans: 'BUY MORE! LOOK RICHER! NEVER BE SAD!' as a crowd of stick figures stares up entranced. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 03 (7.21s - 9.47s | 2.26s) ---
+Script: "is a bigger house, more followers,"
+File: scene_03.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'is a bigger house, more followers,'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: A stickman climbing a wobbly, towering ladder reaching for a glittering mansion, while his phone explodes with a chaotic swarm of blue follower badges and heart notifications. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 04 (9.47s - 11.53s | 2.06s) ---
+Script: "and positive vibes 24/7."
+File: scene_04.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'and positive vibes 24/7.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: A stickman wearing a forced, creepy smiley-face mask with rainbow sparkles, sweating under the strain of pretending to be happy. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 05 (11.53s - 14.27s | 2.74s) ---
+Script: "But here is the brutal truth."
+File: scene_05.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'But here is the brutal truth.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Kai standing firmly, ripping the fake smiley mask off the stickman with a sharp, no-nonsense look, exposing the real human face underneath. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 06 (14.27s - 18.74s | 4.47s) ---
+Script: "The desire for a more positive experience is itself a negative experience."
+File: scene_06.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'The desire for a more positive experience is itself a negative experience.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: A stickman desperately running on a spinning hamster wheel chasing a dangling golden carrot labeled 'HAPPINESS', panting and exhausted. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 07 (18.74s - 22.28s | 3.54s) ---
+Script: "And accepting your struggle is a positive experience."
+File: scene_07.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'And accepting your struggle is a positive experience.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Maya standing calmly in the pouring rain without an umbrella, closing her eyes in peaceful serenity, embracing the cool water with a tranquil, relaxed smile. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 08 (22.28s - 24.52s | 2.23s) ---
+Script: "Meet Charles Bukowski."
+File: scene_08.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'Meet Charles Bukowski.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Charles Bukowski (a scruffy 2D stickman in an unbuttoned shirt and vintage fedora) sitting with a cigar and an old typewriter, looking completely unbothered. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 09 (24.52s - 27.48s | 2.96s) ---
+Script: "A heavy drinker and rejected writer."
+File: scene_09.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'A heavy drinker and rejected writer.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Bukowski's messy wooden desk piled high with crumpled publisher rejection letters and empty ink bottles, as he calmly keeps typing. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 10 (27.48s - 31.32s | 3.84s) ---
+Script: "His tombstone reads two simple words: Don't Try."
+File: scene_10.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'His tombstone reads two simple words: Don't Try.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: A weathered stone tombstone engraved in bold chiseled letters: 'DON'T TRY', surrounded by wild desert grass under a quiet sunset sky. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 11 (31.32s - 34.84s | 3.52s) ---
+Script: "Bukowski didn't succeed because he tried to be positive."
+File: scene_11.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'Bukowski didn't succeed because he tried to be positive.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Bukowski tossing a glossy self-help book titled 'How to Think Positive' straight into a roaring trash-can fire with a smirk. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 12 (34.84s - 37.70s | 2.86s) ---
+Script: "He succeeded because he accepted his flaws"
+File: scene_12.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'He succeeded because he accepted his flaws'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Bukowski standing in front of a mirror, pointing at his rough unpolished reflection with an honest shrug and a laugh. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 13 (37.70s - 39.95s | 2.25s) ---
+Script: "and didn't care about societal expectations."
+File: scene_13.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'and didn't care about societal expectations.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Bukowski walking with cool swagger right past a line of judgmental stickmen in fancy tuxedos, carrying his typewriter with pride. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 14 (39.95s - 43.05s | 3.10s) ---
+Script: "This brings us to the Feedback Loop from Hell."
+File: scene_14.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'This brings us to the Feedback Loop from Hell.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: A dark spinning whirlpool vortex labeled 'THE FEEDBACK LOOP FROM HELL' pulling stick figures into a spiraling tornado of anxiety. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 15 (43.05s - 46.73s | 3.68s) ---
+Script: "You feel anxious, then you get anxious about being anxious."
+File: scene_15.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'You feel anxious, then you get anxious about being anxious.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: A stickman biting his nails with worry lines, while an identical ghostly second stickman hovers behind him shouting through a megaphone: 'WHY ARE YOU ANXIOUS?!'. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 16 (46.73s - 50.65s | 3.92s) ---
+Script: "You feel lonely, and then you beat yourself up for being lonely."
+File: scene_16.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'You feel lonely, and then you beat yourself up for being lonely.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: A stickman sitting alone on an empty bench, while an internal cartoon boxing glove punches him in the head labeled 'SELF-BLAME'. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 17 (50.65s - 54.97s | 4.32s) ---
+Script: "Society tricked you into believing that normal human pain is a failure."
+File: scene_17.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'Society tricked you into believing that normal human pain is a failure.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: A giant digital billboard flashing 'EVERYONE ELSE IS LIVING THEIR BEST LIFE!', making an ordinary passerby stickman feel like an alien under a raincloud. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 18 (54.97s - 59.75s | 4.78s) ---
+Script: "The secret is simple. You only have a limited amount of energy to give in this life."
+File: scene_18.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'The secret is simple. You only have a limited amount of energy to give in this life.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Kai revealing a glowing battery meter on his chest with only 3 glowing green bars remaining, labeled 'ENERGY & CARES TO GIVE'. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 19 (59.75s - 62.23s | 2.48s) ---
+Script: "If you spend it caring about rude strangers,"
+File: scene_19.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'If you spend it caring about rude strangers,'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: A furious driver stickman aggressively honking his car horn in traffic; Kai calmly walks by with hands in pockets, letting the honk bounce off. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 20 (62.23s - 65.35s | 3.12s) ---
+Script: "scratched shoes, or other people's vacation photos,"
+File: scene_20.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'scratched shoes, or other people's vacation photos,'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Two-panel split: Left, a stickman crying hysterically over a tiny scratch on his shoe; Right, another stickman doom-scrolling luxury vacation photos with heavy eye-bags. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 21 (65.35s - 68.63s | 3.28s) ---
+Script: "you will have zero energy left for what truly matters."
+File: scene_21.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'you will have zero energy left for what truly matters.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: The stickman's chest battery flashing a blinking red '0% EMPTY', slumping completely exhausted over his desk unable to hug his family. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 22 (68.63s - 71.17s | 2.54s) ---
+Script: "True freedom is not caring about everything."
+File: scene_22.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'True freedom is not caring about everything.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Maya holding giant golden scissors, decisively snipping away hundreds of tangled spiderweb threads connected to trivial daily annoyances. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 23 (71.17s - 74.93s | 3.76s) ---
+Script: "True freedom is caring only about what aligns with your core values."
+File: scene_23.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'True freedom is caring only about what aligns with your core values.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Kai and Maya standing under a radiant golden spotlight labeled 'CORE VALUES: FAMILY, CRAFT, HEALTH', radiating unbreakable calm. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 24 (74.93s - 78.91s | 3.98s) ---
+Script: "Happiness is not a magical destination where all problems disappear."
+File: scene_24.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'Happiness is not a magical destination where all problems disappear.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: A fantasy rainbow castle on clouds dissolving into thin smoke as a stickman tries to walk through the front door. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 25 (78.91s - 81.63s | 2.72s) ---
+Script: "Happiness is a problem-solving process."
+File: scene_25.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'Happiness is a problem-solving process.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Kai wearing a tool belt and protective goggles, happily tightening bolts on a complex machine with a satisfied grin. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 26 (81.63s - 85.79s | 4.16s) ---
+Script: "When you solve one problem, a new problem takes its place."
+File: scene_26.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'When you solve one problem, a new problem takes its place.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: A stickman successfully repairing a leaking water pipe, wiping his brow with pride, just as a friendly neighbor asks for help fixing a garden fence. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 27 (85.79s - 90.10s | 4.31s) ---
+Script: "True fulfillment comes from choosing problems you actually enjoy solving."
+File: scene_27.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'True fulfillment comes from choosing problems you actually enjoy solving.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Maya smiling determinedly on a steep rock-climbing wall, chalking her hands and gripping the next rocky ledge with passion. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 28 (90.10s - 93.56s | 3.46s) ---
+Script: "Everyone wants the trophy, but nobody wants the training."
+File: scene_28.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'Everyone wants the trophy, but nobody wants the training.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: A crowd of lazy stickmen reaching for a gleaming gold trophy on a high pedestal, while the 5:00 AM running track in the background is completely empty. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 29 (93.56s - 98.12s | 4.56s) ---
+Script: "Everyone wants to be the CEO, but nobody wants the eighty-hour workweeks."
+File: scene_29.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'Everyone wants to be the CEO, but nobody wants the eighty-hour workweeks.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: A stickman daydreaming about an executive leather chair, suddenly looking horrified at a mountain of crisis spreadsheets and ringing midnight phones. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 30 (98.12s - 100.76s | 2.64s) ---
+Script: "So stop asking what you want out of life."
+File: scene_30.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'So stop asking what you want out of life.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Kai crossing out a fluffy wishlist paper labeled 'MY EASY WISHES' with a decisive red marker. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 31 (100.76s - 104.47s | 3.72s) ---
+Script: "Ask yourself: what pain am I willing to suffer for?"
+File: scene_31.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'Ask yourself: what pain am I willing to suffer for?'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Maya pointing firmly toward a gym weight rack and an artist's drafting table, labeled: 'THE STRUGGLE YOU CHOOSE'. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 32 (104.47s - 105.85s | 1.38s) ---
+Script: "You are not special."
+File: scene_32.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'You are not special.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: An oversized gold cartoon crown shattering into tiny dust particles above a stickman's head, revealing an honest, humble stickman underneath. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 33 (105.85s - 111.05s | 5.20s) ---
+Script: "The belief that you are extraordinary is a toxic trap that leads to entitlement."
+File: scene_33.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'The belief that you are extraordinary is a toxic trap that leads to entitlement.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: An arrogant stickman expecting a red carpet to float under his feet in thin air, falling flat on his face as the carpet vanishes. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 34 (111.05s - 115.43s | 4.38s) ---
+Script: "True greatness begins when you accept that you are average"
+File: scene_34.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'True greatness begins when you accept that you are average'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Kai looking calmly at a bell-curve chart showing he is in the middle, smiling with zero shame and taking a deep breath of relief. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 35 (115.43s - 116.45s | 1.02s) ---
+Script: "and get to work."
+File: scene_35.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'and get to work.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Kai rolling up his sleeves, picking up a heavy hammer, and laying the solid stone foundation of a great building with focused determination. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 36 (116.45s - 119.67s | 3.22s) ---
+Script: "You cannot control every bad thing that happens to you."
+File: scene_36.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'You cannot control every bad thing that happens to you.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: A sudden storm cloud raining heavily on a stickman walking down the street; he watches the rain calmly without anger. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 37 (119.67s - 123.67s | 4.00s) ---
+Script: "But you are always one hundred percent responsible for how you respond."
+File: scene_37.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'But you are always one hundred percent responsible for how you respond.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Maya standing at a crossroads holding a steering wheel labeled '100% RESPONSIBILITY', choosing the uphill path of action over the swamp of excuses. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 38 (123.67s - 127.20s | 3.53s) ---
+Script: "And remember, death is the ultimate reality check."
+File: scene_38.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'And remember, death is the ultimate reality check.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: A majestic minimalist black hourglass where glowing golden sands of time trickle through, under a soft twilight moon. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 39 (127.20s - 132.19s | 5.00s) ---
+Script: "In the face of your mortality, the petty opinions of strangers vanish into dust."
+File: scene_39.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'In the face of your mortality, the petty opinions of strangers vanish into dust.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: A swarm of toxic online comments, gossip bubbles, and thumbs-down icons literally dissolving into thin grey smoke and blowing away in the wind. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 40 (132.19s - 134.37s | 2.18s) ---
+Script: "So tell me in the comments below."
+File: scene_40.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'So tell me in the comments below.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Kai and Maya leaning forward toward the viewer with engaging 4th-wall comic smiles, pointing down toward an animated glowing comment box. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 41 (134.37s - 137.33s | 2.96s) ---
+Script: "Would you rather stay trapped in the feedback loop,"
+File: scene_41.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'Would you rather stay trapped in the feedback loop,'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: A panicked stickman chasing his own tail inside a spinning metal hamster wheel of overthinking. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 42 (137.33s - 139.73s | 2.40s) ---
+Script: "exhausting yourself trying to please everyone?"
+File: scene_42.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'exhausting yourself trying to please everyone?'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: The same stickman trembling as he carries ten demanding, ungrateful people on his shoulders, about to collapse under their weight. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 43 (139.73s - 143.65s | 3.92s) ---
+Script: "Or embrace your struggles, let go of the trivial,"
+File: scene_43.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'Or embrace your struggles, let go of the trivial,'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: A strong, grounded stickman wiping sweat from his brow, smiling with quiet resilience as he lifts a heavy barbell alongside loyal friends. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+--- SCENE 44 (143.65s - 145.89s | 2.24s) ---
+Script: "and fight only for what truly matters?"
+File: scene_44.png
+Prompt:
+Minimalist 2D cartoon webcomic illustration for 'and fight only for what truly matters?'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Single cohesive 9:16 vertical image split horizontally with central circular (VS) badge. TOP PANEL: The Validation Chaser (panicked stickman drowning in an ocean of fake likes, notifications, unpaid luxury bills, and screaming bosses). BOTTOM PANEL: The Stoic Master (Kai and Maya sitting peacefully with real friends around a warm campfire, laughing through life's meaningful challenges under golden stars). Bottom 250px subtitle safe zone clean. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.

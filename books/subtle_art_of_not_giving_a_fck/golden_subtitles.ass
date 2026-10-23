@@ -1,0 +1,154 @@
+[Script Info]
+Title: The Subtle Art of Not Giving a F*ck - Golden Kinetic Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,72,&H00FFFFFF,&H0000E6FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,5.5,0,2,80,80,280,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.16,0:00:00.96,Default,,0,0,0,,{\k24}THE {\k32}SUBTLE {\k24}ART
+Dialogue: 0,0:00:00.96,0:00:01.52,Default,,0,0,0,,{\k8}OF {\k24}NOT {\k24}GIVING
+Dialogue: 0,0:00:01.52,0:00:02.24,Default,,0,0,0,,{\k16}IT {\k24}F {\k32}STAR
+Dialogue: 0,0:00:02.24,0:00:02.88,Default,,0,0,0,,{\k16}C {\k24}K {\k24}BY
+Dialogue: 0,0:00:02.88,0:00:03.68,Default,,0,0,0,,{\k24}MARK {\k48}MANSON {\k8}IN
+Dialogue: 0,0:00:03.68,0:00:04.42,Default,,0,0,0,,{\k24}TWO {\k50}MINUTES.
+Dialogue: 0,0:00:04.73,0:00:05.61,Default,,0,0,0,,{\k16}OUR {\k40}CULTURE {\k32}TELLS
+Dialogue: 0,0:00:05.61,0:00:06.09,Default,,0,0,0,,{\k16}YOU {\k24}THAT {\k8}THE
+Dialogue: 0,0:00:06.09,0:00:06.65,Default,,0,0,0,,{\k24}KEY {\k16}TO {\k16}A
+Dialogue: 0,0:00:06.65,0:00:07.37,Default,,0,0,0,,{\k24}GOOD {\k32}LIFE {\k16}IS
+Dialogue: 0,0:00:07.37,0:00:08.27,Default,,0,0,0,,{\k8}A {\k32}BIGGER {\k50}HOUSE,
+Dialogue: 0,0:00:08.65,0:00:09.47,Default,,0,0,0,,{\k32}MORE {\k50}FOLLOWERS,
+Dialogue: 0,0:00:09.69,0:00:10.97,Default,,0,0,0,,{\k32}AND {\k48}POSITIVE {\k48}VIBES
+Dialogue: 0,0:00:10.97,0:00:12.03,Default,,0,0,0,,{\k32}TWENTY {\k24}FOUR {\k50}SEVEN.
+Dialogue: 0,0:00:12.49,0:00:13.21,Default,,0,0,0,,{\k32}BUT {\k16}HERE {\k24}IS
+Dialogue: 0,0:00:13.21,0:00:14.27,Default,,0,0,0,,{\k16}THE {\k40}BRUTAL {\k50}TRUTH.
+Dialogue: 0,0:00:14.65,0:00:15.53,Default,,0,0,0,,{\k16}THE {\k48}DESIRE {\k24}FOR
+Dialogue: 0,0:00:15.53,0:00:16.35,Default,,0,0,0,,{\k8}A {\k24}MORE {\k50}POSITIVE
+Dialogue: 0,0:00:16.41,0:00:17.77,Default,,0,0,0,,{\k50}EXPERIENCE {\k24}IS {\k48}ITSELF
+Dialogue: 0,0:00:17.77,0:00:18.74,Default,,0,0,0,,{\k16}A {\k33}NEGATIVE {\k32}EXPERIENCE,
+Dialogue: 0,0:00:18.74,0:00:20.50,Default,,0,0,0,,{\k50}AND {\k48}ACCEPTING {\k24}YOUR
+Dialogue: 0,0:00:20.50,0:00:21.30,Default,,0,0,0,,{\k48}STRUGGLE {\k16}IS {\k16}A
+Dialogue: 0,0:00:21.30,0:00:22.28,Default,,0,0,0,,{\k48}POSITIVE {\k50}EXPERIENCE.
+Dialogue: 0,0:00:22.90,0:00:24.52,Default,,0,0,0,,{\k50}MEET {\k50}CHARLES {\k50}BUKOWSKI,
+Dialogue: 0,0:00:25.30,0:00:26.26,Default,,0,0,0,,{\k16}A {\k40}HAPPY {\k40}DRINKER
+Dialogue: 0,0:00:26.26,0:00:27.48,Default,,0,0,0,,{\k24}AND {\k48}REJECTED {\k50}WRITER.
+Dialogue: 0,0:00:27.86,0:00:29.06,Default,,0,0,0,,{\k32}HIS {\k50}TOMBSTONE {\k32}READS
+Dialogue: 0,0:00:29.06,0:00:30.12,Default,,0,0,0,,{\k24}TWO {\k32}SIMPLE {\k50}WORDS,
+Dialogue: 0,0:00:30.50,0:00:31.32,Default,,0,0,0,,{\k32}DON'T {\k50}TRY.
+Dialogue: 0,0:00:31.78,0:00:33.30,Default,,0,0,0,,{\k50}BUKOWSKI {\k32}DIDN'T {\k48}SUCCEED
+Dialogue: 0,0:00:33.30,0:00:34.02,Default,,0,0,0,,{\k32}BECAUSE {\k16}HE {\k24}TRIED
+Dialogue: 0,0:00:34.02,0:00:34.84,Default,,0,0,0,,{\k8}TO {\k24}BE {\k50}POSITIVE.
+Dialogue: 0,0:00:35.30,0:00:36.42,Default,,0,0,0,,{\k24}HE {\k50}SUCCEEDED {\k32}BECAUSE
+Dialogue: 0,0:00:36.42,0:00:37.30,Default,,0,0,0,,{\k24}HE {\k40}ACCEPTED {\k24}HIS
+Dialogue: 0,0:00:37.30,0:00:38.26,Default,,0,0,0,,{\k40}FLAWS {\k24}AND {\k32}DIDN'T
+Dialogue: 0,0:00:38.26,0:00:39.39,Default,,0,0,0,,{\k23}CARE {\k40}ABOUT {\k50}SOCIETAL
+Dialogue: 0,0:00:39.45,0:00:41.11,Default,,0,0,0,,{\k50}EXPECTATIONS. {\k16}THIS {\k32}BRINGS
+Dialogue: 0,0:00:41.11,0:00:41.67,Default,,0,0,0,,{\k24}US {\k16}TO {\k16}THE
+Dialogue: 0,0:00:41.67,0:00:42.55,Default,,0,0,0,,{\k40}FEEDBACK {\k24}LOOP {\k24}FROM
+Dialogue: 0,0:00:42.55,0:00:43.83,Default,,0,0,0,,{\k50}HOW {\k32}YOU {\k32}FEEL
+Dialogue: 0,0:00:43.83,0:00:45.11,Default,,0,0,0,,{\k50}ANXIOUS, {\k24}THEN {\k16}YOU
+Dialogue: 0,0:00:45.11,0:00:45.91,Default,,0,0,0,,{\k16}GET {\k40}ANXIOUS {\k24}ABOUT
+Dialogue: 0,0:00:45.91,0:00:46.73,Default,,0,0,0,,{\k32}BEING {\k50}ANXIOUS.
+Dialogue: 0,0:00:47.27,0:00:48.33,Default,,0,0,0,,{\k24}YOU {\k32}FEEL {\k50}LONELY,
+Dialogue: 0,0:00:48.47,0:00:49.03,Default,,0,0,0,,{\k16}AND {\k24}THEN {\k16}YOU
+Dialogue: 0,0:00:49.03,0:00:49.75,Default,,0,0,0,,{\k16}BEAT {\k40}YOURSELF {\k16}UP
+Dialogue: 0,0:00:49.75,0:00:50.65,Default,,0,0,0,,{\k16}FOR {\k24}BEING {\k50}LONELY.
+Dialogue: 0,0:00:51.11,0:00:52.23,Default,,0,0,0,,{\k50}SOCIETY {\k32}TRICKED {\k16}YOU
+Dialogue: 0,0:00:52.23,0:00:53.11,Default,,0,0,0,,{\k24}INTO {\k48}BELIEVING {\k16}THAT
+Dialogue: 0,0:00:53.11,0:00:54.15,Default,,0,0,0,,{\k40}NORMAL {\k40}HUMAN {\k24}PAIN
+Dialogue: 0,0:00:54.15,0:00:54.97,Default,,0,0,0,,{\k16}IS {\k16}A {\k50}FAILURE.
+Dialogue: 0,0:00:55.09,0:00:55.81,Default,,0,0,0,,{\k16}THE {\k24}SECRET {\k32}IS
+Dialogue: 0,0:00:55.81,0:00:56.93,Default,,0,0,0,,{\k50}SIMPLE. {\k24}YOU {\k24}ONLY
+Dialogue: 0,0:00:56.93,0:00:57.73,Default,,0,0,0,,{\k24}HAVE {\k8}A {\k48}LIMITED
+Dialogue: 0,0:00:57.73,0:00:58.61,Default,,0,0,0,,{\k24}AMOUNT {\k16}OF {\k48}ENERGY
+Dialogue: 0,0:00:58.61,0:00:59.01,Default,,0,0,0,,{\k8}TO {\k24}GIVE {\k8}IN
+Dialogue: 0,0:00:59.01,0:00:59.75,Default,,0,0,0,,{\k24}THIS {\k50}LIFE.
+Dialogue: 0,0:00:59.89,0:01:00.53,Default,,0,0,0,,{\k24}IF {\k8}YOU {\k32}SPEND
+Dialogue: 0,0:01:00.53,0:01:01.41,Default,,0,0,0,,{\k24}IT {\k32}CARING {\k32}ABOUT
+Dialogue: 0,0:01:01.41,0:01:02.23,Default,,0,0,0,,{\k32}RUDE {\k50}STRANGERS,
+Dialogue: 0,0:01:02.53,0:01:03.41,Default,,0,0,0,,{\k40}SCRATCH {\k48}SHOES,
+Dialogue: 0,0:01:03.41,0:01:04.29,Default,,0,0,0,,{\k24}OR {\k24}OTHER {\k40}PEOPLE'S
+Dialogue: 0,0:01:04.29,0:01:05.35,Default,,0,0,0,,{\k50}VACATION {\k50}PHOTOS,
+Dialogue: 0,0:01:05.65,0:01:06.21,Default,,0,0,0,,{\k16}YOU {\k16}WILL {\k24}HAVE
+Dialogue: 0,0:01:06.21,0:01:07.33,Default,,0,0,0,,{\k40}ZERO {\k40}ENERGY {\k32}LEFT
+Dialogue: 0,0:01:07.33,0:01:08.13,Default,,0,0,0,,{\k16}FOR {\k32}WHAT {\k32}TRULY
+Dialogue: 0,0:01:08.13,0:01:09.55,Default,,0,0,0,,{\k50}MATTERS. {\k32}TRUE {\k32}FREEDOM
+Dialogue: 0,0:01:09.55,0:01:10.35,Default,,0,0,0,,{\k24}IS {\k24}NOT {\k32}CARING
+Dialogue: 0,0:01:10.35,0:01:11.17,Default,,0,0,0,,{\k32}ABOUT {\k50}EVERYTHING.
+Dialogue: 0,0:01:11.47,0:01:12.35,Default,,0,0,0,,{\k32}TRUE {\k32}FREEDOM {\k24}IS
+Dialogue: 0,0:01:12.35,0:01:13.23,Default,,0,0,0,,{\k32}CARING {\k32}ONLY {\k24}ABOUT
+Dialogue: 0,0:01:13.23,0:01:13.95,Default,,0,0,0,,{\k16}WHAT {\k40}ALIGNS {\k16}WITH
+Dialogue: 0,0:01:13.95,0:01:14.93,Default,,0,0,0,,{\k16}YOUR {\k32}CORE {\k50}VALUES.
+Dialogue: 0,0:01:15.37,0:01:16.25,Default,,0,0,0,,{\k48}HAPPINESS {\k16}IS {\k24}NOT
+Dialogue: 0,0:01:16.25,0:01:17.37,Default,,0,0,0,,{\k16}A {\k48}MAGICAL {\k48}DESTINATION
+Dialogue: 0,0:01:17.37,0:01:18.41,Default,,0,0,0,,{\k32}WHERE {\k24}ALL {\k48}PROBLEMS
+Dialogue: 0,0:01:18.41,0:01:20.17,Default,,0,0,0,,{\k50}DISAPPEAR. {\k50}HAPPINESS {\k16}IS
+Dialogue: 0,0:01:20.17,0:01:21.13,Default,,0,0,0,,{\k16}A {\k40}PROBLEM {\k40}SOLVING
+Dialogue: 0,0:01:21.13,0:01:22.65,Default,,0,0,0,,{\k50}PROCESS. {\k24}WHEN {\k24}YOU
+Dialogue: 0,0:01:22.65,0:01:23.71,Default,,0,0,0,,{\k32}SOLVE {\k24}ONE {\k50}PROBLEM,
+Dialogue: 0,0:01:23.93,0:01:24.73,Default,,0,0,0,,{\k16}A {\k24}NEW {\k40}PROBLEM
+Dialogue: 0,0:01:24.73,0:01:25.79,Default,,0,0,0,,{\k32}TAKES {\k24}ITS {\k50}PLACE.
+Dialogue: 0,0:01:26.17,0:01:27.37,Default,,0,0,0,,{\k40}TRUE {\k50}FULFILLMENT {\k24}COMES
+Dialogue: 0,0:01:27.37,0:01:28.49,Default,,0,0,0,,{\k24}FROM {\k40}CHOOSING {\k48}PROBLEMS
+Dialogue: 0,0:01:28.49,0:01:29.61,Default,,0,0,0,,{\k24}YOU {\k40}ACTUALLY {\k48}ENJOY
+Dialogue: 0,0:01:29.61,0:01:31.14,Default,,0,0,0,,{\k49}SOLVING. {\k32}EVERYONE {\k32}WANTS
+Dialogue: 0,0:01:31.14,0:01:31.80,Default,,0,0,0,,{\k16}THE {\k50}TROPHY,
+Dialogue: 0,0:01:31.94,0:01:32.90,Default,,0,0,0,,{\k24}BUT {\k40}NOBODY {\k32}WANTS
+Dialogue: 0,0:01:32.90,0:01:33.56,Default,,0,0,0,,{\k16}THE {\k50}TRAINING.
+Dialogue: 0,0:01:33.86,0:01:34.58,Default,,0,0,0,,{\k40}EVERYONE {\k24}WANTS {\k8}TO
+Dialogue: 0,0:01:34.58,0:01:35.48,Default,,0,0,0,,{\k24}BE {\k16}THE {\k50}CEO,
+Dialogue: 0,0:01:35.78,0:01:36.74,Default,,0,0,0,,{\k24}BUT {\k40}NOBODY {\k32}WANTS
+Dialogue: 0,0:01:36.74,0:01:37.46,Default,,0,0,0,,{\k16}THE {\k24}EIGHTY {\k32}HOUR
+Dialogue: 0,0:01:37.46,0:01:38.12,Default,,0,0,0,,{\k16}WORK {\k50}WEEKS.
+Dialogue: 0,0:01:38.42,0:01:39.38,Default,,0,0,0,,{\k32}SO {\k32}STOP {\k32}ASKING
+Dialogue: 0,0:01:39.38,0:01:39.94,Default,,0,0,0,,{\k8}WHAT {\k16}YOU {\k32}WANT
+Dialogue: 0,0:01:39.94,0:01:40.76,Default,,0,0,0,,{\k16}OUT {\k16}OF {\k50}LIFE.
+Dialogue: 0,0:01:41.22,0:01:42.04,Default,,0,0,0,,{\k32}ASK {\k50}YOURSELF,
+Dialogue: 0,0:01:42.42,0:01:43.06,Default,,0,0,0,,{\k24}WHAT {\k32}PAIN {\k8}AM
+Dialogue: 0,0:01:43.06,0:01:43.62,Default,,0,0,0,,{\k16}I {\k32}WILLING {\k8}TO
+Dialogue: 0,0:01:43.62,0:01:44.47,Default,,0,0,0,,{\k40}SUFFER {\k46}FOR?
+Dialogue: 0,0:01:44.55,0:01:45.35,Default,,0,0,0,,{\k16}YOU {\k16}ARE {\k48}NOT
+Dialogue: 0,0:01:45.35,0:01:47.03,Default,,0,0,0,,{\k50}SPECIAL. {\k24}THE {\k32}BELIEF
+Dialogue: 0,0:01:47.03,0:01:47.67,Default,,0,0,0,,{\k16}THAT {\k16}YOU {\k32}ARE
+Dialogue: 0,0:01:47.67,0:01:48.87,Default,,0,0,0,,{\k50}EXTRAORDINARY {\k16}IS {\k16}A
+Dialogue: 0,0:01:48.87,0:01:50.07,Default,,0,0,0,,{\k50}TOXIC {\k40}TRAP {\k24}THAT
+Dialogue: 0,0:01:50.07,0:01:51.05,Default,,0,0,0,,{\k32}LEADS {\k16}TO {\k50}ENTITLEMENT.
+Dialogue: 0,0:01:51.99,0:01:53.43,Default,,0,0,0,,{\k40}TRUE {\k50}GREATNESS {\k40}BEGINS
+Dialogue: 0,0:01:53.43,0:01:54.31,Default,,0,0,0,,{\k24}WHEN {\k24}YOU {\k40}ACCEPT
+Dialogue: 0,0:01:54.31,0:01:54.95,Default,,0,0,0,,{\k24}THAT {\k16}YOU {\k24}ARE
+Dialogue: 0,0:01:54.95,0:01:55.91,Default,,0,0,0,,{\k48}AVERAGE {\k24}AND {\k24}GET
+Dialogue: 0,0:01:55.91,0:01:56.45,Default,,0,0,0,,{\k16}TO {\k38}WORK.
+Dialogue: 0,0:01:56.53,0:01:57.59,Default,,0,0,0,,{\k16}YOU {\k40}CANNOT {\k50}CONTROL
+Dialogue: 0,0:01:57.65,0:01:58.37,Default,,0,0,0,,{\k32}EVERY {\k16}BAD {\k24}THING
+Dialogue: 0,0:01:58.37,0:01:59.17,Default,,0,0,0,,{\k24}THAT {\k48}HAPPENS {\k8}TO
+Dialogue: 0,0:01:59.17,0:02:00.29,Default,,0,0,0,,{\k50}YOU, {\k24}BUT {\k16}YOU
+Dialogue: 0,0:02:00.29,0:02:01.09,Default,,0,0,0,,{\k16}ARE {\k40}ALWAYS {\k24}ONE
+Dialogue: 0,0:02:01.09,0:02:02.47,Default,,0,0,0,,{\k40}HUNDRED {\k48}PERCENT {\k50}RESPONSIBLE
+Dialogue: 0,0:02:02.53,0:02:03.17,Default,,0,0,0,,{\k24}FOR {\k16}HOW {\k24}YOU
+Dialogue: 0,0:02:03.17,0:02:04.72,Default,,0,0,0,,{\k50}RESPOND. {\k32}THEN {\k50}REMEMBER,
+Dialogue: 0,0:02:04.94,0:02:05.66,Default,,0,0,0,,{\k32}DEATH {\k16}IS {\k24}THE
+Dialogue: 0,0:02:05.66,0:02:07.20,Default,,0,0,0,,{\k48}ULTIMATE {\k50}REALITY {\k50}CHECK.
+Dialogue: 0,0:02:07.42,0:02:07.98,Default,,0,0,0,,{\k24}IN {\k8}THE {\k24}FACE
+Dialogue: 0,0:02:07.98,0:02:08.88,Default,,0,0,0,,{\k16}OF {\k24}YOUR {\k50}MORTALITY,
+Dialogue: 0,0:02:09.18,0:02:10.14,Default,,0,0,0,,{\k16}THE {\k40}PETTY {\k40}OPINIONS
+Dialogue: 0,0:02:10.14,0:02:11.34,Default,,0,0,0,,{\k24}OF {\k50}STRANGERS {\k32}VANISH
+Dialogue: 0,0:02:11.34,0:02:12.19,Default,,0,0,0,,{\k40}INTO {\k46}DUST.
+Dialogue: 0,0:02:12.43,0:02:13.15,Default,,0,0,0,,{\k24}SO {\k32}TELL {\k16}ME
+Dialogue: 0,0:02:13.15,0:02:13.87,Default,,0,0,0,,{\k16}IN {\k16}THE {\k40}COMMENTS
+Dialogue: 0,0:02:13.87,0:02:15.15,Default,,0,0,0,,{\k50}BELOW. {\k24}WOULD {\k16}YOU
+Dialogue: 0,0:02:15.15,0:02:16.19,Default,,0,0,0,,{\k40}RATHER {\k24}STAY {\k40}TRAPPED
+Dialogue: 0,0:02:16.19,0:02:16.83,Default,,0,0,0,,{\k8}IN {\k24}THE {\k32}FEEDBACK
+Dialogue: 0,0:02:16.83,0:02:18.43,Default,,0,0,0,,{\k50}LOOP, {\k48}EXHAUSTING {\k48}YOURSELF
+Dialogue: 0,0:02:18.43,0:02:19.23,Default,,0,0,0,,{\k32}TRYING {\k16}TO {\k32}PLEASE
+Dialogue: 0,0:02:19.23,0:02:21.15,Default,,0,0,0,,{\k50}EVERYONE? {\k40}OR {\k48}EMBRACE
+Dialogue: 0,0:02:21.15,0:02:21.89,Default,,0,0,0,,{\k24}YOUR {\k50}STRUGGLES?
+Dialogue: 0,0:02:22.27,0:02:22.99,Default,,0,0,0,,{\k32}LET {\k24}GO {\k16}OF
+Dialogue: 0,0:02:22.99,0:02:23.95,Default,,0,0,0,,{\k16}THE {\k50}TRIVIAL {\k24}AND
+Dialogue: 0,0:02:23.95,0:02:24.75,Default,,0,0,0,,{\k24}FIGHT {\k40}ONLY {\k16}FOR
+Dialogue: 0,0:02:24.75,0:02:25.89,Default,,0,0,0,,{\k24}WHAT {\k40}TRULY {\k50}MATTERS.
