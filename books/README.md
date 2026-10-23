@@ -25,9 +25,9 @@ Each subfolder is one self-contained book production.
 
 | Book | Slug | Scenes | Status |
 | :--- | :--- | :--- | :--- |
-| The Psychology of Money | `psychology_of_money` | 50 | ✅ Master Benchmark |
+| The Psychology of Money | `psychology_of_money` | 50 | ✅ Master Benchmark (154s, 50 Scenes) |
+| Atomic Habits | `atomic_habits` | 44 | ✅ Full Catalog Ready (134s, 44 Cues, Prompts) |
 | The 48 Laws of Power | `48_laws_of_power` | 38 | ✅ Produced |
-| Atomic Habits | `atomic_habits` | 38 | ✅ Produced |
 
 ## Required File Format: `script.txt`
 

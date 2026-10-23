@@ -1,0 +1,152 @@
+[Script Info]
+Title: StickLit Golden Subtitles - Atomic Habits
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Black,58,&H0000E6FF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,5.0,0,2,80,80,100,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.40,0:00:01.36,Default,,0,0,0,,ATOMIC HABITS BY
+Dialogue: 0,0:00:01.36,0:00:02.32,Default,,0,0,0,,JAMES CLEAR IN
+Dialogue: 0,0:00:02.32,0:00:02.98,Default,,0,0,0,,TWO MINUTES.
+Dialogue: 0,0:00:03.28,0:00:04.32,Default,,0,0,0,,MOST PEOPLE BELIEVE
+Dialogue: 0,0:00:04.32,0:00:05.44,Default,,0,0,0,,THAT TRANSFORMING YOUR
+Dialogue: 0,0:00:05.44,0:00:06.82,Default,,0,0,0,,LIFE REQUIRES MASSIVE
+Dialogue: 0,0:00:06.88,0:00:07.38,Default,,0,0,0,,ACTION,
+Dialogue: 0,0:00:07.52,0:00:08.50,Default,,0,0,0,,RADICAL WILLPOWER,
+Dialogue: 0,0:00:08.56,0:00:09.86,Default,,0,0,0,,AND OVERNIGHT MIRACLES.
+Dialogue: 0,0:00:10.40,0:00:11.14,Default,,0,0,0,,IN REALITY,
+Dialogue: 0,0:00:11.36,0:00:12.48,Default,,0,0,0,,MASSIVE CHANGE DOES
+Dialogue: 0,0:00:12.48,0:00:13.21,Default,,0,0,0,,NOT COME FROM
+Dialogue: 0,0:00:13.21,0:00:14.20,Default,,0,0,0,,GIANT LEAPS.
+Dialogue: 0,0:00:14.49,0:00:15.29,Default,,0,0,0,,IT COMES FROM
+Dialogue: 0,0:00:15.29,0:00:16.81,Default,,0,0,0,,TINY INVISIBLE DAILY
+Dialogue: 0,0:00:16.81,0:00:17.31,Default,,0,0,0,,CHOICES.
+Dialogue: 0,0:00:17.86,0:00:18.34,Default,,0,0,0,,HERE IS THE
+Dialogue: 0,0:00:18.34,0:00:19.23,Default,,0,0,0,,BRUTAL TRUTH.
+Dialogue: 0,0:00:19.54,0:00:20.57,Default,,0,0,0,,WINNERS AND LOSERS
+Dialogue: 0,0:00:20.57,0:00:21.38,Default,,0,0,0,,HAVE THE EXACT
+Dialogue: 0,0:00:21.38,0:00:22.20,Default,,0,0,0,,SAME GOALS.
+Dialogue: 0,0:00:22.41,0:00:23.54,Default,,0,0,0,,EVERY OLYMPIAN WANTS
+Dialogue: 0,0:00:23.54,0:00:24.43,Default,,0,0,0,,THE GOLD MEDAL.
+Dialogue: 0,0:00:24.89,0:00:25.86,Default,,0,0,0,,EVERY JOB SEEKER
+Dialogue: 0,0:00:25.86,0:00:26.79,Default,,0,0,0,,WANTS THE PROMOTION.
+Dialogue: 0,0:00:27.25,0:00:27.97,Default,,0,0,0,,THE GOAL CANNOT
+Dialogue: 0,0:00:27.97,0:00:28.95,Default,,0,0,0,,BE WHAT SEPARATES
+Dialogue: 0,0:00:29.41,0:00:29.57,Default,,0,0,0,,THEM.
+Dialogue: 0,0:00:29.57,0:00:30.13,Default,,0,0,0,,YOU DO NOT
+Dialogue: 0,0:00:30.13,0:00:30.61,Default,,0,0,0,,RISE TO THE
+Dialogue: 0,0:00:30.61,0:00:31.25,Default,,0,0,0,,LEVEL OF YOUR
+Dialogue: 0,0:00:31.25,0:00:31.75,Default,,0,0,0,,GOALS.
+Dialogue: 0,0:00:32.13,0:00:32.69,Default,,0,0,0,,YOU FALL TO
+Dialogue: 0,0:00:32.69,0:00:33.25,Default,,0,0,0,,THE LEVEL OF
+Dialogue: 0,0:00:33.25,0:00:33.99,Default,,0,0,0,,YOUR SYSTEMS.
+Dialogue: 0,0:00:34.37,0:00:35.09,Default,,0,0,0,,GOALS ARE ABOUT
+Dialogue: 0,0:00:35.09,0:00:35.81,Default,,0,0,0,,THE RESULTS YOU
+Dialogue: 0,0:00:35.81,0:00:36.31,Default,,0,0,0,,WANT.
+Dialogue: 0,0:00:36.53,0:00:37.41,Default,,0,0,0,,SYSTEMS ARE ABOUT
+Dialogue: 0,0:00:37.41,0:00:38.47,Default,,0,0,0,,THE DAILY PROCESSES
+Dialogue: 0,0:00:38.53,0:00:39.09,Default,,0,0,0,,THAT LEAD TO
+Dialogue: 0,0:00:39.09,0:00:40.41,Default,,0,0,0,,THOSE RESULTS.
+Dialogue: 0,0:00:40.41,0:00:40.97,Default,,0,0,0,,IF YOU FIX
+Dialogue: 0,0:00:40.97,0:00:41.70,Default,,0,0,0,,YOUR SYSTEMS,
+Dialogue: 0,0:00:41.93,0:00:42.73,Default,,0,0,0,,THE SCORE TAKES
+Dialogue: 0,0:00:42.73,0:00:43.62,Default,,0,0,0,,CARE OF ITSELF.
+Dialogue: 0,0:00:44.01,0:00:44.80,Default,,0,0,0,,TO MASTER YOUR
+Dialogue: 0,0:00:44.80,0:00:45.30,Default,,0,0,0,,HABITS,
+Dialogue: 0,0:00:45.45,0:00:46.33,Default,,0,0,0,,YOU MUST MASTER
+Dialogue: 0,0:00:46.33,0:00:47.05,Default,,0,0,0,,THE FOUR LAWS
+Dialogue: 0,0:00:47.05,0:00:47.70,Default,,0,0,0,,OF BEHAVIOR.
+Dialogue: 0,0:00:47.84,0:00:48.34,Default,,0,0,0,,FIRST,
+Dialogue: 0,0:00:48.48,0:00:49.47,Default,,0,0,0,,MAKE IT OBVIOUS.
+Dialogue: 0,0:00:50.01,0:00:50.89,Default,,0,0,0,,MOST PEOPLE THINK
+Dialogue: 0,0:00:50.89,0:00:51.87,Default,,0,0,0,,THEY LACK MOTIVATION
+Dialogue: 0,0:00:52.33,0:00:52.97,Default,,0,0,0,,WHEN THEY REALLY
+Dialogue: 0,0:00:52.97,0:00:53.70,Default,,0,0,0,,LACK CLARITY.
+Dialogue: 0,0:00:54.41,0:00:55.40,Default,,0,0,0,,DESIGN YOUR ENVIRONMENT
+Dialogue: 0,0:00:55.40,0:00:56.20,Default,,0,0,0,,SO THE VISUAL
+Dialogue: 0,0:00:56.20,0:00:57.00,Default,,0,0,0,,CUES FOR GOOD
+Dialogue: 0,0:00:57.00,0:00:58.14,Default,,0,0,0,,HABITS ARE GLARINGLY
+Dialogue: 0,0:00:58.20,0:00:58.70,Default,,0,0,0,,OBVIOUS,
+Dialogue: 0,0:00:59.08,0:00:59.64,Default,,0,0,0,,AND HIDE THE
+Dialogue: 0,0:00:59.64,0:01:00.52,Default,,0,0,0,,TRIGGERS FOR BAD
+Dialogue: 0,0:01:00.52,0:01:01.02,Default,,0,0,0,,ONES.
+Dialogue: 0,0:01:01.24,0:01:01.74,Default,,0,0,0,,SECOND,
+Dialogue: 0,0:01:02.12,0:01:03.02,Default,,0,0,0,,MAKE IT ATTRACTIVE.
+Dialogue: 0,0:01:03.96,0:01:05.16,Default,,0,0,0,,DOPAMINE DRIVES OUR
+Dialogue: 0,0:01:05.16,0:01:05.66,Default,,0,0,0,,CRAVINGS.
+Dialogue: 0,0:01:06.28,0:01:07.08,Default,,0,0,0,,BUNDLE WHAT YOU
+Dialogue: 0,0:01:07.08,0:01:07.72,Default,,0,0,0,,NEED TO DO
+Dialogue: 0,0:01:07.72,0:01:08.36,Default,,0,0,0,,WITH WHAT YOU
+Dialogue: 0,0:01:08.36,0:01:09.24,Default,,0,0,0,,WANT TO DO.
+Dialogue: 0,0:01:09.24,0:01:09.74,Default,,0,0,0,,THIRD,
+Dialogue: 0,0:01:10.04,0:01:10.61,Default,,0,0,0,,MAKE IT EASY.
+Dialogue: 0,0:01:11.09,0:01:11.41,Default,,0,0,0,,EASY.
+Dialogue: 0,0:01:11.41,0:01:12.12,Default,,0,0,0,,THE ENEMY OF
+Dialogue: 0,0:01:12.12,0:01:13.42,Default,,0,0,0,,EXECUTION IS FRICTION.
+Dialogue: 0,0:01:14.20,0:01:14.84,Default,,0,0,0,,USE THE TWO
+Dialogue: 0,0:01:14.84,0:01:15.65,Default,,0,0,0,,MINUTE RULE.
+Dialogue: 0,0:01:15.65,0:01:16.37,Default,,0,0,0,,WHEN YOU START
+Dialogue: 0,0:01:16.37,0:01:17.01,Default,,0,0,0,,A NEW HABIT,
+Dialogue: 0,0:01:17.01,0:01:17.73,Default,,0,0,0,,IT SHOULD TAKE
+Dialogue: 0,0:01:17.73,0:01:18.28,Default,,0,0,0,,LESS THAN TWO
+Dialogue: 0,0:01:18.28,0:01:19.27,Default,,0,0,0,,MINUTES TO DO.
+Dialogue: 0,0:01:19.81,0:01:20.69,Default,,0,0,0,,RUN JUST ONE
+Dialogue: 0,0:01:20.69,0:01:21.19,Default,,0,0,0,,BLOCK.
+Dialogue: 0,0:01:21.56,0:01:22.53,Default,,0,0,0,,READ JUST ONE
+Dialogue: 0,0:01:22.53,0:01:23.03,Default,,0,0,0,,PAGE.
+Dialogue: 0,0:01:23.56,0:01:24.37,Default,,0,0,0,,MASTER THE ART
+Dialogue: 0,0:01:24.37,0:01:25.09,Default,,0,0,0,,OF SHOWING UP
+Dialogue: 0,0:01:25.09,0:01:25.81,Default,,0,0,0,,BEFORE YOU WORRY
+Dialogue: 0,0:01:25.81,0:01:27.03,Default,,0,0,0,,ABOUT OPTIMIZING.
+Dialogue: 0,0:01:27.25,0:01:28.07,Default,,0,0,0,,AND FOURTH,
+Dialogue: 0,0:01:28.13,0:01:29.03,Default,,0,0,0,,MAKE IT SATISFYING.
+Dialogue: 0,0:01:29.81,0:01:30.71,Default,,0,0,0,,WHAT IS IMMEDIATELY
+Dialogue: 0,0:01:30.77,0:01:32.15,Default,,0,0,0,,REWARDED IS REPEATED.
+Dialogue: 0,0:01:32.53,0:01:33.51,Default,,0,0,0,,WHAT IS IMMEDIATELY
+Dialogue: 0,0:01:33.65,0:01:34.87,Default,,0,0,0,,PUNISHED IS AVOIDED.
+Dialogue: 0,0:01:35.49,0:01:36.55,Default,,0,0,0,,TRACK YOUR STREAK.
+Dialogue: 0,0:01:36.93,0:01:38.39,Default,,0,0,0,,CELEBRATE TINY WINS.
+Dialogue: 0,0:01:38.61,0:01:39.49,Default,,0,0,0,,AND REMEMBER THE
+Dialogue: 0,0:01:39.49,0:01:40.47,Default,,0,0,0,,GOLDEN RULE,
+Dialogue: 0,0:01:40.61,0:01:41.75,Default,,0,0,0,,NEVER MISS TWICE.
+Dialogue: 0,0:01:42.28,0:01:42.78,Default,,0,0,0,,ULTIMATELY,
+Dialogue: 0,0:01:42.83,0:01:43.88,Default,,0,0,0,,TRUE BEHAVIOR CHANGE
+Dialogue: 0,0:01:43.88,0:01:45.26,Default,,0,0,0,,IS IDENTITY CHANGE.
+Dialogue: 0,0:01:45.64,0:01:46.52,Default,,0,0,0,,EVERY ACTION YOU
+Dialogue: 0,0:01:46.52,0:01:47.08,Default,,0,0,0,,TAKE IS A
+Dialogue: 0,0:01:47.08,0:01:47.56,Default,,0,0,0,,VOTE FOR THE
+Dialogue: 0,0:01:47.56,0:01:48.28,Default,,0,0,0,,TYPE OF PERSON
+Dialogue: 0,0:01:48.28,0:01:48.92,Default,,0,0,0,,YOU WISH TO
+Dialogue: 0,0:01:48.92,0:01:49.42,Default,,0,0,0,,BECOME.
+Dialogue: 0,0:01:50.03,0:01:51.23,Default,,0,0,0,,1% BETTER EACH
+Dialogue: 0,0:01:51.23,0:01:52.52,Default,,0,0,0,,DAY COMPOUNDS INTO
+Dialogue: 0,0:01:52.52,0:01:53.88,Default,,0,0,0,,37 TIMES BETTER
+Dialogue: 0,0:01:53.88,0:01:54.57,Default,,0,0,0,,IN A SINGLE
+Dialogue: 0,0:01:55.13,0:01:55.45,Default,,0,0,0,,YEAR.
+Dialogue: 0,0:01:55.45,0:01:56.49,Default,,0,0,0,,SMALL HABITS DON'T
+Dialogue: 0,0:01:56.49,0:01:57.21,Default,,0,0,0,,ADD UP.
+Dialogue: 0,0:01:57.21,0:01:57.95,Default,,0,0,0,,THEY MULTIPLY.
+Dialogue: 0,0:01:58.41,0:01:59.13,Default,,0,0,0,,SO TELL ME
+Dialogue: 0,0:01:59.13,0:01:59.63,Default,,0,0,0,,BELOW.
+Dialogue: 0,0:02:00.09,0:02:00.81,Default,,0,0,0,,WOULD YOU RATHER
+Dialogue: 0,0:02:00.81,0:02:01.85,Default,,0,0,0,,ACHIEVE YOUR ULTIMATE
+Dialogue: 0,0:02:01.85,0:02:02.91,Default,,0,0,0,,DREAM GOAL TODAY,
+Dialogue: 0,0:02:03.13,0:02:04.25,Default,,0,0,0,,BUT POSSESS ZERO
+Dialogue: 0,0:02:04.25,0:02:05.37,Default,,0,0,0,,SYSTEMS AND SLIDE
+Dialogue: 0,0:02:05.37,0:02:06.17,Default,,0,0,0,,BACK TO SQUARE
+Dialogue: 0,0:02:06.17,0:02:06.94,Default,,0,0,0,,ONE WITHIN A
+Dialogue: 0,0:02:06.94,0:02:07.44,Default,,0,0,0,,YEAR,
+Dialogue: 0,0:02:07.82,0:02:09.04,Default,,0,0,0,,OR MASTER UNBREAKABLE
+Dialogue: 0,0:02:09.18,0:02:10.22,Default,,0,0,0,,DAILY SYSTEMS WHERE
+Dialogue: 0,0:02:10.22,0:02:11.02,Default,,0,0,0,,YOU IMPROVE JUST
+Dialogue: 0,0:02:11.02,0:02:12.48,Default,,0,0,0,,1% EVERY DAY,
+Dialogue: 0,0:02:12.70,0:02:13.76,Default,,0,0,0,,BUT OWN LIFELONG
+Dialogue: 0,0:02:13.82,0:02:14.32,Default,,0,0,0,,MOMENTUM.

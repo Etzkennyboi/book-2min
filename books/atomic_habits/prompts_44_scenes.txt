@@ -1,0 +1,734 @@
+===================================================================================
+[SCENE_01] | Target File: scene_01.jpg | Duration: 3.28s ===
+Script: "Atomic Habits by James Clear in two minutes."
+
+VIRAL HOOK THUMBNAIL ARCHITECTURE:
+[SCENE_01] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+
+CRITICAL MANDATE - ZERO TILT & ZERO NECK BENDING:
+The book must stand PERFECTLY CENTERED, 100% upright, flat-facing the camera, level and straight. The title text MUST be 100% horizontal and effortlessly readable with zero tilt!
+
+1. Centered Book (Centerpiece):
+   - A colossal, towering hardcover book planted squarely in the center of the frame, 100% upright and level.
+   - Elegant white, gold, and vibrant yellow hardcover with bold, perfectly horizontal gold embossed title:
+     "ATOMIC HABITS"
+     "JAMES CLEAR"
+   - Subtle glowing golden electric sparks crackle around the book's outer perimeter.
+
+2. High-Drama Narrative Action & Core Book Paradox Conflict:
+   - LEFT SIDE: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk)
+     ACTION: Kai stands coolly on the left, holding a tiny glowing golden seed in his palm, resting his other hand on an ENORMOUS, colossal, glowing exponential compounding curve that surges 37x into the sky, smirking directly into the camera with effortless confidence.
+   - RIGHT SIDE: Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk)
+     ACTION: Maya stands on the right, wielding a golden hammer, actively smashing a giant digital scoreboard labeled 'GOAL: WIN' into broken sparks, proving that daily systems destroy static goals, giving an analytical wink to the viewer.
+   - TOP VIRAL HOOK BUBBLE: A bold, comic speech bubble / headline banner reading: "The 1% Rule That Changes Everything!"
+
+3. Top Comic Header:
+   - Centered near top edge: subtle outline watermark '@sticklit'.
+   - Just below watermark, bold handwritten comic header:
+     "Atomic Habits"
+     "James Clear"
+     "in two minutes"
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+[ALTERNATIVE HOOK B - KINETIC FRICTION BREAK]: Kai violently slicing through a giant tangled net labeled 'FRICTION & OVERWHELM' with a golden two-minute blade, while Maya plants unbroken rows of golden checkmarks.
+[ALTERNATIVE HOOK C - COMPOUNDING ICE CUBE]: Kai pointing a laser thermometer at a massive ice block at 32 degrees as it suddenly explodes into an unstoppable waterfall of compounding results!
+
+===================================================================================
+[SCENE_02] | Target File: scene_02.jpg | Duration: 3.52s ===
+Script: "Most people believe that transforming your life requires massive action,"
+
+PROMPT:
+[SCENE_02] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "Most people believe that transforming your life requires massive action,"
+
+Visual Action: Kai furiously strapping himself to a giant roaring rocket booster labeled 'MASSIVE ACTION' blasting upward frantically with sweat flying.
+Main Character: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: Kai furiously strapping himself to a giant roaring rocket booster labeled 'MASSIVE ACTION' blasting upward frantically with sweat flying.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_03] | Target File: scene_03.jpg | Duration: 3.60s ===
+Script: "radical willpower, and overnight miracles."
+
+PROMPT:
+[SCENE_03] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "radical willpower, and overnight miracles."
+
+Visual Action: Maya watching in disbelief as a stickman attempts to bench press a colossal 10-ton granite boulder labeled 'WILLPOWER', getting pinned underneath.
+Protagonist Duo: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk) and Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk) acting together.
+Symbolic Props: Maya watching in disbelief as a stickman attempts to bench press a colossal 10-ton granite boulder labeled 'WILLPOWER', getting pinned underneath.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_04] | Target File: scene_04.jpg | Duration: 4.09s ===
+Script: "In reality, massive change does not come from giant leaps."
+
+PROMPT:
+[SCENE_04] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "In reality, massive change does not come from giant leaps."
+
+Visual Action: A stickman attempting to leap across a bottomless canyon in one giant jump, comically frozen in mid-air looking down in horror.
+Main Character: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: A stickman attempting to leap across a bottomless canyon in one giant jump, comically frozen in mid-air looking down in horror.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_05] | Target File: scene_05.jpg | Duration: 3.37s ===
+Script: "It comes from tiny invisible daily choices."
+
+PROMPT:
+[SCENE_05] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "It comes from tiny invisible daily choices."
+
+Visual Action: Kai kneeling gently on white ground, planting a tiny glowing golden acorn seed with a confident, hopeful smile.
+Main Character: Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: Kai kneeling gently on white ground, planting a tiny glowing golden acorn seed with a confident, hopeful smile.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_06] | Target File: scene_06.jpg | Duration: 1.68s ===
+Script: "Here is the brutal truth."
+
+PROMPT:
+[SCENE_06] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "Here is the brutal truth."
+
+Visual Action: Maya stepping forward dramatically, crossing her arms with an intense, analytical comic gaze breaking the 4th wall.
+Protagonist Duo: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk) and Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk) acting together.
+Symbolic Props: Maya stepping forward dramatically, crossing her arms with an intense, analytical comic gaze breaking the 4th wall.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_07] | Target File: scene_07.jpg | Duration: 2.87s ===
+Script: "Winners and losers have the exact same goals."
+
+PROMPT:
+[SCENE_07] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "Winners and losers have the exact same goals."
+
+Visual Action: Two identical stick runners at a track starting line staring at the exact same golden trophy, but one is smiling calmly and the other is trembling.
+Main Character: Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: Two identical stick runners at a track starting line staring at the exact same golden trophy, but one is smiling calmly and the other is trembling.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_08] | Target File: scene_08.jpg | Duration: 2.48s ===
+Script: "Every Olympian wants the gold medal."
+
+PROMPT:
+[SCENE_08] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "Every Olympian wants the gold medal."
+
+Visual Action: A crowded podium where 10 stick runners all dream of the exact same shiny gold medal floating in thought bubbles.
+Main Character: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: A crowded podium where 10 stick runners all dream of the exact same shiny gold medal floating in thought bubbles.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_09] | Target File: scene_09.jpg | Duration: 2.36s ===
+Script: "Every job seeker wants the promotion."
+
+PROMPT:
+[SCENE_09] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "Every job seeker wants the promotion."
+
+Visual Action: A corporate ladder where 5 stick figures are all reaching for a single glowing briefcase labeled 'PROMOTION'.
+Protagonist Duo: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk) and Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk) acting together.
+Symbolic Props: A corporate ladder where 5 stick figures are all reaching for a single glowing briefcase labeled 'PROMOTION'.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_10] | Target File: scene_10.jpg | Duration: 2.32s ===
+Script: "The goal cannot be what separates them."
+
+PROMPT:
+[SCENE_10] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "The goal cannot be what separates them."
+
+Visual Action: A giant golden scoreboard showing 'GOAL: WIN' shattering into pieces with question marks floating in the air.
+Main Character: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: A giant golden scoreboard showing 'GOAL: WIN' shattering into pieces with question marks floating in the air.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_11] | Target File: scene_11.jpg | Duration: 2.56s ===
+Script: "You do not rise to the level of your goals."
+
+PROMPT:
+[SCENE_11] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "You do not rise to the level of your goals."
+
+Visual Action: A stickman standing on an unstable, collapsing pedestal made of cardboard boxes labeled 'BIG DREAMS' crumbling beneath him.
+Main Character: Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: A stickman standing on an unstable, collapsing pedestal made of cardboard boxes labeled 'BIG DREAMS' crumbling beneath him.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_12] | Target File: scene_12.jpg | Duration: 2.24s ===
+Script: "You fall to the level of your systems."
+
+PROMPT:
+[SCENE_12] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "You fall to the level of your systems."
+
+Visual Action: Kai standing firmly on a massive, immovable solid steel foundation labeled 'DAILY SYSTEMS' that remains perfectly stable.
+Protagonist Duo: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk) and Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk) acting together.
+Symbolic Props: Kai standing firmly on a massive, immovable solid steel foundation labeled 'DAILY SYSTEMS' that remains perfectly stable.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_13] | Target File: scene_13.jpg | Duration: 2.16s ===
+Script: "Goals are about the results you want."
+
+PROMPT:
+[SCENE_13] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "Goals are about the results you want."
+
+Visual Action: A stickman staring through binoculars at a distant, unreachable mountain peak labeled 'OUTCOME'.
+Main Character: Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: A stickman staring through binoculars at a distant, unreachable mountain peak labeled 'OUTCOME'.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_14] | Target File: scene_14.jpg | Duration: 3.88s ===
+Script: "Systems are about the daily processes that lead to those results."
+
+PROMPT:
+[SCENE_14] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "Systems are about the daily processes that lead to those results."
+
+Visual Action: Kai and Maya walking together along a clean conveyor belt of daily habits: running shoes, open notebook, water bottle, and checklist.
+Main Character: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: Kai and Maya walking together along a clean conveyor belt of daily habits: running shoes, open notebook, water bottle, and checklist.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_15] | Target File: scene_15.jpg | Duration: 3.60s ===
+Script: "If you fix your systems, the score takes care of itself."
+
+PROMPT:
+[SCENE_15] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "If you fix your systems, the score takes care of itself."
+
+Visual Action: A giant digital sports scoreboard automatically ticking up points into the thousands while Kai calmly sips tea with feet up.
+Protagonist Duo: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk) and Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk) acting together.
+Symbolic Props: A giant digital sports scoreboard automatically ticking up points into the thousands while Kai calmly sips tea with feet up.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_16] | Target File: scene_16.jpg | Duration: 3.83s ===
+Script: "To master your habits, you must master the four laws of behavior."
+
+PROMPT:
+[SCENE_16] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "To master your habits, you must master the four laws of behavior."
+
+Visual Action: A colossal ancient stone tablet engraved with 'THE 4 LAWS OF BEHAVIOR' glowing with golden light as Kai points forward.
+Main Character: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: A colossal ancient stone tablet engraved with 'THE 4 LAWS OF BEHAVIOR' glowing with golden light as Kai points forward.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_17] | Target File: scene_17.jpg | Duration: 2.17s ===
+Script: "First, make it obvious."
+
+PROMPT:
+[SCENE_17] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "First, make it obvious."
+
+Visual Action: A giant glowing cartoon lightbulb flashing brilliantly above Kai's head with radiating comic rays.
+Main Character: Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: A giant glowing cartoon lightbulb flashing brilliantly above Kai's head with radiating comic rays.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_18] | Target File: scene_18.jpg | Duration: 4.40s ===
+Script: "Most people think they lack motivation when they really lack clarity."
+
+PROMPT:
+[SCENE_18] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "Most people think they lack motivation when they really lack clarity."
+
+Visual Action: A confused stickman wandering blindly in a dense grey fog bank holding a compass spinning uncontrollably.
+Protagonist Duo: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk) and Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk) acting together.
+Symbolic Props: A confused stickman wandering blindly in a dense grey fog bank holding a compass spinning uncontrollably.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_19] | Target File: scene_19.jpg | Duration: 3.59s ===
+Script: "Design your environment so the visual cues for good habits are glaringly obvious,"
+
+PROMPT:
+[SCENE_19] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "Design your environment so the visual cues for good habits are glaringly obvious,"
+
+Visual Action: Maya placing a bright yellow book directly in the center of a pillow on an unmade bed so it cannot be missed.
+Main Character: Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: Maya placing a bright yellow book directly in the center of a pillow on an unmade bed so it cannot be missed.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_20] | Target File: scene_20.jpg | Duration: 3.24s ===
+Script: "and hide the triggers for bad ones."
+
+PROMPT:
+[SCENE_20] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "and hide the triggers for bad ones."
+
+Visual Action: Kai placing a glowing television remote and smartphone inside a heavy iron chest, locking it with a giant padlock and throwing it into a closet.
+Main Character: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: Kai placing a glowing television remote and smartphone inside a heavy iron chest, locking it with a giant padlock and throwing it into a closet.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_21] | Target File: scene_21.jpg | Duration: 2.72s ===
+Script: "Second, make it attractive."
+
+PROMPT:
+[SCENE_21] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "Second, make it attractive."
+
+Visual Action: A stickman's eyes turning into giant cartoon hearts as a delicious glowing slice of pie floats on a pedestal.
+Protagonist Duo: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk) and Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk) acting together.
+Symbolic Props: A stickman's eyes turning into giant cartoon hearts as a delicious glowing slice of pie floats on a pedestal.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_22] | Target File: scene_22.jpg | Duration: 2.32s ===
+Script: "Dopamine drives our cravings."
+
+PROMPT:
+[SCENE_22] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "Dopamine drives our cravings."
+
+Visual Action: A glowing electric dopamine molecule symbol pulsing with bright purple energy connecting to a smiling stickman's brain.
+Main Character: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: A glowing electric dopamine molecule symbol pulsing with bright purple energy connecting to a smiling stickman's brain.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_23] | Target File: scene_23.jpg | Duration: 2.96s ===
+Script: "Bundle what you need to do with what you want to do."
+
+PROMPT:
+[SCENE_23] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "Bundle what you need to do with what you want to do."
+
+Visual Action: Kai riding a stationary exercise bike while comfortably watching his favorite Netflix show on an iPad mounted to the handlebars.
+Main Character: Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: Kai riding a stationary exercise bike while comfortably watching his favorite Netflix show on an iPad mounted to the handlebars.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_24] | Target File: scene_24.jpg | Duration: 2.17s ===
+Script: "Third, make it easy."
+
+PROMPT:
+[SCENE_24] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "Third, make it easy."
+
+Visual Action: A smooth, frictionless polished slide where a stickman effortlessly glides from start to finish with zero effort.
+Protagonist Duo: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk) and Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk) acting together.
+Symbolic Props: A smooth, frictionless polished slide where a stickman effortlessly glides from start to finish with zero effort.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_25] | Target File: scene_25.jpg | Duration: 2.79s ===
+Script: "The enemy of execution is friction."
+
+PROMPT:
+[SCENE_25] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "The enemy of execution is friction."
+
+Visual Action: A stickman trying to sprint forward while dragging five heavy cast-iron balls chained to his ankles labeled 'TOO HARD'.
+Main Character: Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: A stickman trying to sprint forward while dragging five heavy cast-iron balls chained to his ankles labeled 'TOO HARD'.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_26] | Target File: scene_26.jpg | Duration: 1.45s ===
+Script: "Use the two minute rule."
+
+PROMPT:
+[SCENE_26] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "Use the two minute rule."
+
+Visual Action: Maya holding up a giant, glowing comic stopwatch showing exactly '2:00' minutes ticking down.
+Main Character: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: Maya holding up a giant, glowing comic stopwatch showing exactly '2:00' minutes ticking down.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_27] | Target File: scene_27.jpg | Duration: 4.16s ===
+Script: "When you start a new habit, it should take less than two minutes to do."
+
+PROMPT:
+[SCENE_27] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "When you start a new habit, it should take less than two minutes to do."
+
+Visual Action: Kai tying the laces on his running shoes in 30 seconds and giving a cheerful thumbs up beside an open front door.
+Protagonist Duo: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk) and Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk) acting together.
+Symbolic Props: Kai tying the laces on his running shoes in 30 seconds and giving a cheerful thumbs up beside an open front door.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_28] | Target File: scene_28.jpg | Duration: 1.75s ===
+Script: "Run just one block."
+
+PROMPT:
+[SCENE_28] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "Run just one block."
+
+Visual Action: A stickman jogging casually past a single street corner sign labeled 'BLOCK 1' with an easy smile, no sweat.
+Main Character: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: A stickman jogging casually past a single street corner sign labeled 'BLOCK 1' with an easy smile, no sweat.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_29] | Target File: scene_29.jpg | Duration: 2.00s ===
+Script: "Read just one page."
+
+PROMPT:
+[SCENE_29] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "Read just one page."
+
+Visual Action: A stickman comfortably tucked into a cozy armchair reading exactly one page of a book with an open lamp.
+Main Character: Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: A stickman comfortably tucked into a cozy armchair reading exactly one page of a book with an open lamp.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_30] | Target File: scene_30.jpg | Duration: 3.69s ===
+Script: "Master the art of showing up before you worry about optimizing."
+
+PROMPT:
+[SCENE_30] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "Master the art of showing up before you worry about optimizing."
+
+Visual Action: A calendar where every single day has a bright green checkmark stamp on it, showing unbroken daily attendance.
+Protagonist Duo: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk) and Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk) acting together.
+Symbolic Props: A calendar where every single day has a bright green checkmark stamp on it, showing unbroken daily attendance.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_31] | Target File: scene_31.jpg | Duration: 2.56s ===
+Script: "And fourth, make it satisfying."
+
+PROMPT:
+[SCENE_31] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "And fourth, make it satisfying."
+
+Visual Action: A stickman biting into a sweet crisp red apple while golden victory confetti bursts around him.
+Main Character: Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: A stickman biting into a sweet crisp red apple while golden victory confetti bursts around him.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_32] | Target File: scene_32.jpg | Duration: 2.72s ===
+Script: "What is immediately rewarded is repeated."
+
+PROMPT:
+[SCENE_32] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "What is immediately rewarded is repeated."
+
+Visual Action: A smiling puppy stick figure doing a backflip and immediately receiving a glowing golden bone treat.
+Main Character: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: A smiling puppy stick figure doing a backflip and immediately receiving a glowing golden bone treat.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_33] | Target File: scene_33.jpg | Duration: 2.96s ===
+Script: "What is immediately punished is avoided."
+
+PROMPT:
+[SCENE_33] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "What is immediately punished is avoided."
+
+Visual Action: A stickman touching an electric fence wire with a loud 'ZAP!' and jumping backward in comedic shock.
+Protagonist Duo: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk) and Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk) acting together.
+Symbolic Props: A stickman touching an electric fence wire with a loud 'ZAP!' and jumping backward in comedic shock.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_34] | Target File: scene_34.jpg | Duration: 1.44s ===
+Script: "Track your streak."
+
+PROMPT:
+[SCENE_34] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "Track your streak."
+
+Visual Action: Maya holding a giant wooden quill pen marking day 100 on an unbroken wall of golden checkmarks.
+Main Character: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: Maya holding a giant wooden quill pen marking day 100 on an unbroken wall of golden checkmarks.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_35] | Target File: scene_35.jpg | Duration: 1.68s ===
+Script: "Celebrate tiny wins."
+
+PROMPT:
+[SCENE_35] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "Celebrate tiny wins."
+
+Visual Action: Kai pumping his fist in the air with celebratory comic fireworks and streamers shooting off.
+Main Character: Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: Kai pumping his fist in the air with celebratory comic fireworks and streamers shooting off.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_36] | Target File: scene_36.jpg | Duration: 3.67s ===
+Script: "And remember the golden rule, never miss twice."
+
+PROMPT:
+[SCENE_36] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "And remember the golden rule, never miss twice."
+
+Visual Action: A calendar showing Day 1 checked, Day 2 marked with a red X, and Day 3 aggressively stamped with a giant DOUBLE golden checkmark!
+Protagonist Duo: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk) and Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk) acting together.
+Symbolic Props: A calendar showing Day 1 checked, Day 2 marked with a red X, and Day 3 aggressively stamped with a giant DOUBLE golden checkmark!
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_37] | Target File: scene_37.jpg | Duration: 3.36s ===
+Script: "Ultimately, true behavior change is identity change."
+
+PROMPT:
+[SCENE_37] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "Ultimately, true behavior change is identity change."
+
+Visual Action: A stickman looking into a full-length mirror and seeing the heroic reflection of an Olympic athlete staring back.
+Main Character: Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: A stickman looking into a full-length mirror and seeing the heroic reflection of an Olympic athlete staring back.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_38] | Target File: scene_38.jpg | Duration: 4.39s ===
+Script: "Every action you take is a vote for the type of person you wish to become."
+
+PROMPT:
+[SCENE_38] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "Every action you take is a vote for the type of person you wish to become."
+
+Visual Action: Kai dropping a glowing golden ballot slip marked 'DISCIPLINE' into a clear glass ballot box labeled 'FUTURE SELF'.
+Main Character: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: Kai dropping a glowing golden ballot slip marked 'DISCIPLINE' into a clear glass ballot box labeled 'FUTURE SELF'.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_39] | Target File: scene_39.jpg | Duration: 5.42s ===
+Script: "1% better each day compounds into 37 times better in a single year."
+
+PROMPT:
+[SCENE_39] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "1% better each day compounds into 37 times better in a single year."
+
+Visual Action: A colossal exponential hockey-stick compounding graph soaring into the sky with a giant golden badge reading '37.78x'.
+Protagonist Duo: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk) and Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk) acting together.
+Symbolic Props: A colossal exponential hockey-stick compounding graph soaring into the sky with a giant golden badge reading '37.78x'.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_40] | Target File: scene_40.jpg | Duration: 1.76s ===
+Script: "Small habits don't add up."
+
+PROMPT:
+[SCENE_40] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "Small habits don't add up."
+
+Visual Action: A simple plus sign '+' turning into dust and blowing away on the white floor.
+Main Character: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: A simple plus sign '+' turning into dust and blowing away on the white floor.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_41] | Target File: scene_41.jpg | Duration: 1.20s ===
+Script: "They multiply."
+
+PROMPT:
+[SCENE_41] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "They multiply."
+
+Visual Action: A massive glowing multiplication symbol 'x' erupting with golden sparks and duplicating stacks of books and trophies.
+Main Character: Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: A massive glowing multiplication symbol 'x' erupting with golden sparks and duplicating stacks of books and trophies.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_42] | Target File: scene_42.jpg | Duration: 1.68s ===
+Script: "So tell me below."
+
+PROMPT:
+[SCENE_42] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "So tell me below."
+
+Visual Action: Kai and Maya standing together pointing directly down at the viewer / comment section with an intense call to action.
+Protagonist Duo: Kai (Boy stick figure, circular head with flat warm natural skin tone, messy spiky jet-black hair, dark charcoal short-sleeve crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, confident knowing smirk, minimalist 2D black stick limbs with strictly zero muscular bulk) and Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk) acting together.
+Symbolic Props: Kai and Maya standing together pointing directly down at the viewer / comment section with an intense call to action.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_43] | Target File: scene_43.jpg | Duration: 6.41s ===
+Script: "Would you rather achieve your ultimate dream goal today, but possess zero systems and slide back to square one within a year,"
+
+PROMPT:
+[SCENE_43] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+Script Context: "Would you rather achieve your ultimate dream goal today, but possess zero systems and slide back to square one within a year,"
+
+Visual Action: A lottery winner stickman showered in paper cash for one second, followed by him sitting broke in an empty cardboard box with zero habits.
+Main Character: Maya (Girl stick figure, circular head with flat warm natural skin tone, high energetic spiky jet-black ponytail with fringe bangs, dark charcoal short-sleeve fitted crewneck tee #3A3A3C, medium grey straight trousers #8E8E93, black combat boots, expressive black comic eyes, arched eyebrows, analytical wink and clever smile, minimalist 2D black stick limbs with strictly zero muscular bulk).
+Symbolic Props: A lottery winner stickman showered in paper cash for one second, followed by him sitting broke in an empty cardboard box with zero habits.
+
+Framing & Style:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)
+
+===================================================================================
+[SCENE_44] | Target File: scene_44.jpg | Duration: 7.82s ===
+Script: "Or master unbreakable daily systems where you improve just 1% every day, but own lifelong momentum?"
+
+FINAL BINARY DILEMMA PROMPT:
+[SCENE_LAST] 9:16 vertical 2D minimalist cartoon stick-figure illustration in the exact @sticklit style. Pure borderless white background (#FFFFFF) with abundant clean negative space. Crisp solid black ink outlines, flat solid color fills, zero 3D rendering, zero gradients, zero background clutter, no floor planes, no wall textures. Near the top center, small subtle text: '@sticklit'.
+
+CRITICAL MANDATE - SINGLE COHESIVE HORIZONTAL SPLIT SCREEN:
+Generate as ONE single 9:16 vertical image divided across the center by a crisp horizontal black line with a bold circular '(VS)' badge in the middle. Do NOT generate two separate images.
+
+1. The Final Dilemma Question: "Would you rather win the jackpot today with zero systems, or own 1% compounding daily momentum?"
+
+2. TOP PANEL (Choice A - Trapped / Costly Trap):
+   CHOICE A (The Goal Trap / Zero Systems): Bleak cold fluorescent grey room. A lottery winner stickman sits slumped inside an empty cardboard box, sobbing with head in hands, surrounded by torn lottery tickets and empty bank notices. He reached his goal overnight, but possessed zero habits and slid back to absolute zero within a year.
+
+3. BOTTOM PANEL (Choice B - True Freedom / Sovereign Path):
+   CHOICE B (The 1% Daily Compounder / Lifelong Momentum): Warm sunny morning studio. A serene stickman sits at a clean desk comfortably reading a book, writing in a journal, and smiling with total inner peace. A calendar on the wall has 365 consecutive golden checkmarks, radiating unstoppable lifelong compounding and total sovereignty.
+
+4. Central Badge:
+   A prominent circular comic badge centered on the divider line labeled '(VS)' in bold punch font.
+
+Visual & Framing Constraints:
+- Subtitle Safety: Keep all character artwork, props, and action strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white (#FFFFFF) negative space for subtitles.
+- Negative Directives: (defined muscles, thick muscular limbs, realistic human anatomy, 3D render, dark background, borders, gradients, floor textures, wall textures, cut off heads, tilted book covers)

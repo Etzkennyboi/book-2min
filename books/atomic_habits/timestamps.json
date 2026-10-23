@@ -1,0 +1,5582 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "01a166cb-8595-7962-8b52-f6070ca7321c",
+    "sha256": "e363e11905233aa9c3815e4328d1a69f9a89122217fede4184a23e934847f051",
+    "created": "2026-10-23T03:26:19.603Z",
+    "duration": 134.54393,
+    "channels": 1,
+    "models": [
+      "1abfe86b-e047-4eed-858a-35e5625b41ee"
+    ],
+    "model_info": {
+      "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+        "name": "2-general-nova",
+        "version": "2024-01-06.5664",
+        "arch": "nova-2"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "Atomic Habits by James Clear in two minutes. Most people believe that transforming your life requires massive action, radical willpower, and overnight miracles. In reality, massive change does not come from giant leaps. It comes from tiny invisible daily choices. Here is the brutal truth. Winners and losers have the exact same goals. Every Olympian wants the gold medal. Every job seeker wants the promotion. The goal cannot be what separates them. You do not rise to the level of your goals. You fall to the level of your systems. Goals are about the results you want. Systems are about the daily processes that lead to those results. If you fix your systems, the score takes care of itself. To master your habits, you must master the four laws of behavior. First, make it obvious. Most people think they lack motivation when they really lack clarity. Design your environment so the visual cues for good habits are glaringly obvious, and hide the triggers for bad ones. Second, make it attractive. Dopamine drives our cravings. Bundle what you need to do with what you want to do. Third, make it easy. Easy. The enemy of execution is friction. Use the two minute rule. When you start a new habit, it should take less than two minutes to do. Run just one block. Read just one page. Master the art of showing up before you worry about optimizing. And fourth, make it satisfying. What is immediately rewarded is repeated. What is immediately punished is avoided. Track your streak. Celebrate tiny wins. And remember the golden rule, never miss twice. Ultimately, true behavior change is identity change. Every action you take is a vote for the type of person you wish to become. 1% better each day compounds into 37 times better in a single year. Small habits don't add up. They multiply. So tell me below. Would you rather achieve your ultimate dream goal today, but possess zero systems and slide back to square one within a year, or master unbreakable daily systems where you improve just 1% every day, but own lifelong momentum.",
+            "confidence": 1.0,
+            "words": [
+              {
+                "word": "atomic",
+                "start": 0.39999998,
+                "end": 0.88,
+                "confidence": 0.96777344,
+                "punctuated_word": "Atomic"
+              },
+              {
+                "word": "habits",
+                "start": 0.88,
+                "end": 1.1999999,
+                "confidence": 0.8833008,
+                "punctuated_word": "Habits"
+              },
+              {
+                "word": "by",
+                "start": 1.1999999,
+                "end": 1.36,
+                "confidence": 0.99316406,
+                "punctuated_word": "by"
+              },
+              {
+                "word": "james",
+                "start": 1.36,
+                "end": 1.76,
+                "confidence": 1.0,
+                "punctuated_word": "James"
+              },
+              {
+                "word": "clear",
+                "start": 1.76,
+                "end": 2.08,
+                "confidence": 0.99316406,
+                "punctuated_word": "Clear"
+              },
+              {
+                "word": "in",
+                "start": 2.08,
+                "end": 2.32,
+                "confidence": 0.99609375,
+                "punctuated_word": "in"
+              },
+              {
+                "word": "two",
+                "start": 2.32,
+                "end": 2.48,
+                "confidence": 0.99609375,
+                "punctuated_word": "two"
+              },
+              {
+                "word": "minutes",
+                "start": 2.48,
+                "end": 2.98,
+                "confidence": 0.99853516,
+                "punctuated_word": "minutes."
+              },
+              {
+                "word": "most",
+                "start": 3.28,
+                "end": 3.6799998,
+                "confidence": 0.99902344,
+                "punctuated_word": "Most"
+              },
+              {
+                "word": "people",
+                "start": 3.6799998,
+                "end": 4.0,
+                "confidence": 1.0,
+                "punctuated_word": "people"
+              },
+              {
+                "word": "believe",
+                "start": 4.0,
+                "end": 4.3199997,
+                "confidence": 0.99902344,
+                "punctuated_word": "believe"
+              },
+              {
+                "word": "that",
+                "start": 4.3199997,
+                "end": 4.64,
+                "confidence": 1.0,
+                "punctuated_word": "that"
+              },
+              {
+                "word": "transforming",
+                "start": 4.64,
+                "end": 5.14,
+                "confidence": 1.0,
+                "punctuated_word": "transforming"
+              },
+              {
+                "word": "your",
+                "start": 5.2,
+                "end": 5.44,
+                "confidence": 1.0,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "life",
+                "start": 5.44,
+                "end": 5.7599998,
+                "confidence": 1.0,
+                "punctuated_word": "life"
+              },
+              {
+                "word": "requires",
+                "start": 5.7599998,
+                "end": 6.2599998,
+                "confidence": 1.0,
+                "punctuated_word": "requires"
+              },
+              {
+                "word": "massive",
+                "start": 6.3199997,
+                "end": 6.8199997,
+                "confidence": 0.8432617,
+                "punctuated_word": "massive"
+              },
+              {
+                "word": "action",
+                "start": 6.8799996,
+                "end": 7.3799996,
+                "confidence": 0.99609375,
+                "punctuated_word": "action,"
+              },
+              {
+                "word": "radical",
+                "start": 7.52,
+                "end": 8.0,
+                "confidence": 1.0,
+                "punctuated_word": "radical"
+              },
+              {
+                "word": "willpower",
+                "start": 8.0,
+                "end": 8.5,
+                "confidence": 0.9560547,
+                "punctuated_word": "willpower,"
+              },
+              {
+                "word": "and",
+                "start": 8.559999,
+                "end": 8.8,
+                "confidence": 1.0,
+                "punctuated_word": "and"
+              },
+              {
+                "word": "overnight",
+                "start": 8.8,
+                "end": 9.3,
+                "confidence": 1.0,
+                "punctuated_word": "overnight"
+              },
+              {
+                "word": "miracles",
+                "start": 9.36,
+                "end": 9.86,
+                "confidence": 1.0,
+                "punctuated_word": "miracles."
+              },
+              {
+                "word": "in",
+                "start": 10.4,
+                "end": 10.639999,
+                "confidence": 1.0,
+                "punctuated_word": "In"
+              },
+              {
+                "word": "reality",
+                "start": 10.639999,
+                "end": 11.139999,
+                "confidence": 0.9995117,
+                "punctuated_word": "reality,"
+              },
+              {
+                "word": "massive",
+                "start": 11.36,
+                "end": 11.86,
+                "confidence": 1.0,
+                "punctuated_word": "massive"
+              },
+              {
+                "word": "change",
+                "start": 11.92,
+                "end": 12.32,
+                "confidence": 1.0,
+                "punctuated_word": "change"
+              },
+              {
+                "word": "does",
+                "start": 12.32,
+                "end": 12.48,
+                "confidence": 1.0,
+                "punctuated_word": "does"
+              },
+              {
+                "word": "not",
+                "start": 12.48,
+                "end": 12.735,
+                "confidence": 1.0,
+                "punctuated_word": "not"
+              },
+              {
+                "word": "come",
+                "start": 12.735,
+                "end": 12.974999,
+                "confidence": 1.0,
+                "punctuated_word": "come"
+              },
+              {
+                "word": "from",
+                "start": 12.974999,
+                "end": 13.214999,
+                "confidence": 1.0,
+                "punctuated_word": "from"
+              },
+              {
+                "word": "giant",
+                "start": 13.214999,
+                "end": 13.695,
+                "confidence": 0.99902344,
+                "punctuated_word": "giant"
+              },
+              {
+                "word": "leaps",
+                "start": 13.695,
+                "end": 14.195,
+                "confidence": 0.9926758,
+                "punctuated_word": "leaps."
+              },
+              {
+                "word": "it",
+                "start": 14.495,
+                "end": 14.735,
+                "confidence": 1.0,
+                "punctuated_word": "It"
+              },
+              {
+                "word": "comes",
+                "start": 14.735,
+                "end": 15.054999,
+                "confidence": 1.0,
+                "punctuated_word": "comes"
+              },
+              {
+                "word": "from",
+                "start": 15.054999,
+                "end": 15.295,
+                "confidence": 1.0,
+                "punctuated_word": "from"
+              },
+              {
+                "word": "tiny",
+                "start": 15.295,
+                "end": 15.795,
+                "confidence": 1.0,
+                "punctuated_word": "tiny"
+              },
+              {
+                "word": "invisible",
+                "start": 15.855,
+                "end": 16.355,
+                "confidence": 0.6538086,
+                "punctuated_word": "invisible"
+              },
+              {
+                "word": "daily",
+                "start": 16.414999,
+                "end": 16.814999,
+                "confidence": 0.9941406,
+                "punctuated_word": "daily"
+              },
+              {
+                "word": "choices",
+                "start": 16.814999,
+                "end": 17.314999,
+                "confidence": 1.0,
+                "punctuated_word": "choices."
+              },
+              {
+                "word": "here",
+                "start": 17.855,
+                "end": 18.095,
+                "confidence": 0.9951172,
+                "punctuated_word": "Here"
+              },
+              {
+                "word": "is",
+                "start": 18.095,
+                "end": 18.255,
+                "confidence": 0.93603516,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "the",
+                "start": 18.255,
+                "end": 18.335,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "brutal",
+                "start": 18.335,
+                "end": 18.735,
+                "confidence": 1.0,
+                "punctuated_word": "brutal"
+              },
+              {
+                "word": "truth",
+                "start": 18.735,
+                "end": 19.235,
+                "confidence": 0.97021484,
+                "punctuated_word": "truth."
+              },
+              {
+                "word": "winners",
+                "start": 19.535,
+                "end": 19.855,
+                "confidence": 1.0,
+                "punctuated_word": "Winners"
+              },
+              {
+                "word": "and",
+                "start": 19.855,
+                "end": 20.095,
+                "confidence": 1.0,
+                "punctuated_word": "and"
+              },
+              {
+                "word": "losers",
+                "start": 20.095,
+                "end": 20.574999,
+                "confidence": 1.0,
+                "punctuated_word": "losers"
+              },
+              {
+                "word": "have",
+                "start": 20.574999,
+                "end": 20.735,
+                "confidence": 1.0,
+                "punctuated_word": "have"
+              },
+              {
+                "word": "the",
+                "start": 20.735,
+                "end": 20.895,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "exact",
+                "start": 20.895,
+                "end": 21.375,
+                "confidence": 1.0,
+                "punctuated_word": "exact"
+              },
+              {
+                "word": "same",
+                "start": 21.375,
+                "end": 21.695,
+                "confidence": 1.0,
+                "punctuated_word": "same"
+              },
+              {
+                "word": "goals",
+                "start": 21.695,
+                "end": 22.195,
+                "confidence": 0.9995117,
+                "punctuated_word": "goals."
+              },
+              {
+                "word": "every",
+                "start": 22.414999,
+                "end": 22.814999,
+                "confidence": 1.0,
+                "punctuated_word": "Every"
+              },
+              {
+                "word": "olympian",
+                "start": 22.814999,
+                "end": 23.294998,
+                "confidence": 0.98950195,
+                "punctuated_word": "Olympian"
+              },
+              {
+                "word": "wants",
+                "start": 23.294998,
+                "end": 23.535,
+                "confidence": 1.0,
+                "punctuated_word": "wants"
+              },
+              {
+                "word": "the",
+                "start": 23.535,
+                "end": 23.695,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "gold",
+                "start": 23.695,
+                "end": 23.935,
+                "confidence": 1.0,
+                "punctuated_word": "gold"
+              },
+              {
+                "word": "medal",
+                "start": 23.935,
+                "end": 24.435,
+                "confidence": 0.9975586,
+                "punctuated_word": "medal."
+              },
+              {
+                "word": "every",
+                "start": 24.895,
+                "end": 25.215,
+                "confidence": 1.0,
+                "punctuated_word": "Every"
+              },
+              {
+                "word": "job",
+                "start": 25.215,
+                "end": 25.454998,
+                "confidence": 1.0,
+                "punctuated_word": "job"
+              },
+              {
+                "word": "seeker",
+                "start": 25.454998,
+                "end": 25.855,
+                "confidence": 0.9790039,
+                "punctuated_word": "seeker"
+              },
+              {
+                "word": "wants",
+                "start": 25.855,
+                "end": 26.13,
+                "confidence": 1.0,
+                "punctuated_word": "wants"
+              },
+              {
+                "word": "the",
+                "start": 26.13,
+                "end": 26.289999,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "promotion",
+                "start": 26.289999,
+                "end": 26.789999,
+                "confidence": 1.0,
+                "punctuated_word": "promotion."
+              },
+              {
+                "word": "the",
+                "start": 27.25,
+                "end": 27.41,
+                "confidence": 1.0,
+                "punctuated_word": "The"
+              },
+              {
+                "word": "goal",
+                "start": 27.41,
+                "end": 27.73,
+                "confidence": 1.0,
+                "punctuated_word": "goal"
+              },
+              {
+                "word": "cannot",
+                "start": 27.73,
+                "end": 27.97,
+                "confidence": 0.99902344,
+                "punctuated_word": "cannot"
+              },
+              {
+                "word": "be",
+                "start": 27.97,
+                "end": 28.13,
+                "confidence": 1.0,
+                "punctuated_word": "be"
+              },
+              {
+                "word": "what",
+                "start": 28.13,
+                "end": 28.449999,
+                "confidence": 1.0,
+                "punctuated_word": "what"
+              },
+              {
+                "word": "separates",
+                "start": 28.449999,
+                "end": 28.949999,
+                "confidence": 1.0,
+                "punctuated_word": "separates"
+              },
+              {
+                "word": "them",
+                "start": 29.41,
+                "end": 29.57,
+                "confidence": 1.0,
+                "punctuated_word": "them."
+              },
+              {
+                "word": "you",
+                "start": 29.57,
+                "end": 29.73,
+                "confidence": 1.0,
+                "punctuated_word": "You"
+              },
+              {
+                "word": "do",
+                "start": 29.73,
+                "end": 29.89,
+                "confidence": 1.0,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "not",
+                "start": 29.89,
+                "end": 30.13,
+                "confidence": 1.0,
+                "punctuated_word": "not"
+              },
+              {
+                "word": "rise",
+                "start": 30.13,
+                "end": 30.369999,
+                "confidence": 1.0,
+                "punctuated_word": "rise"
+              },
+              {
+                "word": "to",
+                "start": 30.369999,
+                "end": 30.529999,
+                "confidence": 1.0,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "the",
+                "start": 30.529999,
+                "end": 30.609999,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "level",
+                "start": 30.609999,
+                "end": 30.929998,
+                "confidence": 1.0,
+                "punctuated_word": "level"
+              },
+              {
+                "word": "of",
+                "start": 30.929998,
+                "end": 31.009998,
+                "confidence": 1.0,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "your",
+                "start": 31.009998,
+                "end": 31.25,
+                "confidence": 1.0,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "goals",
+                "start": 31.25,
+                "end": 31.75,
+                "confidence": 0.99902344,
+                "punctuated_word": "goals."
+              },
+              {
+                "word": "you",
+                "start": 32.129997,
+                "end": 32.29,
+                "confidence": 0.99902344,
+                "punctuated_word": "You"
+              },
+              {
+                "word": "fall",
+                "start": 32.29,
+                "end": 32.61,
+                "confidence": 0.9980469,
+                "punctuated_word": "fall"
+              },
+              {
+                "word": "to",
+                "start": 32.61,
+                "end": 32.69,
+                "confidence": 0.99902344,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "the",
+                "start": 32.69,
+                "end": 32.85,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "level",
+                "start": 32.85,
+                "end": 33.17,
+                "confidence": 1.0,
+                "punctuated_word": "level"
+              },
+              {
+                "word": "of",
+                "start": 33.17,
+                "end": 33.25,
+                "confidence": 1.0,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "your",
+                "start": 33.25,
+                "end": 33.489998,
+                "confidence": 1.0,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "systems",
+                "start": 33.489998,
+                "end": 33.989998,
+                "confidence": 0.9995117,
+                "punctuated_word": "systems."
+              },
+              {
+                "word": "goals",
+                "start": 34.37,
+                "end": 34.69,
+                "confidence": 1.0,
+                "punctuated_word": "Goals"
+              },
+              {
+                "word": "are",
+                "start": 34.69,
+                "end": 34.85,
+                "confidence": 0.9980469,
+                "punctuated_word": "are"
+              },
+              {
+                "word": "about",
+                "start": 34.85,
+                "end": 35.09,
+                "confidence": 0.9980469,
+                "punctuated_word": "about"
+              },
+              {
+                "word": "the",
+                "start": 35.09,
+                "end": 35.25,
+                "confidence": 0.9980469,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "results",
+                "start": 35.25,
+                "end": 35.649998,
+                "confidence": 0.99902344,
+                "punctuated_word": "results"
+              },
+              {
+                "word": "you",
+                "start": 35.649998,
+                "end": 35.809998,
+                "confidence": 0.9980469,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "want",
+                "start": 35.809998,
+                "end": 36.309998,
+                "confidence": 0.99902344,
+                "punctuated_word": "want."
+              },
+              {
+                "word": "systems",
+                "start": 36.53,
+                "end": 37.01,
+                "confidence": 0.9970703,
+                "punctuated_word": "Systems"
+              },
+              {
+                "word": "are",
+                "start": 37.01,
+                "end": 37.17,
+                "confidence": 0.9970703,
+                "punctuated_word": "are"
+              },
+              {
+                "word": "about",
+                "start": 37.17,
+                "end": 37.41,
+                "confidence": 0.9951172,
+                "punctuated_word": "about"
+              },
+              {
+                "word": "the",
+                "start": 37.41,
+                "end": 37.489998,
+                "confidence": 0.99316406,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "daily",
+                "start": 37.489998,
+                "end": 37.97,
+                "confidence": 0.9980469,
+                "punctuated_word": "daily"
+              },
+              {
+                "word": "processes",
+                "start": 37.97,
+                "end": 38.47,
+                "confidence": 0.9970703,
+                "punctuated_word": "processes"
+              },
+              {
+                "word": "that",
+                "start": 38.53,
+                "end": 38.69,
+                "confidence": 0.9819336,
+                "punctuated_word": "that"
+              },
+              {
+                "word": "lead",
+                "start": 38.69,
+                "end": 38.93,
+                "confidence": 0.98291016,
+                "punctuated_word": "lead"
+              },
+              {
+                "word": "to",
+                "start": 38.93,
+                "end": 39.09,
+                "confidence": 0.97509766,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "those",
+                "start": 39.09,
+                "end": 39.525,
+                "confidence": 0.97998047,
+                "punctuated_word": "those"
+              },
+              {
+                "word": "results",
+                "start": 40.005,
+                "end": 40.405003,
+                "confidence": 0.9692383,
+                "punctuated_word": "results."
+              },
+              {
+                "word": "if",
+                "start": 40.405003,
+                "end": 40.565002,
+                "confidence": 0.99902344,
+                "punctuated_word": "If"
+              },
+              {
+                "word": "you",
+                "start": 40.565002,
+                "end": 40.725002,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "fix",
+                "start": 40.725002,
+                "end": 40.965,
+                "confidence": 1.0,
+                "punctuated_word": "fix"
+              },
+              {
+                "word": "your",
+                "start": 40.965,
+                "end": 41.205,
+                "confidence": 1.0,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "systems",
+                "start": 41.205,
+                "end": 41.705,
+                "confidence": 0.9980469,
+                "punctuated_word": "systems,"
+              },
+              {
+                "word": "the",
+                "start": 41.925003,
+                "end": 42.165,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "score",
+                "start": 42.165,
+                "end": 42.485,
+                "confidence": 1.0,
+                "punctuated_word": "score"
+              },
+              {
+                "word": "takes",
+                "start": 42.485,
+                "end": 42.725002,
+                "confidence": 1.0,
+                "punctuated_word": "takes"
+              },
+              {
+                "word": "care",
+                "start": 42.725002,
+                "end": 42.965,
+                "confidence": 1.0,
+                "punctuated_word": "care"
+              },
+              {
+                "word": "of",
+                "start": 42.965,
+                "end": 43.125,
+                "confidence": 1.0,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "itself",
+                "start": 43.125,
+                "end": 43.625,
+                "confidence": 0.9995117,
+                "punctuated_word": "itself."
+              },
+              {
+                "word": "to",
+                "start": 44.005,
+                "end": 44.165,
+                "confidence": 0.99902344,
+                "punctuated_word": "To"
+              },
+              {
+                "word": "master",
+                "start": 44.165,
+                "end": 44.565002,
+                "confidence": 0.99902344,
+                "punctuated_word": "master"
+              },
+              {
+                "word": "your",
+                "start": 44.565002,
+                "end": 44.805,
+                "confidence": 1.0,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "habits",
+                "start": 44.805,
+                "end": 45.305,
+                "confidence": 0.99853516,
+                "punctuated_word": "habits,"
+              },
+              {
+                "word": "you",
+                "start": 45.445,
+                "end": 45.605003,
+                "confidence": 0.99902344,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "must",
+                "start": 45.605003,
+                "end": 45.925003,
+                "confidence": 1.0,
+                "punctuated_word": "must"
+              },
+              {
+                "word": "master",
+                "start": 45.925003,
+                "end": 46.325,
+                "confidence": 0.99902344,
+                "punctuated_word": "master"
+              },
+              {
+                "word": "the",
+                "start": 46.325,
+                "end": 46.485,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "four",
+                "start": 46.485,
+                "end": 46.725002,
+                "confidence": 1.0,
+                "punctuated_word": "four"
+              },
+              {
+                "word": "laws",
+                "start": 46.725002,
+                "end": 47.045002,
+                "confidence": 1.0,
+                "punctuated_word": "laws"
+              },
+              {
+                "word": "of",
+                "start": 47.045002,
+                "end": 47.205,
+                "confidence": 1.0,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "behavior",
+                "start": 47.205,
+                "end": 47.705,
+                "confidence": 0.9995117,
+                "punctuated_word": "behavior."
+              },
+              {
+                "word": "first",
+                "start": 47.845,
+                "end": 48.345,
+                "confidence": 0.99194336,
+                "punctuated_word": "First,"
+              },
+              {
+                "word": "make",
+                "start": 48.485,
+                "end": 48.725002,
+                "confidence": 1.0,
+                "punctuated_word": "make"
+              },
+              {
+                "word": "it",
+                "start": 48.725002,
+                "end": 48.965,
+                "confidence": 1.0,
+                "punctuated_word": "it"
+              },
+              {
+                "word": "obvious",
+                "start": 48.965,
+                "end": 49.465,
+                "confidence": 0.99853516,
+                "punctuated_word": "obvious."
+              },
+              {
+                "word": "most",
+                "start": 50.005,
+                "end": 50.325,
+                "confidence": 1.0,
+                "punctuated_word": "Most"
+              },
+              {
+                "word": "people",
+                "start": 50.325,
+                "end": 50.645,
+                "confidence": 1.0,
+                "punctuated_word": "people"
+              },
+              {
+                "word": "think",
+                "start": 50.645,
+                "end": 50.885002,
+                "confidence": 1.0,
+                "punctuated_word": "think"
+              },
+              {
+                "word": "they",
+                "start": 50.885002,
+                "end": 51.045002,
+                "confidence": 1.0,
+                "punctuated_word": "they"
+              },
+              {
+                "word": "lack",
+                "start": 51.045002,
+                "end": 51.365,
+                "confidence": 0.99902344,
+                "punctuated_word": "lack"
+              },
+              {
+                "word": "motivation",
+                "start": 51.365,
+                "end": 51.865,
+                "confidence": 1.0,
+                "punctuated_word": "motivation"
+              },
+              {
+                "word": "when",
+                "start": 52.325,
+                "end": 52.485,
+                "confidence": 0.95703125,
+                "punctuated_word": "when"
+              },
+              {
+                "word": "they",
+                "start": 52.485,
+                "end": 52.645,
+                "confidence": 1.0,
+                "punctuated_word": "they"
+              },
+              {
+                "word": "really",
+                "start": 52.645,
+                "end": 52.965,
+                "confidence": 1.0,
+                "punctuated_word": "really"
+              },
+              {
+                "word": "lack",
+                "start": 52.965,
+                "end": 53.205,
+                "confidence": 0.9902344,
+                "punctuated_word": "lack"
+              },
+              {
+                "word": "clarity",
+                "start": 53.205,
+                "end": 53.705,
+                "confidence": 0.99902344,
+                "punctuated_word": "clarity."
+              },
+              {
+                "word": "design",
+                "start": 54.405003,
+                "end": 54.645,
+                "confidence": 1.0,
+                "punctuated_word": "Design"
+              },
+              {
+                "word": "your",
+                "start": 54.645,
+                "end": 54.84,
+                "confidence": 0.9980469,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "environment",
+                "start": 55.08,
+                "end": 55.4,
+                "confidence": 1.0,
+                "punctuated_word": "environment"
+              },
+              {
+                "word": "so",
+                "start": 55.4,
+                "end": 55.72,
+                "confidence": 0.92333984,
+                "punctuated_word": "so"
+              },
+              {
+                "word": "the",
+                "start": 55.72,
+                "end": 55.88,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "visual",
+                "start": 55.88,
+                "end": 56.2,
+                "confidence": 0.99902344,
+                "punctuated_word": "visual"
+              },
+              {
+                "word": "cues",
+                "start": 56.2,
+                "end": 56.52,
+                "confidence": 0.97802734,
+                "punctuated_word": "cues"
+              },
+              {
+                "word": "for",
+                "start": 56.52,
+                "end": 56.76,
+                "confidence": 0.99902344,
+                "punctuated_word": "for"
+              },
+              {
+                "word": "good",
+                "start": 56.76,
+                "end": 57.0,
+                "confidence": 1.0,
+                "punctuated_word": "good"
+              },
+              {
+                "word": "habits",
+                "start": 57.0,
+                "end": 57.4,
+                "confidence": 1.0,
+                "punctuated_word": "habits"
+              },
+              {
+                "word": "are",
+                "start": 57.4,
+                "end": 57.64,
+                "confidence": 1.0,
+                "punctuated_word": "are"
+              },
+              {
+                "word": "glaringly",
+                "start": 57.64,
+                "end": 58.14,
+                "confidence": 1.0,
+                "punctuated_word": "glaringly"
+              },
+              {
+                "word": "obvious",
+                "start": 58.2,
+                "end": 58.7,
+                "confidence": 0.82958984,
+                "punctuated_word": "obvious,"
+              },
+              {
+                "word": "and",
+                "start": 59.08,
+                "end": 59.32,
+                "confidence": 1.0,
+                "punctuated_word": "and"
+              },
+              {
+                "word": "hide",
+                "start": 59.32,
+                "end": 59.56,
+                "confidence": 1.0,
+                "punctuated_word": "hide"
+              },
+              {
+                "word": "the",
+                "start": 59.56,
+                "end": 59.64,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "triggers",
+                "start": 59.64,
+                "end": 60.12,
+                "confidence": 1.0,
+                "punctuated_word": "triggers"
+              },
+              {
+                "word": "for",
+                "start": 60.12,
+                "end": 60.28,
+                "confidence": 1.0,
+                "punctuated_word": "for"
+              },
+              {
+                "word": "bad",
+                "start": 60.28,
+                "end": 60.52,
+                "confidence": 1.0,
+                "punctuated_word": "bad"
+              },
+              {
+                "word": "ones",
+                "start": 60.52,
+                "end": 61.02,
+                "confidence": 1.0,
+                "punctuated_word": "ones."
+              },
+              {
+                "word": "second",
+                "start": 61.239998,
+                "end": 61.739998,
+                "confidence": 0.9980469,
+                "punctuated_word": "Second,"
+              },
+              {
+                "word": "make",
+                "start": 62.12,
+                "end": 62.28,
+                "confidence": 1.0,
+                "punctuated_word": "make"
+              },
+              {
+                "word": "it",
+                "start": 62.28,
+                "end": 62.52,
+                "confidence": 1.0,
+                "punctuated_word": "it"
+              },
+              {
+                "word": "attractive",
+                "start": 62.52,
+                "end": 63.02,
+                "confidence": 1.0,
+                "punctuated_word": "attractive."
+              },
+              {
+                "word": "dopamine",
+                "start": 63.96,
+                "end": 64.46,
+                "confidence": 1.0,
+                "punctuated_word": "Dopamine"
+              },
+              {
+                "word": "drives",
+                "start": 64.6,
+                "end": 65.0,
+                "confidence": 1.0,
+                "punctuated_word": "drives"
+              },
+              {
+                "word": "our",
+                "start": 65.0,
+                "end": 65.16,
+                "confidence": 0.98291016,
+                "punctuated_word": "our"
+              },
+              {
+                "word": "cravings",
+                "start": 65.16,
+                "end": 65.66,
+                "confidence": 0.9970703,
+                "punctuated_word": "cravings."
+              },
+              {
+                "word": "bundle",
+                "start": 66.28,
+                "end": 66.68,
+                "confidence": 1.0,
+                "punctuated_word": "Bundle"
+              },
+              {
+                "word": "what",
+                "start": 66.68,
+                "end": 66.92,
+                "confidence": 0.9970703,
+                "punctuated_word": "what"
+              },
+              {
+                "word": "you",
+                "start": 66.92,
+                "end": 67.08,
+                "confidence": 0.9980469,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "need",
+                "start": 67.08,
+                "end": 67.24,
+                "confidence": 0.99902344,
+                "punctuated_word": "need"
+              },
+              {
+                "word": "to",
+                "start": 67.24,
+                "end": 67.4,
+                "confidence": 0.9970703,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "do",
+                "start": 67.4,
+                "end": 67.72,
+                "confidence": 0.9980469,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "with",
+                "start": 67.72,
+                "end": 67.96,
+                "confidence": 0.9970703,
+                "punctuated_word": "with"
+              },
+              {
+                "word": "what",
+                "start": 67.96,
+                "end": 68.12,
+                "confidence": 0.9980469,
+                "punctuated_word": "what"
+              },
+              {
+                "word": "you",
+                "start": 68.12,
+                "end": 68.36,
+                "confidence": 0.99609375,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "want",
+                "start": 68.36,
+                "end": 68.6,
+                "confidence": 0.9970703,
+                "punctuated_word": "want"
+              },
+              {
+                "word": "to",
+                "start": 68.6,
+                "end": 68.76,
+                "confidence": 0.9951172,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "do",
+                "start": 68.76,
+                "end": 69.24,
+                "confidence": 0.99902344,
+                "punctuated_word": "do."
+              },
+              {
+                "word": "third",
+                "start": 69.24,
+                "end": 69.74,
+                "confidence": 0.9995117,
+                "punctuated_word": "Third,"
+              },
+              {
+                "word": "make",
+                "start": 70.04,
+                "end": 70.2,
+                "confidence": 0.9921875,
+                "punctuated_word": "make"
+              },
+              {
+                "word": "it",
+                "start": 70.2,
+                "end": 70.36,
+                "confidence": 0.96533203,
+                "punctuated_word": "it"
+              },
+              {
+                "word": "easy",
+                "start": 70.36,
+                "end": 70.605,
+                "confidence": 0.75512695,
+                "punctuated_word": "easy."
+              },
+              {
+                "word": "easy",
+                "start": 71.08501,
+                "end": 71.40501,
+                "confidence": 0.9970703,
+                "punctuated_word": "Easy."
+              },
+              {
+                "word": "the",
+                "start": 71.40501,
+                "end": 71.565,
+                "confidence": 1.0,
+                "punctuated_word": "The"
+              },
+              {
+                "word": "enemy",
+                "start": 71.565,
+                "end": 71.885,
+                "confidence": 1.0,
+                "punctuated_word": "enemy"
+              },
+              {
+                "word": "of",
+                "start": 71.885,
+                "end": 72.125,
+                "confidence": 1.0,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "execution",
+                "start": 72.125,
+                "end": 72.625,
+                "confidence": 0.99902344,
+                "punctuated_word": "execution"
+              },
+              {
+                "word": "is",
+                "start": 72.685005,
+                "end": 72.925,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "friction",
+                "start": 72.925,
+                "end": 73.425,
+                "confidence": 1.0,
+                "punctuated_word": "friction."
+              },
+              {
+                "word": "use",
+                "start": 74.205,
+                "end": 74.525,
+                "confidence": 1.0,
+                "punctuated_word": "Use"
+              },
+              {
+                "word": "the",
+                "start": 74.525,
+                "end": 74.685005,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "two",
+                "start": 74.685005,
+                "end": 74.845,
+                "confidence": 1.0,
+                "punctuated_word": "two"
+              },
+              {
+                "word": "minute",
+                "start": 74.845,
+                "end": 75.165,
+                "confidence": 1.0,
+                "punctuated_word": "minute"
+              },
+              {
+                "word": "rule",
+                "start": 75.165,
+                "end": 75.645004,
+                "confidence": 0.97753906,
+                "punctuated_word": "rule."
+              },
+              {
+                "word": "when",
+                "start": 75.645004,
+                "end": 75.885,
+                "confidence": 1.0,
+                "punctuated_word": "When"
+              },
+              {
+                "word": "you",
+                "start": 75.885,
+                "end": 76.045006,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "start",
+                "start": 76.045006,
+                "end": 76.365005,
+                "confidence": 1.0,
+                "punctuated_word": "start"
+              },
+              {
+                "word": "a",
+                "start": 76.365005,
+                "end": 76.445,
+                "confidence": 0.99902344,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "new",
+                "start": 76.445,
+                "end": 76.605,
+                "confidence": 1.0,
+                "punctuated_word": "new"
+              },
+              {
+                "word": "habit",
+                "start": 76.605,
+                "end": 77.005005,
+                "confidence": 0.99853516,
+                "punctuated_word": "habit,"
+              },
+              {
+                "word": "it",
+                "start": 77.005005,
+                "end": 77.245,
+                "confidence": 0.99902344,
+                "punctuated_word": "it"
+              },
+              {
+                "word": "should",
+                "start": 77.245,
+                "end": 77.40501,
+                "confidence": 1.0,
+                "punctuated_word": "should"
+              },
+              {
+                "word": "take",
+                "start": 77.40501,
+                "end": 77.725006,
+                "confidence": 0.99902344,
+                "punctuated_word": "take"
+              },
+              {
+                "word": "less",
+                "start": 77.725006,
+                "end": 77.885,
+                "confidence": 1.0,
+                "punctuated_word": "less"
+              },
+              {
+                "word": "than",
+                "start": 77.885,
+                "end": 78.125,
+                "confidence": 0.99902344,
+                "punctuated_word": "than"
+              },
+              {
+                "word": "two",
+                "start": 78.125,
+                "end": 78.285,
+                "confidence": 0.99902344,
+                "punctuated_word": "two"
+              },
+              {
+                "word": "minutes",
+                "start": 78.285,
+                "end": 78.685005,
+                "confidence": 1.0,
+                "punctuated_word": "minutes"
+              },
+              {
+                "word": "to",
+                "start": 78.685005,
+                "end": 78.765,
+                "confidence": 1.0,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "do",
+                "start": 78.765,
+                "end": 79.265,
+                "confidence": 0.9995117,
+                "punctuated_word": "do."
+              },
+              {
+                "word": "run",
+                "start": 79.805,
+                "end": 80.045006,
+                "confidence": 0.99902344,
+                "punctuated_word": "Run"
+              },
+              {
+                "word": "just",
+                "start": 80.045006,
+                "end": 80.365005,
+                "confidence": 0.99902344,
+                "punctuated_word": "just"
+              },
+              {
+                "word": "one",
+                "start": 80.365005,
+                "end": 80.685005,
+                "confidence": 0.9980469,
+                "punctuated_word": "one"
+              },
+              {
+                "word": "block",
+                "start": 80.685005,
+                "end": 81.185005,
+                "confidence": 0.9863281,
+                "punctuated_word": "block."
+              },
+              {
+                "word": "read",
+                "start": 81.565,
+                "end": 81.965004,
+                "confidence": 1.0,
+                "punctuated_word": "Read"
+              },
+              {
+                "word": "just",
+                "start": 81.965004,
+                "end": 82.285,
+                "confidence": 0.9980469,
+                "punctuated_word": "just"
+              },
+              {
+                "word": "one",
+                "start": 82.285,
+                "end": 82.525,
+                "confidence": 0.99609375,
+                "punctuated_word": "one"
+              },
+              {
+                "word": "page",
+                "start": 82.525,
+                "end": 83.025,
+                "confidence": 0.99902344,
+                "punctuated_word": "page."
+              },
+              {
+                "word": "master",
+                "start": 83.565,
+                "end": 83.965004,
+                "confidence": 1.0,
+                "punctuated_word": "Master"
+              },
+              {
+                "word": "the",
+                "start": 83.965004,
+                "end": 84.125,
+                "confidence": 0.984375,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "art",
+                "start": 84.125,
+                "end": 84.365005,
+                "confidence": 0.99902344,
+                "punctuated_word": "art"
+              },
+              {
+                "word": "of",
+                "start": 84.365005,
+                "end": 84.525,
+                "confidence": 0.9951172,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "showing",
+                "start": 84.525,
+                "end": 84.845,
+                "confidence": 0.99609375,
+                "punctuated_word": "showing"
+              },
+              {
+                "word": "up",
+                "start": 84.845,
+                "end": 85.08501,
+                "confidence": 0.98828125,
+                "punctuated_word": "up"
+              },
+              {
+                "word": "before",
+                "start": 85.08501,
+                "end": 85.405,
+                "confidence": 0.9941406,
+                "punctuated_word": "before"
+              },
+              {
+                "word": "you",
+                "start": 85.405,
+                "end": 85.565,
+                "confidence": 0.9707031,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "worry",
+                "start": 85.565,
+                "end": 85.805,
+                "confidence": 0.9873047,
+                "punctuated_word": "worry"
+              },
+              {
+                "word": "about",
+                "start": 85.805,
+                "end": 86.305,
+                "confidence": 0.9394531,
+                "punctuated_word": "about"
+              },
+              {
+                "word": "optimizing",
+                "start": 86.53001,
+                "end": 87.03001,
+                "confidence": 0.91967773,
+                "punctuated_word": "optimizing."
+              },
+              {
+                "word": "and",
+                "start": 87.25,
+                "end": 87.57,
+                "confidence": 0.9980469,
+                "punctuated_word": "And"
+              },
+              {
+                "word": "fourth",
+                "start": 87.57,
+                "end": 88.07,
+                "confidence": 0.9970703,
+                "punctuated_word": "fourth,"
+              },
+              {
+                "word": "make",
+                "start": 88.130005,
+                "end": 88.29,
+                "confidence": 1.0,
+                "punctuated_word": "make"
+              },
+              {
+                "word": "it",
+                "start": 88.29,
+                "end": 88.53,
+                "confidence": 1.0,
+                "punctuated_word": "it"
+              },
+              {
+                "word": "satisfying",
+                "start": 88.53,
+                "end": 89.03,
+                "confidence": 0.9995117,
+                "punctuated_word": "satisfying."
+              },
+              {
+                "word": "what",
+                "start": 89.810005,
+                "end": 89.97,
+                "confidence": 1.0,
+                "punctuated_word": "What"
+              },
+              {
+                "word": "is",
+                "start": 89.97,
+                "end": 90.21,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "immediately",
+                "start": 90.21,
+                "end": 90.71,
+                "confidence": 1.0,
+                "punctuated_word": "immediately"
+              },
+              {
+                "word": "rewarded",
+                "start": 90.770004,
+                "end": 91.270004,
+                "confidence": 0.9970703,
+                "punctuated_word": "rewarded"
+              },
+              {
+                "word": "is",
+                "start": 91.33,
+                "end": 91.65,
+                "confidence": 0.99902344,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "repeated",
+                "start": 91.65,
+                "end": 92.15,
+                "confidence": 0.9941406,
+                "punctuated_word": "repeated."
+              },
+              {
+                "word": "what",
+                "start": 92.53,
+                "end": 92.770004,
+                "confidence": 1.0,
+                "punctuated_word": "What"
+              },
+              {
+                "word": "is",
+                "start": 92.770004,
+                "end": 93.01,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "immediately",
+                "start": 93.01,
+                "end": 93.51,
+                "confidence": 1.0,
+                "punctuated_word": "immediately"
+              },
+              {
+                "word": "punished",
+                "start": 93.65,
+                "end": 94.130005,
+                "confidence": 0.9980469,
+                "punctuated_word": "punished"
+              },
+              {
+                "word": "is",
+                "start": 94.130005,
+                "end": 94.37,
+                "confidence": 0.99902344,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "avoided",
+                "start": 94.37,
+                "end": 94.87,
+                "confidence": 1.0,
+                "punctuated_word": "avoided."
+              },
+              {
+                "word": "track",
+                "start": 95.490005,
+                "end": 95.810005,
+                "confidence": 0.99902344,
+                "punctuated_word": "Track"
+              },
+              {
+                "word": "your",
+                "start": 95.810005,
+                "end": 96.05,
+                "confidence": 1.0,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "streak",
+                "start": 96.05,
+                "end": 96.55,
+                "confidence": 0.7614746,
+                "punctuated_word": "streak."
+              },
+              {
+                "word": "celebrate",
+                "start": 96.93,
+                "end": 97.43,
+                "confidence": 0.9970703,
+                "punctuated_word": "Celebrate"
+              },
+              {
+                "word": "tiny",
+                "start": 97.57,
+                "end": 97.89,
+                "confidence": 1.0,
+                "punctuated_word": "tiny"
+              },
+              {
+                "word": "wins",
+                "start": 97.89,
+                "end": 98.39,
+                "confidence": 0.7338867,
+                "punctuated_word": "wins."
+              },
+              {
+                "word": "and",
+                "start": 98.61,
+                "end": 98.850006,
+                "confidence": 0.99609375,
+                "punctuated_word": "And"
+              },
+              {
+                "word": "remember",
+                "start": 98.850006,
+                "end": 99.25,
+                "confidence": 0.9980469,
+                "punctuated_word": "remember"
+              },
+              {
+                "word": "the",
+                "start": 99.25,
+                "end": 99.490005,
+                "confidence": 0.98828125,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "golden",
+                "start": 99.490005,
+                "end": 99.97,
+                "confidence": 0.99609375,
+                "punctuated_word": "golden"
+              },
+              {
+                "word": "rule",
+                "start": 99.97,
+                "end": 100.47,
+                "confidence": 0.8261719,
+                "punctuated_word": "rule,"
+              },
+              {
+                "word": "never",
+                "start": 100.61,
+                "end": 100.93,
+                "confidence": 0.99902344,
+                "punctuated_word": "never"
+              },
+              {
+                "word": "miss",
+                "start": 100.93,
+                "end": 101.25,
+                "confidence": 0.97265625,
+                "punctuated_word": "miss"
+              },
+              {
+                "word": "twice",
+                "start": 101.25,
+                "end": 101.75,
+                "confidence": 1.0,
+                "punctuated_word": "twice."
+              },
+              {
+                "word": "ultimately",
+                "start": 102.275,
+                "end": 102.775,
+                "confidence": 0.97680664,
+                "punctuated_word": "Ultimately,"
+              },
+              {
+                "word": "true",
+                "start": 102.835,
+                "end": 103.155,
+                "confidence": 1.0,
+                "punctuated_word": "true"
+              },
+              {
+                "word": "behavior",
+                "start": 103.155,
+                "end": 103.635,
+                "confidence": 1.0,
+                "punctuated_word": "behavior"
+              },
+              {
+                "word": "change",
+                "start": 103.635,
+                "end": 103.875,
+                "confidence": 1.0,
+                "punctuated_word": "change"
+              },
+              {
+                "word": "is",
+                "start": 103.875,
+                "end": 104.195,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "identity",
+                "start": 104.195,
+                "end": 104.695,
+                "confidence": 1.0,
+                "punctuated_word": "identity"
+              },
+              {
+                "word": "change",
+                "start": 104.755005,
+                "end": 105.255005,
+                "confidence": 1.0,
+                "punctuated_word": "change."
+              },
+              {
+                "word": "every",
+                "start": 105.635,
+                "end": 105.955,
+                "confidence": 1.0,
+                "punctuated_word": "Every"
+              },
+              {
+                "word": "action",
+                "start": 105.955,
+                "end": 106.355,
+                "confidence": 1.0,
+                "punctuated_word": "action"
+              },
+              {
+                "word": "you",
+                "start": 106.355,
+                "end": 106.515,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "take",
+                "start": 106.515,
+                "end": 106.755005,
+                "confidence": 1.0,
+                "punctuated_word": "take"
+              },
+              {
+                "word": "is",
+                "start": 106.755005,
+                "end": 106.915,
+                "confidence": 1.0,
+                "punctuated_word": "is"
+              },
+              {
+                "word": "a",
+                "start": 106.915,
+                "end": 107.075005,
+                "confidence": 1.0,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "vote",
+                "start": 107.075005,
+                "end": 107.315,
+                "confidence": 1.0,
+                "punctuated_word": "vote"
+              },
+              {
+                "word": "for",
+                "start": 107.315,
+                "end": 107.475,
+                "confidence": 1.0,
+                "punctuated_word": "for"
+              },
+              {
+                "word": "the",
+                "start": 107.475,
+                "end": 107.555,
+                "confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "type",
+                "start": 107.555,
+                "end": 107.795,
+                "confidence": 1.0,
+                "punctuated_word": "type"
+              },
+              {
+                "word": "of",
+                "start": 107.795,
+                "end": 107.955,
+                "confidence": 1.0,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "person",
+                "start": 107.955,
+                "end": 108.275,
+                "confidence": 1.0,
+                "punctuated_word": "person"
+              },
+              {
+                "word": "you",
+                "start": 108.275,
+                "end": 108.435005,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "wish",
+                "start": 108.435005,
+                "end": 108.755005,
+                "confidence": 0.99902344,
+                "punctuated_word": "wish"
+              },
+              {
+                "word": "to",
+                "start": 108.755005,
+                "end": 108.915,
+                "confidence": 1.0,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "become",
+                "start": 108.915,
+                "end": 109.415,
+                "confidence": 0.99560547,
+                "punctuated_word": "become."
+              },
+              {
+                "word": "1%",
+                "start": 110.035,
+                "end": 110.675,
+                "confidence": 0.99902344,
+                "punctuated_word": "1%"
+              },
+              {
+                "word": "better",
+                "start": 110.675,
+                "end": 110.995,
+                "confidence": 1.0,
+                "punctuated_word": "better"
+              },
+              {
+                "word": "each",
+                "start": 110.995,
+                "end": 111.235,
+                "confidence": 0.99902344,
+                "punctuated_word": "each"
+              },
+              {
+                "word": "day",
+                "start": 111.235,
+                "end": 111.635,
+                "confidence": 1.0,
+                "punctuated_word": "day"
+              },
+              {
+                "word": "compounds",
+                "start": 111.635,
+                "end": 112.115005,
+                "confidence": 0.97998047,
+                "punctuated_word": "compounds"
+              },
+              {
+                "word": "into",
+                "start": 112.115005,
+                "end": 112.515,
+                "confidence": 0.99902344,
+                "punctuated_word": "into"
+              },
+              {
+                "word": "37",
+                "start": 112.515,
+                "end": 113.155,
+                "confidence": 1.0,
+                "punctuated_word": "37"
+              },
+              {
+                "word": "times",
+                "start": 113.155,
+                "end": 113.555,
+                "confidence": 1.0,
+                "punctuated_word": "times"
+              },
+              {
+                "word": "better",
+                "start": 113.555,
+                "end": 113.875,
+                "confidence": 1.0,
+                "punctuated_word": "better"
+              },
+              {
+                "word": "in",
+                "start": 113.875,
+                "end": 114.035,
+                "confidence": 1.0,
+                "punctuated_word": "in"
+              },
+              {
+                "word": "a",
+                "start": 114.035,
+                "end": 114.195,
+                "confidence": 1.0,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "single",
+                "start": 114.195,
+                "end": 114.57,
+                "confidence": 1.0,
+                "punctuated_word": "single"
+              },
+              {
+                "word": "year",
+                "start": 115.13,
+                "end": 115.45,
+                "confidence": 0.9802246,
+                "punctuated_word": "year."
+              },
+              {
+                "word": "small",
+                "start": 115.45,
+                "end": 115.77,
+                "confidence": 1.0,
+                "punctuated_word": "Small"
+              },
+              {
+                "word": "habits",
+                "start": 115.77,
+                "end": 116.27,
+                "confidence": 1.0,
+                "punctuated_word": "habits"
+              },
+              {
+                "word": "don't",
+                "start": 116.33,
+                "end": 116.49,
+                "confidence": 1.0,
+                "punctuated_word": "don't"
+              },
+              {
+                "word": "add",
+                "start": 116.49,
+                "end": 116.729996,
+                "confidence": 1.0,
+                "punctuated_word": "add"
+              },
+              {
+                "word": "up",
+                "start": 116.729996,
+                "end": 117.21,
+                "confidence": 0.9133301,
+                "punctuated_word": "up."
+              },
+              {
+                "word": "they",
+                "start": 117.21,
+                "end": 117.45,
+                "confidence": 1.0,
+                "punctuated_word": "They"
+              },
+              {
+                "word": "multiply",
+                "start": 117.45,
+                "end": 117.95,
+                "confidence": 0.9995117,
+                "punctuated_word": "multiply."
+              },
+              {
+                "word": "so",
+                "start": 118.409996,
+                "end": 118.81,
+                "confidence": 0.98095703,
+                "punctuated_word": "So"
+              },
+              {
+                "word": "tell",
+                "start": 118.81,
+                "end": 118.97,
+                "confidence": 0.9536133,
+                "punctuated_word": "tell"
+              },
+              {
+                "word": "me",
+                "start": 118.97,
+                "end": 119.13,
+                "confidence": 1.0,
+                "punctuated_word": "me"
+              },
+              {
+                "word": "below",
+                "start": 119.13,
+                "end": 119.63,
+                "confidence": 0.8757324,
+                "punctuated_word": "below."
+              },
+              {
+                "word": "would",
+                "start": 120.09,
+                "end": 120.33,
+                "confidence": 1.0,
+                "punctuated_word": "Would"
+              },
+              {
+                "word": "you",
+                "start": 120.33,
+                "end": 120.49,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "rather",
+                "start": 120.49,
+                "end": 120.81,
+                "confidence": 1.0,
+                "punctuated_word": "rather"
+              },
+              {
+                "word": "achieve",
+                "start": 120.81,
+                "end": 121.13,
+                "confidence": 1.0,
+                "punctuated_word": "achieve"
+              },
+              {
+                "word": "your",
+                "start": 121.13,
+                "end": 121.37,
+                "confidence": 1.0,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "ultimate",
+                "start": 121.37,
+                "end": 121.85,
+                "confidence": 1.0,
+                "punctuated_word": "ultimate"
+              },
+              {
+                "word": "dream",
+                "start": 121.85,
+                "end": 122.17,
+                "confidence": 1.0,
+                "punctuated_word": "dream"
+              },
+              {
+                "word": "goal",
+                "start": 122.17,
+                "end": 122.409996,
+                "confidence": 1.0,
+                "punctuated_word": "goal"
+              },
+              {
+                "word": "today",
+                "start": 122.409996,
+                "end": 122.909996,
+                "confidence": 0.83154297,
+                "punctuated_word": "today,"
+              },
+              {
+                "word": "but",
+                "start": 123.13,
+                "end": 123.45,
+                "confidence": 1.0,
+                "punctuated_word": "but"
+              },
+              {
+                "word": "possess",
+                "start": 123.45,
+                "end": 123.93,
+                "confidence": 0.99609375,
+                "punctuated_word": "possess"
+              },
+              {
+                "word": "zero",
+                "start": 123.93,
+                "end": 124.25,
+                "confidence": 0.9291992,
+                "punctuated_word": "zero"
+              },
+              {
+                "word": "systems",
+                "start": 124.25,
+                "end": 124.75,
+                "confidence": 1.0,
+                "punctuated_word": "systems"
+              },
+              {
+                "word": "and",
+                "start": 124.81,
+                "end": 125.05,
+                "confidence": 0.98535156,
+                "punctuated_word": "and"
+              },
+              {
+                "word": "slide",
+                "start": 125.05,
+                "end": 125.37,
+                "confidence": 0.99121094,
+                "punctuated_word": "slide"
+              },
+              {
+                "word": "back",
+                "start": 125.37,
+                "end": 125.61,
+                "confidence": 0.9980469,
+                "punctuated_word": "back"
+              },
+              {
+                "word": "to",
+                "start": 125.61,
+                "end": 125.85,
+                "confidence": 1.0,
+                "punctuated_word": "to"
+              },
+              {
+                "word": "square",
+                "start": 125.85,
+                "end": 126.17,
+                "confidence": 1.0,
+                "punctuated_word": "square"
+              },
+              {
+                "word": "one",
+                "start": 126.17,
+                "end": 126.45894,
+                "confidence": 0.99902344,
+                "punctuated_word": "one"
+              },
+              {
+                "word": "within",
+                "start": 126.53894,
+                "end": 126.69894,
+                "confidence": 1.0,
+                "punctuated_word": "within"
+              },
+              {
+                "word": "a",
+                "start": 126.69894,
+                "end": 126.93894,
+                "confidence": 1.0,
+                "punctuated_word": "a"
+              },
+              {
+                "word": "year",
+                "start": 126.93894,
+                "end": 127.43894,
+                "confidence": 0.7915039,
+                "punctuated_word": "year,"
+              },
+              {
+                "word": "or",
+                "start": 127.81894,
+                "end": 128.05894,
+                "confidence": 0.99902344,
+                "punctuated_word": "or"
+              },
+              {
+                "word": "master",
+                "start": 128.05894,
+                "end": 128.53894,
+                "confidence": 0.9980469,
+                "punctuated_word": "master"
+              },
+              {
+                "word": "unbreakable",
+                "start": 128.53894,
+                "end": 129.03894,
+                "confidence": 0.9996745,
+                "punctuated_word": "unbreakable"
+              },
+              {
+                "word": "daily",
+                "start": 129.17894,
+                "end": 129.57893,
+                "confidence": 0.9980469,
+                "punctuated_word": "daily"
+              },
+              {
+                "word": "systems",
+                "start": 129.57893,
+                "end": 129.97894,
+                "confidence": 1.0,
+                "punctuated_word": "systems"
+              },
+              {
+                "word": "where",
+                "start": 129.97894,
+                "end": 130.21893,
+                "confidence": 0.96240234,
+                "punctuated_word": "where"
+              },
+              {
+                "word": "you",
+                "start": 130.21893,
+                "end": 130.37894,
+                "confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "improve",
+                "start": 130.37894,
+                "end": 130.77893,
+                "confidence": 0.99316406,
+                "punctuated_word": "improve"
+              },
+              {
+                "word": "just",
+                "start": 130.77893,
+                "end": 131.01894,
+                "confidence": 1.0,
+                "punctuated_word": "just"
+              },
+              {
+                "word": "1%",
+                "start": 131.01894,
+                "end": 131.73894,
+                "confidence": 1.0,
+                "punctuated_word": "1%"
+              },
+              {
+                "word": "every",
+                "start": 131.73894,
+                "end": 131.97894,
+                "confidence": 0.9873047,
+                "punctuated_word": "every"
+              },
+              {
+                "word": "day",
+                "start": 131.97894,
+                "end": 132.47894,
+                "confidence": 0.9316406,
+                "punctuated_word": "day,"
+              },
+              {
+                "word": "but",
+                "start": 132.69894,
+                "end": 133.01894,
+                "confidence": 1.0,
+                "punctuated_word": "but"
+              },
+              {
+                "word": "own",
+                "start": 133.01894,
+                "end": 133.25894,
+                "confidence": 0.99609375,
+                "punctuated_word": "own"
+              },
+              {
+                "word": "lifelong",
+                "start": 133.25894,
+                "end": 133.75894,
+                "confidence": 0.9951172,
+                "punctuated_word": "lifelong"
+              },
+              {
+                "word": "momentum",
+                "start": 133.81894,
+                "end": 134.31894,
+                "confidence": 0.9279785,
+                "punctuated_word": "momentum."
+              }
+            ],
+            "paragraphs": {
+              "transcript": "\nAtomic Habits by James Clear in two minutes. Most people believe that transforming your life requires massive action, radical willpower, and overnight miracles. In reality, massive change does not come from giant leaps. It comes from tiny invisible daily choices. Here is the brutal truth.\n\nWinners and losers have the exact same goals. Every Olympian wants the gold medal. Every job seeker wants the promotion. The goal cannot be what separates them. You do not rise to the level of your goals.\n\nYou fall to the level of your systems. Goals are about the results you want. Systems are about the daily processes that lead to those results. If you fix your systems, the score takes care of itself. To master your habits, you must master the four laws of behavior.\n\nFirst, make it obvious. Most people think they lack motivation when they really lack clarity. Design your environment so the visual cues for good habits are glaringly obvious, and hide the triggers for bad ones. Second, make it attractive. Dopamine drives our cravings.\n\nBundle what you need to do with what you want to do. Third, make it easy. Easy. The enemy of execution is friction. Use the two minute rule.\n\nWhen you start a new habit, it should take less than two minutes to do. Run just one block. Read just one page. Master the art of showing up before you worry about optimizing. And fourth, make it satisfying.\n\nWhat is immediately rewarded is repeated. What is immediately punished is avoided. Track your streak. Celebrate tiny wins. And remember the golden rule, never miss twice.\n\nUltimately, true behavior change is identity change. Every action you take is a vote for the type of person you wish to become. 1% better each day compounds into 37 times better in a single year. Small habits don't add up. They multiply.\n\nSo tell me below. Would you rather achieve your ultimate dream goal today, but possess zero systems and slide back to square one within a year, or master unbreakable daily systems where you improve just 1% every day, but own lifelong momentum.",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "Atomic Habits by James Clear in two minutes.",
+                      "start": 0.39999998,
+                      "end": 2.98
+                    },
+                    {
+                      "text": "Most people believe that transforming your life requires massive action, radical willpower, and overnight miracles.",
+                      "start": 3.28,
+                      "end": 9.86
+                    },
+                    {
+                      "text": "In reality, massive change does not come from giant leaps.",
+                      "start": 10.4,
+                      "end": 14.195
+                    },
+                    {
+                      "text": "It comes from tiny invisible daily choices.",
+                      "start": 14.495,
+                      "end": 17.314999
+                    },
+                    {
+                      "text": "Here is the brutal truth.",
+                      "start": 17.855,
+                      "end": 19.235
+                    }
+                  ],
+                  "num_words": 45,
+                  "start": 0.39999998,
+                  "end": 19.235
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Winners and losers have the exact same goals.",
+                      "start": 19.535,
+                      "end": 22.195
+                    },
+                    {
+                      "text": "Every Olympian wants the gold medal.",
+                      "start": 22.414999,
+                      "end": 24.435
+                    },
+                    {
+                      "text": "Every job seeker wants the promotion.",
+                      "start": 24.895,
+                      "end": 26.789999
+                    },
+                    {
+                      "text": "The goal cannot be what separates them.",
+                      "start": 27.25,
+                      "end": 29.57
+                    },
+                    {
+                      "text": "You do not rise to the level of your goals.",
+                      "start": 29.57,
+                      "end": 31.75
+                    }
+                  ],
+                  "num_words": 37,
+                  "start": 19.535,
+                  "end": 31.75
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "You fall to the level of your systems.",
+                      "start": 32.129997,
+                      "end": 33.989998
+                    },
+                    {
+                      "text": "Goals are about the results you want.",
+                      "start": 34.37,
+                      "end": 36.309998
+                    },
+                    {
+                      "text": "Systems are about the daily processes that lead to those results.",
+                      "start": 36.53,
+                      "end": 40.405003
+                    },
+                    {
+                      "text": "If you fix your systems, the score takes care of itself.",
+                      "start": 40.405003,
+                      "end": 43.625
+                    },
+                    {
+                      "text": "To master your habits, you must master the four laws of behavior.",
+                      "start": 44.005,
+                      "end": 47.705
+                    }
+                  ],
+                  "num_words": 49,
+                  "start": 32.129997,
+                  "end": 47.705
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "First, make it obvious.",
+                      "start": 47.845,
+                      "end": 49.465
+                    },
+                    {
+                      "text": "Most people think they lack motivation when they really lack clarity.",
+                      "start": 50.005,
+                      "end": 53.705
+                    },
+                    {
+                      "text": "Design your environment so the visual cues for good habits are glaringly obvious, and hide the triggers for bad ones.",
+                      "start": 54.405003,
+                      "end": 61.02
+                    },
+                    {
+                      "text": "Second, make it attractive.",
+                      "start": 61.239998,
+                      "end": 63.02
+                    },
+                    {
+                      "text": "Dopamine drives our cravings.",
+                      "start": 63.96,
+                      "end": 65.66
+                    }
+                  ],
+                  "num_words": 43,
+                  "start": 47.845,
+                  "end": 65.66
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Bundle what you need to do with what you want to do.",
+                      "start": 66.28,
+                      "end": 69.24
+                    },
+                    {
+                      "text": "Third, make it easy.",
+                      "start": 69.24,
+                      "end": 70.605
+                    },
+                    {
+                      "text": "Easy.",
+                      "start": 71.08501,
+                      "end": 71.40501
+                    },
+                    {
+                      "text": "The enemy of execution is friction.",
+                      "start": 71.40501,
+                      "end": 73.425
+                    },
+                    {
+                      "text": "Use the two minute rule.",
+                      "start": 74.205,
+                      "end": 75.645004
+                    }
+                  ],
+                  "num_words": 28,
+                  "start": 66.28,
+                  "end": 75.645004
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "When you start a new habit, it should take less than two minutes to do.",
+                      "start": 75.645004,
+                      "end": 79.265
+                    },
+                    {
+                      "text": "Run just one block.",
+                      "start": 79.805,
+                      "end": 81.185005
+                    },
+                    {
+                      "text": "Read just one page.",
+                      "start": 81.565,
+                      "end": 83.025
+                    },
+                    {
+                      "text": "Master the art of showing up before you worry about optimizing.",
+                      "start": 83.565,
+                      "end": 87.03001
+                    },
+                    {
+                      "text": "And fourth, make it satisfying.",
+                      "start": 87.25,
+                      "end": 89.03
+                    }
+                  ],
+                  "num_words": 39,
+                  "start": 75.645004,
+                  "end": 89.03
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "What is immediately rewarded is repeated.",
+                      "start": 89.810005,
+                      "end": 92.15
+                    },
+                    {
+                      "text": "What is immediately punished is avoided.",
+                      "start": 92.53,
+                      "end": 94.87
+                    },
+                    {
+                      "text": "Track your streak.",
+                      "start": 95.490005,
+                      "end": 96.55
+                    },
+                    {
+                      "text": "Celebrate tiny wins.",
+                      "start": 96.93,
+                      "end": 98.39
+                    },
+                    {
+                      "text": "And remember the golden rule, never miss twice.",
+                      "start": 98.61,
+                      "end": 101.75
+                    }
+                  ],
+                  "num_words": 26,
+                  "start": 89.810005,
+                  "end": 101.75
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "Ultimately, true behavior change is identity change.",
+                      "start": 102.275,
+                      "end": 105.255005
+                    },
+                    {
+                      "text": "Every action you take is a vote for the type of person you wish to become.",
+                      "start": 105.635,
+                      "end": 109.415
+                    },
+                    {
+                      "text": "1% better each day compounds into 37 times better in a single year.",
+                      "start": 110.035,
+                      "end": 115.45
+                    },
+                    {
+                      "text": "Small habits don't add up.",
+                      "start": 115.45,
+                      "end": 117.21
+                    },
+                    {
+                      "text": "They multiply.",
+                      "start": 117.21,
+                      "end": 117.95
+                    }
+                  ],
+                  "num_words": 43,
+                  "start": 102.275,
+                  "end": 117.95
+                },
+                {
+                  "sentences": [
+                    {
+                      "text": "So tell me below.",
+                      "start": 118.409996,
+                      "end": 119.63
+                    },
+                    {
+                      "text": "Would you rather achieve your ultimate dream goal today, but possess zero systems and slide back to square one within a year, or master unbreakable daily systems where you improve just 1% every day, but own lifelong momentum.",
+                      "start": 120.09,
+                      "end": 134.31894
+                    }
+                  ],
+                  "num_words": 42,
+                  "start": 118.409996,
+                  "end": 134.31894
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "utterances": [
+      {
+        "start": 0.39999998,
+        "end": 9.86,
+        "confidence": 0.98354703,
+        "channel": 0,
+        "transcript": "Atomic Habits by James Clear in two minutes. Most people believe that transforming your life requires massive action, radical willpower, and overnight miracles.",
+        "words": [
+          {
+            "word": "atomic",
+            "start": 0.39999998,
+            "end": 0.88,
+            "confidence": 0.96777344,
+            "punctuated_word": "Atomic"
+          },
+          {
+            "word": "habits",
+            "start": 0.88,
+            "end": 1.1999999,
+            "confidence": 0.8833008,
+            "punctuated_word": "Habits"
+          },
+          {
+            "word": "by",
+            "start": 1.1999999,
+            "end": 1.36,
+            "confidence": 0.99316406,
+            "punctuated_word": "by"
+          },
+          {
+            "word": "james",
+            "start": 1.36,
+            "end": 1.76,
+            "confidence": 1.0,
+            "punctuated_word": "James"
+          },
+          {
+            "word": "clear",
+            "start": 1.76,
+            "end": 2.08,
+            "confidence": 0.99316406,
+            "punctuated_word": "Clear"
+          },
+          {
+            "word": "in",
+            "start": 2.08,
+            "end": 2.32,
+            "confidence": 0.99609375,
+            "punctuated_word": "in"
+          },
+          {
+            "word": "two",
+            "start": 2.32,
+            "end": 2.48,
+            "confidence": 0.99609375,
+            "punctuated_word": "two"
+          },
+          {
+            "word": "minutes",
+            "start": 2.48,
+            "end": 2.98,
+            "confidence": 0.99853516,
+            "punctuated_word": "minutes."
+          },
+          {
+            "word": "most",
+            "start": 3.28,
+            "end": 3.6799998,
+            "confidence": 0.99902344,
+            "punctuated_word": "Most"
+          },
+          {
+            "word": "people",
+            "start": 3.6799998,
+            "end": 4.0,
+            "confidence": 1.0,
+            "punctuated_word": "people"
+          },
+          {
+            "word": "believe",
+            "start": 4.0,
+            "end": 4.3199997,
+            "confidence": 0.99902344,
+            "punctuated_word": "believe"
+          },
+          {
+            "word": "that",
+            "start": 4.3199997,
+            "end": 4.64,
+            "confidence": 1.0,
+            "punctuated_word": "that"
+          },
+          {
+            "word": "transforming",
+            "start": 4.64,
+            "end": 5.14,
+            "confidence": 1.0,
+            "punctuated_word": "transforming"
+          },
+          {
+            "word": "your",
+            "start": 5.2,
+            "end": 5.44,
+            "confidence": 1.0,
+            "punctuated_word": "your"
+          },
+          {
+            "word": "life",
+            "start": 5.44,
+            "end": 5.7599998,
+            "confidence": 1.0,
+            "punctuated_word": "life"
+          },
+          {
+            "word": "requires",
+            "start": 5.7599998,
+            "end": 6.2599998,
+            "confidence": 1.0,
+            "punctuated_word": "requires"
+          },
+          {
+            "word": "massive",
+            "start": 6.3199997,
+            "end": 6.8199997,
+            "confidence": 0.8432617,
+            "punctuated_word": "massive"
+          },
+          {
+            "word": "action",
+            "start": 6.8799996,
+            "end": 7.3799996,
+            "confidence": 0.99609375,
+            "punctuated_word": "action,"
+          },
+          {
+            "word": "radical",
+            "start": 7.52,
+            "end": 8.0,
+            "confidence": 1.0,
+            "punctuated_word": "radical"
+          },
+          {
+            "word": "willpower",
+            "start": 8.0,
+            "end": 8.5,
+            "confidence": 0.9560547,
+            "punctuated_word": "willpower,"
+          },
+          {
+            "word": "and",
+            "start": 8.559999,
+            "end": 8.8,
+            "confidence": 1.0,
+            "punctuated_word": "and"
+          },
+          {
+            "word": "overnight",
+            "start": 8.8,
+            "end": 9.3,
+            "confidence": 1.0,
+            "punctuated_word": "overnight"
+          },
+          {
+            "word": "miracles",
+            "start": 9.36,
+            "end": 9.86,
+            "confidence": 1.0,
+            "punctuated_word": "miracles."
+          }
+        ],
+        "id": "dfb03fb1-213d-44f8-b517-860012fe9087"
+      },
+      {
+        "start": 10.4,
+        "end": 14.195,
+        "confidence": 0.99912107,
+        "channel": 0,
+        "transcript": "In reality, massive change does not come from giant leaps.",
+        "words": [
+          {
+            "word": "in",
+            "start": 10.4,
+            "end": 10.639999,
+            "confidence": 1.0,
+            "punctuated_word": "In"
+          },
+          {
+            "word": "reality",
+            "start": 10.639999,
+            "end": 11.139999,
+            "confidence": 0.9995117,
+            "punctuated_word": "reality,"
+          },
+          {
+            "word": "massive",
+            "start": 11.36,
+            "end": 11.86,
+            "confidence": 1.0,
+            "punctuated_word": "massive"
+          },
+          {
+            "word": "change",
+            "start": 11.92,
+            "end": 12.32,
+            "confidence": 1.0,
+            "punctuated_word": "change"
+          },
+          {
+            "word": "does",
+            "start": 12.32,
+            "end": 12.48,
+            "confidence": 1.0,
+            "punctuated_word": "does"
+          },
+          {
+            "word": "not",
+            "start": 12.48,
+            "end": 12.735,
+            "confidence": 1.0,
+            "punctuated_word": "not"
+          },
+          {
+            "word": "come",
+            "start": 12.735,
+            "end": 12.974999,
+            "confidence": 1.0,
+            "punctuated_word": "come"
+          },
+          {
+            "word": "from",
+            "start": 12.974999,
+            "end": 13.214999,
+            "confidence": 1.0,
+            "punctuated_word": "from"
+          },
+          {
+            "word": "giant",
+            "start": 13.214999,
+            "end": 13.695,
+            "confidence": 0.99902344,
+            "punctuated_word": "giant"
+          },
+          {
+            "word": "leaps",
+            "start": 13.695,
+            "end": 14.195,
+            "confidence": 0.9926758,
+            "punctuated_word": "leaps."
+          }
+        ],
+        "id": "b73f70a1-c5ee-4aff-8613-b1f80066647c"
+      },
+      {
+        "start": 14.495,
+        "end": 17.314999,
+        "confidence": 0.94970703,
+        "channel": 0,
+        "transcript": "It comes from tiny invisible daily choices.",
+        "words": [
+          {
+            "word": "it",
+            "start": 14.495,
+            "end": 14.735,
+            "confidence": 1.0,
+            "punctuated_word": "It"
+          },
+          {
+            "word": "comes",
+            "start": 14.735,
+            "end": 15.054999,
+            "confidence": 1.0,
+            "punctuated_word": "comes"
+          },
+          {
+            "word": "from",
+            "start": 15.054999,
+            "end": 15.295,
+            "confidence": 1.0,
+            "punctuated_word": "from"
+          },
+          {
+            "word": "tiny",
+            "start": 15.295,
+            "end": 15.795,
+            "confidence": 1.0,
+            "punctuated_word": "tiny"
+          },
+          {
+            "word": "invisible",
+            "start": 15.855,
+            "end": 16.355,
+            "confidence": 0.6538086,
+            "punctuated_word": "invisible"
+          },
+          {
+            "word": "daily",
+            "start": 16.414999,
+            "end": 16.814999,
+            "confidence": 0.9941406,
+            "punctuated_word": "daily"
+          },
+          {
+            "word": "choices",
+            "start": 16.814999,
+            "end": 17.314999,
+            "confidence": 1.0,
+            "punctuated_word": "choices."
+          }
+        ],
+        "id": "d90b0340-e966-4638-a29b-b3f920aa058d"
+      },
+      {
+        "start": 17.855,
+        "end": 24.435,
+        "confidence": 0.99410206,
+        "channel": 0,
+        "transcript": "Here is the brutal truth. Winners and losers have the exact same goals. Every Olympian wants the gold medal.",
+        "words": [
+          {
+            "word": "here",
+            "start": 17.855,
+            "end": 18.095,
+            "confidence": 0.9951172,
+            "punctuated_word": "Here"
+          },
+          {
+            "word": "is",
+            "start": 18.095,
+            "end": 18.255,
+            "confidence": 0.93603516,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "the",
+            "start": 18.255,
+            "end": 18.335,
+            "confidence": 1.0,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "brutal",
+            "start": 18.335,
+            "end": 18.735,
+            "confidence": 1.0,
+            "punctuated_word": "brutal"
+          },
+          {
+            "word": "truth",
+            "start": 18.735,
+            "end": 19.235,
+            "confidence": 0.97021484,
+            "punctuated_word": "truth."
+          },
+          {
+            "word": "winners",
+            "start": 19.535,
+            "end": 19.855,
+            "confidence": 1.0,
+            "punctuated_word": "Winners"
+          },
+          {
+            "word": "and",
+            "start": 19.855,
+            "end": 20.095,
+            "confidence": 1.0,
+            "punctuated_word": "and"
+          },
+          {
+            "word": "losers",
+            "start": 20.095,
+            "end": 20.574999,
+            "confidence": 1.0,
+            "punctuated_word": "losers"
+          },
+          {
+            "word": "have",
+            "start": 20.574999,
+            "end": 20.735,
+            "confidence": 1.0,
+            "punctuated_word": "have"
+          },
+          {
+            "word": "the",
+            "start": 20.735,
+            "end": 20.895,
+            "confidence": 1.0,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "exact",
+            "start": 20.895,
+            "end": 21.375,
+            "confidence": 1.0,
+            "punctuated_word": "exact"
+          },
+          {
+            "word": "same",
+            "start": 21.375,
+            "end": 21.695,
+            "confidence": 1.0,
+            "punctuated_word": "same"
+          },
+          {
+            "word": "goals",
+            "start": 21.695,
+            "end": 22.195,
+            "confidence": 0.9995117,
+            "punctuated_word": "goals."
+          },
+          {
+            "word": "every",
+            "start": 22.414999,
+            "end": 22.814999,
+            "confidence": 1.0,
+            "punctuated_word": "Every"
+          },
+          {
+            "word": "olympian",
+            "start": 22.814999,
+            "end": 23.294998,
+            "confidence": 0.98950195,
+            "punctuated_word": "Olympian"
+          },
+          {
+            "word": "wants",
+            "start": 23.294998,
+            "end": 23.535,
+            "confidence": 1.0,
+            "punctuated_word": "wants"
+          },
+          {
+            "word": "the",
+            "start": 23.535,
+            "end": 23.695,
+            "confidence": 1.0,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "gold",
+            "start": 23.695,
+            "end": 23.935,
+            "confidence": 1.0,
+            "punctuated_word": "gold"
+          },
+          {
+            "word": "medal",
+            "start": 23.935,
+            "end": 24.435,
+            "confidence": 0.9975586,
+            "punctuated_word": "medal."
+          }
+        ],
+        "id": "56657b89-4366-4aac-a24a-e81023c4ad0c"
+      },
+      {
+        "start": 24.895,
+        "end": 26.789999,
+        "confidence": 0.9965007,
+        "channel": 0,
+        "transcript": "Every job seeker wants the promotion.",
+        "words": [
+          {
+            "word": "every",
+            "start": 24.895,
+            "end": 25.215,
+            "confidence": 1.0,
+            "punctuated_word": "Every"
+          },
+          {
+            "word": "job",
+            "start": 25.215,
+            "end": 25.454998,
+            "confidence": 1.0,
+            "punctuated_word": "job"
+          },
+          {
+            "word": "seeker",
+            "start": 25.454998,
+            "end": 25.855,
+            "confidence": 0.9790039,
+            "punctuated_word": "seeker"
+          },
+          {
+            "word": "wants",
+            "start": 25.855,
+            "end": 26.13,
+            "confidence": 1.0,
+            "punctuated_word": "wants"
+          },
+          {
+            "word": "the",
+            "start": 26.13,
+            "end": 26.289999,
+            "confidence": 1.0,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "promotion",
+            "start": 26.289999,
+            "end": 26.789999,
+            "confidence": 1.0,
+            "punctuated_word": "promotion."
+          }
+        ],
+        "id": "c9b95830-ad97-4266-8801-4177d8b76831"
+      },
+      {
+        "start": 27.25,
+        "end": 28.949999,
+        "confidence": 0.9998372,
+        "channel": 0,
+        "transcript": "The goal cannot be what separates",
+        "words": [
+          {
+            "word": "the",
+            "start": 27.25,
+            "end": 27.41,
+            "confidence": 1.0,
+            "punctuated_word": "The"
+          },
+          {
+            "word": "goal",
+            "start": 27.41,
+            "end": 27.73,
+            "confidence": 1.0,
+            "punctuated_word": "goal"
+          },
+          {
+            "word": "cannot",
+            "start": 27.73,
+            "end": 27.97,
+            "confidence": 0.99902344,
+            "punctuated_word": "cannot"
+          },
+          {
+            "word": "be",
+            "start": 27.97,
+            "end": 28.13,
+            "confidence": 1.0,
+            "punctuated_word": "be"
+          },
+          {
+            "word": "what",
+            "start": 28.13,
+            "end": 28.449999,
+            "confidence": 1.0,
+            "punctuated_word": "what"
+          },
+          {
+            "word": "separates",
+            "start": 28.449999,
+            "end": 28.949999,
+            "confidence": 1.0,
+            "punctuated_word": "separates"
+          }
+        ],
+        "id": "4a1be1b9-5d57-4c7b-adac-903250d4e3cf"
+      },
+      {
+        "start": 29.41,
+        "end": 31.75,
+        "confidence": 0.99991125,
+        "channel": 0,
+        "transcript": "them. You do not rise to the level of your goals.",
+        "words": [
+          {
+            "word": "them",
+            "start": 29.41,
+            "end": 29.57,
+            "confidence": 1.0,
+            "punctuated_word": "them."
+          },
+          {
+            "word": "you",
+            "start": 29.57,
+            "end": 29.73,
+            "confidence": 1.0,
+            "punctuated_word": "You"
+          },
+          {
+            "word": "do",
+            "start": 29.73,
+            "end": 29.89,
+            "confidence": 1.0,
+            "punctuated_word": "do"
+          },
+          {
+            "word": "not",
+            "start": 29.89,
+            "end": 30.13,
+            "confidence": 1.0,
+            "punctuated_word": "not"
+          },
+          {
+            "word": "rise",
+            "start": 30.13,
+            "end": 30.369999,
+            "confidence": 1.0,
+            "punctuated_word": "rise"
+          },
+          {
+            "word": "to",
+            "start": 30.369999,
+            "end": 30.529999,
+            "confidence": 1.0,
+            "punctuated_word": "to"
+          },
+          {
+            "word": "the",
+            "start": 30.529999,
+            "end": 30.609999,
+            "confidence": 1.0,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "level",
+            "start": 30.609999,
+            "end": 30.929998,
+            "confidence": 1.0,
+            "punctuated_word": "level"
+          },
+          {
+            "word": "of",
+            "start": 30.929998,
+            "end": 31.009998,
+            "confidence": 1.0,
+            "punctuated_word": "of"
+          },
+          {
+            "word": "your",
+            "start": 31.009998,
+            "end": 31.25,
+            "confidence": 1.0,
+            "punctuated_word": "your"
+          },
+          {
+            "word": "goals",
+            "start": 31.25,
+            "end": 31.75,
+            "confidence": 0.99902344,
+            "punctuated_word": "goals."
+          }
+        ],
+        "id": "700c354d-f6f4-4c27-83e5-b4b6805bd04c"
+      },
+      {
+        "start": 32.129997,
+        "end": 33.989998,
+        "confidence": 0.9994507,
+        "channel": 0,
+        "transcript": "You fall to the level of your systems.",
+        "words": [
+          {
+            "word": "you",
+            "start": 32.129997,
+            "end": 32.29,
+            "confidence": 0.99902344,
+            "punctuated_word": "You"
+          },
+          {
+            "word": "fall",
+            "start": 32.29,
+            "end": 32.61,
+            "confidence": 0.9980469,
+            "punctuated_word": "fall"
+          },
+          {
+            "word": "to",
+            "start": 32.61,
+            "end": 32.69,
+            "confidence": 0.99902344,
+            "punctuated_word": "to"
+          },
+          {
+            "word": "the",
+            "start": 32.69,
+            "end": 32.85,
+            "confidence": 1.0,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "level",
+            "start": 32.85,
+            "end": 33.17,
+            "confidence": 1.0,
+            "punctuated_word": "level"
+          },
+          {
+            "word": "of",
+            "start": 33.17,
+            "end": 33.25,
+            "confidence": 1.0,
+            "punctuated_word": "of"
+          },
+          {
+            "word": "your",
+            "start": 33.25,
+            "end": 33.489998,
+            "confidence": 1.0,
+            "punctuated_word": "your"
+          },
+          {
+            "word": "systems",
+            "start": 33.489998,
+            "end": 33.989998,
+            "confidence": 0.9995117,
+            "punctuated_word": "systems."
+          }
+        ],
+        "id": "06e3ac21-0bfc-4673-9cee-9243551b30f5"
+      },
+      {
+        "start": 34.37,
+        "end": 39.525,
+        "confidence": 0.99339384,
+        "channel": 0,
+        "transcript": "Goals are about the results you want. Systems are about the daily processes that lead to those",
+        "words": [
+          {
+            "word": "goals",
+            "start": 34.37,
+            "end": 34.69,
+            "confidence": 1.0,
+            "punctuated_word": "Goals"
+          },
+          {
+            "word": "are",
+            "start": 34.69,
+            "end": 34.85,
+            "confidence": 0.9980469,
+            "punctuated_word": "are"
+          },
+          {
+            "word": "about",
+            "start": 34.85,
+            "end": 35.09,
+            "confidence": 0.9980469,
+            "punctuated_word": "about"
+          },
+          {
+            "word": "the",
+            "start": 35.09,
+            "end": 35.25,
+            "confidence": 0.9980469,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "results",
+            "start": 35.25,
+            "end": 35.649998,
+            "confidence": 0.99902344,
+            "punctuated_word": "results"
+          },
+          {
+            "word": "you",
+            "start": 35.649998,
+            "end": 35.809998,
+            "confidence": 0.9980469,
+            "punctuated_word": "you"
+          },
+          {
+            "word": "want",
+            "start": 35.809998,
+            "end": 36.309998,
+            "confidence": 0.99902344,
+            "punctuated_word": "want."
+          },
+          {
+            "word": "systems",
+            "start": 36.53,
+            "end": 37.01,
+            "confidence": 0.9970703,
+            "punctuated_word": "Systems"
+          },
+          {
+            "word": "are",
+            "start": 37.01,
+            "end": 37.17,
+            "confidence": 0.9970703,
+            "punctuated_word": "are"
+          },
+          {
+            "word": "about",
+            "start": 37.17,
+            "end": 37.41,
+            "confidence": 0.9951172,
+            "punctuated_word": "about"
+          },
+          {
+            "word": "the",
+            "start": 37.41,
+            "end": 37.489998,
+            "confidence": 0.99316406,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "daily",
+            "start": 37.489998,
+            "end": 37.97,
+            "confidence": 0.9980469,
+            "punctuated_word": "daily"
+          },
+          {
+            "word": "processes",
+            "start": 37.97,
+            "end": 38.47,
+            "confidence": 0.9970703,
+            "punctuated_word": "processes"
+          },
+          {
+            "word": "that",
+            "start": 38.53,
+            "end": 38.69,
+            "confidence": 0.9819336,
+            "punctuated_word": "that"
+          },
+          {
+            "word": "lead",
+            "start": 38.69,
+            "end": 38.93,
+            "confidence": 0.98291016,
+            "punctuated_word": "lead"
+          },
+          {
+            "word": "to",
+            "start": 38.93,
+            "end": 39.09,
+            "confidence": 0.97509766,
+            "punctuated_word": "to"
+          },
+          {
+            "word": "those",
+            "start": 39.09,
+            "end": 39.525,
+            "confidence": 0.97998047,
+            "punctuated_word": "those"
+          }
+        ],
+        "id": "ed6269eb-6e68-41a3-8bf7-7a7e369893a6"
+      },
+      {
+        "start": 40.005,
+        "end": 43.625,
+        "confidence": 0.9971517,
+        "channel": 0,
+        "transcript": "results. If you fix your systems, the score takes care of itself.",
+        "words": [
+          {
+            "word": "results",
+            "start": 40.005,
+            "end": 40.405003,
+            "confidence": 0.9692383,
+            "punctuated_word": "results."
+          },
+          {
+            "word": "if",
+            "start": 40.405003,
+            "end": 40.565002,
+            "confidence": 0.99902344,
+            "punctuated_word": "If"
+          },
+          {
+            "word": "you",
+            "start": 40.565002,
+            "end": 40.725002,
+            "confidence": 1.0,
+            "punctuated_word": "you"
+          },
+          {
+            "word": "fix",
+            "start": 40.725002,
+            "end": 40.965,
+            "confidence": 1.0,
+            "punctuated_word": "fix"
+          },
+          {
+            "word": "your",
+            "start": 40.965,
+            "end": 41.205,
+            "confidence": 1.0,
+            "punctuated_word": "your"
+          },
+          {
+            "word": "systems",
+            "start": 41.205,
+            "end": 41.705,
+            "confidence": 0.9980469,
+            "punctuated_word": "systems,"
+          },
+          {
+            "word": "the",
+            "start": 41.925003,
+            "end": 42.165,
+            "confidence": 1.0,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "score",
+            "start": 42.165,
+            "end": 42.485,
+            "confidence": 1.0,
+            "punctuated_word": "score"
+          },
+          {
+            "word": "takes",
+            "start": 42.485,
+            "end": 42.725002,
+            "confidence": 1.0,
+            "punctuated_word": "takes"
+          },
+          {
+            "word": "care",
+            "start": 42.725002,
+            "end": 42.965,
+            "confidence": 1.0,
+            "punctuated_word": "care"
+          },
+          {
+            "word": "of",
+            "start": 42.965,
+            "end": 43.125,
+            "confidence": 1.0,
+            "punctuated_word": "of"
+          },
+          {
+            "word": "itself",
+            "start": 43.125,
+            "end": 43.625,
+            "confidence": 0.9995117,
+            "punctuated_word": "itself."
+          }
+        ],
+        "id": "6be70fae-fd37-4f62-92d6-6f06b4887000"
+      },
+      {
+        "start": 44.005,
+        "end": 49.465,
+        "confidence": 0.9990387,
+        "channel": 0,
+        "transcript": "To master your habits, you must master the four laws of behavior. First, make it obvious.",
+        "words": [
+          {
+            "word": "to",
+            "start": 44.005,
+            "end": 44.165,
+            "confidence": 0.99902344,
+            "punctuated_word": "To"
+          },
+          {
+            "word": "master",
+            "start": 44.165,
+            "end": 44.565002,
+            "confidence": 0.99902344,
+            "punctuated_word": "master"
+          },
+          {
+            "word": "your",
+            "start": 44.565002,
+            "end": 44.805,
+            "confidence": 1.0,
+            "punctuated_word": "your"
+          },
+          {
+            "word": "habits",
+            "start": 44.805,
+            "end": 45.305,
+            "confidence": 0.99853516,
+            "punctuated_word": "habits,"
+          },
+          {
+            "word": "you",
+            "start": 45.445,
+            "end": 45.605003,
+            "confidence": 0.99902344,
+            "punctuated_word": "you"
+          },
+          {
+            "word": "must",
+            "start": 45.605003,
+            "end": 45.925003,
+            "confidence": 1.0,
+            "punctuated_word": "must"
+          },
+          {
+            "word": "master",
+            "start": 45.925003,
+            "end": 46.325,
+            "confidence": 0.99902344,
+            "punctuated_word": "master"
+          },
+          {
+            "word": "the",
+            "start": 46.325,
+            "end": 46.485,
+            "confidence": 1.0,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "four",
+            "start": 46.485,
+            "end": 46.725002,
+            "confidence": 1.0,
+            "punctuated_word": "four"
+          },
+          {
+            "word": "laws",
+            "start": 46.725002,
+            "end": 47.045002,
+            "confidence": 1.0,
+            "punctuated_word": "laws"
+          },
+          {
+            "word": "of",
+            "start": 47.045002,
+            "end": 47.205,
+            "confidence": 1.0,
+            "punctuated_word": "of"
+          },
+          {
+            "word": "behavior",
+            "start": 47.205,
+            "end": 47.705,
+            "confidence": 0.9995117,
+            "punctuated_word": "behavior."
+          },
+          {
+            "word": "first",
+            "start": 47.845,
+            "end": 48.345,
+            "confidence": 0.99194336,
+            "punctuated_word": "First,"
+          },
+          {
+            "word": "make",
+            "start": 48.485,
+            "end": 48.725002,
+            "confidence": 1.0,
+            "punctuated_word": "make"
+          },
+          {
+            "word": "it",
+            "start": 48.725002,
+            "end": 48.965,
+            "confidence": 1.0,
+            "punctuated_word": "it"
+          },
+          {
+            "word": "obvious",
+            "start": 48.965,
+            "end": 49.465,
+            "confidence": 0.99853516,
+            "punctuated_word": "obvious."
+          }
+        ],
+        "id": "13fa5ffc-e32d-4f3d-a4c3-0d7462a62cd5"
+      },
+      {
+        "start": 50.005,
+        "end": 51.865,
+        "confidence": 0.9998372,
+        "channel": 0,
+        "transcript": "Most people think they lack motivation",
+        "words": [
+          {
+            "word": "most",
+            "start": 50.005,
+            "end": 50.325,
+            "confidence": 1.0,
+            "punctuated_word": "Most"
+          },
+          {
+            "word": "people",
+            "start": 50.325,
+            "end": 50.645,
+            "confidence": 1.0,
+            "punctuated_word": "people"
+          },
+          {
+            "word": "think",
+            "start": 50.645,
+            "end": 50.885002,
+            "confidence": 1.0,
+            "punctuated_word": "think"
+          },
+          {
+            "word": "they",
+            "start": 50.885002,
+            "end": 51.045002,
+            "confidence": 1.0,
+            "punctuated_word": "they"
+          },
+          {
+            "word": "lack",
+            "start": 51.045002,
+            "end": 51.365,
+            "confidence": 0.99902344,
+            "punctuated_word": "lack"
+          },
+          {
+            "word": "motivation",
+            "start": 51.365,
+            "end": 51.865,
+            "confidence": 1.0,
+            "punctuated_word": "motivation"
+          }
+        ],
+        "id": "8c90c40a-7547-4ea4-b0ab-9cb05b965430"
+      },
+      {
+        "start": 52.325,
+        "end": 53.705,
+        "confidence": 0.9892578,
+        "channel": 0,
+        "transcript": "when they really lack clarity.",
+        "words": [
+          {
+            "word": "when",
+            "start": 52.325,
+            "end": 52.485,
+            "confidence": 0.95703125,
+            "punctuated_word": "when"
+          },
+          {
+            "word": "they",
+            "start": 52.485,
+            "end": 52.645,
+            "confidence": 1.0,
+            "punctuated_word": "they"
+          },
+          {
+            "word": "really",
+            "start": 52.645,
+            "end": 52.965,
+            "confidence": 1.0,
+            "punctuated_word": "really"
+          },
+          {
+            "word": "lack",
+            "start": 52.965,
+            "end": 53.205,
+            "confidence": 0.9902344,
+            "punctuated_word": "lack"
+          },
+          {
+            "word": "clarity",
+            "start": 53.205,
+            "end": 53.705,
+            "confidence": 0.99902344,
+            "punctuated_word": "clarity."
+          }
+        ],
+        "id": "3a03e22b-c4d2-45ac-b5de-ffa6abd4e0c0"
+      },
+      {
+        "start": 54.405003,
+        "end": 58.7,
+        "confidence": 0.9790039,
+        "channel": 0,
+        "transcript": "Design your environment so the visual cues for good habits are glaringly obvious,",
+        "words": [
+          {
+            "word": "design",
+            "start": 54.405003,
+            "end": 54.645,
+            "confidence": 1.0,
+            "punctuated_word": "Design"
+          },
+          {
+            "word": "your",
+            "start": 54.645,
+            "end": 54.84,
+            "confidence": 0.9980469,
+            "punctuated_word": "your"
+          },
+          {
+            "word": "environment",
+            "start": 55.08,
+            "end": 55.4,
+            "confidence": 1.0,
+            "punctuated_word": "environment"
+          },
+          {
+            "word": "so",
+            "start": 55.4,
+            "end": 55.72,
+            "confidence": 0.92333984,
+            "punctuated_word": "so"
+          },
+          {
+            "word": "the",
+            "start": 55.72,
+            "end": 55.88,
+            "confidence": 1.0,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "visual",
+            "start": 55.88,
+            "end": 56.2,
+            "confidence": 0.99902344,
+            "punctuated_word": "visual"
+          },
+          {
+            "word": "cues",
+            "start": 56.2,
+            "end": 56.52,
+            "confidence": 0.97802734,
+            "punctuated_word": "cues"
+          },
+          {
+            "word": "for",
+            "start": 56.52,
+            "end": 56.76,
+            "confidence": 0.99902344,
+            "punctuated_word": "for"
+          },
+          {
+            "word": "good",
+            "start": 56.76,
+            "end": 57.0,
+            "confidence": 1.0,
+            "punctuated_word": "good"
+          },
+          {
+            "word": "habits",
+            "start": 57.0,
+            "end": 57.4,
+            "confidence": 1.0,
+            "punctuated_word": "habits"
+          },
+          {
+            "word": "are",
+            "start": 57.4,
+            "end": 57.64,
+            "confidence": 1.0,
+            "punctuated_word": "are"
+          },
+          {
+            "word": "glaringly",
+            "start": 57.64,
+            "end": 58.14,
+            "confidence": 1.0,
+            "punctuated_word": "glaringly"
+          },
+          {
+            "word": "obvious",
+            "start": 58.2,
+            "end": 58.7,
+            "confidence": 0.82958984,
+            "punctuated_word": "obvious,"
+          }
+        ],
+        "id": "5ffd08ab-f79d-410a-b2a9-cc93da271f10"
+      },
+      {
+        "start": 59.08,
+        "end": 61.739998,
+        "confidence": 0.99975586,
+        "channel": 0,
+        "transcript": "and hide the triggers for bad ones. Second,",
+        "words": [
+          {
+            "word": "and",
+            "start": 59.08,
+            "end": 59.32,
+            "confidence": 1.0,
+            "punctuated_word": "and"
+          },
+          {
+            "word": "hide",
+            "start": 59.32,
+            "end": 59.56,
+            "confidence": 1.0,
+            "punctuated_word": "hide"
+          },
+          {
+            "word": "the",
+            "start": 59.56,
+            "end": 59.64,
+            "confidence": 1.0,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "triggers",
+            "start": 59.64,
+            "end": 60.12,
+            "confidence": 1.0,
+            "punctuated_word": "triggers"
+          },
+          {
+            "word": "for",
+            "start": 60.12,
+            "end": 60.28,
+            "confidence": 1.0,
+            "punctuated_word": "for"
+          },
+          {
+            "word": "bad",
+            "start": 60.28,
+            "end": 60.52,
+            "confidence": 1.0,
+            "punctuated_word": "bad"
+          },
+          {
+            "word": "ones",
+            "start": 60.52,
+            "end": 61.02,
+            "confidence": 1.0,
+            "punctuated_word": "ones."
+          },
+          {
+            "word": "second",
+            "start": 61.239998,
+            "end": 61.739998,
+            "confidence": 0.9980469,
+            "punctuated_word": "Second,"
+          }
+        ],
+        "id": "d5702105-f546-4a74-82ad-da30da8d0f6e"
+      },
+      {
+        "start": 62.12,
+        "end": 63.02,
+        "confidence": 1.0,
+        "channel": 0,
+        "transcript": "make it attractive.",
+        "words": [
+          {
+            "word": "make",
+            "start": 62.12,
+            "end": 62.28,
+            "confidence": 1.0,
+            "punctuated_word": "make"
+          },
+          {
+            "word": "it",
+            "start": 62.28,
+            "end": 62.52,
+            "confidence": 1.0,
+            "punctuated_word": "it"
+          },
+          {
+            "word": "attractive",
+            "start": 62.52,
+            "end": 63.02,
+            "confidence": 1.0,
+            "punctuated_word": "attractive."
+          }
+        ],
+        "id": "5f4af993-62a5-4e9b-b0bd-69be031559e6"
+      },
+      {
+        "start": 63.96,
+        "end": 65.66,
+        "confidence": 0.9949951,
+        "channel": 0,
+        "transcript": "Dopamine drives our cravings.",
+        "words": [
+          {
+            "word": "dopamine",
+            "start": 63.96,
+            "end": 64.46,
+            "confidence": 1.0,
+            "punctuated_word": "Dopamine"
+          },
+          {
+            "word": "drives",
+            "start": 64.6,
+            "end": 65.0,
+            "confidence": 1.0,
+            "punctuated_word": "drives"
+          },
+          {
+            "word": "our",
+            "start": 65.0,
+            "end": 65.16,
+            "confidence": 0.98291016,
+            "punctuated_word": "our"
+          },
+          {
+            "word": "cravings",
+            "start": 65.16,
+            "end": 65.66,
+            "confidence": 0.9970703,
+            "punctuated_word": "cravings."
+          }
+        ],
+        "id": "00aba4d8-558d-4b40-96ed-5c7c2379543f"
+      },
+      {
+        "start": 66.28,
+        "end": 69.74,
+        "confidence": 0.99778396,
+        "channel": 0,
+        "transcript": "Bundle what you need to do with what you want to do. Third,",
+        "words": [
+          {
+            "word": "bundle",
+            "start": 66.28,
+            "end": 66.68,
+            "confidence": 1.0,
+            "punctuated_word": "Bundle"
+          },
+          {
+            "word": "what",
+            "start": 66.68,
+            "end": 66.92,
+            "confidence": 0.9970703,
+            "punctuated_word": "what"
+          },
+          {
+            "word": "you",
+            "start": 66.92,
+            "end": 67.08,
+            "confidence": 0.9980469,
+            "punctuated_word": "you"
+          },
+          {
+            "word": "need",
+            "start": 67.08,
+            "end": 67.24,
+            "confidence": 0.99902344,
+            "punctuated_word": "need"
+          },
+          {
+            "word": "to",
+            "start": 67.24,
+            "end": 67.4,
+            "confidence": 0.9970703,
+            "punctuated_word": "to"
+          },
+          {
+            "word": "do",
+            "start": 67.4,
+            "end": 67.72,
+            "confidence": 0.9980469,
+            "punctuated_word": "do"
+          },
+          {
+            "word": "with",
+            "start": 67.72,
+            "end": 67.96,
+            "confidence": 0.9970703,
+            "punctuated_word": "with"
+          },
+          {
+            "word": "what",
+            "start": 67.96,
+            "end": 68.12,
+            "confidence": 0.9980469,
+            "punctuated_word": "what"
+          },
+          {
+            "word": "you",
+            "start": 68.12,
+            "end": 68.36,
+            "confidence": 0.99609375,
+            "punctuated_word": "you"
+          },
+          {
+            "word": "want",
+            "start": 68.36,
+            "end": 68.6,
+            "confidence": 0.9970703,
+            "punctuated_word": "want"
+          },
+          {
+            "word": "to",
+            "start": 68.6,
+            "end": 68.76,
+            "confidence": 0.9951172,
+            "punctuated_word": "to"
+          },
+          {
+            "word": "do",
+            "start": 68.76,
+            "end": 69.24,
+            "confidence": 0.99902344,
+            "punctuated_word": "do."
+          },
+          {
+            "word": "third",
+            "start": 69.24,
+            "end": 69.74,
+            "confidence": 0.9995117,
+            "punctuated_word": "Third,"
+          }
+        ],
+        "id": "4a0c8922-f8d3-4744-b84e-c6abadc8dc5f"
+      },
+      {
+        "start": 70.04,
+        "end": 73.425,
+        "confidence": 0.970874,
+        "channel": 0,
+        "transcript": "make it easy. Easy. The enemy of execution is friction.",
+        "words": [
+          {
+            "word": "make",
+            "start": 70.04,
+            "end": 70.2,
+            "confidence": 0.9921875,
+            "punctuated_word": "make"
+          },
+          {
+            "word": "it",
+            "start": 70.2,
+            "end": 70.36,
+            "confidence": 0.96533203,
+            "punctuated_word": "it"
+          },
+          {
+            "word": "easy",
+            "start": 70.36,
+            "end": 70.605,
+            "confidence": 0.75512695,
+            "punctuated_word": "easy."
+          },
+          {
+            "word": "easy",
+            "start": 71.08501,
+            "end": 71.40501,
+            "confidence": 0.9970703,
+            "punctuated_word": "Easy."
+          },
+          {
+            "word": "the",
+            "start": 71.40501,
+            "end": 71.565,
+            "confidence": 1.0,
+            "punctuated_word": "The"
+          },
+          {
+            "word": "enemy",
+            "start": 71.565,
+            "end": 71.885,
+            "confidence": 1.0,
+            "punctuated_word": "enemy"
+          },
+          {
+            "word": "of",
+            "start": 71.885,
+            "end": 72.125,
+            "confidence": 1.0,
+            "punctuated_word": "of"
+          },
+          {
+            "word": "execution",
+            "start": 72.125,
+            "end": 72.625,
+            "confidence": 0.99902344,
+            "punctuated_word": "execution"
+          },
+          {
+            "word": "is",
+            "start": 72.685005,
+            "end": 72.925,
+            "confidence": 1.0,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "friction",
+            "start": 72.925,
+            "end": 73.425,
+            "confidence": 1.0,
+            "punctuated_word": "friction."
+          }
+        ],
+        "id": "3b845754-45fa-4185-a4d8-0d9066760a3c"
+      },
+      {
+        "start": 74.205,
+        "end": 79.265,
+        "confidence": 0.99853516,
+        "channel": 0,
+        "transcript": "Use the two minute rule. When you start a new habit, it should take less than two minutes to do.",
+        "words": [
+          {
+            "word": "use",
+            "start": 74.205,
+            "end": 74.525,
+            "confidence": 1.0,
+            "punctuated_word": "Use"
+          },
+          {
+            "word": "the",
+            "start": 74.525,
+            "end": 74.685005,
+            "confidence": 1.0,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "two",
+            "start": 74.685005,
+            "end": 74.845,
+            "confidence": 1.0,
+            "punctuated_word": "two"
+          },
+          {
+            "word": "minute",
+            "start": 74.845,
+            "end": 75.165,
+            "confidence": 1.0,
+            "punctuated_word": "minute"
+          },
+          {
+            "word": "rule",
+            "start": 75.165,
+            "end": 75.645004,
+            "confidence": 0.97753906,
+            "punctuated_word": "rule."
+          },
+          {
+            "word": "when",
+            "start": 75.645004,
+            "end": 75.885,
+            "confidence": 1.0,
+            "punctuated_word": "When"
+          },
+          {
+            "word": "you",
+            "start": 75.885,
+            "end": 76.045006,
+            "confidence": 1.0,
+            "punctuated_word": "you"
+          },
+          {
+            "word": "start",
+            "start": 76.045006,
+            "end": 76.365005,
+            "confidence": 1.0,
+            "punctuated_word": "start"
+          },
+          {
+            "word": "a",
+            "start": 76.365005,
+            "end": 76.445,
+            "confidence": 0.99902344,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "new",
+            "start": 76.445,
+            "end": 76.605,
+            "confidence": 1.0,
+            "punctuated_word": "new"
+          },
+          {
+            "word": "habit",
+            "start": 76.605,
+            "end": 77.005005,
+            "confidence": 0.99853516,
+            "punctuated_word": "habit,"
+          },
+          {
+            "word": "it",
+            "start": 77.005005,
+            "end": 77.245,
+            "confidence": 0.99902344,
+            "punctuated_word": "it"
+          },
+          {
+            "word": "should",
+            "start": 77.245,
+            "end": 77.40501,
+            "confidence": 1.0,
+            "punctuated_word": "should"
+          },
+          {
+            "word": "take",
+            "start": 77.40501,
+            "end": 77.725006,
+            "confidence": 0.99902344,
+            "punctuated_word": "take"
+          },
+          {
+            "word": "less",
+            "start": 77.725006,
+            "end": 77.885,
+            "confidence": 1.0,
+            "punctuated_word": "less"
+          },
+          {
+            "word": "than",
+            "start": 77.885,
+            "end": 78.125,
+            "confidence": 0.99902344,
+            "punctuated_word": "than"
+          },
+          {
+            "word": "two",
+            "start": 78.125,
+            "end": 78.285,
+            "confidence": 0.99902344,
+            "punctuated_word": "two"
+          },
+          {
+            "word": "minutes",
+            "start": 78.285,
+            "end": 78.685005,
+            "confidence": 1.0,
+            "punctuated_word": "minutes"
+          },
+          {
+            "word": "to",
+            "start": 78.685005,
+            "end": 78.765,
+            "confidence": 1.0,
+            "punctuated_word": "to"
+          },
+          {
+            "word": "do",
+            "start": 78.765,
+            "end": 79.265,
+            "confidence": 0.9995117,
+            "punctuated_word": "do."
+          }
+        ],
+        "id": "6e3c07c6-b2fe-4520-94b7-f5388bca5c20"
+      },
+      {
+        "start": 79.805,
+        "end": 81.185005,
+        "confidence": 0.99560547,
+        "channel": 0,
+        "transcript": "Run just one block.",
+        "words": [
+          {
+            "word": "run",
+            "start": 79.805,
+            "end": 80.045006,
+            "confidence": 0.99902344,
+            "punctuated_word": "Run"
+          },
+          {
+            "word": "just",
+            "start": 80.045006,
+            "end": 80.365005,
+            "confidence": 0.99902344,
+            "punctuated_word": "just"
+          },
+          {
+            "word": "one",
+            "start": 80.365005,
+            "end": 80.685005,
+            "confidence": 0.9980469,
+            "punctuated_word": "one"
+          },
+          {
+            "word": "block",
+            "start": 80.685005,
+            "end": 81.185005,
+            "confidence": 0.9863281,
+            "punctuated_word": "block."
+          }
+        ],
+        "id": "e159d045-1fd7-4acf-8e82-2b510227f6fc"
+      },
+      {
+        "start": 81.565,
+        "end": 83.025,
+        "confidence": 0.998291,
+        "channel": 0,
+        "transcript": "Read just one page.",
+        "words": [
+          {
+            "word": "read",
+            "start": 81.565,
+            "end": 81.965004,
+            "confidence": 1.0,
+            "punctuated_word": "Read"
+          },
+          {
+            "word": "just",
+            "start": 81.965004,
+            "end": 82.285,
+            "confidence": 0.9980469,
+            "punctuated_word": "just"
+          },
+          {
+            "word": "one",
+            "start": 82.285,
+            "end": 82.525,
+            "confidence": 0.99609375,
+            "punctuated_word": "one"
+          },
+          {
+            "word": "page",
+            "start": 82.525,
+            "end": 83.025,
+            "confidence": 0.99902344,
+            "punctuated_word": "page."
+          }
+        ],
+        "id": "31e24c4a-2ed1-46bb-84ab-7c31b0fd7aae"
+      },
+      {
+        "start": 83.565,
+        "end": 89.03,
+        "confidence": 0.9855499,
+        "channel": 0,
+        "transcript": "Master the art of showing up before you worry about optimizing. And fourth, make it satisfying.",
+        "words": [
+          {
+            "word": "master",
+            "start": 83.565,
+            "end": 83.965004,
+            "confidence": 1.0,
+            "punctuated_word": "Master"
+          },
+          {
+            "word": "the",
+            "start": 83.965004,
+            "end": 84.125,
+            "confidence": 0.984375,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "art",
+            "start": 84.125,
+            "end": 84.365005,
+            "confidence": 0.99902344,
+            "punctuated_word": "art"
+          },
+          {
+            "word": "of",
+            "start": 84.365005,
+            "end": 84.525,
+            "confidence": 0.9951172,
+            "punctuated_word": "of"
+          },
+          {
+            "word": "showing",
+            "start": 84.525,
+            "end": 84.845,
+            "confidence": 0.99609375,
+            "punctuated_word": "showing"
+          },
+          {
+            "word": "up",
+            "start": 84.845,
+            "end": 85.08501,
+            "confidence": 0.98828125,
+            "punctuated_word": "up"
+          },
+          {
+            "word": "before",
+            "start": 85.08501,
+            "end": 85.405,
+            "confidence": 0.9941406,
+            "punctuated_word": "before"
+          },
+          {
+            "word": "you",
+            "start": 85.405,
+            "end": 85.565,
+            "confidence": 0.9707031,
+            "punctuated_word": "you"
+          },
+          {
+            "word": "worry",
+            "start": 85.565,
+            "end": 85.805,
+            "confidence": 0.9873047,
+            "punctuated_word": "worry"
+          },
+          {
+            "word": "about",
+            "start": 85.805,
+            "end": 86.305,
+            "confidence": 0.9394531,
+            "punctuated_word": "about"
+          },
+          {
+            "word": "optimizing",
+            "start": 86.53001,
+            "end": 87.03001,
+            "confidence": 0.91967773,
+            "punctuated_word": "optimizing."
+          },
+          {
+            "word": "and",
+            "start": 87.25,
+            "end": 87.57,
+            "confidence": 0.9980469,
+            "punctuated_word": "And"
+          },
+          {
+            "word": "fourth",
+            "start": 87.57,
+            "end": 88.07,
+            "confidence": 0.9970703,
+            "punctuated_word": "fourth,"
+          },
+          {
+            "word": "make",
+            "start": 88.130005,
+            "end": 88.29,
+            "confidence": 1.0,
+            "punctuated_word": "make"
+          },
+          {
+            "word": "it",
+            "start": 88.29,
+            "end": 88.53,
+            "confidence": 1.0,
+            "punctuated_word": "it"
+          },
+          {
+            "word": "satisfying",
+            "start": 88.53,
+            "end": 89.03,
+            "confidence": 0.9995117,
+            "punctuated_word": "satisfying."
+          }
+        ],
+        "id": "c117953b-9e3b-4a0b-ad8d-778d872aac85"
+      },
+      {
+        "start": 89.810005,
+        "end": 92.15,
+        "confidence": 0.9983724,
+        "channel": 0,
+        "transcript": "What is immediately rewarded is repeated.",
+        "words": [
+          {
+            "word": "what",
+            "start": 89.810005,
+            "end": 89.97,
+            "confidence": 1.0,
+            "punctuated_word": "What"
+          },
+          {
+            "word": "is",
+            "start": 89.97,
+            "end": 90.21,
+            "confidence": 1.0,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "immediately",
+            "start": 90.21,
+            "end": 90.71,
+            "confidence": 1.0,
+            "punctuated_word": "immediately"
+          },
+          {
+            "word": "rewarded",
+            "start": 90.770004,
+            "end": 91.270004,
+            "confidence": 0.9970703,
+            "punctuated_word": "rewarded"
+          },
+          {
+            "word": "is",
+            "start": 91.33,
+            "end": 91.65,
+            "confidence": 0.99902344,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "repeated",
+            "start": 91.65,
+            "end": 92.15,
+            "confidence": 0.9941406,
+            "punctuated_word": "repeated."
+          }
+        ],
+        "id": "ff9d9f28-eeaa-4db0-b5f7-6f3a8f892626"
+      },
+      {
+        "start": 92.53,
+        "end": 94.87,
+        "confidence": 0.9995117,
+        "channel": 0,
+        "transcript": "What is immediately punished is avoided.",
+        "words": [
+          {
+            "word": "what",
+            "start": 92.53,
+            "end": 92.770004,
+            "confidence": 1.0,
+            "punctuated_word": "What"
+          },
+          {
+            "word": "is",
+            "start": 92.770004,
+            "end": 93.01,
+            "confidence": 1.0,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "immediately",
+            "start": 93.01,
+            "end": 93.51,
+            "confidence": 1.0,
+            "punctuated_word": "immediately"
+          },
+          {
+            "word": "punished",
+            "start": 93.65,
+            "end": 94.130005,
+            "confidence": 0.9980469,
+            "punctuated_word": "punished"
+          },
+          {
+            "word": "is",
+            "start": 94.130005,
+            "end": 94.37,
+            "confidence": 0.99902344,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "avoided",
+            "start": 94.37,
+            "end": 94.87,
+            "confidence": 1.0,
+            "punctuated_word": "avoided."
+          }
+        ],
+        "id": "29e64cac-f762-4439-9845-03dfc876eb5c"
+      },
+      {
+        "start": 95.490005,
+        "end": 96.55,
+        "confidence": 0.920166,
+        "channel": 0,
+        "transcript": "Track your streak.",
+        "words": [
+          {
+            "word": "track",
+            "start": 95.490005,
+            "end": 95.810005,
+            "confidence": 0.99902344,
+            "punctuated_word": "Track"
+          },
+          {
+            "word": "your",
+            "start": 95.810005,
+            "end": 96.05,
+            "confidence": 1.0,
+            "punctuated_word": "your"
+          },
+          {
+            "word": "streak",
+            "start": 96.05,
+            "end": 96.55,
+            "confidence": 0.7614746,
+            "punctuated_word": "streak."
+          }
+        ],
+        "id": "0b49a87f-a78e-4bc3-aab7-f6ee54085f76"
+      },
+      {
+        "start": 96.93,
+        "end": 101.75,
+        "confidence": 0.9552113,
+        "channel": 0,
+        "transcript": "Celebrate tiny wins. And remember the golden rule, never miss twice.",
+        "words": [
+          {
+            "word": "celebrate",
+            "start": 96.93,
+            "end": 97.43,
+            "confidence": 0.9970703,
+            "punctuated_word": "Celebrate"
+          },
+          {
+            "word": "tiny",
+            "start": 97.57,
+            "end": 97.89,
+            "confidence": 1.0,
+            "punctuated_word": "tiny"
+          },
+          {
+            "word": "wins",
+            "start": 97.89,
+            "end": 98.39,
+            "confidence": 0.7338867,
+            "punctuated_word": "wins."
+          },
+          {
+            "word": "and",
+            "start": 98.61,
+            "end": 98.850006,
+            "confidence": 0.99609375,
+            "punctuated_word": "And"
+          },
+          {
+            "word": "remember",
+            "start": 98.850006,
+            "end": 99.25,
+            "confidence": 0.9980469,
+            "punctuated_word": "remember"
+          },
+          {
+            "word": "the",
+            "start": 99.25,
+            "end": 99.490005,
+            "confidence": 0.98828125,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "golden",
+            "start": 99.490005,
+            "end": 99.97,
+            "confidence": 0.99609375,
+            "punctuated_word": "golden"
+          },
+          {
+            "word": "rule",
+            "start": 99.97,
+            "end": 100.47,
+            "confidence": 0.8261719,
+            "punctuated_word": "rule,"
+          },
+          {
+            "word": "never",
+            "start": 100.61,
+            "end": 100.93,
+            "confidence": 0.99902344,
+            "punctuated_word": "never"
+          },
+          {
+            "word": "miss",
+            "start": 100.93,
+            "end": 101.25,
+            "confidence": 0.97265625,
+            "punctuated_word": "miss"
+          },
+          {
+            "word": "twice",
+            "start": 101.25,
+            "end": 101.75,
+            "confidence": 1.0,
+            "punctuated_word": "twice."
+          }
+        ],
+        "id": "84b6a4fb-78f5-4127-9b45-db945a26ac87"
+      },
+      {
+        "start": 102.275,
+        "end": 105.255005,
+        "confidence": 0.99668664,
+        "channel": 0,
+        "transcript": "Ultimately, true behavior change is identity change.",
+        "words": [
+          {
+            "word": "ultimately",
+            "start": 102.275,
+            "end": 102.775,
+            "confidence": 0.97680664,
+            "punctuated_word": "Ultimately,"
+          },
+          {
+            "word": "true",
+            "start": 102.835,
+            "end": 103.155,
+            "confidence": 1.0,
+            "punctuated_word": "true"
+          },
+          {
+            "word": "behavior",
+            "start": 103.155,
+            "end": 103.635,
+            "confidence": 1.0,
+            "punctuated_word": "behavior"
+          },
+          {
+            "word": "change",
+            "start": 103.635,
+            "end": 103.875,
+            "confidence": 1.0,
+            "punctuated_word": "change"
+          },
+          {
+            "word": "is",
+            "start": 103.875,
+            "end": 104.195,
+            "confidence": 1.0,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "identity",
+            "start": 104.195,
+            "end": 104.695,
+            "confidence": 1.0,
+            "punctuated_word": "identity"
+          },
+          {
+            "word": "change",
+            "start": 104.755005,
+            "end": 105.255005,
+            "confidence": 1.0,
+            "punctuated_word": "change."
+          }
+        ],
+        "id": "b258ef6b-f3d7-4adc-b86d-338c3aa603cd"
+      },
+      {
+        "start": 105.635,
+        "end": 109.415,
+        "confidence": 0.9996643,
+        "channel": 0,
+        "transcript": "Every action you take is a vote for the type of person you wish to become.",
+        "words": [
+          {
+            "word": "every",
+            "start": 105.635,
+            "end": 105.955,
+            "confidence": 1.0,
+            "punctuated_word": "Every"
+          },
+          {
+            "word": "action",
+            "start": 105.955,
+            "end": 106.355,
+            "confidence": 1.0,
+            "punctuated_word": "action"
+          },
+          {
+            "word": "you",
+            "start": 106.355,
+            "end": 106.515,
+            "confidence": 1.0,
+            "punctuated_word": "you"
+          },
+          {
+            "word": "take",
+            "start": 106.515,
+            "end": 106.755005,
+            "confidence": 1.0,
+            "punctuated_word": "take"
+          },
+          {
+            "word": "is",
+            "start": 106.755005,
+            "end": 106.915,
+            "confidence": 1.0,
+            "punctuated_word": "is"
+          },
+          {
+            "word": "a",
+            "start": 106.915,
+            "end": 107.075005,
+            "confidence": 1.0,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "vote",
+            "start": 107.075005,
+            "end": 107.315,
+            "confidence": 1.0,
+            "punctuated_word": "vote"
+          },
+          {
+            "word": "for",
+            "start": 107.315,
+            "end": 107.475,
+            "confidence": 1.0,
+            "punctuated_word": "for"
+          },
+          {
+            "word": "the",
+            "start": 107.475,
+            "end": 107.555,
+            "confidence": 1.0,
+            "punctuated_word": "the"
+          },
+          {
+            "word": "type",
+            "start": 107.555,
+            "end": 107.795,
+            "confidence": 1.0,
+            "punctuated_word": "type"
+          },
+          {
+            "word": "of",
+            "start": 107.795,
+            "end": 107.955,
+            "confidence": 1.0,
+            "punctuated_word": "of"
+          },
+          {
+            "word": "person",
+            "start": 107.955,
+            "end": 108.275,
+            "confidence": 1.0,
+            "punctuated_word": "person"
+          },
+          {
+            "word": "you",
+            "start": 108.275,
+            "end": 108.435005,
+            "confidence": 1.0,
+            "punctuated_word": "you"
+          },
+          {
+            "word": "wish",
+            "start": 108.435005,
+            "end": 108.755005,
+            "confidence": 0.99902344,
+            "punctuated_word": "wish"
+          },
+          {
+            "word": "to",
+            "start": 108.755005,
+            "end": 108.915,
+            "confidence": 1.0,
+            "punctuated_word": "to"
+          },
+          {
+            "word": "become",
+            "start": 108.915,
+            "end": 109.415,
+            "confidence": 0.99560547,
+            "punctuated_word": "become."
+          }
+        ],
+        "id": "c3287497-0215-4779-a192-77f758243771"
+      },
+      {
+        "start": 110.035,
+        "end": 114.57,
+        "confidence": 0.9980876,
+        "channel": 0,
+        "transcript": "1% better each day compounds into 37 times better in a single",
+        "words": [
+          {
+            "word": "1%",
+            "start": 110.035,
+            "end": 110.675,
+            "confidence": 0.99902344,
+            "punctuated_word": "1%"
+          },
+          {
+            "word": "better",
+            "start": 110.675,
+            "end": 110.995,
+            "confidence": 1.0,
+            "punctuated_word": "better"
+          },
+          {
+            "word": "each",
+            "start": 110.995,
+            "end": 111.235,
+            "confidence": 0.99902344,
+            "punctuated_word": "each"
+          },
+          {
+            "word": "day",
+            "start": 111.235,
+            "end": 111.635,
+            "confidence": 1.0,
+            "punctuated_word": "day"
+          },
+          {
+            "word": "compounds",
+            "start": 111.635,
+            "end": 112.115005,
+            "confidence": 0.97998047,
+            "punctuated_word": "compounds"
+          },
+          {
+            "word": "into",
+            "start": 112.115005,
+            "end": 112.515,
+            "confidence": 0.99902344,
+            "punctuated_word": "into"
+          },
+          {
+            "word": "37",
+            "start": 112.515,
+            "end": 113.155,
+            "confidence": 1.0,
+            "punctuated_word": "37"
+          },
+          {
+            "word": "times",
+            "start": 113.155,
+            "end": 113.555,
+            "confidence": 1.0,
+            "punctuated_word": "times"
+          },
+          {
+            "word": "better",
+            "start": 113.555,
+            "end": 113.875,
+            "confidence": 1.0,
+            "punctuated_word": "better"
+          },
+          {
+            "word": "in",
+            "start": 113.875,
+            "end": 114.035,
+            "confidence": 1.0,
+            "punctuated_word": "in"
+          },
+          {
+            "word": "a",
+            "start": 114.035,
+            "end": 114.195,
+            "confidence": 1.0,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "single",
+            "start": 114.195,
+            "end": 114.57,
+            "confidence": 1.0,
+            "punctuated_word": "single"
+          }
+        ],
+        "id": "94ebf5ed-88b4-495e-93f3-ae4d0ee0793c"
+      },
+      {
+        "start": 115.13,
+        "end": 117.95,
+        "confidence": 0.9866333,
+        "channel": 0,
+        "transcript": "year. Small habits don't add up. They multiply.",
+        "words": [
+          {
+            "word": "year",
+            "start": 115.13,
+            "end": 115.45,
+            "confidence": 0.9802246,
+            "punctuated_word": "year."
+          },
+          {
+            "word": "small",
+            "start": 115.45,
+            "end": 115.77,
+            "confidence": 1.0,
+            "punctuated_word": "Small"
+          },
+          {
+            "word": "habits",
+            "start": 115.77,
+            "end": 116.27,
+            "confidence": 1.0,
+            "punctuated_word": "habits"
+          },
+          {
+            "word": "don't",
+            "start": 116.33,
+            "end": 116.49,
+            "confidence": 1.0,
+            "punctuated_word": "don't"
+          },
+          {
+            "word": "add",
+            "start": 116.49,
+            "end": 116.729996,
+            "confidence": 1.0,
+            "punctuated_word": "add"
+          },
+          {
+            "word": "up",
+            "start": 116.729996,
+            "end": 117.21,
+            "confidence": 0.9133301,
+            "punctuated_word": "up."
+          },
+          {
+            "word": "they",
+            "start": 117.21,
+            "end": 117.45,
+            "confidence": 1.0,
+            "punctuated_word": "They"
+          },
+          {
+            "word": "multiply",
+            "start": 117.45,
+            "end": 117.95,
+            "confidence": 0.9995117,
+            "punctuated_word": "multiply."
+          }
+        ],
+        "id": "f58a0978-848a-4c33-8541-dd6c562a99ee"
+      },
+      {
+        "start": 118.409996,
+        "end": 119.63,
+        "confidence": 0.9525757,
+        "channel": 0,
+        "transcript": "So tell me below.",
+        "words": [
+          {
+            "word": "so",
+            "start": 118.409996,
+            "end": 118.81,
+            "confidence": 0.98095703,
+            "punctuated_word": "So"
+          },
+          {
+            "word": "tell",
+            "start": 118.81,
+            "end": 118.97,
+            "confidence": 0.9536133,
+            "punctuated_word": "tell"
+          },
+          {
+            "word": "me",
+            "start": 118.97,
+            "end": 119.13,
+            "confidence": 1.0,
+            "punctuated_word": "me"
+          },
+          {
+            "word": "below",
+            "start": 119.13,
+            "end": 119.63,
+            "confidence": 0.8757324,
+            "punctuated_word": "below."
+          }
+        ],
+        "id": "f0e498af-054c-47df-823a-3aae5e63419c"
+      },
+      {
+        "start": 120.09,
+        "end": 127.43894,
+        "confidence": 0.9782715,
+        "channel": 0,
+        "transcript": "Would you rather achieve your ultimate dream goal today, but possess zero systems and slide back to square one within a year,",
+        "words": [
+          {
+            "word": "would",
+            "start": 120.09,
+            "end": 120.33,
+            "confidence": 1.0,
+            "punctuated_word": "Would"
+          },
+          {
+            "word": "you",
+            "start": 120.33,
+            "end": 120.49,
+            "confidence": 1.0,
+            "punctuated_word": "you"
+          },
+          {
+            "word": "rather",
+            "start": 120.49,
+            "end": 120.81,
+            "confidence": 1.0,
+            "punctuated_word": "rather"
+          },
+          {
+            "word": "achieve",
+            "start": 120.81,
+            "end": 121.13,
+            "confidence": 1.0,
+            "punctuated_word": "achieve"
+          },
+          {
+            "word": "your",
+            "start": 121.13,
+            "end": 121.37,
+            "confidence": 1.0,
+            "punctuated_word": "your"
+          },
+          {
+            "word": "ultimate",
+            "start": 121.37,
+            "end": 121.85,
+            "confidence": 1.0,
+            "punctuated_word": "ultimate"
+          },
+          {
+            "word": "dream",
+            "start": 121.85,
+            "end": 122.17,
+            "confidence": 1.0,
+            "punctuated_word": "dream"
+          },
+          {
+            "word": "goal",
+            "start": 122.17,
+            "end": 122.409996,
+            "confidence": 1.0,
+            "punctuated_word": "goal"
+          },
+          {
+            "word": "today",
+            "start": 122.409996,
+            "end": 122.909996,
+            "confidence": 0.83154297,
+            "punctuated_word": "today,"
+          },
+          {
+            "word": "but",
+            "start": 123.13,
+            "end": 123.45,
+            "confidence": 1.0,
+            "punctuated_word": "but"
+          },
+          {
+            "word": "possess",
+            "start": 123.45,
+            "end": 123.93,
+            "confidence": 0.99609375,
+            "punctuated_word": "possess"
+          },
+          {
+            "word": "zero",
+            "start": 123.93,
+            "end": 124.25,
+            "confidence": 0.9291992,
+            "punctuated_word": "zero"
+          },
+          {
+            "word": "systems",
+            "start": 124.25,
+            "end": 124.75,
+            "confidence": 1.0,
+            "punctuated_word": "systems"
+          },
+          {
+            "word": "and",
+            "start": 124.81,
+            "end": 125.05,
+            "confidence": 0.98535156,
+            "punctuated_word": "and"
+          },
+          {
+            "word": "slide",
+            "start": 125.05,
+            "end": 125.37,
+            "confidence": 0.99121094,
+            "punctuated_word": "slide"
+          },
+          {
+            "word": "back",
+            "start": 125.37,
+            "end": 125.61,
+            "confidence": 0.9980469,
+            "punctuated_word": "back"
+          },
+          {
+            "word": "to",
+            "start": 125.61,
+            "end": 125.85,
+            "confidence": 1.0,
+            "punctuated_word": "to"
+          },
+          {
+            "word": "square",
+            "start": 125.85,
+            "end": 126.17,
+            "confidence": 1.0,
+            "punctuated_word": "square"
+          },
+          {
+            "word": "one",
+            "start": 126.17,
+            "end": 126.45894,
+            "confidence": 0.99902344,
+            "punctuated_word": "one"
+          },
+          {
+            "word": "within",
+            "start": 126.53894,
+            "end": 126.69894,
+            "confidence": 1.0,
+            "punctuated_word": "within"
+          },
+          {
+            "word": "a",
+            "start": 126.69894,
+            "end": 126.93894,
+            "confidence": 1.0,
+            "punctuated_word": "a"
+          },
+          {
+            "word": "year",
+            "start": 126.93894,
+            "end": 127.43894,
+            "confidence": 0.7915039,
+            "punctuated_word": "year,"
+          }
+        ],
+        "id": "61f4dd95-9997-4545-97cd-e5f95bebf63a"
+      },
+      {
+        "start": 127.81894,
+        "end": 134.31894,
+        "confidence": 0.9867808,
+        "channel": 0,
+        "transcript": "or master unbreakable daily systems where you improve just 1% every day, but own lifelong momentum.",
+        "words": [
+          {
+            "word": "or",
+            "start": 127.81894,
+            "end": 128.05894,
+            "confidence": 0.99902344,
+            "punctuated_word": "or"
+          },
+          {
+            "word": "master",
+            "start": 128.05894,
+            "end": 128.53894,
+            "confidence": 0.9980469,
+            "punctuated_word": "master"
+          },
+          {
+            "word": "unbreakable",
+            "start": 128.53894,
+            "end": 129.03894,
+            "confidence": 0.9996745,
+            "punctuated_word": "unbreakable"
+          },
+          {
+            "word": "daily",
+            "start": 129.17894,
+            "end": 129.57893,
+            "confidence": 0.9980469,
+            "punctuated_word": "daily"
+          },
+          {
+            "word": "systems",
+            "start": 129.57893,
+            "end": 129.97894,
+            "confidence": 1.0,
+            "punctuated_word": "systems"
+          },
+          {
+            "word": "where",
+            "start": 129.97894,
+            "end": 130.21893,
+            "confidence": 0.96240234,
+            "punctuated_word": "where"
+          },
+          {
+            "word": "you",
+            "start": 130.21893,
+            "end": 130.37894,
+            "confidence": 1.0,
+            "punctuated_word": "you"
+          },
+          {
+            "word": "improve",
+            "start": 130.37894,
+            "end": 130.77893,
+            "confidence": 0.99316406,
+            "punctuated_word": "improve"
+          },
+          {
+            "word": "just",
+            "start": 130.77893,
+            "end": 131.01894,
+            "confidence": 1.0,
+            "punctuated_word": "just"
+          },
+          {
+            "word": "1%",
+            "start": 131.01894,
+            "end": 131.73894,
+            "confidence": 1.0,
+            "punctuated_word": "1%"
+          },
+          {
+            "word": "every",
+            "start": 131.73894,
+            "end": 131.97894,
+            "confidence": 0.9873047,
+            "punctuated_word": "every"
+          },
+          {
+            "word": "day",
+            "start": 131.97894,
+            "end": 132.47894,
+            "confidence": 0.9316406,
+            "punctuated_word": "day,"
+          },
+          {
+            "word": "but",
+            "start": 132.69894,
+            "end": 133.01894,
+            "confidence": 1.0,
+            "punctuated_word": "but"
+          },
+          {
+            "word": "own",
+            "start": 133.01894,
+            "end": 133.25894,
+            "confidence": 0.99609375,
+            "punctuated_word": "own"
+          },
+          {
+            "word": "lifelong",
+            "start": 133.25894,
+            "end": 133.75894,
+            "confidence": 0.9951172,
+            "punctuated_word": "lifelong"
+          },
+          {
+            "word": "momentum",
+            "start": 133.81894,
+            "end": 134.31894,
+            "confidence": 0.9279785,
+            "punctuated_word": "momentum."
+          }
+        ],
+        "id": "92bf61c6-13d9-495b-8a3a-d0df18cf13fc"
+      }
+    ]
+  }
+}
