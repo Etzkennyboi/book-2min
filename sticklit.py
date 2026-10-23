@@ -310,8 +310,9 @@ def cmd_render(args):
     escaped_ass = str(subtitles_file.resolve()).replace("\\", "/").replace(":", "\\:")
     filter_complex = (
         f"[0:v]format=yuv420p,subtitles='{escaped_ass}'[v_final];"
-        f"[2:a]volume=0.12[bgm];"
-        f"[1:a][bgm]amix=inputs=2:duration=first:dropout_transition=2[a_final]"
+        f"[2:a]volume=0.18[bgm_raw];"
+        f"[bgm_raw][1:a]sidechaincompress=threshold=0.03:ratio=4:attack=50:release=350[bgm_ducked];"
+        f"[1:a][bgm_ducked]amix=inputs=2:duration=first:dropout_transition=2[a_final]"
     )
 
     cmd = [
