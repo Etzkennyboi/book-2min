@@ -213,83 +213,79 @@ def cmd_prepare(args):
     words = ts_data["results"]["channels"][0]["alternatives"][0]["words"]
     print(f"  -> Aligned {len(words)} words with millisecond precision.")
 
-    # 4. Organic Semantic Scene Breakdown & Pacing Smoother
-    print(f"[4/6] Segmenting organic semantic scenes & applying Golden Pacing (2.50s - 3.85s)...")
+    # 4. Organic Semantic Scene Breakdown & Acoustic Breath-Locked Sync
+    print(f"[4/6] Segmenting organic semantic beats & locking cut points to acoustic breath pauses...")
     scenes_words = []
     curr = []
 
-    # Break words into organic semantic scenes based on punctuation and speech timing
     for i, w in enumerate(words):
         curr.append(w)
-        dur = curr[-1]["end"] - curr[0]["start"]
         p_word = w.get("punctuated_word", "")
-        is_punct = p_word.endswith((".", "?", "!", ";", ":", ",", "—", "-"))
         is_sentence = p_word.endswith((".", "?", "!"))
+        is_clause = p_word.endswith((";", ":", ",", "—", "-"))
+        cur_dur = curr[-1]["end"] - curr[0]["start"]
 
-        # Scene 1: Hook / title cover (typically ~3.0s to 4.2s)
+        # Scene 1: Opening Hook / Title
         if len(scenes_words) == 0:
-            if (is_sentence and dur >= 2.80) or dur >= 4.20:
+            if (is_sentence and cur_dur >= 2.0) or cur_dur >= 3.8:
                 scenes_words.append(curr)
                 curr = []
         else:
-            # Subsequent narrative scenes: target 2.50s - 3.75s
-            if (is_punct and dur >= 2.50) or dur >= 3.75:
+            # Subsequent scenes: complete sentences (>= 1.8s) or clauses (>= 2.4s)
+            if is_sentence and cur_dur >= 1.8:
+                scenes_words.append(curr)
+                curr = []
+            elif is_clause and cur_dur >= 2.4:
+                scenes_words.append(curr)
+                curr = []
+            elif cur_dur >= 3.6 and (is_sentence or is_clause):
+                scenes_words.append(curr)
+                curr = []
+            elif cur_dur >= 4.2:
                 scenes_words.append(curr)
                 curr = []
 
     if curr:
-        if len(scenes_words) > 0 and (curr[-1]["end"] - curr[0]["start"]) < 2.20:
+        if len(scenes_words) > 0 and (curr[-1]["end"] - curr[0]["start"]) < 1.7:
             scenes_words[-1].extend(curr)
         else:
             scenes_words.append(curr)
 
-    raw_scenes = []
-    raw_durs = []
-    for sw in scenes_words:
-        txt = " ".join([w.get("punctuated_word", w["word"]) for w in sw])
-        raw_scenes.append(txt)
-        raw_durs.append(sw[-1]["end"] - sw[0]["start"])
-
-    num_scenes = len(raw_scenes)
+    num_scenes = len(scenes_words)
     print(f"  -> Script naturally formed {num_scenes} semantic scenes (no hardcoded limits).")
 
-    # Apply Golden Pacing Smoother (Clamping strictly between 2.50s and 3.85s)
-    scale = total_audio / sum(raw_durs) if sum(raw_durs) > 0 else 1.0
-    smooth_durs = [round(d * scale, 2) for d in raw_durs]
-    clamped_durs = []
-    for i, d in enumerate(smooth_durs):
-        if i == 0:
-            clamped_durs.append(max(3.00, min(4.30, d)))
-        elif i == len(smooth_durs) - 1:
-            clamped_durs.append(max(2.50, min(3.85, d)))
-        else:
-            clamped_durs.append(max(2.50, min(3.85, d)))
-
-    diff = round(total_audio - sum(clamped_durs), 2)
-    idx = 1
-    step = 0.02 if diff > 0 else -0.02
-    num_mid = max(1, len(clamped_durs) - 2)
-    while abs(diff) > 0.01 and num_mid > 0:
-        t_idx = 1 + (idx % num_mid)
-        if (step > 0 and clamped_durs[t_idx] < 3.80) or (step < 0 and clamped_durs[t_idx] > 2.55):
-            clamped_durs[t_idx] = round(clamped_durs[t_idx] + step, 2)
-            diff = round(diff - step, 2)
-        idx += 1
-    clamped_durs[-1] = round(total_audio - sum(clamped_durs[:-1]), 2)
-
+    # Calculate frame-perfect cut boundaries at the exact acoustic midpoint between sentences
     scenes_data = []
-    curr_time = 0.0
-    for s_idx, (txt, dur) in enumerate(zip(raw_scenes, clamped_durs), 1):
-        st = 0.0 if s_idx == 1 else round(curr_time, 2)
-        et = round(total_audio, 2) if s_idx == len(raw_scenes) else round(curr_time + dur, 2)
+    for s_idx in range(num_scenes):
+        sw = scenes_words[s_idx]
+        txt = " ".join([w.get("punctuated_word", w["word"]) for w in sw])
+
+        # Start time: 0.0 for Scene 1, else midpoint of breath pause from previous scene
+        if s_idx == 0:
+            st = 0.0
+        else:
+            prev_speech_end = scenes_words[s_idx - 1][-1]["end"]
+            cur_speech_start = sw[0]["start"]
+            st = round((prev_speech_end + cur_speech_start) / 2.0, 2)
+
+        # End time: total_audio for last scene, else midpoint of breath pause to next scene
+        if s_idx == num_scenes - 1:
+            et = round(total_audio, 2)
+        else:
+            cur_speech_end = sw[-1]["end"]
+            next_speech_start = scenes_words[s_idx + 1][0]["start"]
+            et = round((cur_speech_end + next_speech_start) / 2.0, 2)
+
+        dur = round(et - st, 2)
         scenes_data.append({
-            "scene_id": s_idx,
+            "scene_id": s_idx + 1,
             "start_sec": st,
             "end_sec": et,
-            "duration_sec": round(et - st, 2),
+            "duration_sec": dur,
+            "speech_start": sw[0]["start"],
+            "speech_end": sw[-1]["end"],
             "script_text": txt
         })
-        curr_time = et
 
     cues_file = b_dir / "exact_cues.json"
     with open(cues_file, "w", encoding="utf-8") as f:
@@ -369,10 +365,13 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
         dur = sc["duration_sec"]
         txt = sc["script_text"]
 
+        # Ensure Midjourney download automatically embeds the scene number
+        p_prefix = f"Scene {s_id:02d} of {title}: "
+
         if s_id == 1:
             # Scene 1: Locked Winning Cover Standard
             p_text = (
-                f"9:16 vertical comic book cover on pure white (#FFFFFF) background.\n\n"
+                f"{p_prefix}9:16 vertical comic book cover on pure white (#FFFFFF) background.\n\n"
                 f"Top Header: Bold black handwritten comic text reading:\n"
                 f'"{title.upper()}"\n'
                 f'"The Secret 2-Minute Playbook"\n\n'
@@ -391,7 +390,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
         elif s_id == s_count:
             # Scene Final: Locked Split Screen Climax
             p_text = (
-                f"Minimalist 2D cartoon webcomic illustration for '{txt}'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. "
+                f"{p_prefix}Minimalist 2D cartoon webcomic illustration for '{txt}'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. "
                 f"Visual Concept: Single cohesive 9:16 vertical image split horizontally with central circular (VS) badge. "
                 f"TOP PANEL: The Defeated (panicked stickman trapped in chaos, excuses, and confusion). "
                 f"BOTTOM PANEL: The Masters (Kai and Maya sitting peacefully with real friends around a warm campfire, laughing through life's meaningful challenges under golden stars). "
@@ -402,7 +401,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
         else:
             # Narrative Scenes 2 through (s_count - 1)
             p_text = (
-                f"Minimalist 2D cartoon webcomic illustration for '{txt}'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. "
+                f"{p_prefix}Minimalist 2D cartoon webcomic illustration for '{txt}'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. "
                 f"Visual Concept: Narrative visual metaphor illustrating '{txt}' with dynamic characters, comic props, and expressive action. "
                 f"Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. "
                 f"Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). "
@@ -419,10 +418,12 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
             "prompt": p_text
         })
 
-        prompt_lines.append(f"--- SCENE {s_id:02d} ({st:.2f}s - {et:.2f}s | {dur:.2f}s) ---")
-        prompt_lines.append(f'Script: "{txt}"')
-        prompt_lines.append(f"File: scene_{s_id:02d}.png")
-        prompt_lines.append("Prompt:")
+        prompt_lines.append("=" * 80)
+        prompt_lines.append(f"SCENE {s_id:02d} / {s_count:02d} | DOWNLOAD / SAVE AS: scene_{s_id:02d}.png")
+        prompt_lines.append(f"CUT WINDOW: {st:.2f}s - {et:.2f}s (Duration: {dur:.2f}s)")
+        prompt_lines.append(f'VOICEOVER: "{txt}"')
+        prompt_lines.append("=" * 80)
+        prompt_lines.append("COPY & PASTE PROMPT (Midjourney / Ideogram):")
         prompt_lines.append(p_text)
         prompt_lines.append("")
 
@@ -764,10 +765,8 @@ def cmd_render(args):
         frame_queue = queue.Queue(maxsize=120)
         stop_event = threading.Event()
 
-        # Producer thread computes affine warps & cross dissolves ahead of time
+        # Producer thread computes affine warps & crisp scene cuts
         def frame_producer():
-            dissolve_frames = 9
-            half_d = dissolve_frames // 2
             for f in range(total_frames):
                 if stop_event.is_set():
                     break
@@ -784,17 +783,6 @@ def cmd_render(args):
                 progress = min(max((t_sec - s_start) / s_dur, 0.0), 1.0)
 
                 cur_frame = get_scene_frame(sc["scene_id"], progress)
-
-                end_frame = int(round(s_end * FPS))
-                if cur_idx + 1 < len(scenes) and (end_frame - half_d <= f <= end_frame + half_d):
-                    next_sc = scenes[cur_idx + 1]
-                    next_dur = max(next_sc["end_sec"] - next_sc["start_sec"], 0.01)
-                    next_progress = min(max((t_sec - next_sc["start_sec"]) / next_dur, 0.0), 1.0)
-                    next_frame = get_scene_frame(next_sc["scene_id"], next_progress)
-                    alpha = (f - (end_frame - half_d)) / float(dissolve_frames)
-                    alpha = min(max(alpha, 0.0), 1.0)
-                    cur_frame = cv2.addWeighted(cur_frame, 1.0 - alpha, next_frame, alpha, 0.0)
-
                 frame_queue.put(cur_frame.tobytes())
             frame_queue.put(None) # Sentinel
 
@@ -836,8 +824,6 @@ def cmd_render(args):
         ]
         with open(log_path, "w", encoding="utf-8") as lf:
             proc = subprocess.Popen(cmd_cpu, stdin=subprocess.PIPE, stdout=lf, stderr=lf)
-            dissolve_frames = 9
-            half_d = dissolve_frames // 2
             for f in range(total_frames):
                 t_sec = f / float(FPS)
                 cur_idx = 0
@@ -848,13 +834,6 @@ def cmd_render(args):
                 s_dur = max(sc["end_sec"] - sc["start_sec"], 0.01)
                 progress = min(max((t_sec - sc["start_sec"]) / s_dur, 0.0), 1.0)
                 cur_frame = get_scene_frame(sc["scene_id"], progress)
-                end_frame = int(round(sc["end_sec"] * FPS))
-                if cur_idx + 1 < len(scenes) and (end_frame - half_d <= f <= end_frame + half_d):
-                    next_sc = scenes[cur_idx + 1]
-                    next_progress = min(max((t_sec - next_sc["start_sec"]) / max(next_sc["end_sec"] - next_sc["start_sec"], 0.01), 0.0), 1.0)
-                    next_frame = get_scene_frame(next_sc["scene_id"], next_progress)
-                    alpha = min(max((f - (end_frame - half_d)) / float(dissolve_frames), 0.0), 1.0)
-                    cur_frame = cv2.addWeighted(cur_frame, 1.0 - alpha, next_frame, alpha, 0.0)
                 proc.stdin.write(cur_frame.tobytes())
             proc.stdin.close()
             proc.wait()
