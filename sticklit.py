@@ -9,7 +9,7 @@ hardware-accelerated video rendering, and 0.05-second instant fuzzy image matchi
 
 Commands:
   prepare   Automate script, phonetic sanitization, parallel TTS, Nova-2 alignment,
-            golden pacing smoother (2.50s - 3.85s), kinetic ASS subtitles, and 44 Midjourney prompts.
+            dynamic semantic scene breakdown (2.50s - 3.85s), kinetic ASS subtitles, and master prompts.
   audit     Audit image folder matching before render.
   render    Execute multi-threaded double-buffering render with hardware acceleration and Ken Burns motion.
 """
@@ -132,7 +132,7 @@ def generate_book_chunks(title: str, author: str, custom_script_path: str = None
 def cmd_prepare(args):
     """
     Automates script breakdown, phonetic safety, parallel audio synthesis,
-    Nova-2 forced alignment, golden pacing smoother, ASS subtitles, and 44 prompts in ~15 seconds.
+    Nova-2 forced alignment, golden pacing smoother, ASS subtitles, and master prompts in ~15 seconds.
     """
     title = args.title
     author = args.author
@@ -213,72 +213,73 @@ def cmd_prepare(args):
     words = ts_data["results"]["channels"][0]["alternatives"][0]["words"]
     print(f"  -> Aligned {len(words)} words with millisecond precision.")
 
-    # 4. Semantic Scene Breakdown & Pacing Smoother
-    print(f"[4/6] Balancing Golden Pacing Smoother across ~44 scenes (2.50s - 3.85s)...")
-    # Break words into ~44 semantic visual scenes
-    target_scenes = 44
-    words_per_group = max(5, len(words) // target_scenes)
-    
-    # Form scenes from word sequences ending at punctuation when possible
-    raw_scenes = []
-    curr_words = []
-    for w in words:
-        curr_words.append(w)
-        punct = w.get("punctuated_word", "").endswith((".", "?", "!", ";"))
-        if (len(curr_words) >= words_per_group and punct) or len(curr_words) >= words_per_group + 4:
-            txt = " ".join([cw.get("punctuated_word", cw["word"]) for cw in curr_words])
-            raw_scenes.append(txt)
-            curr_words = []
-    if curr_words:
-        if raw_scenes:
-            raw_scenes[-1] += " " + " ".join([cw.get("punctuated_word", cw["word"]) for cw in curr_words])
-        else:
-            raw_scenes.append(" ".join([cw.get("punctuated_word", cw["word"]) for cw in curr_words]))
+    # 4. Organic Semantic Scene Breakdown & Pacing Smoother
+    print(f"[4/6] Segmenting organic semantic scenes & applying Golden Pacing (2.50s - 3.85s)...")
+    scenes_words = []
+    curr = []
 
-    # Guarantee exactly 44 scenes (split longest or merge shortest if needed)
-    while len(raw_scenes) < target_scenes:
-        # Split longest scene in half
-        lens = [len(s.split()) for s in raw_scenes]
-        max_idx = lens.index(max(lens))
-        s_words = raw_scenes[max_idx].split()
-        mid = len(s_words) // 2
-        s1 = " ".join(s_words[:mid])
-        s2 = " ".join(s_words[mid:])
-        raw_scenes = raw_scenes[:max_idx] + [s1, s2] + raw_scenes[max_idx + 1:]
-    while len(raw_scenes) > target_scenes:
-        # Merge shortest adjacent pair
-        lens = [len(s.split()) for s in raw_scenes]
-        min_idx = lens.index(min(lens[:-1]))
-        raw_scenes[min_idx] += " " + raw_scenes[min_idx + 1]
-        raw_scenes.pop(min_idx + 1)
+    # Break words into organic semantic scenes based on punctuation and speech timing
+    for i, w in enumerate(words):
+        curr.append(w)
+        dur = curr[-1]["end"] - curr[0]["start"]
+        p_word = w.get("punctuated_word", "")
+        is_punct = p_word.endswith((".", "?", "!", ";", ":", ",", "—", "-"))
+        is_sentence = p_word.endswith((".", "?", "!"))
+
+        # Scene 1: Hook / title cover (typically ~3.0s to 4.2s)
+        if len(scenes_words) == 0:
+            if (is_sentence and dur >= 2.80) or dur >= 4.20:
+                scenes_words.append(curr)
+                curr = []
+        else:
+            # Subsequent narrative scenes: target 2.50s - 3.75s
+            if (is_punct and dur >= 2.50) or dur >= 3.75:
+                scenes_words.append(curr)
+                curr = []
+
+    if curr:
+        if len(scenes_words) > 0 and (curr[-1]["end"] - curr[0]["start"]) < 2.20:
+            scenes_words[-1].extend(curr)
+        else:
+            scenes_words.append(curr)
+
+    raw_scenes = []
+    raw_durs = []
+    for sw in scenes_words:
+        txt = " ".join([w.get("punctuated_word", w["word"]) for w in sw])
+        raw_scenes.append(txt)
+        raw_durs.append(sw[-1]["end"] - sw[0]["start"])
+
+    num_scenes = len(raw_scenes)
+    print(f"  -> Script naturally formed {num_scenes} semantic scenes (no hardcoded limits).")
 
     # Apply Golden Pacing Smoother (Clamping strictly between 2.50s and 3.85s)
-    hook_dur = 4.20
-    outro_dur = 3.20
-    remaining_time = total_audio - hook_dur - outro_dur
-    words_count_42 = [max(1, len(s.split())) for s in raw_scenes[1:-1]]
-    sum_words_42 = sum(words_count_42)
+    scale = total_audio / sum(raw_durs) if sum(raw_durs) > 0 else 1.0
+    smooth_durs = [round(d * scale, 2) for d in raw_durs]
+    clamped_durs = []
+    for i, d in enumerate(smooth_durs):
+        if i == 0:
+            clamped_durs.append(max(3.00, min(4.30, d)))
+        elif i == len(smooth_durs) - 1:
+            clamped_durs.append(max(2.50, min(3.85, d)))
+        else:
+            clamped_durs.append(max(2.50, min(3.85, d)))
 
-    smooth_durs = [hook_dur]
-    for w_cnt in words_count_42:
-        clamped = max(2.50, min(3.85, round((w_cnt / sum_words_42) * remaining_time, 2)))
-        smooth_durs.append(clamped)
-    smooth_durs.append(outro_dur)
-
-    diff = round(total_audio - sum(smooth_durs), 2)
+    diff = round(total_audio - sum(clamped_durs), 2)
     idx = 1
     step = 0.02 if diff > 0 else -0.02
-    while abs(diff) > 0.01:
-        target_idx = 1 + (idx % 42)
-        if (step > 0 and smooth_durs[target_idx] < 3.80) or (step < 0 and smooth_durs[target_idx] > 2.55):
-            smooth_durs[target_idx] = round(smooth_durs[target_idx] + step, 2)
+    num_mid = max(1, len(clamped_durs) - 2)
+    while abs(diff) > 0.01 and num_mid > 0:
+        t_idx = 1 + (idx % num_mid)
+        if (step > 0 and clamped_durs[t_idx] < 3.80) or (step < 0 and clamped_durs[t_idx] > 2.55):
+            clamped_durs[t_idx] = round(clamped_durs[t_idx] + step, 2)
             diff = round(diff - step, 2)
         idx += 1
-    smooth_durs[-1] = round(total_audio - sum(smooth_durs[:-1]), 2)
+    clamped_durs[-1] = round(total_audio - sum(clamped_durs[:-1]), 2)
 
     scenes_data = []
     curr_time = 0.0
-    for s_idx, (txt, dur) in enumerate(zip(raw_scenes, smooth_durs), 1):
+    for s_idx, (txt, dur) in enumerate(zip(raw_scenes, clamped_durs), 1):
         st = 0.0 if s_idx == 1 else round(curr_time, 2)
         et = round(total_audio, 2) if s_idx == len(raw_scenes) else round(curr_time + dur, 2)
         scenes_data.append({
@@ -346,15 +347,16 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
         for ev in events:
             f.write(ev + "\n")
 
-    # 6. Formulate 44 Prompts with Locked Winning Standard
-    print(f"[6/6] Formulating 44 master Midjourney/Ideogram prompts...")
+    # 6. Formulate Master Prompts with Locked Winning Standard
+    s_count = len(scenes_data)
+    print(f"[6/6] Formulating {s_count} master Midjourney/Ideogram prompts...")
     prompts_manifest = []
     prompt_lines = [
         "=" * 80,
-        f"{title.upper()} - 44-SCENE MASTER PROMPT SHEET",
+        f"{title.upper()} - {s_count}-SCENE MASTER PROMPT SHEET",
         "=" * 80,
         f"Book: {title} by {author}",
-        f"Runtime: {total_audio:.2f}s | 44 Scenes | Subtitle Safe Zone: Bottom 250px Clean",
+        f"Runtime: {total_audio:.2f}s | {s_count} Scenes | Subtitle Safe Zone: Bottom 250px Clean",
         f"Style: 2D Minimalist StickLit Webcomic | 9:16 Vertical (1080x1920) | #FFFFFF Background",
         "=" * 80,
         ""
@@ -386,8 +388,8 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
                 f"- Floor: Broken iron padlocks labeled 'EXCUSES' lie shattered on the ground.\n\n"
                 f"Framing: All artwork strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, minimalist 2D webcomic aesthetic."
             )
-        elif s_id == 44:
-            # Scene 44: Locked Split Screen Climax
+        elif s_id == s_count:
+            # Scene Final: Locked Split Screen Climax
             p_text = (
                 f"Minimalist 2D cartoon webcomic illustration for '{txt}'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. "
                 f"Visual Concept: Single cohesive 9:16 vertical image split horizontally with central circular (VS) badge. "
@@ -398,7 +400,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
                 f"Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety."
             )
         else:
-            # Narrative Scenes 2-43
+            # Narrative Scenes 2 through (s_count - 1)
             p_text = (
                 f"Minimalist 2D cartoon webcomic illustration for '{txt}'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. "
                 f"Visual Concept: Narrative visual metaphor illustrating '{txt}' with dynamic characters, comic props, and expressive action. "
@@ -438,7 +440,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     print(f" [SUCCESS] {title.upper()} Auto-Setup Complete in {elapsed:.2f}s!")
     print(f" Master Audio:    {voiceover_path.resolve()} ({total_audio:.2f}s)")
     print(f" Subtitles:       {subtitles_file.resolve()} ({len(events)} bursts)")
-    print(f" Exact Cues:      {cues_file.resolve()} (44 scenes, 2.50s - 3.85s)")
+    print(f" Exact Cues:      {cues_file.resolve()} ({s_count} scenes, 2.50s - 3.85s)")
     print(f" Master Prompts:  {root_prompts.resolve()}")
     print("========================================================\n")
 
@@ -881,7 +883,7 @@ def main():
     subparsers = parser.add_subparsers(dest="command", required=True)
 
     # 1. Prepare Command (Option 1)
-    p_prep = subparsers.add_parser("prepare", help="Turnkey 15-second book setup: TTS, Nova-2, Pacing Smoother, Subtitles, 44 Prompts")
+    p_prep = subparsers.add_parser("prepare", help="Turnkey 15-second book setup: TTS, Nova-2, Pacing Smoother, Subtitles, Dynamic Prompts")
     p_prep.add_argument("--title", type=str, required=True, help="Book title (e.g. 'Atomic Habits')")
     p_prep.add_argument("--author", type=str, required=True, help="Book author (e.g. 'James Clear')")
     p_prep.add_argument("--script", type=str, default=None, help="Optional custom script text file")
