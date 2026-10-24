@@ -1,0 +1,337 @@
+================================================================================
+THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE - 39-SCENE MASTER PROMPT SHEET
+================================================================================
+Book: The 7 Habits of Highly Effective People by Stephen Covey
+Runtime: 141.38s | 39 Scenes | Subtitle Safe Zone: Bottom 250px Clean
+Style: 2D Minimalist StickLit Webcomic | 9:16 Vertical (1080x1920) | #FFFFFF Background
+================================================================================
+
+================================================================================
+SCENE 01 / 39 | DOWNLOAD / SAVE AS: scene_01.png
+CUT WINDOW: 0.00s - 4.33s (Duration: 4.33s)
+VOICEOVER: "The seven habits of highly effective people by Stephen Covey in two minutes."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 01 of The 7 Habits of Highly Effective People: 9:16 vertical comic book cover on pure white (#FFFFFF) background.
+
+Top Header: Bold black handwritten comic text reading:
+"THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE"
+"The Secret 2-Minute Playbook"
+
+Center: A colossal, perfectly upright hardcover book standing flat and level with zero tilt:
+"THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE"
+"STEPHEN COVEY"
+Embossed in horizontal gold serif letters.
+
+Characters: Two 2D minimalist stick figures in charcoal t-shirts (#3A3A3C), grey pants (#8E8E93), and black combat boots with flat warm skin tone (#E8BEAC).
+- Left: Confident boy Kai with messy spiky black hair wielding a glowing golden key unlocking success.
+- Right: Sharp girl Maya with a high spiky black ponytail and bangs, arms crossed, winking at the camera.
+- Left side: A stressed stickman overwhelmed by bad habits and confusion.
+- Right side: Calm, happy friends smiling peacefully in mastery.
+- Floor: Broken iron padlocks labeled 'EXCUSES' lie shattered on the ground.
+
+Framing: All artwork strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, minimalist 2D webcomic aesthetic.
+
+================================================================================
+SCENE 02 / 39 | DOWNLOAD / SAVE AS: scene_02.png
+CUT WINDOW: 4.33s - 7.81s (Duration: 3.48s)
+VOICEOVER: "Most people live their entire lives in reaction mode."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 02 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'Most people live their entire lives in reaction mode.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'Most people live their entire lives in reaction mode.' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 03 / 39 | DOWNLOAD / SAVE AS: scene_03.png
+CUT WINDOW: 7.81s - 10.97s (Duration: 3.16s)
+VOICEOVER: "They blame their boss, the economy, or the weather,"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 03 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'They blame their boss, the economy, or the weather,'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'They blame their boss, the economy, or the weather,' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 04 / 39 | DOWNLOAD / SAVE AS: scene_04.png
+CUT WINDOW: 10.97s - 15.42s (Duration: 4.45s)
+VOICEOVER: "feeling completely powerless. But here is the brutal truth."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 04 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'feeling completely powerless. But here is the brutal truth.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'feeling completely powerless. But here is the brutal truth.' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 05 / 39 | DOWNLOAD / SAVE AS: scene_05.png
+CUT WINDOW: 15.42s - 20.02s (Duration: 4.60s)
+VOICEOVER: "If you want to change your life, you have to work from the inside out."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 05 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'If you want to change your life, you have to work from the inside out.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'If you want to change your life, you have to work from the inside out.' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 06 / 39 | DOWNLOAD / SAVE AS: scene_06.png
+CUT WINDOW: 20.02s - 22.79s (Duration: 2.77s)
+VOICEOVER: "Habit one, be proactive."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 06 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'Habit one, be proactive.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'Habit one, be proactive.' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 07 / 39 | DOWNLOAD / SAVE AS: scene_07.png
+CUT WINDOW: 22.79s - 26.55s (Duration: 3.76s)
+VOICEOVER: "Unsuccessful people obsess over their circle of concern,"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 07 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'Unsuccessful people obsess over their circle of concern,'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'Unsuccessful people obsess over their circle of concern,' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 08 / 39 | DOWNLOAD / SAVE AS: scene_08.png
+CUT WINDOW: 26.55s - 29.17s (Duration: 2.62s)
+VOICEOVER: "worrying about things they cannot control."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 08 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'worrying about things they cannot control.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'worrying about things they cannot control.' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 09 / 39 | DOWNLOAD / SAVE AS: scene_09.png
+CUT WINDOW: 29.17s - 33.71s (Duration: 4.54s)
+VOICEOVER: "Highly effective people pour all their energy into their circle of influence."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 09 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'Highly effective people pour all their energy into their circle of influence.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'Highly effective people pour all their energy into their circle of influence.' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 10 / 39 | DOWNLOAD / SAVE AS: scene_10.png
+CUT WINDOW: 33.71s - 36.35s (Duration: 2.64s)
+VOICEOVER: "You are not a product of your circumstances."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 10 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'You are not a product of your circumstances.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'You are not a product of your circumstances.' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 11 / 39 | DOWNLOAD / SAVE AS: scene_11.png
+CUT WINDOW: 36.35s - 39.91s (Duration: 3.56s)
+VOICEOVER: "You are a product of your decisions. Habit two."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 11 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'You are a product of your decisions. Habit two.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'You are a product of your decisions. Habit two.' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 12 / 39 | DOWNLOAD / SAVE AS: scene_12.png
+CUT WINDOW: 39.91s - 44.52s (Duration: 4.61s)
+VOICEOVER: "Begin with the end in mind. Imagine attending your own funeral three years"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 12 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'Begin with the end in mind. Imagine attending your own funeral three years'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'Begin with the end in mind. Imagine attending your own funeral three years' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 13 / 39 | DOWNLOAD / SAVE AS: scene_13.png
+CUT WINDOW: 44.52s - 49.02s (Duration: 4.50s)
+VOICEOVER: "from now. What do you want your family and friends to say about your character?"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 13 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'from now. What do you want your family and friends to say about your character?'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'from now. What do you want your family and friends to say about your character?' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 14 / 39 | DOWNLOAD / SAVE AS: scene_14.png
+CUT WINDOW: 49.02s - 51.77s (Duration: 2.75s)
+VOICEOVER: "If your ladder is leaning against the wrong wall,"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 14 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'If your ladder is leaning against the wrong wall,'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'If your ladder is leaning against the wrong wall,' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 15 / 39 | DOWNLOAD / SAVE AS: scene_15.png
+CUT WINDOW: 51.77s - 55.45s (Duration: 3.68s)
+VOICEOVER: "every single step you take just gets you to the wrong place faster."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 15 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'every single step you take just gets you to the wrong place faster.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'every single step you take just gets you to the wrong place faster.' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 16 / 39 | DOWNLOAD / SAVE AS: scene_16.png
+CUT WINDOW: 55.45s - 58.63s (Duration: 3.18s)
+VOICEOVER: "Habit three. Put first things first."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 16 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'Habit three. Put first things first.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'Habit three. Put first things first.' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 17 / 39 | DOWNLOAD / SAVE AS: scene_17.png
+CUT WINDOW: 58.63s - 62.12s (Duration: 3.49s)
+VOICEOVER: "Most people spend their days putting out urgent fires,"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 17 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'Most people spend their days putting out urgent fires,'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'Most people spend their days putting out urgent fires,' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 18 / 39 | DOWNLOAD / SAVE AS: scene_18.png
+CUT WINDOW: 62.12s - 64.72s (Duration: 2.60s)
+VOICEOVER: "but urgent rarely means important."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 18 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'but urgent rarely means important.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'but urgent rarely means important.' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 19 / 39 | DOWNLOAD / SAVE AS: scene_19.png
+CUT WINDOW: 64.72s - 67.52s (Duration: 2.80s)
+VOICEOVER: "You must schedule your big rocks first."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 19 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'You must schedule your big rocks first.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'You must schedule your big rocks first.' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 20 / 39 | DOWNLOAD / SAVE AS: scene_20.png
+CUT WINDOW: 67.52s - 72.15s (Duration: 4.63s)
+VOICEOVER: "Your deep work, your health, and your family before the small pebbles and"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 20 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'Your deep work, your health, and your family before the small pebbles and'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'Your deep work, your health, and your family before the small pebbles and' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 21 / 39 | DOWNLOAD / SAVE AS: scene_21.png
+CUT WINDOW: 72.15s - 74.94s (Duration: 2.79s)
+VOICEOVER: "sand consume your day. Habit four."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 21 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'sand consume your day. Habit four.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'sand consume your day. Habit four.' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 22 / 39 | DOWNLOAD / SAVE AS: scene_22.png
+CUT WINDOW: 74.94s - 79.42s (Duration: 4.48s)
+VOICEOVER: "Think win win. Life is not a zero sum game where someone must"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 22 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'Think win win. Life is not a zero sum game where someone must'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'Think win win. Life is not a zero sum game where someone must' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 23 / 39 | DOWNLOAD / SAVE AS: scene_23.png
+CUT WINDOW: 79.42s - 84.31s (Duration: 4.89s)
+VOICEOVER: "lose for you to win. Scarcity mindset creates bitter enemies,"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 23 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'lose for you to win. Scarcity mindset creates bitter enemies,'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'lose for you to win. Scarcity mindset creates bitter enemies,' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 24 / 39 | DOWNLOAD / SAVE AS: scene_24.png
+CUT WINDOW: 84.31s - 87.90s (Duration: 3.59s)
+VOICEOVER: "and abundance mindset builds lasting empires."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 24 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'and abundance mindset builds lasting empires.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'and abundance mindset builds lasting empires.' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 25 / 39 | DOWNLOAD / SAVE AS: scene_25.png
+CUT WINDOW: 87.90s - 90.98s (Duration: 3.08s)
+VOICEOVER: "Habit five, seek first to understand,"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 25 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'Habit five, seek first to understand,'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'Habit five, seek first to understand,' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 26 / 39 | DOWNLOAD / SAVE AS: scene_26.png
+CUT WINDOW: 90.98s - 95.18s (Duration: 4.20s)
+VOICEOVER: "then to be understood. Most people do not listen to understand."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 26 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'then to be understood. Most people do not listen to understand.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'then to be understood. Most people do not listen to understand.' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 27 / 39 | DOWNLOAD / SAVE AS: scene_27.png
+CUT WINDOW: 95.18s - 97.70s (Duration: 2.52s)
+VOICEOVER: "They listen with the intent to reply."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 27 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'They listen with the intent to reply.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'They listen with the intent to reply.' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 28 / 39 | DOWNLOAD / SAVE AS: scene_28.png
+CUT WINDOW: 97.70s - 101.13s (Duration: 3.43s)
+VOICEOVER: "Diagnose before you prescribe. Habit six,"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 28 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'Diagnose before you prescribe. Habit six,'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'Diagnose before you prescribe. Habit six,' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 29 / 39 | DOWNLOAD / SAVE AS: scene_29.png
+CUT WINDOW: 101.13s - 104.53s (Duration: 3.40s)
+VOICEOVER: "synergize. One plus one does not equal two."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 29 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'synergize. One plus one does not equal two.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'synergize. One plus one does not equal two.' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 30 / 39 | DOWNLOAD / SAVE AS: scene_30.png
+CUT WINDOW: 104.53s - 108.41s (Duration: 3.88s)
+VOICEOVER: "When two creative minds combine, one plus one equals three,"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 30 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'When two creative minds combine, one plus one equals three,'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'When two creative minds combine, one plus one equals three,' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 31 / 39 | DOWNLOAD / SAVE AS: scene_31.png
+CUT WINDOW: 108.41s - 111.07s (Duration: 2.66s)
+VOICEOVER: "five, or ten. Value the differences."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 31 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'five, or ten. Value the differences.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'five, or ten. Value the differences.' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 32 / 39 | DOWNLOAD / SAVE AS: scene_32.png
+CUT WINDOW: 111.07s - 113.96s (Duration: 2.89s)
+VOICEOVER: "Habit seven, sharpen the saw."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 32 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'Habit seven, sharpen the saw.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'Habit seven, sharpen the saw.' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 33 / 39 | DOWNLOAD / SAVE AS: scene_33.png
+CUT WINDOW: 113.96s - 118.35s (Duration: 4.39s)
+VOICEOVER: "A lumberjack spent five hours furiously trying to chop down a tree with"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 33 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'A lumberjack spent five hours furiously trying to chop down a tree with'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'A lumberjack spent five hours furiously trying to chop down a tree with' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 34 / 39 | DOWNLOAD / SAVE AS: scene_34.png
+CUT WINDOW: 118.35s - 122.32s (Duration: 3.97s)
+VOICEOVER: "a blunt blade. When asked to stop and sharpen his saw,"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 34 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'a blunt blade. When asked to stop and sharpen his saw,'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'a blunt blade. When asked to stop and sharpen his saw,' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 35 / 39 | DOWNLOAD / SAVE AS: scene_35.png
+CUT WINDOW: 122.32s - 124.56s (Duration: 2.24s)
+VOICEOVER: "he said, I do not have time."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 35 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'he said, I do not have time.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'he said, I do not have time.' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 36 / 39 | DOWNLOAD / SAVE AS: scene_36.png
+CUT WINDOW: 124.56s - 128.85s (Duration: 4.29s)
+VOICEOVER: "I am too busy sawing. If you never recharge your physical,"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 36 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'I am too busy sawing. If you never recharge your physical,'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'I am too busy sawing. If you never recharge your physical,' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 37 / 39 | DOWNLOAD / SAVE AS: scene_37.png
+CUT WINDOW: 128.85s - 132.96s (Duration: 4.11s)
+VOICEOVER: "mental, and spiritual energy, you will inevitably burn out."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 37 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'mental, and spiritual energy, you will inevitably burn out.'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'mental, and spiritual energy, you will inevitably burn out.' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 38 / 39 | DOWNLOAD / SAVE AS: scene_38.png
+CUT WINDOW: 132.96s - 137.19s (Duration: 4.23s)
+VOICEOVER: "So tell me in the comments below. Would you rather stay stuck reacting to the world's"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 38 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'So tell me in the comments below. Would you rather stay stuck reacting to the world's'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Narrative visual metaphor illustrating 'So tell me in the comments below. Would you rather stay stuck reacting to the world's' with dynamic characters, comic props, and expressive action. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
+
+================================================================================
+SCENE 39 / 39 | DOWNLOAD / SAVE AS: scene_39.png
+CUT WINDOW: 137.19s - 141.38s (Duration: 4.19s)
+VOICEOVER: "chaos or master the seven habits and become the author of your own destiny?"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Ideogram):
+Scene 39 of The 7 Habits of Highly Effective People: Minimalist 2D cartoon webcomic illustration for 'chaos or master the seven habits and become the author of your own destiny?'. Canvas: 9:16 vertical (1080x1920), solid pure digital white (#FFFFFF) background, borderless. Visual Concept: Single cohesive 9:16 vertical image split horizontally with central circular (VS) badge. TOP PANEL: The Defeated (panicked stickman trapped in chaos, excuses, and confusion). BOTTOM PANEL: The Masters (Kai and Maya sitting peacefully with real friends around a warm campfire, laughing through life's meaningful challenges under golden stars). Bottom 250px subtitle safe zone clean. Style: Crisp clean black ink line art, vibrant flat solid color fills, zero gradients, zero 3D shading, minimalist 2D cartoon aesthetic. Character Duo Anatomy: Kai (spiky black hair, flat warm natural skin tone #E8BEAC, dark charcoal crewneck tee #3A3A3C, grey straight pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (spiky black ponytail with bangs, flat warm natural skin tone #E8BEAC, charcoal fitted tee #3A3A3C, grey pants #8E8E93, black combat boots, minimalist 2D stick limbs, strictly 0 muscular bulk). Framing: Keep all character artwork, props, and visual effects strictly in the upper 80% of the canvas; leave the bottom 250px completely clear pure white negative space for subtitle safety.
