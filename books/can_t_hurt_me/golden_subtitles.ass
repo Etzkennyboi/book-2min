@@ -1,0 +1,377 @@
+[Script Info]
+Title: Can't Hurt Me Kinetic Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,66,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,1,0,1,6,0,2,60,60,280,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.16,0:00:00.32,Default,,0,0,0,,{\c&H00E6FF&}CAN'T{\c&HFFFFFF&} HURT ME
+Dialogue: 0,0:00:00.32,0:00:00.48,Default,,0,0,0,,CAN'T {\c&H00E6FF&}HURT{\c&HFFFFFF&} ME
+Dialogue: 0,0:00:00.48,0:00:00.80,Default,,0,0,0,,CAN'T HURT {\c&H00E6FF&}ME{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.80,0:00:01.04,Default,,0,0,0,,{\c&H00E6FF&}BY{\c&HFFFFFF&} DAVID GOGGINS
+Dialogue: 0,0:00:01.04,0:00:01.36,Default,,0,0,0,,BY {\c&H00E6FF&}DAVID{\c&HFFFFFF&} GOGGINS
+Dialogue: 0,0:00:01.36,0:00:01.76,Default,,0,0,0,,BY DAVID {\c&H00E6FF&}GOGGINS{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.76,0:00:01.92,Default,,0,0,0,,{\c&H00E6FF&}IN{\c&HFFFFFF&} TWO MINUTES.
+Dialogue: 0,0:00:01.92,0:00:02.08,Default,,0,0,0,,IN {\c&H00E6FF&}TWO{\c&HFFFFFF&} MINUTES.
+Dialogue: 0,0:00:02.08,0:00:02.58,Default,,0,0,0,,IN TWO {\c&H00E6FF&}MINUTES.{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.96,0:00:03.28,Default,,0,0,0,,{\c&H00E6FF&}MOST{\c&HFFFFFF&} PEOPLE LIVE
+Dialogue: 0,0:00:03.28,0:00:03.60,Default,,0,0,0,,MOST {\c&H00E6FF&}PEOPLE{\c&HFFFFFF&} LIVE
+Dialogue: 0,0:00:03.60,0:00:03.84,Default,,0,0,0,,MOST PEOPLE {\c&H00E6FF&}LIVE{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.84,0:00:04.08,Default,,0,0,0,,{\c&H00E6FF&}THEIR{\c&HFFFFFF&} ENTIRE LIVES
+Dialogue: 0,0:00:04.08,0:00:04.56,Default,,0,0,0,,THEIR {\c&H00E6FF&}ENTIRE{\c&HFFFFFF&} LIVES
+Dialogue: 0,0:00:04.56,0:00:04.96,Default,,0,0,0,,THEIR ENTIRE {\c&H00E6FF&}LIVES{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.96,0:00:05.12,Default,,0,0,0,,{\c&H00E6FF&}IN{\c&HFFFFFF&} THE SAFE
+Dialogue: 0,0:00:05.12,0:00:05.28,Default,,0,0,0,,IN {\c&H00E6FF&}THE{\c&HFFFFFF&} SAFE
+Dialogue: 0,0:00:05.28,0:00:05.52,Default,,0,0,0,,IN THE {\c&H00E6FF&}SAFE{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.52,0:00:06.02,Default,,0,0,0,,{\c&H00E6FF&}ZONE,{\c&HFFFFFF&} COMFORTABLE,
+Dialogue: 0,0:00:06.16,0:00:06.66,Default,,0,0,0,,ZONE, {\c&H00E6FF&}COMFORTABLE,{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.20,0:00:07.68,Default,,0,0,0,,{\c&H00E6FF&}SOFT,{\c&HFFFFFF&} AND FULL
+Dialogue: 0,0:00:07.68,0:00:07.92,Default,,0,0,0,,SOFT, {\c&H00E6FF&}AND{\c&HFFFFFF&} FULL
+Dialogue: 0,0:00:07.92,0:00:08.16,Default,,0,0,0,,SOFT, AND {\c&H00E6FF&}FULL{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.16,0:00:08.32,Default,,0,0,0,,{\c&H00E6FF&}OF{\c&HFFFFFF&} EXCUSES.
+Dialogue: 0,0:00:08.32,0:00:08.82,Default,,0,0,0,,OF {\c&H00E6FF&}EXCUSES.{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.68,0:00:09.92,Default,,0,0,0,,{\c&H00E6FF&}BUT{\c&HFFFFFF&} HERE'S THE
+Dialogue: 0,0:00:09.92,0:00:10.24,Default,,0,0,0,,BUT {\c&H00E6FF&}HERE'S{\c&HFFFFFF&} THE
+Dialogue: 0,0:00:10.24,0:00:10.40,Default,,0,0,0,,BUT HERE'S {\c&H00E6FF&}THE{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.40,0:00:10.88,Default,,0,0,0,,{\c&H00E6FF&}BRUTAL{\c&HFFFFFF&} TRUTH.
+Dialogue: 0,0:00:10.88,0:00:11.38,Default,,0,0,0,,BRUTAL {\c&H00E6FF&}TRUTH.{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.60,0:00:11.76,Default,,0,0,0,,{\c&H00E6FF&}YOU{\c&HFFFFFF&} ARE ONLY
+Dialogue: 0,0:00:11.76,0:00:11.92,Default,,0,0,0,,YOU {\c&H00E6FF&}ARE{\c&HFFFFFF&} ONLY
+Dialogue: 0,0:00:11.92,0:00:12.32,Default,,0,0,0,,YOU ARE {\c&H00E6FF&}ONLY{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.32,0:00:12.72,Default,,0,0,0,,{\c&H00E6FF&}USING{\c&HFFFFFF&} FORTY PERCENT
+Dialogue: 0,0:00:12.72,0:00:13.12,Default,,0,0,0,,USING {\c&H00E6FF&}FORTY{\c&HFFFFFF&} PERCENT
+Dialogue: 0,0:00:13.12,0:00:13.60,Default,,0,0,0,,USING FORTY {\c&H00E6FF&}PERCENT{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.60,0:00:13.68,Default,,0,0,0,,{\c&H00E6FF&}OF{\c&HFFFFFF&} YOUR TRUE
+Dialogue: 0,0:00:13.68,0:00:13.92,Default,,0,0,0,,OF {\c&H00E6FF&}YOUR{\c&HFFFFFF&} TRUE
+Dialogue: 0,0:00:13.92,0:00:14.24,Default,,0,0,0,,OF YOUR {\c&H00E6FF&}TRUE{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.24,0:00:14.74,Default,,0,0,0,,{\c&H00E6FF&}CAPABILITY.{\c&HFFFFFF&} WHEN YOUR
+Dialogue: 0,0:00:15.66,0:00:15.74,Default,,0,0,0,,CAPABILITY. {\c&H00E6FF&}WHEN{\c&HFFFFFF&} YOUR
+Dialogue: 0,0:00:15.74,0:00:16.07,Default,,0,0,0,,CAPABILITY. WHEN {\c&H00E6FF&}YOUR{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.07,0:00:16.39,Default,,0,0,0,,{\c&H00E6FF&}MIND{\c&HFFFFFF&} STARTS SCREAMING
+Dialogue: 0,0:00:16.39,0:00:16.70,Default,,0,0,0,,MIND {\c&H00E6FF&}STARTS{\c&HFFFFFF&} SCREAMING
+Dialogue: 0,0:00:16.70,0:00:17.18,Default,,0,0,0,,MIND STARTS {\c&H00E6FF&}SCREAMING{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.18,0:00:17.43,Default,,0,0,0,,{\c&H00E6FF&}THAT{\c&HFFFFFF&} YOU ARE
+Dialogue: 0,0:00:17.43,0:00:17.50,Default,,0,0,0,,THAT {\c&H00E6FF&}YOU{\c&HFFFFFF&} ARE
+Dialogue: 0,0:00:17.50,0:00:17.82,Default,,0,0,0,,THAT YOU {\c&H00E6FF&}ARE{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.82,0:00:18.32,Default,,0,0,0,,{\c&H00E6FF&}COMPLETELY{\c&HFFFFFF&} EXHAUSTED,
+Dialogue: 0,0:00:18.55,0:00:19.05,Default,,0,0,0,,COMPLETELY {\c&H00E6FF&}EXHAUSTED,{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.43,0:00:19.93,Default,,0,0,0,,{\c&H00E6FF&}BROKEN,{\c&HFFFFFF&} AND READY
+Dialogue: 0,0:00:20.22,0:00:20.39,Default,,0,0,0,,BROKEN, {\c&H00E6FF&}AND{\c&HFFFFFF&} READY
+Dialogue: 0,0:00:20.39,0:00:20.70,Default,,0,0,0,,BROKEN, AND {\c&H00E6FF&}READY{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.70,0:00:20.86,Default,,0,0,0,,{\c&H00E6FF&}TO{\c&HFFFFFF&} QUIT,
+Dialogue: 0,0:00:20.86,0:00:21.36,Default,,0,0,0,,TO {\c&H00E6FF&}QUIT,{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.90,0:00:22.06,Default,,0,0,0,,{\c&H00E6FF&}THAT{\c&HFFFFFF&} IS NOT
+Dialogue: 0,0:00:22.06,0:00:22.30,Default,,0,0,0,,THAT {\c&H00E6FF&}IS{\c&HFFFFFF&} NOT
+Dialogue: 0,0:00:22.30,0:00:22.62,Default,,0,0,0,,THAT IS {\c&H00E6FF&}NOT{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.62,0:00:22.86,Default,,0,0,0,,{\c&H00E6FF&}YOUR{\c&HFFFFFF&} LIMIT.
+Dialogue: 0,0:00:22.86,0:00:23.36,Default,,0,0,0,,YOUR {\c&H00E6FF&}LIMIT.{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.90,0:00:24.14,Default,,0,0,0,,{\c&H00E6FF&}THAT{\c&HFFFFFF&} IS JUST
+Dialogue: 0,0:00:24.14,0:00:24.30,Default,,0,0,0,,THAT {\c&H00E6FF&}IS{\c&HFFFFFF&} JUST
+Dialogue: 0,0:00:24.30,0:00:24.54,Default,,0,0,0,,THAT IS {\c&H00E6FF&}JUST{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.54,0:00:24.86,Default,,0,0,0,,{\c&H00E6FF&}YOUR{\c&HFFFFFF&} BRAIN TRYING
+Dialogue: 0,0:00:24.86,0:00:25.27,Default,,0,0,0,,YOUR {\c&H00E6FF&}BRAIN{\c&HFFFFFF&} TRYING
+Dialogue: 0,0:00:25.27,0:00:25.50,Default,,0,0,0,,YOUR BRAIN {\c&H00E6FF&}TRYING{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.50,0:00:25.66,Default,,0,0,0,,{\c&H00E6FF&}TO{\c&HFFFFFF&} PROTECT YOU
+Dialogue: 0,0:00:25.66,0:00:26.06,Default,,0,0,0,,TO {\c&H00E6FF&}PROTECT{\c&HFFFFFF&} YOU
+Dialogue: 0,0:00:26.06,0:00:26.22,Default,,0,0,0,,TO PROTECT {\c&H00E6FF&}YOU{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.22,0:00:26.46,Default,,0,0,0,,{\c&H00E6FF&}FROM{\c&HFFFFFF&} PAIN.
+Dialogue: 0,0:00:26.46,0:00:26.96,Default,,0,0,0,,FROM {\c&H00E6FF&}PAIN.{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.13,0:00:27.45,Default,,0,0,0,,{\c&H00E6FF&}DAVID{\c&HFFFFFF&} GOGGINS GREW
+Dialogue: 0,0:00:27.45,0:00:27.95,Default,,0,0,0,,DAVID {\c&H00E6FF&}GOGGINS{\c&HFFFFFF&} GREW
+Dialogue: 0,0:00:28.01,0:00:28.25,Default,,0,0,0,,DAVID GOGGINS {\c&H00E6FF&}GREW{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.25,0:00:28.49,Default,,0,0,0,,{\c&H00E6FF&}UP{\c&HFFFFFF&} BROKE,
+Dialogue: 0,0:00:28.49,0:00:28.99,Default,,0,0,0,,UP {\c&H00E6FF&}BROKE,{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.37,0:00:29.87,Default,,0,0,0,,{\c&H00E6FF&}ABUSED,{\c&HFFFFFF&} DEPRESSED,
+Dialogue: 0,0:00:30.25,0:00:30.75,Default,,0,0,0,,ABUSED, {\c&H00E6FF&}DEPRESSED,{\c&HFFFFFF&}
+Dialogue: 0,0:00:31.13,0:00:31.37,Default,,0,0,0,,{\c&H00E6FF&}AND{\c&HFFFFFF&} WEIGHED NEARLY
+Dialogue: 0,0:00:31.37,0:00:31.69,Default,,0,0,0,,AND {\c&H00E6FF&}WEIGHED{\c&HFFFFFF&} NEARLY
+Dialogue: 0,0:00:31.69,0:00:32.09,Default,,0,0,0,,AND WEIGHED {\c&H00E6FF&}NEARLY{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.09,0:00:32.33,Default,,0,0,0,,{\c&H00E6FF&}THREE{\c&HFFFFFF&} HUNDRED POUNDS.
+Dialogue: 0,0:00:32.33,0:00:32.73,Default,,0,0,0,,THREE {\c&H00E6FF&}HUNDRED{\c&HFFFFFF&} POUNDS.
+Dialogue: 0,0:00:32.73,0:00:33.23,Default,,0,0,0,,THREE HUNDRED {\c&H00E6FF&}POUNDS.{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.69,0:00:33.85,Default,,0,0,0,,{\c&H00E6FF&}HE{\c&HFFFFFF&} WAS SPRAYING
+Dialogue: 0,0:00:33.85,0:00:34.09,Default,,0,0,0,,HE {\c&H00E6FF&}WAS{\c&HFFFFFF&} SPRAYING
+Dialogue: 0,0:00:34.09,0:00:34.57,Default,,0,0,0,,HE WAS {\c&H00E6FF&}SPRAYING{\c&HFFFFFF&}
+Dialogue: 0,0:00:34.57,0:00:35.07,Default,,0,0,0,,{\c&H00E6FF&}COCKROACH{\c&HFFFFFF&} POISON FOR
+Dialogue: 0,0:00:35.13,0:00:35.53,Default,,0,0,0,,COCKROACH {\c&H00E6FF&}POISON{\c&HFFFFFF&} FOR
+Dialogue: 0,0:00:35.53,0:00:35.69,Default,,0,0,0,,COCKROACH POISON {\c&H00E6FF&}FOR{\c&HFFFFFF&}
+Dialogue: 0,0:00:35.69,0:00:35.85,Default,,0,0,0,,{\c&H00E6FF&}A{\c&HFFFFFF&} LIVING,
+Dialogue: 0,0:00:35.85,0:00:36.35,Default,,0,0,0,,A {\c&H00E6FF&}LIVING,{\c&HFFFFFF&}
+Dialogue: 0,0:00:36.49,0:00:36.97,Default,,0,0,0,,{\c&H00E6FF&}DROWNING{\c&HFFFFFF&} IN SELF
+Dialogue: 0,0:00:36.97,0:00:37.13,Default,,0,0,0,,DROWNING {\c&H00E6FF&}IN{\c&HFFFFFF&} SELF
+Dialogue: 0,0:00:37.13,0:00:37.45,Default,,0,0,0,,DROWNING IN {\c&H00E6FF&}SELF{\c&HFFFFFF&}
+Dialogue: 0,0:00:37.45,0:00:37.95,Default,,0,0,0,,{\c&H00E6FF&}PITY{\c&HFFFFFF&} AND FEAR.
+Dialogue: 0,0:00:38.01,0:00:38.33,Default,,0,0,0,,PITY {\c&H00E6FF&}AND{\c&HFFFFFF&} FEAR.
+Dialogue: 0,0:00:38.33,0:00:38.83,Default,,0,0,0,,PITY AND {\c&H00E6FF&}FEAR.{\c&HFFFFFF&}
+Dialogue: 0,0:00:39.05,0:00:39.53,Default,,0,0,0,,{\c&H00E6FF&}UNTIL{\c&HFFFFFF&} ONE DAY,
+Dialogue: 0,0:00:39.53,0:00:39.69,Default,,0,0,0,,UNTIL {\c&H00E6FF&}ONE{\c&HFFFFFF&} DAY,
+Dialogue: 0,0:00:39.69,0:00:40.19,Default,,0,0,0,,UNTIL ONE {\c&H00E6FF&}DAY,{\c&HFFFFFF&}
+Dialogue: 0,0:00:40.25,0:00:40.49,Default,,0,0,0,,{\c&H00E6FF&}HE{\c&HFFFFFF&} STOOD IN
+Dialogue: 0,0:00:40.49,0:00:40.81,Default,,0,0,0,,HE {\c&H00E6FF&}STOOD{\c&HFFFFFF&} IN
+Dialogue: 0,0:00:40.81,0:00:40.89,Default,,0,0,0,,HE STOOD {\c&H00E6FF&}IN{\c&HFFFFFF&}
+Dialogue: 0,0:00:40.89,0:00:41.21,Default,,0,0,0,,{\c&H00E6FF&}FRONT{\c&HFFFFFF&} OF THE
+Dialogue: 0,0:00:41.21,0:00:41.29,Default,,0,0,0,,FRONT {\c&H00E6FF&}OF{\c&HFFFFFF&} THE
+Dialogue: 0,0:00:41.29,0:00:41.45,Default,,0,0,0,,FRONT OF {\c&H00E6FF&}THE{\c&HFFFFFF&}
+Dialogue: 0,0:00:41.45,0:00:41.72,Default,,0,0,0,,{\c&H00E6FF&}MIRROR,{\c&HFFFFFF&} SHAVED HIS
+Dialogue: 0,0:00:42.20,0:00:42.52,Default,,0,0,0,,MIRROR, {\c&H00E6FF&}SHAVED{\c&HFFFFFF&} HIS
+Dialogue: 0,0:00:42.52,0:00:42.76,Default,,0,0,0,,MIRROR, SHAVED {\c&H00E6FF&}HIS{\c&HFFFFFF&}
+Dialogue: 0,0:00:42.76,0:00:42.99,Default,,0,0,0,,{\c&H00E6FF&}HEAD,{\c&HFFFFFF&} AND CREATED
+Dialogue: 0,0:00:42.99,0:00:43.16,Default,,0,0,0,,HEAD, {\c&H00E6FF&}AND{\c&HFFFFFF&} CREATED
+Dialogue: 0,0:00:43.16,0:00:43.55,Default,,0,0,0,,HEAD, AND {\c&H00E6FF&}CREATED{\c&HFFFFFF&}
+Dialogue: 0,0:00:43.55,0:00:43.88,Default,,0,0,0,,{\c&H00E6FF&}THE{\c&HFFFFFF&} ACCOUNTABILITY MIRROR.
+Dialogue: 0,0:00:43.88,0:00:44.38,Default,,0,0,0,,THE {\c&H00E6FF&}ACCOUNTABILITY{\c&HFFFFFF&} MIRROR.
+Dialogue: 0,0:00:44.52,0:00:45.02,Default,,0,0,0,,THE ACCOUNTABILITY {\c&H00E6FF&}MIRROR.{\c&HFFFFFF&}
+Dialogue: 0,0:00:45.55,0:00:45.88,Default,,0,0,0,,{\c&H00E6FF&}HE{\c&HFFFFFF&} TAPED POST
+Dialogue: 0,0:00:45.88,0:00:46.27,Default,,0,0,0,,HE {\c&H00E6FF&}TAPED{\c&HFFFFFF&} POST
+Dialogue: 0,0:00:46.27,0:00:46.52,Default,,0,0,0,,HE TAPED {\c&H00E6FF&}POST{\c&HFFFFFF&}
+Dialogue: 0,0:00:46.52,0:00:46.76,Default,,0,0,0,,{\c&H00E6FF&}IT{\c&HFFFFFF&} NOTES OF
+Dialogue: 0,0:00:46.76,0:00:47.08,Default,,0,0,0,,IT {\c&H00E6FF&}NOTES{\c&HFFFFFF&} OF
+Dialogue: 0,0:00:47.08,0:00:47.31,Default,,0,0,0,,IT NOTES {\c&H00E6FF&}OF{\c&HFFFFFF&}
+Dialogue: 0,0:00:47.31,0:00:47.80,Default,,0,0,0,,{\c&H00E6FF&}BRUTAL{\c&HFFFFFF&} TRUTHS TO
+Dialogue: 0,0:00:47.80,0:00:48.20,Default,,0,0,0,,BRUTAL {\c&H00E6FF&}TRUTHS{\c&HFFFFFF&} TO
+Dialogue: 0,0:00:48.20,0:00:48.35,Default,,0,0,0,,BRUTAL TRUTHS {\c&H00E6FF&}TO{\c&HFFFFFF&}
+Dialogue: 0,0:00:48.35,0:00:48.52,Default,,0,0,0,,{\c&H00E6FF&}THE{\c&HFFFFFF&} GLASS.
+Dialogue: 0,0:00:48.52,0:00:49.02,Default,,0,0,0,,THE {\c&H00E6FF&}GLASS.{\c&HFFFFFF&}
+Dialogue: 0,0:00:49.40,0:00:49.63,Default,,0,0,0,,{\c&H00E6FF&}YOU{\c&HFFFFFF&} ARE FAT.
+Dialogue: 0,0:00:49.63,0:00:49.95,Default,,0,0,0,,YOU {\c&H00E6FF&}ARE{\c&HFFFFFF&} FAT.
+Dialogue: 0,0:00:49.95,0:00:50.45,Default,,0,0,0,,YOU ARE {\c&H00E6FF&}FAT.{\c&HFFFFFF&}
+Dialogue: 0,0:00:50.67,0:00:50.99,Default,,0,0,0,,{\c&H00E6FF&}YOU{\c&HFFFFFF&} ARE LAZY.
+Dialogue: 0,0:00:50.99,0:00:51.23,Default,,0,0,0,,YOU {\c&H00E6FF&}ARE{\c&HFFFFFF&} LAZY.
+Dialogue: 0,0:00:51.23,0:00:51.73,Default,,0,0,0,,YOU ARE {\c&H00E6FF&}LAZY.{\c&HFFFFFF&}
+Dialogue: 0,0:00:52.11,0:00:52.43,Default,,0,0,0,,{\c&H00E6FF&}STOP{\c&HFFFFFF&} LYING TO
+Dialogue: 0,0:00:52.43,0:00:52.84,Default,,0,0,0,,STOP {\c&H00E6FF&}LYING{\c&HFFFFFF&} TO
+Dialogue: 0,0:00:52.84,0:00:52.99,Default,,0,0,0,,STOP LYING {\c&H00E6FF&}TO{\c&HFFFFFF&}
+Dialogue: 0,0:00:52.99,0:00:53.49,Default,,0,0,0,,{\c&H00E6FF&}YOURSELF.{\c&HFFFFFF&} HE DID
+Dialogue: 0,0:00:53.72,0:00:53.88,Default,,0,0,0,,YOURSELF. {\c&H00E6FF&}HE{\c&HFFFFFF&} DID
+Dialogue: 0,0:00:53.88,0:00:54.03,Default,,0,0,0,,YOURSELF. HE {\c&H00E6FF&}DID{\c&HFFFFFF&}
+Dialogue: 0,0:00:54.03,0:00:54.27,Default,,0,0,0,,{\c&H00E6FF&}NOT{\c&HFFFFFF&} SUGARCOAT ANYTHING.
+Dialogue: 0,0:00:54.27,0:00:54.77,Default,,0,0,0,,NOT {\c&H00E6FF&}SUGARCOAT{\c&HFFFFFF&} ANYTHING.
+Dialogue: 0,0:00:54.91,0:00:55.41,Default,,0,0,0,,NOT SUGARCOAT {\c&H00E6FF&}ANYTHING.{\c&HFFFFFF&}
+Dialogue: 0,0:00:55.97,0:00:56.13,Default,,0,0,0,,{\c&H00E6FF&}YOU{\c&HFFFFFF&} CANNOT FIX
+Dialogue: 0,0:00:56.13,0:00:56.37,Default,,0,0,0,,YOU {\c&H00E6FF&}CANNOT{\c&HFFFFFF&} FIX
+Dialogue: 0,0:00:56.37,0:00:56.69,Default,,0,0,0,,YOU CANNOT {\c&H00E6FF&}FIX{\c&HFFFFFF&}
+Dialogue: 0,0:00:56.69,0:00:56.85,Default,,0,0,0,,{\c&H00E6FF&}A{\c&HFFFFFF&} PROBLEM YOU
+Dialogue: 0,0:00:56.85,0:00:57.17,Default,,0,0,0,,A {\c&H00E6FF&}PROBLEM{\c&HFFFFFF&} YOU
+Dialogue: 0,0:00:57.17,0:00:57.33,Default,,0,0,0,,A PROBLEM {\c&H00E6FF&}YOU{\c&HFFFFFF&}
+Dialogue: 0,0:00:57.33,0:00:57.73,Default,,0,0,0,,{\c&H00E6FF&}REFUSE{\c&HFFFFFF&} TO ACKNOWLEDGE.
+Dialogue: 0,0:00:57.73,0:00:57.89,Default,,0,0,0,,REFUSE {\c&H00E6FF&}TO{\c&HFFFFFF&} ACKNOWLEDGE.
+Dialogue: 0,0:00:57.89,0:00:58.39,Default,,0,0,0,,REFUSE TO {\c&H00E6FF&}ACKNOWLEDGE.{\c&HFFFFFF&}
+Dialogue: 0,0:00:59.17,0:00:59.65,Default,,0,0,0,,{\c&H00E6FF&}RADICAL{\c&HFFFFFF&} HONESTY IS
+Dialogue: 0,0:00:59.65,0:01:00.13,Default,,0,0,0,,RADICAL {\c&H00E6FF&}HONESTY{\c&HFFFFFF&} IS
+Dialogue: 0,0:01:00.13,0:01:00.29,Default,,0,0,0,,RADICAL HONESTY {\c&H00E6FF&}IS{\c&HFFFFFF&}
+Dialogue: 0,0:01:00.29,0:01:00.45,Default,,0,0,0,,{\c&H00E6FF&}THE{\c&HFFFFFF&} PREREQUISITE FOR
+Dialogue: 0,0:01:00.45,0:01:00.95,Default,,0,0,0,,THE {\c&H00E6FF&}PREREQUISITE{\c&HFFFFFF&} FOR
+Dialogue: 0,0:01:01.25,0:01:01.49,Default,,0,0,0,,THE PREREQUISITE {\c&H00E6FF&}FOR{\c&HFFFFFF&}
+Dialogue: 0,0:01:01.49,0:01:01.99,Default,,0,0,0,,{\c&H00E6FF&}TRANSFORMATION.{\c&HFFFFFF&} TO BECOME
+Dialogue: 0,0:01:02.61,0:01:02.77,Default,,0,0,0,,TRANSFORMATION. {\c&H00E6FF&}TO{\c&HFFFFFF&} BECOME
+Dialogue: 0,0:01:02.77,0:01:03.09,Default,,0,0,0,,TRANSFORMATION. TO {\c&H00E6FF&}BECOME{\c&HFFFFFF&}
+Dialogue: 0,0:01:03.09,0:01:03.25,Default,,0,0,0,,{\c&H00E6FF&}THE{\c&HFFFFFF&} ONLY MAN
+Dialogue: 0,0:01:03.25,0:01:03.57,Default,,0,0,0,,THE {\c&H00E6FF&}ONLY{\c&HFFFFFF&} MAN
+Dialogue: 0,0:01:03.57,0:01:03.73,Default,,0,0,0,,THE ONLY {\c&H00E6FF&}MAN{\c&HFFFFFF&}
+Dialogue: 0,0:01:03.73,0:01:03.89,Default,,0,0,0,,{\c&H00E6FF&}IN{\c&HFFFFFF&} HISTORY TO
+Dialogue: 0,0:01:03.89,0:01:04.37,Default,,0,0,0,,IN {\c&H00E6FF&}HISTORY{\c&HFFFFFF&} TO
+Dialogue: 0,0:01:04.37,0:01:04.45,Default,,0,0,0,,IN HISTORY {\c&H00E6FF&}TO{\c&HFFFFFF&}
+Dialogue: 0,0:01:04.45,0:01:04.85,Default,,0,0,0,,{\c&H00E6FF&}COMPLETE{\c&HFFFFFF&} NAVY SEAL
+Dialogue: 0,0:01:04.85,0:01:05.25,Default,,0,0,0,,COMPLETE {\c&H00E6FF&}NAVY{\c&HFFFFFF&} SEAL
+Dialogue: 0,0:01:05.25,0:01:05.57,Default,,0,0,0,,COMPLETE NAVY {\c&H00E6FF&}SEAL{\c&HFFFFFF&}
+Dialogue: 0,0:01:05.57,0:01:06.07,Default,,0,0,0,,{\c&H00E6FF&}TRAINING,{\c&HFFFFFF&} ARMY RANGER
+Dialogue: 0,0:01:06.53,0:01:06.85,Default,,0,0,0,,TRAINING, {\c&H00E6FF&}ARMY{\c&HFFFFFF&} RANGER
+Dialogue: 0,0:01:06.85,0:01:07.33,Default,,0,0,0,,TRAINING, ARMY {\c&H00E6FF&}RANGER{\c&HFFFFFF&}
+Dialogue: 0,0:01:07.33,0:01:07.83,Default,,0,0,0,,{\c&H00E6FF&}SCHOOL,{\c&HFFFFFF&} AND AIR
+Dialogue: 0,0:01:07.97,0:01:08.13,Default,,0,0,0,,SCHOOL, {\c&H00E6FF&}AND{\c&HFFFFFF&} AIR
+Dialogue: 0,0:01:08.13,0:01:08.37,Default,,0,0,0,,SCHOOL, AND {\c&H00E6FF&}AIR{\c&HFFFFFF&}
+Dialogue: 0,0:01:08.37,0:01:08.77,Default,,0,0,0,,{\c&H00E6FF&}FORCE{\c&HFFFFFF&} TACTICAL AIR
+Dialogue: 0,0:01:08.77,0:01:09.25,Default,,0,0,0,,FORCE {\c&H00E6FF&}TACTICAL{\c&HFFFFFF&} AIR
+Dialogue: 0,0:01:09.25,0:01:09.49,Default,,0,0,0,,FORCE TACTICAL {\c&H00E6FF&}AIR{\c&HFFFFFF&}
+Dialogue: 0,0:01:09.49,0:01:09.97,Default,,0,0,0,,{\c&H00E6FF&}CONTROLLER{\c&HFFFFFF&} TRAINING,
+Dialogue: 0,0:01:09.97,0:01:10.47,Default,,0,0,0,,CONTROLLER {\c&H00E6FF&}TRAINING,{\c&HFFFFFF&}
+Dialogue: 0,0:01:10.61,0:01:10.85,Default,,0,0,0,,{\c&H00E6FF&}HE{\c&HFFFFFF&} DEVELOPED THE
+Dialogue: 0,0:01:10.85,0:01:11.25,Default,,0,0,0,,HE {\c&H00E6FF&}DEVELOPED{\c&HFFFFFF&} THE
+Dialogue: 0,0:01:11.25,0:01:11.41,Default,,0,0,0,,HE DEVELOPED {\c&H00E6FF&}THE{\c&HFFFFFF&}
+Dialogue: 0,0:01:11.41,0:01:11.81,Default,,0,0,0,,{\c&H00E6FF&}COOKIE{\c&HFFFFFF&} JAR CONCEPT.
+Dialogue: 0,0:01:11.81,0:01:12.12,Default,,0,0,0,,COOKIE {\c&H00E6FF&}JAR{\c&HFFFFFF&} CONCEPT.
+Dialogue: 0,0:01:12.12,0:01:12.62,Default,,0,0,0,,COOKIE JAR {\c&H00E6FF&}CONCEPT.{\c&HFFFFFF&}
+Dialogue: 0,0:01:13.00,0:01:13.41,Default,,0,0,0,,{\c&H00E6FF&}WHENEVER{\c&HFFFFFF&} YOU HIT
+Dialogue: 0,0:01:13.41,0:01:13.56,Default,,0,0,0,,WHENEVER {\c&H00E6FF&}YOU{\c&HFFFFFF&} HIT
+Dialogue: 0,0:01:13.56,0:01:13.81,Default,,0,0,0,,WHENEVER YOU {\c&H00E6FF&}HIT{\c&HFFFFFF&}
+Dialogue: 0,0:01:13.81,0:01:14.05,Default,,0,0,0,,{\c&H00E6FF&}ROCK{\c&HFFFFFF&} BOTTOM,
+Dialogue: 0,0:01:14.05,0:01:14.55,Default,,0,0,0,,ROCK {\c&H00E6FF&}BOTTOM,{\c&HFFFFFF&}
+Dialogue: 0,0:01:14.69,0:01:15.00,Default,,0,0,0,,{\c&H00E6FF&}WHENEVER{\c&HFFFFFF&} YOU WANT
+Dialogue: 0,0:01:15.00,0:01:15.17,Default,,0,0,0,,WHENEVER {\c&H00E6FF&}YOU{\c&HFFFFFF&} WANT
+Dialogue: 0,0:01:15.17,0:01:15.33,Default,,0,0,0,,WHENEVER YOU {\c&H00E6FF&}WANT{\c&HFFFFFF&}
+Dialogue: 0,0:01:15.33,0:01:15.48,Default,,0,0,0,,{\c&H00E6FF&}TO{\c&HFFFFFF&} COLLAPSE AND
+Dialogue: 0,0:01:15.48,0:01:15.89,Default,,0,0,0,,TO {\c&H00E6FF&}COLLAPSE{\c&HFFFFFF&} AND
+Dialogue: 0,0:01:15.89,0:01:16.12,Default,,0,0,0,,TO COLLAPSE {\c&H00E6FF&}AND{\c&HFFFFFF&}
+Dialogue: 0,0:01:16.12,0:01:16.62,Default,,0,0,0,,{\c&H00E6FF&}SURRENDER,{\c&HFFFFFF&} YOU REACH
+Dialogue: 0,0:01:16.92,0:01:17.17,Default,,0,0,0,,SURRENDER, {\c&H00E6FF&}YOU{\c&HFFFFFF&} REACH
+Dialogue: 0,0:01:17.17,0:01:17.41,Default,,0,0,0,,SURRENDER, YOU {\c&H00E6FF&}REACH{\c&HFFFFFF&}
+Dialogue: 0,0:01:17.41,0:01:17.56,Default,,0,0,0,,{\c&H00E6FF&}INTO{\c&HFFFFFF&} YOUR MENTAL
+Dialogue: 0,0:01:17.56,0:01:17.81,Default,,0,0,0,,INTO {\c&H00E6FF&}YOUR{\c&HFFFFFF&} MENTAL
+Dialogue: 0,0:01:17.81,0:01:18.12,Default,,0,0,0,,INTO YOUR {\c&H00E6FF&}MENTAL{\c&HFFFFFF&}
+Dialogue: 0,0:01:18.12,0:01:18.53,Default,,0,0,0,,{\c&H00E6FF&}COOKIE{\c&HFFFFFF&} JAR.
+Dialogue: 0,0:01:18.53,0:01:19.03,Default,,0,0,0,,COOKIE {\c&H00E6FF&}JAR.{\c&HFFFFFF&}
+Dialogue: 0,0:01:19.41,0:01:19.56,Default,,0,0,0,,{\c&H00E6FF&}YOU{\c&HFFFFFF&} PULL OUT
+Dialogue: 0,0:01:19.56,0:01:19.81,Default,,0,0,0,,YOU {\c&H00E6FF&}PULL{\c&HFFFFFF&} OUT
+Dialogue: 0,0:01:19.81,0:01:19.97,Default,,0,0,0,,YOU PULL {\c&H00E6FF&}OUT{\c&HFFFFFF&}
+Dialogue: 0,0:01:19.97,0:01:20.05,Default,,0,0,0,,{\c&H00E6FF&}THE{\c&HFFFFFF&} MEMORY OF
+Dialogue: 0,0:01:20.05,0:01:20.44,Default,,0,0,0,,THE {\c&H00E6FF&}MEMORY{\c&HFFFFFF&} OF
+Dialogue: 0,0:01:20.44,0:01:20.69,Default,,0,0,0,,THE MEMORY {\c&H00E6FF&}OF{\c&HFFFFFF&}
+Dialogue: 0,0:01:20.69,0:01:21.00,Default,,0,0,0,,{\c&H00E6FF&}EVERY{\c&HFFFFFF&} HARD THING
+Dialogue: 0,0:01:21.00,0:01:21.17,Default,,0,0,0,,EVERY {\c&H00E6FF&}HARD{\c&HFFFFFF&} THING
+Dialogue: 0,0:01:21.17,0:01:21.48,Default,,0,0,0,,EVERY HARD {\c&H00E6FF&}THING{\c&HFFFFFF&}
+Dialogue: 0,0:01:21.48,0:01:21.56,Default,,0,0,0,,{\c&H00E6FF&}YOU{\c&HFFFFFF&} HAVE EVER
+Dialogue: 0,0:01:21.56,0:01:21.81,Default,,0,0,0,,YOU {\c&H00E6FF&}HAVE{\c&HFFFFFF&} EVER
+Dialogue: 0,0:01:21.81,0:01:22.05,Default,,0,0,0,,YOU HAVE {\c&H00E6FF&}EVER{\c&HFFFFFF&}
+Dialogue: 0,0:01:22.05,0:01:22.55,Default,,0,0,0,,{\c&H00E6FF&}SURVIVED,{\c&HFFFFFF&} EVERY FAILURE
+Dialogue: 0,0:01:22.92,0:01:23.25,Default,,0,0,0,,SURVIVED, {\c&H00E6FF&}EVERY{\c&HFFFFFF&} FAILURE
+Dialogue: 0,0:01:23.25,0:01:23.65,Default,,0,0,0,,SURVIVED, EVERY {\c&H00E6FF&}FAILURE{\c&HFFFFFF&}
+Dialogue: 0,0:01:23.65,0:01:23.89,Default,,0,0,0,,{\c&H00E6FF&}YOU{\c&HFFFFFF&} OVERCAME,
+Dialogue: 0,0:01:23.89,0:01:24.39,Default,,0,0,0,,YOU {\c&H00E6FF&}OVERCAME,{\c&HFFFFFF&}
+Dialogue: 0,0:01:24.77,0:01:25.00,Default,,0,0,0,,{\c&H00E6FF&}AND{\c&HFFFFFF&} YOU USE
+Dialogue: 0,0:01:25.00,0:01:25.17,Default,,0,0,0,,AND {\c&H00E6FF&}YOU{\c&HFFFFFF&} USE
+Dialogue: 0,0:01:25.17,0:01:25.41,Default,,0,0,0,,AND YOU {\c&H00E6FF&}USE{\c&HFFFFFF&}
+Dialogue: 0,0:01:25.41,0:01:25.65,Default,,0,0,0,,{\c&H00E6FF&}THAT{\c&HFFFFFF&} PAIN AS
+Dialogue: 0,0:01:25.65,0:01:25.89,Default,,0,0,0,,THAT {\c&H00E6FF&}PAIN{\c&HFFFFFF&} AS
+Dialogue: 0,0:01:25.89,0:01:26.20,Default,,0,0,0,,THAT PAIN {\c&H00E6FF&}AS{\c&HFFFFFF&}
+Dialogue: 0,0:01:26.20,0:01:26.44,Default,,0,0,0,,{\c&H00E6FF&}RAW{\c&HFFFFFF&} ROCKET FUEL.
+Dialogue: 0,0:01:26.44,0:01:26.92,Default,,0,0,0,,RAW {\c&H00E6FF&}ROCKET{\c&HFFFFFF&} FUEL.
+Dialogue: 0,0:01:26.92,0:01:27.17,Default,,0,0,0,,RAW ROCKET {\c&H00E6FF&}FUEL.{\c&HFFFFFF&}
+Dialogue: 0,0:01:27.17,0:01:27.36,Default,,0,0,0,,{\c&H00E6FF&}YOU{\c&HFFFFFF&} YOU MUST
+Dialogue: 0,0:01:27.36,0:01:27.60,Default,,0,0,0,,YOU {\c&H00E6FF&}YOU{\c&HFFFFFF&} MUST
+Dialogue: 0,0:01:27.60,0:01:27.84,Default,,0,0,0,,YOU YOU {\c&H00E6FF&}MUST{\c&HFFFFFF&}
+Dialogue: 0,0:01:27.84,0:01:28.16,Default,,0,0,0,,{\c&H00E6FF&}CALLUS{\c&HFFFFFF&} YOUR MIND
+Dialogue: 0,0:01:28.16,0:01:28.32,Default,,0,0,0,,CALLUS {\c&H00E6FF&}YOUR{\c&HFFFFFF&} MIND
+Dialogue: 0,0:01:28.32,0:01:28.64,Default,,0,0,0,,CALLUS YOUR {\c&H00E6FF&}MIND{\c&HFFFFFF&}
+Dialogue: 0,0:01:28.64,0:01:28.88,Default,,0,0,0,,{\c&H00E6FF&}THE{\c&HFFFFFF&} EXACT SAME
+Dialogue: 0,0:01:28.88,0:01:29.28,Default,,0,0,0,,THE {\c&H00E6FF&}EXACT{\c&HFFFFFF&} SAME
+Dialogue: 0,0:01:29.28,0:01:29.52,Default,,0,0,0,,THE EXACT {\c&H00E6FF&}SAME{\c&HFFFFFF&}
+Dialogue: 0,0:01:29.52,0:01:29.76,Default,,0,0,0,,{\c&H00E6FF&}WAY{\c&HFFFFFF&} YOU CALLUS
+Dialogue: 0,0:01:29.76,0:01:30.00,Default,,0,0,0,,WAY {\c&H00E6FF&}YOU{\c&HFFFFFF&} CALLUS
+Dialogue: 0,0:01:30.00,0:01:30.40,Default,,0,0,0,,WAY YOU {\c&H00E6FF&}CALLUS{\c&HFFFFFF&}
+Dialogue: 0,0:01:30.40,0:01:30.64,Default,,0,0,0,,{\c&H00E6FF&}YOUR{\c&HFFFFFF&} HANDS.
+Dialogue: 0,0:01:30.64,0:01:31.14,Default,,0,0,0,,YOUR {\c&H00E6FF&}HANDS.{\c&HFFFFFF&}
+Dialogue: 0,0:01:31.60,0:01:31.84,Default,,0,0,0,,{\c&H00E6FF&}YOU{\c&HFFFFFF&} DO NOT
+Dialogue: 0,0:01:31.84,0:01:32.00,Default,,0,0,0,,YOU {\c&H00E6FF&}DO{\c&HFFFFFF&} NOT
+Dialogue: 0,0:01:32.00,0:01:32.24,Default,,0,0,0,,YOU DO {\c&H00E6FF&}NOT{\c&HFFFFFF&}
+Dialogue: 0,0:01:32.24,0:01:32.56,Default,,0,0,0,,{\c&H00E6FF&}BUILD{\c&HFFFFFF&} MENTAL ARMOR
+Dialogue: 0,0:01:32.56,0:01:32.88,Default,,0,0,0,,BUILD {\c&H00E6FF&}MENTAL{\c&HFFFFFF&} ARMOR
+Dialogue: 0,0:01:32.88,0:01:33.28,Default,,0,0,0,,BUILD MENTAL {\c&H00E6FF&}ARMOR{\c&HFFFFFF&}
+Dialogue: 0,0:01:33.28,0:01:33.52,Default,,0,0,0,,{\c&H00E6FF&}BY{\c&HFFFFFF&} MEDITATING ON
+Dialogue: 0,0:01:33.52,0:01:34.02,Default,,0,0,0,,BY {\c&H00E6FF&}MEDITATING{\c&HFFFFFF&} ON
+Dialogue: 0,0:01:34.08,0:01:34.24,Default,,0,0,0,,BY MEDITATING {\c&H00E6FF&}ON{\c&HFFFFFF&}
+Dialogue: 0,0:01:34.24,0:01:34.40,Default,,0,0,0,,{\c&H00E6FF&}A{\c&HFFFFFF&} SUNNY BEACH.
+Dialogue: 0,0:01:34.40,0:01:34.72,Default,,0,0,0,,A {\c&H00E6FF&}SUNNY{\c&HFFFFFF&} BEACH.
+Dialogue: 0,0:01:34.72,0:01:35.22,Default,,0,0,0,,A SUNNY {\c&H00E6FF&}BEACH.{\c&HFFFFFF&}
+Dialogue: 0,0:01:35.60,0:01:35.76,Default,,0,0,0,,{\c&H00E6FF&}YOU{\c&HFFFFFF&} BUILD IT
+Dialogue: 0,0:01:35.76,0:01:36.00,Default,,0,0,0,,YOU {\c&H00E6FF&}BUILD{\c&HFFFFFF&} IT
+Dialogue: 0,0:01:36.00,0:01:36.24,Default,,0,0,0,,YOU BUILD {\c&H00E6FF&}IT{\c&HFFFFFF&}
+Dialogue: 0,0:01:36.24,0:01:36.48,Default,,0,0,0,,{\c&H00E6FF&}BY{\c&HFFFFFF&} DOING WHAT
+Dialogue: 0,0:01:36.48,0:01:36.72,Default,,0,0,0,,BY {\c&H00E6FF&}DOING{\c&HFFFFFF&} WHAT
+Dialogue: 0,0:01:36.72,0:01:36.88,Default,,0,0,0,,BY DOING {\c&H00E6FF&}WHAT{\c&HFFFFFF&}
+Dialogue: 0,0:01:36.88,0:01:37.04,Default,,0,0,0,,{\c&H00E6FF&}YOU{\c&HFFFFFF&} HATE DOING
+Dialogue: 0,0:01:37.04,0:01:37.44,Default,,0,0,0,,YOU {\c&H00E6FF&}HATE{\c&HFFFFFF&} DOING
+Dialogue: 0,0:01:37.44,0:01:37.76,Default,,0,0,0,,YOU HATE {\c&H00E6FF&}DOING{\c&HFFFFFF&}
+Dialogue: 0,0:01:37.76,0:01:38.08,Default,,0,0,0,,{\c&H00E6FF&}EVERY{\c&HFFFFFF&} SINGLE DAY.
+Dialogue: 0,0:01:38.08,0:01:38.48,Default,,0,0,0,,EVERY {\c&H00E6FF&}SINGLE{\c&HFFFFFF&} DAY.
+Dialogue: 0,0:01:38.48,0:01:38.98,Default,,0,0,0,,EVERY SINGLE {\c&H00E6FF&}DAY.{\c&HFFFFFF&}
+Dialogue: 0,0:01:39.12,0:01:39.36,Default,,0,0,0,,{\c&H00E6FF&}WHEN{\c&HFFFFFF&} IT IS
+Dialogue: 0,0:01:39.36,0:01:39.52,Default,,0,0,0,,WHEN {\c&H00E6FF&}IT{\c&HFFFFFF&} IS
+Dialogue: 0,0:01:39.52,0:01:39.68,Default,,0,0,0,,WHEN IT {\c&H00E6FF&}IS{\c&HFFFFFF&}
+Dialogue: 0,0:01:39.68,0:01:40.16,Default,,0,0,0,,{\c&H00E6FF&}COLD,{\c&HFFFFFF&} YOU RUN.
+Dialogue: 0,0:01:40.16,0:01:40.40,Default,,0,0,0,,COLD, {\c&H00E6FF&}YOU{\c&HFFFFFF&} RUN.
+Dialogue: 0,0:01:40.40,0:01:40.90,Default,,0,0,0,,COLD, YOU {\c&H00E6FF&}RUN.{\c&HFFFFFF&}
+Dialogue: 0,0:01:41.14,0:01:41.31,Default,,0,0,0,,{\c&H00E6FF&}WHEN{\c&HFFFFFF&} YOU ARE
+Dialogue: 0,0:01:41.31,0:01:41.47,Default,,0,0,0,,WHEN {\c&H00E6FF&}YOU{\c&HFFFFFF&} ARE
+Dialogue: 0,0:01:41.47,0:01:41.62,Default,,0,0,0,,WHEN YOU {\c&H00E6FF&}ARE{\c&HFFFFFF&}
+Dialogue: 0,0:01:41.62,0:01:42.12,Default,,0,0,0,,{\c&H00E6FF&}TIRED,{\c&HFFFFFF&} YOU STUDY.
+Dialogue: 0,0:01:42.50,0:01:42.83,Default,,0,0,0,,TIRED, {\c&H00E6FF&}YOU{\c&HFFFFFF&} STUDY.
+Dialogue: 0,0:01:42.83,0:01:43.33,Default,,0,0,0,,TIRED, YOU {\c&H00E6FF&}STUDY.{\c&HFFFFFF&}
+Dialogue: 0,0:01:43.62,0:01:43.78,Default,,0,0,0,,{\c&H00E6FF&}WHEN{\c&HFFFFFF&} YOUR MUSCLES
+Dialogue: 0,0:01:43.78,0:01:43.94,Default,,0,0,0,,WHEN {\c&H00E6FF&}YOUR{\c&HFFFFFF&} MUSCLES
+Dialogue: 0,0:01:43.94,0:01:44.34,Default,,0,0,0,,WHEN YOUR {\c&H00E6FF&}MUSCLES{\c&HFFFFFF&}
+Dialogue: 0,0:01:44.34,0:01:44.84,Default,,0,0,0,,{\c&H00E6FF&}ACHE,{\c&HFFFFFF&} YOU PUSH
+Dialogue: 0,0:01:45.06,0:01:45.22,Default,,0,0,0,,ACHE, {\c&H00E6FF&}YOU{\c&HFFFFFF&} PUSH
+Dialogue: 0,0:01:45.22,0:01:45.55,Default,,0,0,0,,ACHE, YOU {\c&H00E6FF&}PUSH{\c&HFFFFFF&}
+Dialogue: 0,0:01:45.55,0:01:45.62,Default,,0,0,0,,{\c&H00E6FF&}FOR{\c&HFFFFFF&} ONE MORE
+Dialogue: 0,0:01:45.62,0:01:45.94,Default,,0,0,0,,FOR {\c&H00E6FF&}ONE{\c&HFFFFFF&} MORE
+Dialogue: 0,0:01:45.94,0:01:46.19,Default,,0,0,0,,FOR ONE {\c&H00E6FF&}MORE{\c&HFFFFFF&}
+Dialogue: 0,0:01:46.19,0:01:46.69,Default,,0,0,0,,{\c&H00E6FF&}MILE.{\c&HFFFFFF&} YOU TAKE
+Dialogue: 0,0:01:46.98,0:01:47.22,Default,,0,0,0,,MILE. {\c&H00E6FF&}YOU{\c&HFFFFFF&} TAKE
+Dialogue: 0,0:01:47.22,0:01:47.47,Default,,0,0,0,,MILE. YOU {\c&H00E6FF&}TAKE{\c&HFFFFFF&}
+Dialogue: 0,0:01:47.47,0:01:47.78,Default,,0,0,0,,{\c&H00E6FF&}SOULS{\c&HFFFFFF&} BY OUTWORKING
+Dialogue: 0,0:01:47.78,0:01:48.02,Default,,0,0,0,,SOULS {\c&H00E6FF&}BY{\c&HFFFFFF&} OUTWORKING
+Dialogue: 0,0:01:48.02,0:01:48.52,Default,,0,0,0,,SOULS BY {\c&H00E6FF&}OUTWORKING{\c&HFFFFFF&}
+Dialogue: 0,0:01:48.58,0:01:48.66,Default,,0,0,0,,{\c&H00E6FF&}THE{\c&HFFFFFF&} PERSON IN
+Dialogue: 0,0:01:48.66,0:01:48.98,Default,,0,0,0,,THE {\c&H00E6FF&}PERSON{\c&HFFFFFF&} IN
+Dialogue: 0,0:01:48.98,0:01:49.14,Default,,0,0,0,,THE PERSON {\c&H00E6FF&}IN{\c&HFFFFFF&}
+Dialogue: 0,0:01:49.14,0:01:49.30,Default,,0,0,0,,{\c&H00E6FF&}THE{\c&HFFFFFF&} MIRROR.
+Dialogue: 0,0:01:49.30,0:01:49.80,Default,,0,0,0,,THE {\c&H00E6FF&}MIRROR.{\c&HFFFFFF&}
+Dialogue: 0,0:01:49.86,0:01:50.36,Default,,0,0,0,,{\c&H00E6FF&}NOBODY{\c&HFFFFFF&} IS COMING
+Dialogue: 0,0:01:50.42,0:01:50.58,Default,,0,0,0,,NOBODY {\c&H00E6FF&}IS{\c&HFFFFFF&} COMING
+Dialogue: 0,0:01:50.58,0:01:50.98,Default,,0,0,0,,NOBODY IS {\c&H00E6FF&}COMING{\c&HFFFFFF&}
+Dialogue: 0,0:01:50.98,0:01:51.14,Default,,0,0,0,,{\c&H00E6FF&}TO{\c&HFFFFFF&} SAVE YOU.
+Dialogue: 0,0:01:51.14,0:01:51.38,Default,,0,0,0,,TO {\c&H00E6FF&}SAVE{\c&HFFFFFF&} YOU.
+Dialogue: 0,0:01:51.38,0:01:51.88,Default,,0,0,0,,TO SAVE {\c&H00E6FF&}YOU.{\c&HFFFFFF&}
+Dialogue: 0,0:01:52.10,0:01:52.50,Default,,0,0,0,,{\c&H00E6FF&}NO{\c&HFFFFFF&} MOTIVATIONAL VIDEO
+Dialogue: 0,0:01:52.50,0:01:53.00,Default,,0,0,0,,NO {\c&H00E6FF&}MOTIVATIONAL{\c&HFFFFFF&} VIDEO
+Dialogue: 0,0:01:53.14,0:01:53.62,Default,,0,0,0,,NO MOTIVATIONAL {\c&H00E6FF&}VIDEO{\c&HFFFFFF&}
+Dialogue: 0,0:01:53.62,0:01:53.78,Default,,0,0,0,,{\c&H00E6FF&}IS{\c&HFFFFFF&} GOING TO
+Dialogue: 0,0:01:53.78,0:01:54.02,Default,,0,0,0,,IS {\c&H00E6FF&}GOING{\c&HFFFFFF&} TO
+Dialogue: 0,0:01:54.02,0:01:54.10,Default,,0,0,0,,IS GOING {\c&H00E6FF&}TO{\c&HFFFFFF&}
+Dialogue: 0,0:01:54.10,0:01:54.27,Default,,0,0,0,,{\c&H00E6FF&}DO{\c&HFFFFFF&} THE PUSH
+Dialogue: 0,0:01:54.27,0:01:54.50,Default,,0,0,0,,DO {\c&H00E6FF&}THE{\c&HFFFFFF&} PUSH
+Dialogue: 0,0:01:54.50,0:01:54.74,Default,,0,0,0,,DO THE {\c&H00E6FF&}PUSH{\c&HFFFFFF&}
+Dialogue: 0,0:01:54.74,0:01:54.98,Default,,0,0,0,,{\c&H00E6FF&}UPS{\c&HFFFFFF&} FOR YOU.
+Dialogue: 0,0:01:54.98,0:01:55.14,Default,,0,0,0,,UPS {\c&H00E6FF&}FOR{\c&HFFFFFF&} YOU.
+Dialogue: 0,0:01:55.14,0:01:55.64,Default,,0,0,0,,UPS FOR {\c&H00E6FF&}YOU.{\c&HFFFFFF&}
+Dialogue: 0,0:01:55.89,0:01:56.13,Default,,0,0,0,,{\c&H00E6FF&}YOU{\c&HFFFFFF&} HAVE TO
+Dialogue: 0,0:01:56.13,0:01:56.37,Default,,0,0,0,,YOU {\c&H00E6FF&}HAVE{\c&HFFFFFF&} TO
+Dialogue: 0,0:01:56.37,0:01:56.53,Default,,0,0,0,,YOU HAVE {\c&H00E6FF&}TO{\c&HFFFFFF&}
+Dialogue: 0,0:01:56.53,0:01:56.77,Default,,0,0,0,,{\c&H00E6FF&}BE{\c&HFFFFFF&} THE MASTER
+Dialogue: 0,0:01:56.77,0:01:56.85,Default,,0,0,0,,BE {\c&H00E6FF&}THE{\c&HFFFFFF&} MASTER
+Dialogue: 0,0:01:56.85,0:01:57.33,Default,,0,0,0,,BE THE {\c&H00E6FF&}MASTER{\c&HFFFFFF&}
+Dialogue: 0,0:01:57.33,0:01:57.49,Default,,0,0,0,,{\c&H00E6FF&}OF{\c&HFFFFFF&} YOUR OWN
+Dialogue: 0,0:01:57.49,0:01:57.73,Default,,0,0,0,,OF {\c&H00E6FF&}YOUR{\c&HFFFFFF&} OWN
+Dialogue: 0,0:01:57.73,0:01:57.97,Default,,0,0,0,,OF YOUR {\c&H00E6FF&}OWN{\c&HFFFFFF&}
+Dialogue: 0,0:01:57.97,0:01:58.47,Default,,0,0,0,,{\c&H00E6FF&}MIND.{\c&HFFFFFF&} SO TELL
+Dialogue: 0,0:01:58.69,0:01:58.93,Default,,0,0,0,,MIND. {\c&H00E6FF&}SO{\c&HFFFFFF&} TELL
+Dialogue: 0,0:01:58.93,0:01:59.09,Default,,0,0,0,,MIND. SO {\c&H00E6FF&}TELL{\c&HFFFFFF&}
+Dialogue: 0,0:01:59.09,0:01:59.33,Default,,0,0,0,,{\c&H00E6FF&}ME{\c&HFFFFFF&} IN THE
+Dialogue: 0,0:01:59.33,0:01:59.49,Default,,0,0,0,,ME {\c&H00E6FF&}IN{\c&HFFFFFF&} THE
+Dialogue: 0,0:01:59.49,0:01:59.65,Default,,0,0,0,,ME IN {\c&H00E6FF&}THE{\c&HFFFFFF&}
+Dialogue: 0,0:01:59.65,0:02:00.05,Default,,0,0,0,,{\c&H00E6FF&}COMMENTS{\c&HFFFFFF&} BELOW.
+Dialogue: 0,0:02:00.05,0:02:00.55,Default,,0,0,0,,COMMENTS {\c&H00E6FF&}BELOW.{\c&HFFFFFF&}
+Dialogue: 0,0:02:00.93,0:02:01.09,Default,,0,0,0,,{\c&H00E6FF&}WOULD{\c&HFFFFFF&} YOU RATHER
+Dialogue: 0,0:02:01.09,0:02:01.33,Default,,0,0,0,,WOULD {\c&H00E6FF&}YOU{\c&HFFFFFF&} RATHER
+Dialogue: 0,0:02:01.33,0:02:01.65,Default,,0,0,0,,WOULD YOU {\c&H00E6FF&}RATHER{\c&HFFFFFF&}
+Dialogue: 0,0:02:01.65,0:02:01.97,Default,,0,0,0,,{\c&H00E6FF&}STAY{\c&HFFFFFF&} COZY IN
+Dialogue: 0,0:02:01.97,0:02:02.37,Default,,0,0,0,,STAY {\c&H00E6FF&}COZY{\c&HFFFFFF&} IN
+Dialogue: 0,0:02:02.37,0:02:02.53,Default,,0,0,0,,STAY COZY {\c&H00E6FF&}IN{\c&HFFFFFF&}
+Dialogue: 0,0:02:02.53,0:02:02.69,Default,,0,0,0,,{\c&H00E6FF&}YOUR{\c&HFFFFFF&} COMFORT ZONE,
+Dialogue: 0,0:02:02.69,0:02:03.09,Default,,0,0,0,,YOUR {\c&H00E6FF&}COMFORT{\c&HFFFFFF&} ZONE,
+Dialogue: 0,0:02:03.09,0:02:03.59,Default,,0,0,0,,YOUR COMFORT {\c&H00E6FF&}ZONE,{\c&HFFFFFF&}
+Dialogue: 0,0:02:03.81,0:02:04.29,Default,,0,0,0,,{\c&H00E6FF&}SIXTY{\c&HFFFFFF&} PERCENT UNFULFILLED,
+Dialogue: 0,0:02:04.29,0:02:04.77,Default,,0,0,0,,SIXTY {\c&H00E6FF&}PERCENT{\c&HFFFFFF&} UNFULFILLED,
+Dialogue: 0,0:02:04.77,0:02:05.27,Default,,0,0,0,,SIXTY PERCENT {\c&H00E6FF&}UNFULFILLED,{\c&HFFFFFF&}
+Dialogue: 0,0:02:05.81,0:02:06.05,Default,,0,0,0,,{\c&H00E6FF&}OR{\c&HFFFFFF&} PUSH PAST
+Dialogue: 0,0:02:06.05,0:02:06.37,Default,,0,0,0,,OR {\c&H00E6FF&}PUSH{\c&HFFFFFF&} PAST
+Dialogue: 0,0:02:06.37,0:02:06.69,Default,,0,0,0,,OR PUSH {\c&H00E6FF&}PAST{\c&HFFFFFF&}
+Dialogue: 0,0:02:06.69,0:02:06.85,Default,,0,0,0,,{\c&H00E6FF&}THE{\c&HFFFFFF&} PAIN,
+Dialogue: 0,0:02:06.85,0:02:07.35,Default,,0,0,0,,THE {\c&H00E6FF&}PAIN,{\c&HFFFFFF&}
+Dialogue: 0,0:02:07.57,0:02:08.05,Default,,0,0,0,,{\c&H00E6FF&}CALLOUS{\c&HFFFFFF&} YOUR MIND,
+Dialogue: 0,0:02:08.05,0:02:08.29,Default,,0,0,0,,CALLOUS {\c&H00E6FF&}YOUR{\c&HFFFFFF&} MIND,
+Dialogue: 0,0:02:08.29,0:02:08.61,Default,,0,0,0,,CALLOUS YOUR {\c&H00E6FF&}MIND,{\c&HFFFFFF&}
+Dialogue: 0,0:02:08.61,0:02:08.85,Default,,0,0,0,,{\c&H00E6FF&}AND{\c&HFFFFFF&} BECOME COMPLETELY
+Dialogue: 0,0:02:08.85,0:02:09.25,Default,,0,0,0,,AND {\c&H00E6FF&}BECOME{\c&HFFFFFF&} COMPLETELY
+Dialogue: 0,0:02:09.25,0:02:09.75,Default,,0,0,0,,AND BECOME {\c&H00E6FF&}COMPLETELY{\c&HFFFFFF&}
+Dialogue: 0,0:02:09.81,0:02:10.29,Default,,0,0,0,,{\c&H00E6FF&}UNCOMMON{\c&HFFFFFF&} AMONG THE
+Dialogue: 0,0:02:10.29,0:02:10.61,Default,,0,0,0,,UNCOMMON {\c&H00E6FF&}AMONG{\c&HFFFFFF&} THE
+Dialogue: 0,0:02:10.61,0:02:10.77,Default,,0,0,0,,UNCOMMON AMONG {\c&H00E6FF&}THE{\c&HFFFFFF&}
+Dialogue: 0,0:02:10.77,0:02:11.27,Default,,0,0,0,,{\c&H00E6FF&}UNCOMMON?{\c&HFFFFFF&}
