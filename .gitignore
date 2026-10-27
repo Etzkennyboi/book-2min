@@ -90,3 +90,6 @@ VIRAL_*.txt
 /prompts_*.txt
 !books/**/prompts_*.txt
 samples_analysis/
+
+# Company Documentaries (tracked in separate HISTROY-VID repo)
+companies/
