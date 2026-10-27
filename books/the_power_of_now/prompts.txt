@@ -1,0 +1,508 @@
+================================================================================
+THE POWER OF NOW - 39-SCENE MASTER PROMPT SHEET (GOOGLE FLOW / NANOBANANA READY)
+================================================================================
+Book: The Power of Now by Eckhart Tolle
+Runtime: 167.88s (~2:47 min) | 39 Scenes | Subtitle Safe Zone: Bottom 250px Clean
+Style: 2D Minimalist StickLit Webcomic | 9:16 Vertical (1080x1920) | Pure White (#FFFFFF) Canvas
+================================================================================
+
+================================================================================
+CRITICAL INSTRUCTIONS FOR GOOGLE FLOW / NANOBANANA AUTOMATION:
+1. FILE SAVING RULE: Every generated image MUST be saved with its exact sequential name:
+   scene_01.png, scene_02.png, scene_03.png, ... scene_39.png
+2. STRICT ZERO-TEXT BAN ON SCENES 02 TO 38:
+   - DO NOT render headers, titles, banners, or voiceover text on the art.
+   - DO NOT render 'Scene XX' on the canvas.
+   - Subtitles are burned in post-production. The upper 80% is 100% VISUAL ACTION ONLY.
+   - The ONLY allowed text is on Scene 01 (Cover) and Scene 39 (VS badge).
+================================================================================
+
+================================================================================
+SCENE 01 / 39 | DOWNLOAD / SAVE AS: scene_01.png
+CUT WINDOW: 0.00s - 3.22s (Duration: 3.22s)
+VOICEOVER: "The Power of Now by Eckhart Tolle in two minutes."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+9:16 vertical comic book cover on solid pure digital white (#FFFFFF) background.
+
+Top Header: Bold black handwritten comic text reading:
+"THE POWER OF NOW"
+"The Secret 2-Minute Playbook"
+
+Centerpiece: A colossal, perfectly upright hardcover book standing flat and level with zero tilt:
+"THE POWER OF NOW"
+"ECKHART TOLLE"
+Embossed in horizontal gold serif letters on an elegant deep forest-green and gold hardcover.
+
+Protagonist Duo:
+- Left: Confident boy Kai (round 2D head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, straight grey stick pants #8E8E93, black combat boots, minimalist 2D stick limbs) holding a glowing golden compass of presence.
+- Right: Sharp girl Maya (round 2D head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal tee #3A3A3C, grey stick pants #8E8E93, black combat boots, minimalist 2D stick limbs) with arms crossed, winking at the camera.
+- Background Left: A stressed stickman overwhelmed by swirling thought bubbles and chaotic clock hands.
+- Background Right: Calm friends smiling peacefully in serene zen stillness.
+- Floor: Shattered iron chains labeled 'ANXIETY' lie broken on the floor.
+
+Framing: All characters and book artwork strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, minimalist 2D webcomic aesthetic.
+
+================================================================================
+SCENE 02 / 39 | DOWNLOAD / SAVE AS: scene_02.png
+CUT WINDOW: 3.22s - 8.11s (Duration: 4.89s)
+VOICEOVER: "Most people spend their entire lives trapped inside a noisy mental prison."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: Kai and Maya stand observing a stressed stickman trapped inside an oversized birdcage or glass prison where countless buzzing thought bubbles and jagged scribble clouds trap him.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 03 / 39 | DOWNLOAD / SAVE AS: scene_03.png
+CUT WINDOW: 8.11s - 13.88s (Duration: 5.77s)
+VOICEOVER: "A non-stop voice in your head that criticizes, worries, and never shuts up."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: Close-up of a stickman clutching his head in frustration while a floating dark comic scribble cloud with sharp teeth whispers relentlessly into his ear with manic chaotic energy.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 04 / 39 | DOWNLOAD / SAVE AS: scene_04.png
+CUT WINDOW: 13.88s - 17.88s (Duration: 4.00s)
+VOICEOVER: "You replay embarrassing memories from ten years ago at three in the morning."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: A dark bedroom scene at 3:00 AM. A stickman lies wide awake staring at the ceiling with oversized dinner-plate comic eyes, while an embarrassing replay film-reel unspools chaotic past memories in the air.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 05 / 39 | DOWNLOAD / SAVE AS: scene_05.png
+CUT WINDOW: 17.88s - 22.77s (Duration: 4.89s)
+VOICEOVER: "And you invent imaginary disasters about a future that does not even exist."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: The stickman frantically draws complex spiderwebs of imaginary disaster timelines on a wall, depicting collapsing bridges and comets, looking completely terrified of things that don't exist.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 06 / 39 | DOWNLOAD / SAVE AS: scene_06.png
+CUT WINDOW: 22.77s - 27.12s (Duration: 4.36s)
+VOICEOVER: "But here is the life-altering truth: you are not your voice."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: Kai decisively steps between the stressed stickman and the dark thought cloud, raising a glowing hand to reveal that the cloud is merely hollow smoke.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 07 / 39 | DOWNLOAD / SAVE AS: scene_07.png
+CUT WINDOW: 27.12s - 30.76s (Duration: 3.64s)
+VOICEOVER: "You are not your thoughts, your worries, or your mental chatter."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: Maya points with cool analytical certainty to an ethereal silhouette floating gently behind the stickman, showing that thoughts are just transient waves passing through.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 08 / 39 | DOWNLOAD / SAVE AS: scene_08.png
+CUT WINDOW: 30.76s - 34.40s (Duration: 3.64s)
+VOICEOVER: "You are the silent, conscious awareness observing the thinker."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: Kai sits in a peaceful meditative pose on the floor; above him, an invisible, radiant aura of conscious awareness calmly watches a storm of thoughts drift away into empty space.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 09 / 39 | DOWNLOAD / SAVE AS: scene_09.png
+CUT WINDOW: 34.40s - 38.88s (Duration: 4.48s)
+VOICEOVER: "Most human suffering is born from an obsession with psychological time."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: An oversized grandfather clock with twisted, melting gears and rushing sand timers wraps around a stickman like heavy iron handcuffs.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 10 / 39 | DOWNLOAD / SAVE AS: scene_10.png
+CUT WINDOW: 38.88s - 42.13s (Duration: 3.25s)
+VOICEOVER: "The ego constantly runs away from the present moment."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: A mischievous little goblin labeled 'Ego' sprints frantically in a circle, desperately running away from a glowing golden circle on the floor marked 'Here'.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 11 / 39 | DOWNLOAD / SAVE AS: scene_11.png
+CUT WINDOW: 42.13s - 47.02s (Duration: 4.89s)
+VOICEOVER: "It drags you into the past through regret, resentment, and guilt."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: A heavy iron anchor and ball-and-chain dragging behind a sad stickman, pulling him backward into a murky swamp of spilled ink.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 12 / 39 | DOWNLOAD / SAVE AS: scene_12.png
+CUT WINDOW: 47.02s - 51.71s (Duration: 4.69s)
+VOICEOVER: "Or it hurls you into the future through anxiety, stress, and fear."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: A giant chaotic hurricane slingshot propelling a panicked stickman forward into dark stormy clouds filled with lightning bolts.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 13 / 39 | DOWNLOAD / SAVE AS: scene_13.png
+CUT WINDOW: 51.71s - 55.45s (Duration: 3.73s)
+VOICEOVER: "But the past is nothing more than a memory trace in your mind."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: Kai gently picks up an old faded black-and-white photograph of the past and lets it dissolve effortlessly into golden dust between his fingers.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 14 / 39 | DOWNLOAD / SAVE AS: scene_14.png
+CUT WINDOW: 55.45s - 59.37s (Duration: 3.93s)
+VOICEOVER: "And the future is just an imagined phantom that has not arrived."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: Maya coolly waves her hand straight through a spooky, translucent phantom silhouette of the future, proving it has zero physical substance.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 15 / 39 | DOWNLOAD / SAVE AS: scene_15.png
+CUT WINDOW: 59.37s - 64.07s (Duration: 4.69s)
+VOICEOVER: "Real life only ever happens in this one singular moment: right now."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: Kai and Maya stand firmly together inside a radiant, glowing golden circle on the pure white floor, basking in warm golden light while chaotic shadows swirl safely outside.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 16 / 39 | DOWNLOAD / SAVE AS: scene_16.png
+CUT WINDOW: 64.07s - 67.51s (Duration: 3.45s)
+VOICEOVER: "Have you ever experienced anything outside of the present moment?"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: Maya looks directly at the viewer with an arched eyebrow and a knowing smirk, tapping a sleek stopwatch where the only marking on the dial is the word 'NOW'.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 17 / 39 | DOWNLOAD / SAVE AS: scene_17.png
+CUT WINDOW: 67.51s - 70.67s (Duration: 3.16s)
+VOICEOVER: "The answer is never, and you never will."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: Kai calmly shakes his head with a confident 4th-wall smile, pointing to an unbroken chain of golden footprints on the floor that all exist only in the present step.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 18 / 39 | DOWNLOAD / SAVE AS: scene_18.png
+CUT WINDOW: 70.67s - 75.27s (Duration: 4.60s)
+VOICEOVER: "Inside your mind lurks an emotional monster called the pain-body."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: A hulking, spiky shadow creature—the Pain-Body—hiding in the dark behind an unsuspecting stickman, with glowing red comic eyes.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 19 / 39 | DOWNLOAD / SAVE AS: scene_19.png
+CUT WINDOW: 75.27s - 80.32s (Duration: 5.05s)
+VOICEOVER: "It feeds on negative drama, victim stories, and emotional turbulence."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: The Pain-Body greedily slurps up dramatic jagged storm clouds and spilled bottles of poison from a table, growing larger and more bloated with every sip.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 20 / 39 | DOWNLOAD / SAVE AS: scene_20.png
+CUT WINDOW: 80.32s - 84.49s (Duration: 4.17s)
+VOICEOVER: "It tricks you into believing that your suffering is your true identity."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: The shadowy Pain-Body holds up a menacing mask to the stickman's face, trying to trick him into wearing it.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 21 / 39 | DOWNLOAD / SAVE AS: scene_21.png
+CUT WINDOW: 84.49s - 88.97s (Duration: 4.48s)
+VOICEOVER: "The moment you argue, complain, or attack, the pain-body grows stronger."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: Two stick figures furiously shouting at each other across a table; beneath the table, the giant Pain-Body creature feeds on their heated red lightning sparks and doubles in size.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 22 / 39 | DOWNLOAD / SAVE AS: scene_22.png
+CUT WINDOW: 88.97s - 93.13s (Duration: 4.17s)
+VOICEOVER: "But when you simply watch it without judgment, it instantly loses its grip."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: Kai calmly shines a bright golden flashlight of pure awareness directly at the Pain-Body; the monster immediately recoils, shrieks, and dissolves into harmless mist.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 23 / 39 | DOWNLOAD / SAVE AS: scene_23.png
+CUT WINDOW: 93.13s - 96.94s (Duration: 3.81s)
+VOICEOVER: "Presence is the ultimate superpower against mental chaos."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: Kai and Maya stand back-to-back in an iconic superhero stance, radiating an unshakeable golden shield that bounces away incoming missiles of stress and chaos.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 24 / 39 | DOWNLOAD / SAVE AS: scene_24.png
+CUT WINDOW: 96.94s - 101.22s (Duration: 4.29s)
+VOICEOVER: "Whenever stress overwhelms you, ask yourself one simple question:"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: Maya leans forward with a sharp, inquisitive finger pointing directly at the viewer, presenting a clean question mark in the air with calm intellectual mastery.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 25 / 39 | DOWNLOAD / SAVE AS: scene_25.png
+CUT WINDOW: 101.22s - 104.86s (Duration: 3.64s)
+VOICEOVER: "What problem do I have right now, in this exact second?"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: A stickman stops mid-panic, looks down at his hands and feet, and realizes that in this exact second, he is completely safe, breathing, and okay.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 26 / 39 | DOWNLOAD / SAVE AS: scene_26.png
+CUT WINDOW: 104.86s - 109.82s (Duration: 4.96s)
+VOICEOVER: "Not tomorrow, not five minutes from now, but this exact breath."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: Close-up of a tranquil stickman closing his eyes, feeling the gentle rise and fall of a single breath as warm glowing rings of calm expand outward.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 27 / 39 | DOWNLOAD / SAVE AS: scene_27.png
+CUT WINDOW: 109.82s - 115.72s (Duration: 5.89s)
+VOICEOVER: "In the immediate present, there is only this task, this step, and stillness."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: Kai stands before a single clean wooden desk, holding a single pen and focusing with intense laser clarity on one single task while a chaotic pile of distractions lies frozen.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 28 / 39 | DOWNLOAD / SAVE AS: scene_28.png
+CUT WINDOW: 115.72s - 119.57s (Duration: 3.85s)
+VOICEOVER: "To dissolve suffering, you must practice radical surrender."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: Kai gently opens his palms upward in a peaceful posture of radical surrender, as sharp barbed wire around his wrists turns into soft blooming golden vines.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 29 / 39 | DOWNLOAD / SAVE AS: scene_29.png
+CUT WINDOW: 119.57s - 123.21s (Duration: 3.64s)
+VOICEOVER: "Surrender does not mean giving up or being passive."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: Maya firmly steps forward with a disciplined warrior stance, showing that surrender is not weakness, but a sword of focused action unsheathed from stillness.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 30 / 39 | DOWNLOAD / SAVE AS: scene_30.png
+CUT WINDOW: 123.21s - 127.20s (Duration: 4.00s)
+VOICEOVER: "It means saying an unconditional yes to what already is."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: A stickman facing a sudden rain shower smiles calmly, opening an elegant yellow umbrella and stepping forward without frustration or complaint.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 31 / 39 | DOWNLOAD / SAVE AS: scene_31.png
+CUT WINDOW: 127.20s - 131.49s (Duration: 4.29s)
+VOICEOVER: "Resisting reality is like fighting the weather; it only creates pain."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: A foolish stickman furiously punching a massive granite mountain or boxing against raindrops, bruising his knuckles while the mountain remains completely unmoved.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 32 / 39 | DOWNLOAD / SAVE AS: scene_32.png
+CUT WINDOW: 131.49s - 135.34s (Duration: 3.85s)
+VOICEOVER: "Accept the present moment as if you had chosen it yourself."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: Kai smiling warmly and hugging an unexpected obstacle or rock in his path, immediately transforming the boulder into a convenient stepping stone forward.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 33 / 39 | DOWNLOAD / SAVE AS: scene_33.png
+CUT WINDOW: 135.34s - 140.66s (Duration: 5.32s)
+VOICEOVER: "Then take clear, decisive action from a place of deep stillness."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: Kai and Maya taking a bold, decisive leap across a chasm with absolute precision, launched from a solid, unshakeable bedrock of inner quiet.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 34 / 39 | DOWNLOAD / SAVE AS: scene_34.png
+CUT WINDOW: 140.66s - 144.83s (Duration: 4.17s)
+VOICEOVER: "When you stop fighting the present, mental noise fades into deep peace."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: A bustling, noisy comic city dissolves into serene, minimalist white space as Kai and Maya sit quietly, surrounded by soft ripples of profound peace.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 35 / 39 | DOWNLOAD / SAVE AS: scene_35.png
+CUT WINDOW: 144.83s - 150.03s (Duration: 5.20s)
+VOICEOVER: "You gain effortless focus, quiet confidence, and unshakeable clarity."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: Kai stands tall with effortless confidence, wearing sharp black boots, arms folded, exuding the serene aura of an undefeated zen master.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 36 / 39 | DOWNLOAD / SAVE AS: scene_36.png
+CUT WINDOW: 150.03s - 153.95s (Duration: 3.93s)
+VOICEOVER: "The secret to a legendary life is not fixing the future."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: Maya decisively brushes away an enormous, complicated maze of future blueprints, turning her focus onto a single glowing golden key in her hand.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 37 / 39 | DOWNLOAD / SAVE AS: scene_37.png
+CUT WINDOW: 153.95s - 158.36s (Duration: 4.41s)
+VOICEOVER: "It is bringing your full, undefeated presence to the timeless now."
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: Kai and Maya stand triumphantly atop a pristine white pedestal under a brilliant golden sun, radiating total presence, unshakeable poise, and timeless power.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 38 / 39 | DOWNLOAD / SAVE AS: scene_38.png
+CUT WINDOW: 158.36s - 160.97s (Duration: 2.61s)
+VOICEOVER: "So tell me in the comments below:"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Minimalist 2D cartoon webcomic illustration on solid pure digital white (#FFFFFF) background, borderless.
+Visual Action: Maya points with an engaging wink down toward an interactive comic comment bubble on the floor, inviting the viewer into the final choice.
+Characters: Kai (round head, flat warm skin #E8BEAC, messy spiky black hair, charcoal tee #3A3A3C, grey straight stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk) and Maya (round head, flat warm skin #E8BEAC, high spiky black ponytail with bangs, charcoal fitted tee #3A3A3C, grey stick pants #8E8E93, black boots, minimalist 2D stick limbs, strictly 0 muscular bulk).
+STRICT NEGATIVE DIRECTIVE: Pure visual storytelling only. Strictly NO headers, NO titles, NO scene numbers, NO script quotes, NO speech bubbles, NO word banners painted on the canvas. Subtitles are added in post-production.
+Framing: All visual action strictly in upper 80%; leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero gradients, zero 3D shading.
+
+================================================================================
+SCENE 39 / 39 | DOWNLOAD / SAVE AS: scene_39.png
+CUT WINDOW: 160.97s - 167.88s (Duration: 6.92s)
+VOICEOVER: "Would you rather stay trapped in the anxious noise of your mind, or master the power of presence and conquer the now?"
+================================================================================
+COPY & PASTE PROMPT (Midjourney / Google Flow / Nanobanana):
+Single cohesive 9:16 vertical cartoon webcomic illustration split horizontally with a central circular (VS) badge on pure digital white (#FFFFFF) background.
+
+TOP PANEL (The Anxious Prisoner):
+Bleak, cold grey setting. A frantic, exhausted 2D stickman clutching his head in panic, trapped under a swirling storm cloud of racing thoughts, spinning clocks, and tangled wires.
+
+CENTRAL BADGE: Crisp circular badge labeled '(VS)' in comic punch font.
+
+BOTTOM PANEL (The Master of Now):
+Warm, radiant golden sunlight. Kai and Maya sitting in calm zen stillness, smiling with deep peace and unshakeable inner presence under gentle golden stars.
+
+Characters: Kai (spiky black hair, flat warm skin #E8BEAC, charcoal tee #3A3A3C, grey pants #8E8E93, black boots, minimalist stick limbs) and Maya (spiky ponytail with bangs, flat warm skin #E8BEAC, charcoal tee #3A3A3C, grey pants #8E8E93, black boots, minimalist stick limbs).
+
+Framing: Artwork strictly in upper 80% of each panel. Leave bottom 250px completely clear pure white negative space for subtitle safety. Crisp black ink outlines, flat solid color fills, zero 3D rendering, zero gradients.

@@ -1,0 +1,28 @@
+{
+  "title": "The Psychology of Money",
+  "slug": "psychology_of_money",
+  "target_duration_seconds": 120,
+  "target_word_count": 280,
+  "structure_5_stage": {
+    "stage_1_golden_hook": {
+      "duration": "0s - 15s (~35 words)",
+      "goal": "Counter-intuitive paradox or jarring reality check that grabs immediate attention."
+    },
+    "stage_2_disrupt_assumptions": {
+      "duration": "15s - 35s (~45 words)",
+      "goal": "Shatter conventional advice or mainstream myth the reader assumes to be true."
+    },
+    "stage_3_core_mechanism": {
+      "duration": "35s - 75s (~90 words)",
+      "goal": "Explain the hidden friction, psychological mechanism, or author's unique mental model."
+    },
+    "stage_4_actionable_truth": {
+      "duration": "75s - 105s (~70 words)",
+      "goal": "Deliver the concrete behavioral pivot or strategy to immediately apply today."
+    },
+    "stage_5_elevation_and_discussion": {
+      "duration": "105s - 120s (~40 words)",
+      "goal": "Punchline takeaway plus provocative discussion question driving comments."
+    }
+  }
+}

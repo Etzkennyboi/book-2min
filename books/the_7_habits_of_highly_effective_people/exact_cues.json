@@ -1,358 +1,279 @@
 {
-  "book": "The 7 Habits of Highly Effective People",
-  "author": "Stephen Covey",
-  "total_audio_duration_sec": 147.48,
+  "book": "the_7_habits_of_highly_effective_people",
+  "total_audio_duration_sec": 143.59,
   "scenes": [
     {
       "scene_id": 1,
       "start_sec": 0.0,
-      "end_sec": 4.41,
-      "duration_sec": 4.41,
-      "speech_start": 0.24,
-      "speech_end": 4.18,
-      "script_text": "The sudden habits of highly effective people by Stephen Covey in two minutes."
+      "end_sec": 4.65,
+      "duration_sec": 4.65,
+      "script_text": "The Seven Habits of Highly Effective People by Stephen Covey in two minutes."
     },
     {
       "scene_id": 2,
-      "start_sec": 4.41,
-      "end_sec": 8.24,
-      "duration_sec": 3.83,
-      "speech_start": 4.64,
-      "speech_end": 8.24,
-      "script_text": "Most people live their entire lives trapped in pure reaction mode."
+      "start_sec": 4.65,
+      "end_sec": 8.73,
+      "duration_sec": 4.08,
+      "script_text": "Most people live their entire lives in reaction mode."
     },
     {
       "scene_id": 3,
-      "start_sec": 8.24,
-      "end_sec": 11.05,
-      "duration_sec": 2.81,
-      "speech_start": 8.24,
-      "speech_end": 10.9,
-      "script_text": "They constantly blame their boss, the economy,"
+      "start_sec": 8.73,
+      "end_sec": 12.29,
+      "duration_sec": 3.56,
+      "script_text": "They blame their boss, the economy, or the weather,"
     },
     {
       "scene_id": 4,
-      "start_sec": 11.05,
-      "end_sec": 15.44,
-      "duration_sec": 4.39,
-      "speech_start": 11.2,
-      "speech_end": 15.44,
-      "script_text": "or the weather. They feel completely powerless against the chaos of daily"
+      "start_sec": 12.29,
+      "end_sec": 16.95,
+      "duration_sec": 4.66,
+      "script_text": "feeling completely powerless. But here is the brutal truth."
     },
     {
       "scene_id": 5,
-      "start_sec": 15.44,
-      "end_sec": 19.41,
-      "duration_sec": 3.97,
-      "speech_start": 15.44,
-      "speech_end": 19.415,
-      "script_text": "life. If you want real change, you must work from the inside out."
+      "start_sec": 16.95,
+      "end_sec": 21.51,
+      "duration_sec": 4.56,
+      "script_text": "If you want to change your life, you have to work from the inside out."
     },
     {
       "scene_id": 6,
-      "start_sec": 19.41,
-      "end_sec": 23.27,
-      "duration_sec": 3.86,
-      "speech_start": 19.415,
-      "speech_end": 22.955,
-      "script_text": "Habit one is to be proactive and take total responsibility."
+      "start_sec": 21.51,
+      "end_sec": 24.59,
+      "duration_sec": 3.08,
+      "script_text": "Habit One. Be proactive."
     },
     {
       "scene_id": 7,
-      "start_sec": 23.27,
-      "end_sec": 27.07,
-      "duration_sec": 3.8,
-      "speech_start": 23.575,
-      "speech_end": 26.875,
-      "script_text": "Unsuccessful people obsess over things they cannot control."
+      "start_sec": 24.59,
+      "end_sec": 28.76,
+      "duration_sec": 4.17,
+      "script_text": "Unsuccessful people obsess over their Circle of Concern,"
     },
     {
       "scene_id": 8,
-      "start_sec": 27.07,
-      "end_sec": 31.48,
-      "duration_sec": 4.41,
-      "speech_start": 27.255001,
-      "speech_end": 31.289999,
-      "script_text": "Effective people pour all their energy into their circle of influence."
+      "start_sec": 28.76,
+      "end_sec": 31.7,
+      "duration_sec": 2.94,
+      "script_text": "worrying about things they cannot control."
     },
     {
       "scene_id": 9,
-      "start_sec": 31.48,
-      "end_sec": 34.4,
-      "duration_sec": 2.92,
-      "speech_start": 31.669998,
-      "speech_end": 34.01,
-      "script_text": "You are never a helpless victim of your circumstances."
+      "start_sec": 31.7,
+      "end_sec": 36.78,
+      "duration_sec": 5.08,
+      "script_text": "Highly effective people pour all their energy into their Circle of Influence."
     },
     {
       "scene_id": 10,
-      "start_sec": 34.4,
-      "end_sec": 37.76,
-      "duration_sec": 3.36,
-      "speech_start": 34.79,
-      "speech_end": 37.53,
-      "script_text": "You are always a direct product of your daily decisions."
+      "start_sec": 36.78,
+      "end_sec": 39.54,
+      "duration_sec": 2.76,
+      "script_text": "You are not a product of your circumstances."
     },
     {
       "scene_id": 11,
-      "start_sec": 37.76,
-      "end_sec": 41.52,
-      "duration_sec": 3.76,
-      "speech_start": 37.989998,
-      "speech_end": 41.37,
-      "script_text": "Habit two is to begin every journey with the end in mind."
+      "start_sec": 39.54,
+      "end_sec": 43.52,
+      "duration_sec": 3.98,
+      "script_text": "You are a product of your decisions. Habit Two."
     },
     {
       "scene_id": 12,
-      "start_sec": 41.52,
-      "end_sec": 44.69,
-      "duration_sec": 3.17,
-      "speech_start": 41.67,
-      "speech_end": 44.565,
-      "script_text": "Imagine attending your own funeral three years from today."
+      "start_sec": 43.52,
+      "end_sec": 47.92,
+      "duration_sec": 4.4,
+      "script_text": "Begin with the end in mind. Imagine attending your own funeral three years"
     },
     {
       "scene_id": 13,
-      "start_sec": 44.69,
-      "end_sec": 47.73,
-      "duration_sec": 3.04,
-      "speech_start": 44.805,
-      "speech_end": 47.545,
-      "script_text": "What do you want your loved ones to say about your character?"
+      "start_sec": 47.92,
+      "end_sec": 52.34,
+      "duration_sec": 4.42,
+      "script_text": "from now. What do you want your family and friends to say about your character?"
     },
     {
       "scene_id": 14,
-      "start_sec": 47.73,
-      "end_sec": 52.37,
-      "duration_sec": 4.64,
-      "speech_start": 47.925,
-      "speech_end": 52.265,
-      "script_text": "If your ladder is leaving against the wrong wall, every single step you take"
+      "start_sec": 52.34,
+      "end_sec": 55.05,
+      "duration_sec": 2.71,
+      "script_text": "If your ladder is leaning against the wrong wall,"
     },
     {
       "scene_id": 15,
-      "start_sec": 52.37,
-      "end_sec": 57.2,
-      "duration_sec": 4.83,
-      "speech_start": 52.484997,
-      "speech_end": 57.2,
-      "script_text": "just gets you lost faster. Habit three teaches you to put first things first."
+      "start_sec": 55.05,
+      "end_sec": 58.94,
+      "duration_sec": 3.89,
+      "script_text": "every single step you take just gets you to the wrong place faster."
     },
     {
       "scene_id": 16,
-      "start_sec": 57.2,
-      "end_sec": 60.77,
-      "duration_sec": 3.57,
-      "speech_start": 57.2,
-      "speech_end": 60.66,
-      "script_text": "Most people waste their days putting out noisy urgent fires."
+      "start_sec": 58.94,
+      "end_sec": 61.75,
+      "duration_sec": 2.81,
+      "script_text": "Habit Three. Put first things first."
     },
     {
       "scene_id": 17,
-      "start_sec": 60.77,
-      "end_sec": 64.37,
-      "duration_sec": 3.6,
-      "speech_start": 60.879997,
-      "speech_end": 64.259995,
-      "script_text": "Remember that what is urgent is almost never truly important."
+      "start_sec": 61.75,
+      "end_sec": 65.11,
+      "duration_sec": 3.36,
+      "script_text": "Most people spend their days putting out urgent fires."
     },
     {
       "scene_id": 18,
-      "start_sec": 64.37,
-      "end_sec": 67.69,
-      "duration_sec": 3.32,
-      "speech_start": 64.479996,
-      "speech_end": 67.54,
-      "script_text": "You must schedule your biggest rocks into your calendar first."
+      "start_sec": 65.11,
+      "end_sec": 67.59,
+      "duration_sec": 2.48,
+      "script_text": "But urgent rarely means important."
     },
     {
       "scene_id": 19,
-      "start_sec": 67.69,
-      "end_sec": 70.53,
-      "duration_sec": 2.84,
-      "speech_start": 67.84,
-      "speech_end": 70.5,
-      "script_text": "Prioritize your health, your deep work,"
+      "start_sec": 67.59,
+      "end_sec": 70.07,
+      "duration_sec": 2.48,
+      "script_text": "You must schedule your big rocks first."
     },
     {
       "scene_id": 20,
-      "start_sec": 70.53,
-      "end_sec": 75.25,
-      "duration_sec": 4.72,
-      "speech_start": 70.56,
-      "speech_end": 75.175,
-      "script_text": "and your family. Before the endless sand and small pebbles consume your life,"
+      "start_sec": 70.07,
+      "end_sec": 72.88,
+      "duration_sec": 2.81,
+      "script_text": "Your deep work, your health, and your family,"
     },
     {
       "scene_id": 21,
-      "start_sec": 75.25,
-      "end_sec": 78.33,
-      "duration_sec": 3.08,
-      "speech_start": 75.315,
-      "speech_end": 78.295,
-      "script_text": "habit four is to build relationships that are win win."
+      "start_sec": 72.88,
+      "end_sec": 77.33,
+      "duration_sec": 4.45,
+      "script_text": "before the small pebbles and sand consume your day. Habit Four."
     },
     {
       "scene_id": 22,
-      "start_sec": 78.33,
-      "end_sec": 81.88,
-      "duration_sec": 3.55,
-      "speech_start": 78.355,
-      "speech_end": 81.815,
-      "script_text": "Life is not a zero sum game where someone must lose."
+      "start_sec": 77.33,
+      "end_sec": 81.77,
+      "duration_sec": 4.44,
+      "script_text": "Think win win. Life is not a zero sum game where someone must"
     },
     {
       "scene_id": 23,
-      "start_sec": 81.88,
-      "end_sec": 86.28,
-      "duration_sec": 4.4,
-      "speech_start": 81.955,
-      "speech_end": 86.055,
-      "script_text": "A scarcity mindset breeds bitter enemies and endless competition."
+      "start_sec": 81.77,
+      "end_sec": 86.15,
+      "duration_sec": 4.38,
+      "script_text": "lose for you to win. Scarcity mindset creates bitter enemies."
     },
     {
       "scene_id": 24,
-      "start_sec": 86.28,
-      "end_sec": 90.15,
-      "duration_sec": 3.87,
-      "speech_start": 86.515,
-      "speech_end": 89.92,
-      "script_text": "An abundance mindset builds powerful, lasting alliances."
+      "start_sec": 86.15,
+      "end_sec": 89.36,
+      "duration_sec": 3.21,
+      "script_text": "An abundance mindset builds lasting empires."
     },
     {
       "scene_id": 25,
-      "start_sec": 90.15,
-      "end_sec": 94.27,
-      "duration_sec": 4.12,
-      "speech_start": 90.38,
-      "speech_end": 94.079994,
-      "script_text": "Habit five is to seek first to understand, then be understood."
+      "start_sec": 89.36,
+      "end_sec": 92.4,
+      "duration_sec": 3.04,
+      "script_text": "Habit Five. Seek first to understand,"
     },
     {
       "scene_id": 26,
-      "start_sec": 94.27,
-      "end_sec": 98.15,
-      "duration_sec": 3.88,
-      "speech_start": 94.46,
-      "speech_end": 98.0,
-      "script_text": "Most people never listen with the honest intention to understand."
+      "start_sec": 92.4,
+      "end_sec": 96.76,
+      "duration_sec": 4.36,
+      "script_text": "then to be understood. Most people do not listen to understand."
     },
     {
       "scene_id": 27,
-      "start_sec": 98.15,
-      "end_sec": 101.97,
-      "duration_sec": 3.82,
-      "speech_start": 98.299995,
-      "speech_end": 101.825,
-      "script_text": "They only listen while impatiently waiting for their turn to reply."
+      "start_sec": 96.76,
+      "end_sec": 99.31,
+      "duration_sec": 2.55,
+      "script_text": "They listen with the intent to reply."
     },
     {
       "scene_id": 28,
-      "start_sec": 101.97,
-      "end_sec": 105.66,
-      "duration_sec": 3.69,
-      "speech_start": 102.125,
-      "speech_end": 105.585,
-      "script_text": "You must diagnose the real problem before prescribing the cure."
+      "start_sec": 99.31,
+      "end_sec": 102.82,
+      "duration_sec": 3.51,
+      "script_text": "Diagnose before you prescribe. Habit Six."
     },
     {
       "scene_id": 29,
-      "start_sec": 105.66,
-      "end_sec": 109.66,
-      "duration_sec": 4.0,
-      "speech_start": 105.725,
-      "speech_end": 109.585,
-      "script_text": "Habit six is synergy, where the whole exceeds the parts."
+      "start_sec": 102.82,
+      "end_sec": 106.5,
+      "duration_sec": 3.68,
+      "script_text": "Synergize. One plus one does not equal two."
     },
     {
       "scene_id": 30,
-      "start_sec": 109.66,
-      "end_sec": 112.01,
-      "duration_sec": 2.35,
-      "speech_start": 109.725,
-      "speech_end": 111.905,
-      "script_text": "One plus one does not have to equal two."
+      "start_sec": 106.5,
+      "end_sec": 110.62,
+      "duration_sec": 4.12,
+      "script_text": "When two creative minds combine, one plus one equals three,"
     },
     {
       "scene_id": 31,
-      "start_sec": 112.01,
-      "end_sec": 115.81,
-      "duration_sec": 3.8,
-      "speech_start": 112.12,
-      "speech_end": 115.659996,
-      "script_text": "When two creative minds collaborate, they unlock breakthrough power."
+      "start_sec": 110.62,
+      "end_sec": 113.55,
+      "duration_sec": 2.93,
+      "script_text": "five, or ten. Value the differences."
     },
     {
       "scene_id": 32,
-      "start_sec": 115.81,
-      "end_sec": 120.05,
-      "duration_sec": 4.24,
-      "speech_start": 115.96,
-      "speech_end": 119.9,
-      "script_text": "Celebrate differences because diverse perspectives spark true innovation."
+      "start_sec": 113.55,
+      "end_sec": 116.49,
+      "duration_sec": 2.94,
+      "script_text": "Habit Seven. Sharpen the saw."
     },
     {
       "scene_id": 33,
-      "start_sec": 120.05,
-      "end_sec": 122.41,
-      "duration_sec": 2.36,
-      "speech_start": 120.2,
-      "speech_end": 122.38,
-      "script_text": "Habit seven is the master key."
+      "start_sec": 116.49,
+      "end_sec": 120.84,
+      "duration_sec": 4.35,
+      "script_text": "A lumberjack spent five hours furiously trying to chop down a tree with"
     },
     {
       "scene_id": 34,
-      "start_sec": 122.41,
-      "end_sec": 127.01,
-      "duration_sec": 4.6,
-      "speech_start": 122.44,
-      "speech_end": 126.94,
-      "script_text": "Sharpen your saw. A tired lumberjack swung the dull blade for five exhausting"
+      "start_sec": 120.84,
+      "end_sec": 124.93,
+      "duration_sec": 4.09,
+      "script_text": "a blunt blade. When asked to stop and sharpen his saw,"
     },
     {
       "scene_id": 35,
-      "start_sec": 127.01,
-      "end_sec": 131.54,
-      "duration_sec": 4.53,
-      "speech_start": 127.08,
-      "speech_end": 131.515,
-      "script_text": "hours. He shouted that he was too busy sign to stop and sharpen it."
+      "start_sec": 124.93,
+      "end_sec": 127.41,
+      "duration_sec": 2.48,
+      "script_text": "he said, I do not have time,"
     },
     {
       "scene_id": 36,
-      "start_sec": 131.54,
-      "end_sec": 135.3,
-      "duration_sec": 3.76,
-      "speech_start": 131.575,
-      "speech_end": 135.19499,
-      "script_text": "If you never recharge your physical, mental, and spiritual energy,"
+      "start_sec": 127.41,
+      "end_sec": 131.75,
+      "duration_sec": 4.34,
+      "script_text": "I am too busy sawing. If you never recharge your physical,"
     },
     {
       "scene_id": 37,
-      "start_sec": 135.3,
-      "end_sec": 139.09,
-      "duration_sec": 3.79,
-      "speech_start": 135.415,
-      "speech_end": 139.095,
-      "script_text": "your blade goes completely blunt, and you will inevitably burn out."
+      "start_sec": 131.75,
+      "end_sec": 135.28,
+      "duration_sec": 3.53,
+      "script_text": "mental, and spiritual energy, you will inevitably burn out."
     },
     {
       "scene_id": 38,
-      "start_sec": 139.09,
-      "end_sec": 143.65,
-      "duration_sec": 4.56,
-      "speech_start": 139.095,
-      "speech_end": 143.65294,
-      "script_text": "So tell me in the comments below. Would you rather stay stuck reacting to life's endless noise"
+      "start_sec": 135.28,
+      "end_sec": 139.97,
+      "duration_sec": 4.69,
+      "script_text": "So tell me in the comments below. Would you rather stay stuck reacting to the world's"
     },
     {
       "scene_id": 39,
-      "start_sec": 143.65,
-      "end_sec": 147.48,
-      "duration_sec": 3.83,
-      "speech_start": 143.65294,
-      "speech_end": 147.51294,
-      "script_text": "or master the seven habits and become the author of your own destiny?"
+      "start_sec": 139.97,
+      "end_sec": 143.59,
+      "duration_sec": 3.62,
+      "script_text": "chaos, or master the seven habits and become the author of your own destiny?"
     }
   ]
 }

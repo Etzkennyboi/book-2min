@@ -1,0 +1,257 @@
+{
+  "total_audio_duration_sec": 188.16,
+  "scenes": [
+    {
+      "scene_id": 1,
+      "start_sec": 0.0,
+      "end_sec": 3.93,
+      "duration_sec": 3.93,
+      "script_text": "Rich Dad Poor Dad by Robert Kiyosaki in two minutes."
+    },
+    {
+      "scene_id": 2,
+      "start_sec": 3.93,
+      "end_sec": 10.09,
+      "duration_sec": 6.16,
+      "script_text": "Why do most people work hard their entire lives, earn good salaries, and still end up broke?"
+    },
+    {
+      "scene_id": 3,
+      "start_sec": 10.09,
+      "end_sec": 14.885,
+      "duration_sec": 4.795,
+      "script_text": "Schools teach you how to work for money, but never teach you how to make money work for you."
+    },
+    {
+      "scene_id": 4,
+      "start_sec": 14.885,
+      "end_sec": 20.005,
+      "duration_sec": 5.12,
+      "script_text": "Growing up, Robert had two fathers who gave him completely opposite financial advice."
+    },
+    {
+      "scene_id": 5,
+      "start_sec": 20.005,
+      "end_sec": 26.365,
+      "duration_sec": 6.36,
+      "script_text": "His real father, the Poor Dad, was highly educated, holding advanced degrees and a secure government job."
+    },
+    {
+      "scene_id": 6,
+      "start_sec": 26.365,
+      "end_sec": 32.99,
+      "duration_sec": 6.625,
+      "script_text": "Yet he struggled with debt his entire life, believing that the love of money was the root of all evil."
+    },
+    {
+      "scene_id": 7,
+      "start_sec": 32.99,
+      "end_sec": 38.58,
+      "duration_sec": 5.59,
+      "script_text": "His best friend's father, the Rich Dad, was an entrepreneur who never even finished eighth grade."
+    },
+    {
+      "scene_id": 8,
+      "start_sec": 38.58,
+      "end_sec": 44.375,
+      "duration_sec": 5.795,
+      "script_text": "Yet he became one of the richest men in Hawaii, believing that financial ignorance was the real danger."
+    },
+    {
+      "scene_id": 9,
+      "start_sec": 44.375,
+      "end_sec": 48.295,
+      "duration_sec": 3.92,
+      "script_text": "Kiyosaki boils wealth down to one simple, unshakeable rule."
+    },
+    {
+      "scene_id": 10,
+      "start_sec": 48.295,
+      "end_sec": 54.255,
+      "duration_sec": 5.96,
+      "script_text": "The rich acquire assets, while the poor and middle class acquire liabilities that they think are assets."
+    },
+    {
+      "scene_id": 11,
+      "start_sec": 54.255,
+      "end_sec": 59.35,
+      "duration_sec": 5.095,
+      "script_text": "An asset is anything that puts money directly into your pocket without you working for it."
+    },
+    {
+      "scene_id": 12,
+      "start_sec": 59.35,
+      "end_sec": 64.87,
+      "duration_sec": 5.52,
+      "script_text": "Rental real estate, dividend paying stocks, royalties, and automated businesses."
+    },
+    {
+      "scene_id": 13,
+      "start_sec": 64.87,
+      "end_sec": 69.245,
+      "duration_sec": 4.375,
+      "script_text": "A liability is anything that takes money out of your pocket every single month."
+    },
+    {
+      "scene_id": 14,
+      "start_sec": 69.245,
+      "end_sec": 73.435,
+      "duration_sec": 4.19,
+      "script_text": "Car loans, credit card balances, and high interest consumer debt."
+    },
+    {
+      "scene_id": 15,
+      "start_sec": 73.435,
+      "end_sec": 79.525,
+      "duration_sec": 6.09,
+      "script_text": "Even your personal house is a liability, draining cash through mortgages, taxes, and endless maintenance."
+    },
+    {
+      "scene_id": 16,
+      "start_sec": 79.525,
+      "end_sec": 86.02,
+      "duration_sec": 6.495,
+      "script_text": "Here is where most people get trapped. When they get a pay raise, their spending increases with it."
+    },
+    {
+      "scene_id": 17,
+      "start_sec": 86.02,
+      "end_sec": 91.82,
+      "duration_sec": 5.8,
+      "script_text": "They buy a bigger house, lease a flashier car, and accumulate heavier monthly expenses."
+    },
+    {
+      "scene_id": 18,
+      "start_sec": 91.82,
+      "end_sec": 97.26,
+      "duration_sec": 5.44,
+      "script_text": "Kiyosaki calls this the Rat Race: running faster on an endless financial treadmill,"
+    },
+    {
+      "scene_id": 19,
+      "start_sec": 97.26,
+      "end_sec": 101.475,
+      "duration_sec": 4.215,
+      "script_text": "working harder and harder just to pay off the liabilities of last month."
+    },
+    {
+      "scene_id": 20,
+      "start_sec": 101.475,
+      "end_sec": 106.755,
+      "duration_sec": 5.28,
+      "script_text": "Two powerful emotions keep people trapped on this treadmill: fear and greed."
+    },
+    {
+      "scene_id": 21,
+      "start_sec": 106.755,
+      "end_sec": 111.115,
+      "duration_sec": 4.36,
+      "script_text": "Fear of having no money forces them to wake up and work at a job they hate."
+    },
+    {
+      "scene_id": 22,
+      "start_sec": 111.115,
+      "end_sec": 117.09,
+      "duration_sec": 5.975,
+      "script_text": "And greed whispers that a bigger paycheck will finally solve their financial anxiety."
+    },
+    {
+      "scene_id": 23,
+      "start_sec": 117.09,
+      "end_sec": 120.77,
+      "duration_sec": 3.68,
+      "script_text": "Giving more money to someone without financial literacy just creates bigger debts."
+    },
+    {
+      "scene_id": 24,
+      "start_sec": 120.77,
+      "end_sec": 124.93,
+      "duration_sec": 4.16,
+      "script_text": "The wealthy break out of the Rat Race by focusing obsessively on cash flow."
+    },
+    {
+      "scene_id": 25,
+      "start_sec": 124.93,
+      "end_sec": 131.115,
+      "duration_sec": 6.185,
+      "script_text": "Instead of spending their salary on luxury status symbols, they pour it into cash generating assets."
+    },
+    {
+      "scene_id": 26,
+      "start_sec": 131.115,
+      "end_sec": 136.435,
+      "duration_sec": 5.32,
+      "script_text": "Those assets produce monthly income, which is immediately reinvested into even more assets."
+    },
+    {
+      "scene_id": 27,
+      "start_sec": 136.435,
+      "end_sec": 142.475,
+      "duration_sec": 6.04,
+      "script_text": "Eventually, the passive income generated by their assets completely covers their living expenses."
+    },
+    {
+      "scene_id": 28,
+      "start_sec": 142.475,
+      "end_sec": 150.81,
+      "duration_sec": 8.335,
+      "script_text": "At that exact moment, you achieve true financial freedom. You work because you choose to, not because you have to."
+    },
+    {
+      "scene_id": 29,
+      "start_sec": 150.81,
+      "end_sec": 156.105,
+      "duration_sec": 5.295,
+      "script_text": "The core of Rich Dad Poor Dad is not getting rich quick; it is a fundamental shift in vocabulary."
+    },
+    {
+      "scene_id": 30,
+      "start_sec": 156.105,
+      "end_sec": 160.665,
+      "duration_sec": 4.56,
+      "script_text": "The poor and middle class say: I cannot afford it."
+    },
+    {
+      "scene_id": 31,
+      "start_sec": 160.665,
+      "end_sec": 166.038,
+      "duration_sec": 5.373,
+      "script_text": "The moment you say you cannot afford something, your brain shuts down and stops thinking."
+    },
+    {
+      "scene_id": 32,
+      "start_sec": 166.038,
+      "end_sec": 168.78,
+      "duration_sec": 2.742,
+      "script_text": "The rich man asks: How can I afford it?"
+    },
+    {
+      "scene_id": 33,
+      "start_sec": 168.78,
+      "end_sec": 175.02,
+      "duration_sec": 6.24,
+      "script_text": "When you ask how you can afford it, your brain is forced to solve problems and spot hidden opportunities."
+    },
+    {
+      "scene_id": 34,
+      "start_sec": 175.02,
+      "end_sec": 180.22,
+      "duration_sec": 5.2,
+      "script_text": "Do not work for money; work to learn high income skills, sales, and investing."
+    },
+    {
+      "scene_id": 35,
+      "start_sec": 180.22,
+      "end_sec": 185.855,
+      "duration_sec": 5.635,
+      "script_text": "So tell me in the comments below: are you running on the endless hamster wheel working for money,"
+    },
+    {
+      "scene_id": 36,
+      "start_sec": 185.855,
+      "end_sec": 188.16,
+      "duration_sec": 2.305,
+      "script_text": "or will you build assets and make money work for you?"
+    }
+  ]
+}

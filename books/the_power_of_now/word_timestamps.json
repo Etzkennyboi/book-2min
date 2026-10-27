@@ -1,0 +1,3033 @@
+[
+  {
+    "scene": 1,
+    "word": "the",
+    "start": 0.08,
+    "end": 0.32,
+    "confidence": 0.605
+  },
+  {
+    "scene": 1,
+    "word": "power",
+    "start": 0.32,
+    "end": 0.48,
+    "confidence": 0.662
+  },
+  {
+    "scene": 1,
+    "word": "of",
+    "start": 0.48,
+    "end": 0.64,
+    "confidence": 0.99
+  },
+  {
+    "scene": 1,
+    "word": "now",
+    "start": 0.64,
+    "end": 0.96,
+    "confidence": 0.985
+  },
+  {
+    "scene": 1,
+    "word": "by",
+    "start": 0.96,
+    "end": 1.2,
+    "confidence": 0.997
+  },
+  {
+    "scene": 1,
+    "word": "eckhart",
+    "start": 1.2,
+    "end": 1.68,
+    "confidence": 0.982
+  },
+  {
+    "scene": 1,
+    "word": "tolle",
+    "start": 1.68,
+    "end": 2.0,
+    "confidence": 1.0
+  },
+  {
+    "scene": 1,
+    "word": "in",
+    "start": 2.0,
+    "end": 2.24,
+    "confidence": 0.923
+  },
+  {
+    "scene": 1,
+    "word": "two",
+    "start": 2.24,
+    "end": 2.48,
+    "confidence": 0.883
+  },
+  {
+    "scene": 1,
+    "word": "minutes",
+    "start": 2.48,
+    "end": 2.98,
+    "confidence": 0.925
+  },
+  {
+    "scene": 2,
+    "word": "most",
+    "start": 3.638,
+    "end": 3.878,
+    "confidence": 0.765
+  },
+  {
+    "scene": 2,
+    "word": "people",
+    "start": 3.878,
+    "end": 4.278,
+    "confidence": 1.0
+  },
+  {
+    "scene": 2,
+    "word": "spend",
+    "start": 4.278,
+    "end": 4.518,
+    "confidence": 1.0
+  },
+  {
+    "scene": 2,
+    "word": "their",
+    "start": 4.518,
+    "end": 4.758,
+    "confidence": 1.0
+  },
+  {
+    "scene": 2,
+    "word": "entire",
+    "start": 4.758,
+    "end": 5.238,
+    "confidence": 1.0
+  },
+  {
+    "scene": 2,
+    "word": "lives",
+    "start": 5.238,
+    "end": 5.638,
+    "confidence": 0.999
+  },
+  {
+    "scene": 2,
+    "word": "trapped",
+    "start": 5.638,
+    "end": 6.038,
+    "confidence": 1.0
+  },
+  {
+    "scene": 2,
+    "word": "inside",
+    "start": 6.038,
+    "end": 6.358,
+    "confidence": 1.0
+  },
+  {
+    "scene": 2,
+    "word": "a",
+    "start": 6.358,
+    "end": 6.598,
+    "confidence": 0.998
+  },
+  {
+    "scene": 2,
+    "word": "noisy",
+    "start": 6.598,
+    "end": 7.078,
+    "confidence": 1.0
+  },
+  {
+    "scene": 2,
+    "word": "mental",
+    "start": 7.078,
+    "end": 7.398,
+    "confidence": 0.997
+  },
+  {
+    "scene": 2,
+    "word": "prison",
+    "start": 7.398,
+    "end": 7.898,
+    "confidence": 1.0
+  },
+  {
+    "scene": 3,
+    "word": "a",
+    "start": 8.444,
+    "end": 8.684,
+    "confidence": 0.926
+  },
+  {
+    "scene": 3,
+    "word": "nonstop",
+    "start": 8.684,
+    "end": 9.184,
+    "confidence": 0.939
+  },
+  {
+    "scene": 3,
+    "word": "voice",
+    "start": 9.404,
+    "end": 9.644,
+    "confidence": 1.0
+  },
+  {
+    "scene": 3,
+    "word": "in",
+    "start": 9.644,
+    "end": 9.804,
+    "confidence": 1.0
+  },
+  {
+    "scene": 3,
+    "word": "your",
+    "start": 9.804,
+    "end": 9.964,
+    "confidence": 1.0
+  },
+  {
+    "scene": 3,
+    "word": "head",
+    "start": 9.964,
+    "end": 10.204,
+    "confidence": 1.0
+  },
+  {
+    "scene": 3,
+    "word": "that",
+    "start": 10.204,
+    "end": 10.524,
+    "confidence": 1.0
+  },
+  {
+    "scene": 3,
+    "word": "criticizes",
+    "start": 10.524,
+    "end": 11.024,
+    "confidence": 0.971
+  },
+  {
+    "scene": 3,
+    "word": "worries",
+    "start": 11.724,
+    "end": 12.224,
+    "confidence": 0.994
+  },
+  {
+    "scene": 3,
+    "word": "and",
+    "start": 12.364,
+    "end": 12.604,
+    "confidence": 1.0
+  },
+  {
+    "scene": 3,
+    "word": "never",
+    "start": 12.604,
+    "end": 13.084,
+    "confidence": 1.0
+  },
+  {
+    "scene": 3,
+    "word": "shuts",
+    "start": 13.084,
+    "end": 13.324,
+    "confidence": 1.0
+  },
+  {
+    "scene": 3,
+    "word": "up",
+    "start": 13.324,
+    "end": 13.708,
+    "confidence": 0.999
+  },
+  {
+    "scene": 4,
+    "word": "you",
+    "start": 14.138,
+    "end": 14.378,
+    "confidence": 0.999
+  },
+  {
+    "scene": 4,
+    "word": "replay",
+    "start": 14.378,
+    "end": 14.778,
+    "confidence": 1.0
+  },
+  {
+    "scene": 4,
+    "word": "embarrassing",
+    "start": 14.778,
+    "end": 15.278,
+    "confidence": 1.0
+  },
+  {
+    "scene": 4,
+    "word": "memories",
+    "start": 15.338,
+    "end": 15.738,
+    "confidence": 1.0
+  },
+  {
+    "scene": 4,
+    "word": "from",
+    "start": 15.738,
+    "end": 15.898,
+    "confidence": 1.0
+  },
+  {
+    "scene": 4,
+    "word": "ten",
+    "start": 15.898,
+    "end": 16.138,
+    "confidence": 1.0
+  },
+  {
+    "scene": 4,
+    "word": "years",
+    "start": 16.138,
+    "end": 16.378,
+    "confidence": 1.0
+  },
+  {
+    "scene": 4,
+    "word": "ago",
+    "start": 16.378,
+    "end": 16.618,
+    "confidence": 1.0
+  },
+  {
+    "scene": 4,
+    "word": "at",
+    "start": 16.618,
+    "end": 16.778,
+    "confidence": 1.0
+  },
+  {
+    "scene": 4,
+    "word": "three",
+    "start": 16.778,
+    "end": 17.018,
+    "confidence": 1.0
+  },
+  {
+    "scene": 4,
+    "word": "in",
+    "start": 17.018,
+    "end": 17.178,
+    "confidence": 1.0
+  },
+  {
+    "scene": 4,
+    "word": "the",
+    "start": 17.178,
+    "end": 17.258,
+    "confidence": 1.0
+  },
+  {
+    "scene": 4,
+    "word": "morning",
+    "start": 17.258,
+    "end": 17.706,
+    "confidence": 0.998
+  },
+  {
+    "scene": 5,
+    "word": "then",
+    "start": 18.136,
+    "end": 18.296,
+    "confidence": 0.535
+  },
+  {
+    "scene": 5,
+    "word": "you",
+    "start": 18.296,
+    "end": 18.536,
+    "confidence": 0.984
+  },
+  {
+    "scene": 5,
+    "word": "invent",
+    "start": 18.536,
+    "end": 19.016,
+    "confidence": 0.999
+  },
+  {
+    "scene": 5,
+    "word": "imaginary",
+    "start": 19.016,
+    "end": 19.516,
+    "confidence": 1.0
+  },
+  {
+    "scene": 5,
+    "word": "disasters",
+    "start": 19.736,
+    "end": 20.236,
+    "confidence": 1.0
+  },
+  {
+    "scene": 5,
+    "word": "about",
+    "start": 20.296,
+    "end": 20.536,
+    "confidence": 1.0
+  },
+  {
+    "scene": 5,
+    "word": "a",
+    "start": 20.536,
+    "end": 20.616,
+    "confidence": 1.0
+  },
+  {
+    "scene": 5,
+    "word": "future",
+    "start": 20.616,
+    "end": 21.016,
+    "confidence": 1.0
+  },
+  {
+    "scene": 5,
+    "word": "that",
+    "start": 21.016,
+    "end": 21.256,
+    "confidence": 1.0
+  },
+  {
+    "scene": 5,
+    "word": "does",
+    "start": 21.256,
+    "end": 21.496,
+    "confidence": 1.0
+  },
+  {
+    "scene": 5,
+    "word": "not",
+    "start": 21.496,
+    "end": 21.656,
+    "confidence": 1.0
+  },
+  {
+    "scene": 5,
+    "word": "even",
+    "start": 21.656,
+    "end": 21.976,
+    "confidence": 1.0
+  },
+  {
+    "scene": 5,
+    "word": "exist",
+    "start": 21.976,
+    "end": 22.476,
+    "confidence": 1.0
+  },
+  {
+    "scene": 6,
+    "word": "but",
+    "start": 23.102,
+    "end": 23.422,
+    "confidence": 0.756
+  },
+  {
+    "scene": 6,
+    "word": "here",
+    "start": 23.422,
+    "end": 23.662,
+    "confidence": 0.999
+  },
+  {
+    "scene": 6,
+    "word": "is",
+    "start": 23.662,
+    "end": 23.742,
+    "confidence": 0.9
+  },
+  {
+    "scene": 6,
+    "word": "the",
+    "start": 23.742,
+    "end": 23.902,
+    "confidence": 1.0
+  },
+  {
+    "scene": 6,
+    "word": "life",
+    "start": 23.902,
+    "end": 24.222,
+    "confidence": 1.0
+  },
+  {
+    "scene": 6,
+    "word": "altering",
+    "start": 24.222,
+    "end": 24.702,
+    "confidence": 1.0
+  },
+  {
+    "scene": 6,
+    "word": "truth",
+    "start": 24.702,
+    "end": 25.202,
+    "confidence": 0.943
+  },
+  {
+    "scene": 6,
+    "word": "you",
+    "start": 25.502,
+    "end": 25.742,
+    "confidence": 1.0
+  },
+  {
+    "scene": 6,
+    "word": "are",
+    "start": 25.742,
+    "end": 25.982,
+    "confidence": 1.0
+  },
+  {
+    "scene": 6,
+    "word": "not",
+    "start": 25.982,
+    "end": 26.222,
+    "confidence": 1.0
+  },
+  {
+    "scene": 6,
+    "word": "your",
+    "start": 26.222,
+    "end": 26.462,
+    "confidence": 1.0
+  },
+  {
+    "scene": 6,
+    "word": "voice",
+    "start": 26.462,
+    "end": 26.95,
+    "confidence": 1.0
+  },
+  {
+    "scene": 7,
+    "word": "you",
+    "start": 27.38,
+    "end": 27.54,
+    "confidence": 0.828
+  },
+  {
+    "scene": 7,
+    "word": "are",
+    "start": 27.54,
+    "end": 27.7,
+    "confidence": 0.973
+  },
+  {
+    "scene": 7,
+    "word": "not",
+    "start": 27.7,
+    "end": 27.78,
+    "confidence": 0.999
+  },
+  {
+    "scene": 7,
+    "word": "your",
+    "start": 27.78,
+    "end": 28.18,
+    "confidence": 0.999
+  },
+  {
+    "scene": 7,
+    "word": "thoughts",
+    "start": 28.18,
+    "end": 28.66,
+    "confidence": 0.996
+  },
+  {
+    "scene": 7,
+    "word": "your",
+    "start": 28.66,
+    "end": 28.9,
+    "confidence": 1.0
+  },
+  {
+    "scene": 7,
+    "word": "worries",
+    "start": 28.9,
+    "end": 29.38,
+    "confidence": 0.984
+  },
+  {
+    "scene": 7,
+    "word": "or",
+    "start": 29.38,
+    "end": 29.62,
+    "confidence": 1.0
+  },
+  {
+    "scene": 7,
+    "word": "your",
+    "start": 29.62,
+    "end": 29.78,
+    "confidence": 1.0
+  },
+  {
+    "scene": 7,
+    "word": "mental",
+    "start": 29.78,
+    "end": 30.18,
+    "confidence": 1.0
+  },
+  {
+    "scene": 7,
+    "word": "chatter",
+    "start": 30.18,
+    "end": 30.588,
+    "confidence": 0.999
+  },
+  {
+    "scene": 8,
+    "word": "you",
+    "start": 31.018,
+    "end": 31.098,
+    "confidence": 0.93
+  },
+  {
+    "scene": 8,
+    "word": "are",
+    "start": 31.098,
+    "end": 31.338,
+    "confidence": 0.862
+  },
+  {
+    "scene": 8,
+    "word": "the",
+    "start": 31.338,
+    "end": 31.418,
+    "confidence": 0.999
+  },
+  {
+    "scene": 8,
+    "word": "silent",
+    "start": 31.418,
+    "end": 31.918,
+    "confidence": 1.0
+  },
+  {
+    "scene": 8,
+    "word": "conscious",
+    "start": 31.978,
+    "end": 32.478,
+    "confidence": 0.731
+  },
+  {
+    "scene": 8,
+    "word": "awareness",
+    "start": 32.538,
+    "end": 33.038,
+    "confidence": 1.0
+  },
+  {
+    "scene": 8,
+    "word": "observing",
+    "start": 33.098,
+    "end": 33.578,
+    "confidence": 0.997
+  },
+  {
+    "scene": 8,
+    "word": "the",
+    "start": 33.578,
+    "end": 33.738,
+    "confidence": 1.0
+  },
+  {
+    "scene": 8,
+    "word": "thinker",
+    "start": 33.738,
+    "end": 34.226,
+    "confidence": 0.998
+  },
+  {
+    "scene": 9,
+    "word": "most",
+    "start": 34.816,
+    "end": 35.056,
+    "confidence": 1.0
+  },
+  {
+    "scene": 9,
+    "word": "human",
+    "start": 35.056,
+    "end": 35.456,
+    "confidence": 1.0
+  },
+  {
+    "scene": 9,
+    "word": "suffering",
+    "start": 35.456,
+    "end": 35.936,
+    "confidence": 1.0
+  },
+  {
+    "scene": 9,
+    "word": "is",
+    "start": 35.936,
+    "end": 36.096,
+    "confidence": 1.0
+  },
+  {
+    "scene": 9,
+    "word": "born",
+    "start": 36.096,
+    "end": 36.416,
+    "confidence": 0.997
+  },
+  {
+    "scene": 9,
+    "word": "from",
+    "start": 36.416,
+    "end": 36.576,
+    "confidence": 1.0
+  },
+  {
+    "scene": 9,
+    "word": "an",
+    "start": 36.576,
+    "end": 36.736,
+    "confidence": 1.0
+  },
+  {
+    "scene": 9,
+    "word": "obsession",
+    "start": 36.736,
+    "end": 37.216,
+    "confidence": 1.0
+  },
+  {
+    "scene": 9,
+    "word": "with",
+    "start": 37.216,
+    "end": 37.456,
+    "confidence": 1.0
+  },
+  {
+    "scene": 9,
+    "word": "psychological",
+    "start": 37.456,
+    "end": 37.956,
+    "confidence": 1.0
+  },
+  {
+    "scene": 9,
+    "word": "time",
+    "start": 38.256,
+    "end": 38.704,
+    "confidence": 1.0
+  },
+  {
+    "scene": 10,
+    "word": "the",
+    "start": 39.054,
+    "end": 39.374,
+    "confidence": 0.795
+  },
+  {
+    "scene": 10,
+    "word": "evo",
+    "start": 39.374,
+    "end": 39.694,
+    "confidence": 0.812
+  },
+  {
+    "scene": 10,
+    "word": "constantly",
+    "start": 39.694,
+    "end": 40.194,
+    "confidence": 1.0
+  },
+  {
+    "scene": 10,
+    "word": "runs",
+    "start": 40.254,
+    "end": 40.494,
+    "confidence": 1.0
+  },
+  {
+    "scene": 10,
+    "word": "away",
+    "start": 40.494,
+    "end": 40.814,
+    "confidence": 1.0
+  },
+  {
+    "scene": 10,
+    "word": "from",
+    "start": 40.814,
+    "end": 40.974,
+    "confidence": 1.0
+  },
+  {
+    "scene": 10,
+    "word": "the",
+    "start": 40.974,
+    "end": 41.054,
+    "confidence": 1.0
+  },
+  {
+    "scene": 10,
+    "word": "present",
+    "start": 41.054,
+    "end": 41.454,
+    "confidence": 1.0
+  },
+  {
+    "scene": 10,
+    "word": "moment",
+    "start": 41.454,
+    "end": 41.954,
+    "confidence": 1.0
+  },
+  {
+    "scene": 11,
+    "word": "it",
+    "start": 42.388,
+    "end": 42.628,
+    "confidence": 0.956
+  },
+  {
+    "scene": 11,
+    "word": "drags",
+    "start": 42.628,
+    "end": 42.788,
+    "confidence": 1.0
+  },
+  {
+    "scene": 11,
+    "word": "you",
+    "start": 42.788,
+    "end": 43.028,
+    "confidence": 1.0
+  },
+  {
+    "scene": 11,
+    "word": "into",
+    "start": 43.028,
+    "end": 43.348,
+    "confidence": 1.0
+  },
+  {
+    "scene": 11,
+    "word": "the",
+    "start": 43.348,
+    "end": 43.508,
+    "confidence": 1.0
+  },
+  {
+    "scene": 11,
+    "word": "past",
+    "start": 43.508,
+    "end": 43.988,
+    "confidence": 1.0
+  },
+  {
+    "scene": 11,
+    "word": "through",
+    "start": 43.988,
+    "end": 44.308,
+    "confidence": 0.999
+  },
+  {
+    "scene": 11,
+    "word": "regret",
+    "start": 44.308,
+    "end": 44.808,
+    "confidence": 1.0
+  },
+  {
+    "scene": 11,
+    "word": "resentment",
+    "start": 45.268,
+    "end": 45.768,
+    "confidence": 0.998
+  },
+  {
+    "scene": 11,
+    "word": "and",
+    "start": 46.148,
+    "end": 46.308,
+    "confidence": 1.0
+  },
+  {
+    "scene": 11,
+    "word": "guilt",
+    "start": 46.308,
+    "end": 46.808,
+    "confidence": 1.0
+  },
+  {
+    "scene": 12,
+    "word": "or",
+    "start": 47.354,
+    "end": 47.594,
+    "confidence": 0.785
+  },
+  {
+    "scene": 12,
+    "word": "it",
+    "start": 47.594,
+    "end": 47.674,
+    "confidence": 0.989
+  },
+  {
+    "scene": 12,
+    "word": "hurls",
+    "start": 47.674,
+    "end": 48.074,
+    "confidence": 0.997
+  },
+  {
+    "scene": 12,
+    "word": "you",
+    "start": 48.074,
+    "end": 48.234,
+    "confidence": 1.0
+  },
+  {
+    "scene": 12,
+    "word": "into",
+    "start": 48.234,
+    "end": 48.474,
+    "confidence": 1.0
+  },
+  {
+    "scene": 12,
+    "word": "the",
+    "start": 48.474,
+    "end": 48.554,
+    "confidence": 0.999
+  },
+  {
+    "scene": 12,
+    "word": "future",
+    "start": 48.554,
+    "end": 48.954,
+    "confidence": 1.0
+  },
+  {
+    "scene": 12,
+    "word": "through",
+    "start": 48.954,
+    "end": 49.114,
+    "confidence": 1.0
+  },
+  {
+    "scene": 12,
+    "word": "anxiety",
+    "start": 49.114,
+    "end": 49.614,
+    "confidence": 1.0
+  },
+  {
+    "scene": 12,
+    "word": "stress",
+    "start": 50.074,
+    "end": 50.574,
+    "confidence": 0.995
+  },
+  {
+    "scene": 12,
+    "word": "and",
+    "start": 50.714,
+    "end": 51.034,
+    "confidence": 1.0
+  },
+  {
+    "scene": 12,
+    "word": "fear",
+    "start": 51.034,
+    "end": 51.534,
+    "confidence": 0.999
+  },
+  {
+    "scene": 13,
+    "word": "but",
+    "start": 52.048,
+    "end": 52.288,
+    "confidence": 0.908
+  },
+  {
+    "scene": 13,
+    "word": "the",
+    "start": 52.288,
+    "end": 52.368,
+    "confidence": 0.999
+  },
+  {
+    "scene": 13,
+    "word": "past",
+    "start": 52.368,
+    "end": 52.768,
+    "confidence": 1.0
+  },
+  {
+    "scene": 13,
+    "word": "is",
+    "start": 52.768,
+    "end": 53.008,
+    "confidence": 1.0
+  },
+  {
+    "scene": 13,
+    "word": "nothing",
+    "start": 53.008,
+    "end": 53.328,
+    "confidence": 1.0
+  },
+  {
+    "scene": 13,
+    "word": "more",
+    "start": 53.328,
+    "end": 53.488,
+    "confidence": 1.0
+  },
+  {
+    "scene": 13,
+    "word": "than",
+    "start": 53.488,
+    "end": 53.648,
+    "confidence": 1.0
+  },
+  {
+    "scene": 13,
+    "word": "a",
+    "start": 53.648,
+    "end": 53.808,
+    "confidence": 1.0
+  },
+  {
+    "scene": 13,
+    "word": "memory",
+    "start": 53.808,
+    "end": 54.128,
+    "confidence": 1.0
+  },
+  {
+    "scene": 13,
+    "word": "trace",
+    "start": 54.128,
+    "end": 54.448,
+    "confidence": 1.0
+  },
+  {
+    "scene": 13,
+    "word": "in",
+    "start": 54.448,
+    "end": 54.608,
+    "confidence": 1.0
+  },
+  {
+    "scene": 13,
+    "word": "your",
+    "start": 54.608,
+    "end": 54.768,
+    "confidence": 1.0
+  },
+  {
+    "scene": 13,
+    "word": "mind",
+    "start": 54.768,
+    "end": 55.268,
+    "confidence": 0.994
+  },
+  {
+    "scene": 14,
+    "word": "and",
+    "start": 55.782,
+    "end": 56.022,
+    "confidence": 0.751
+  },
+  {
+    "scene": 14,
+    "word": "the",
+    "start": 56.022,
+    "end": 56.182,
+    "confidence": 0.999
+  },
+  {
+    "scene": 14,
+    "word": "future",
+    "start": 56.182,
+    "end": 56.582,
+    "confidence": 1.0
+  },
+  {
+    "scene": 14,
+    "word": "is",
+    "start": 56.582,
+    "end": 56.662,
+    "confidence": 1.0
+  },
+  {
+    "scene": 14,
+    "word": "just",
+    "start": 56.662,
+    "end": 56.902,
+    "confidence": 1.0
+  },
+  {
+    "scene": 14,
+    "word": "an",
+    "start": 56.902,
+    "end": 57.142,
+    "confidence": 0.999
+  },
+  {
+    "scene": 14,
+    "word": "imagined",
+    "start": 57.142,
+    "end": 57.622,
+    "confidence": 1.0
+  },
+  {
+    "scene": 14,
+    "word": "phantom",
+    "start": 57.622,
+    "end": 58.102,
+    "confidence": 0.996
+  },
+  {
+    "scene": 14,
+    "word": "that",
+    "start": 58.102,
+    "end": 58.262,
+    "confidence": 1.0
+  },
+  {
+    "scene": 14,
+    "word": "has",
+    "start": 58.262,
+    "end": 58.422,
+    "confidence": 1.0
+  },
+  {
+    "scene": 14,
+    "word": "not",
+    "start": 58.422,
+    "end": 58.662,
+    "confidence": 1.0
+  },
+  {
+    "scene": 14,
+    "word": "arrived",
+    "start": 58.662,
+    "end": 59.162,
+    "confidence": 1.0
+  },
+  {
+    "scene": 15,
+    "word": "real",
+    "start": 59.708,
+    "end": 59.948,
+    "confidence": 0.843
+  },
+  {
+    "scene": 15,
+    "word": "life",
+    "start": 59.948,
+    "end": 60.268,
+    "confidence": 1.0
+  },
+  {
+    "scene": 15,
+    "word": "only",
+    "start": 60.268,
+    "end": 60.588,
+    "confidence": 1.0
+  },
+  {
+    "scene": 15,
+    "word": "ever",
+    "start": 60.588,
+    "end": 60.908,
+    "confidence": 1.0
+  },
+  {
+    "scene": 15,
+    "word": "happens",
+    "start": 60.908,
+    "end": 61.308,
+    "confidence": 1.0
+  },
+  {
+    "scene": 15,
+    "word": "in",
+    "start": 61.308,
+    "end": 61.468,
+    "confidence": 1.0
+  },
+  {
+    "scene": 15,
+    "word": "this",
+    "start": 61.468,
+    "end": 61.708,
+    "confidence": 1.0
+  },
+  {
+    "scene": 15,
+    "word": "one",
+    "start": 61.708,
+    "end": 62.028,
+    "confidence": 1.0
+  },
+  {
+    "scene": 15,
+    "word": "singular",
+    "start": 62.028,
+    "end": 62.508,
+    "confidence": 0.99
+  },
+  {
+    "scene": 15,
+    "word": "moment",
+    "start": 62.508,
+    "end": 63.008,
+    "confidence": 1.0
+  },
+  {
+    "scene": 15,
+    "word": "right",
+    "start": 63.308,
+    "end": 63.548,
+    "confidence": 0.743
+  },
+  {
+    "scene": 15,
+    "word": "now",
+    "start": 63.548,
+    "end": 63.892,
+    "confidence": 1.0
+  },
+  {
+    "scene": 16,
+    "word": "have",
+    "start": 64.322,
+    "end": 64.402,
+    "confidence": 0.577
+  },
+  {
+    "scene": 16,
+    "word": "you",
+    "start": 64.402,
+    "end": 64.642,
+    "confidence": 1.0
+  },
+  {
+    "scene": 16,
+    "word": "ever",
+    "start": 64.642,
+    "end": 64.962,
+    "confidence": 1.0
+  },
+  {
+    "scene": 16,
+    "word": "experienced",
+    "start": 64.962,
+    "end": 65.462,
+    "confidence": 1.0
+  },
+  {
+    "scene": 16,
+    "word": "anything",
+    "start": 65.522,
+    "end": 65.922,
+    "confidence": 1.0
+  },
+  {
+    "scene": 16,
+    "word": "outside",
+    "start": 65.922,
+    "end": 66.242,
+    "confidence": 1.0
+  },
+  {
+    "scene": 16,
+    "word": "of",
+    "start": 66.242,
+    "end": 66.402,
+    "confidence": 1.0
+  },
+  {
+    "scene": 16,
+    "word": "the",
+    "start": 66.402,
+    "end": 66.562,
+    "confidence": 1.0
+  },
+  {
+    "scene": 16,
+    "word": "present",
+    "start": 66.562,
+    "end": 66.882,
+    "confidence": 1.0
+  },
+  {
+    "scene": 16,
+    "word": "moment",
+    "start": 66.882,
+    "end": 67.338,
+    "confidence": 1.0
+  },
+  {
+    "scene": 17,
+    "word": "the",
+    "start": 67.848,
+    "end": 68.088,
+    "confidence": 0.976
+  },
+  {
+    "scene": 17,
+    "word": "answer",
+    "start": 68.088,
+    "end": 68.408,
+    "confidence": 1.0
+  },
+  {
+    "scene": 17,
+    "word": "is",
+    "start": 68.408,
+    "end": 68.648,
+    "confidence": 0.998
+  },
+  {
+    "scene": 17,
+    "word": "never",
+    "start": 68.648,
+    "end": 69.148,
+    "confidence": 0.98
+  },
+  {
+    "scene": 17,
+    "word": "and",
+    "start": 69.288,
+    "end": 69.528,
+    "confidence": 1.0
+  },
+  {
+    "scene": 17,
+    "word": "you",
+    "start": 69.528,
+    "end": 69.768,
+    "confidence": 0.998
+  },
+  {
+    "scene": 17,
+    "word": "never",
+    "start": 69.768,
+    "end": 70.088,
+    "confidence": 1.0
+  },
+  {
+    "scene": 17,
+    "word": "will",
+    "start": 70.088,
+    "end": 70.496,
+    "confidence": 1.0
+  },
+  {
+    "scene": 18,
+    "word": "inside",
+    "start": 71.166,
+    "end": 71.566,
+    "confidence": 0.635
+  },
+  {
+    "scene": 18,
+    "word": "your",
+    "start": 71.566,
+    "end": 71.726,
+    "confidence": 1.0
+  },
+  {
+    "scene": 18,
+    "word": "mind",
+    "start": 71.726,
+    "end": 72.046,
+    "confidence": 1.0
+  },
+  {
+    "scene": 18,
+    "word": "lurks",
+    "start": 72.046,
+    "end": 72.446,
+    "confidence": 0.996
+  },
+  {
+    "scene": 18,
+    "word": "an",
+    "start": 72.446,
+    "end": 72.606,
+    "confidence": 0.995
+  },
+  {
+    "scene": 18,
+    "word": "emotional",
+    "start": 72.606,
+    "end": 73.106,
+    "confidence": 1.0
+  },
+  {
+    "scene": 18,
+    "word": "monster",
+    "start": 73.166,
+    "end": 73.666,
+    "confidence": 1.0
+  },
+  {
+    "scene": 18,
+    "word": "called",
+    "start": 73.726,
+    "end": 73.966,
+    "confidence": 0.999
+  },
+  {
+    "scene": 18,
+    "word": "the",
+    "start": 73.966,
+    "end": 74.206,
+    "confidence": 0.998
+  },
+  {
+    "scene": 18,
+    "word": "pain",
+    "start": 74.206,
+    "end": 74.526,
+    "confidence": 1.0
+  },
+  {
+    "scene": 18,
+    "word": "body",
+    "start": 74.526,
+    "end": 75.026,
+    "confidence": 0.999
+  },
+  {
+    "scene": 19,
+    "word": "it",
+    "start": 75.604,
+    "end": 75.924,
+    "confidence": 0.688
+  },
+  {
+    "scene": 19,
+    "word": "feeds",
+    "start": 75.924,
+    "end": 76.164,
+    "confidence": 1.0
+  },
+  {
+    "scene": 19,
+    "word": "on",
+    "start": 76.164,
+    "end": 76.404,
+    "confidence": 1.0
+  },
+  {
+    "scene": 19,
+    "word": "negative",
+    "start": 76.404,
+    "end": 76.804,
+    "confidence": 1.0
+  },
+  {
+    "scene": 19,
+    "word": "drama",
+    "start": 76.804,
+    "end": 77.304,
+    "confidence": 0.997
+  },
+  {
+    "scene": 19,
+    "word": "victim",
+    "start": 77.524,
+    "end": 78.004,
+    "confidence": 0.968
+  },
+  {
+    "scene": 19,
+    "word": "stories",
+    "start": 78.004,
+    "end": 78.504,
+    "confidence": 0.989
+  },
+  {
+    "scene": 19,
+    "word": "and",
+    "start": 78.644,
+    "end": 78.884,
+    "confidence": 1.0
+  },
+  {
+    "scene": 19,
+    "word": "emotional",
+    "start": 78.884,
+    "end": 79.364,
+    "confidence": 1.0
+  },
+  {
+    "scene": 19,
+    "word": "turbulence",
+    "start": 79.364,
+    "end": 79.864,
+    "confidence": 0.999
+  },
+  {
+    "scene": 20,
+    "word": "it",
+    "start": 80.658,
+    "end": 80.898,
+    "confidence": 0.875
+  },
+  {
+    "scene": 20,
+    "word": "tricks",
+    "start": 80.898,
+    "end": 81.138,
+    "confidence": 1.0
+  },
+  {
+    "scene": 20,
+    "word": "you",
+    "start": 81.138,
+    "end": 81.378,
+    "confidence": 1.0
+  },
+  {
+    "scene": 20,
+    "word": "into",
+    "start": 81.378,
+    "end": 81.698,
+    "confidence": 1.0
+  },
+  {
+    "scene": 20,
+    "word": "believing",
+    "start": 81.698,
+    "end": 82.018,
+    "confidence": 1.0
+  },
+  {
+    "scene": 20,
+    "word": "that",
+    "start": 82.018,
+    "end": 82.178,
+    "confidence": 1.0
+  },
+  {
+    "scene": 20,
+    "word": "your",
+    "start": 82.178,
+    "end": 82.418,
+    "confidence": 0.916
+  },
+  {
+    "scene": 20,
+    "word": "suffering",
+    "start": 82.418,
+    "end": 82.818,
+    "confidence": 1.0
+  },
+  {
+    "scene": 20,
+    "word": "is",
+    "start": 82.818,
+    "end": 83.058,
+    "confidence": 1.0
+  },
+  {
+    "scene": 20,
+    "word": "your",
+    "start": 83.058,
+    "end": 83.218,
+    "confidence": 1.0
+  },
+  {
+    "scene": 20,
+    "word": "true",
+    "start": 83.218,
+    "end": 83.458,
+    "confidence": 1.0
+  },
+  {
+    "scene": 20,
+    "word": "identity",
+    "start": 83.458,
+    "end": 83.958,
+    "confidence": 1.0
+  },
+  {
+    "scene": 21,
+    "word": "the",
+    "start": 84.664,
+    "end": 84.824,
+    "confidence": 0.651
+  },
+  {
+    "scene": 21,
+    "word": "moment",
+    "start": 84.824,
+    "end": 85.144,
+    "confidence": 1.0
+  },
+  {
+    "scene": 21,
+    "word": "you",
+    "start": 85.144,
+    "end": 85.384,
+    "confidence": 1.0
+  },
+  {
+    "scene": 21,
+    "word": "argue",
+    "start": 85.384,
+    "end": 85.864,
+    "confidence": 0.989
+  },
+  {
+    "scene": 21,
+    "word": "complain",
+    "start": 85.864,
+    "end": 86.364,
+    "confidence": 0.995
+  },
+  {
+    "scene": 21,
+    "word": "or",
+    "start": 86.424,
+    "end": 86.584,
+    "confidence": 1.0
+  },
+  {
+    "scene": 21,
+    "word": "attack",
+    "start": 86.584,
+    "end": 87.084,
+    "confidence": 0.999
+  },
+  {
+    "scene": 21,
+    "word": "the",
+    "start": 87.224,
+    "end": 87.384,
+    "confidence": 1.0
+  },
+  {
+    "scene": 21,
+    "word": "pain",
+    "start": 87.384,
+    "end": 87.624,
+    "confidence": 1.0
+  },
+  {
+    "scene": 21,
+    "word": "body",
+    "start": 87.624,
+    "end": 87.944,
+    "confidence": 0.999
+  },
+  {
+    "scene": 21,
+    "word": "grows",
+    "start": 87.944,
+    "end": 88.344,
+    "confidence": 0.999
+  },
+  {
+    "scene": 21,
+    "word": "stronger",
+    "start": 88.344,
+    "end": 88.792,
+    "confidence": 1.0
+  },
+  {
+    "scene": 22,
+    "word": "but",
+    "start": 89.142,
+    "end": 89.302,
+    "confidence": 0.98
+  },
+  {
+    "scene": 22,
+    "word": "when",
+    "start": 89.302,
+    "end": 89.462,
+    "confidence": 0.999
+  },
+  {
+    "scene": 22,
+    "word": "you",
+    "start": 89.462,
+    "end": 89.622,
+    "confidence": 1.0
+  },
+  {
+    "scene": 22,
+    "word": "simply",
+    "start": 89.622,
+    "end": 90.022,
+    "confidence": 1.0
+  },
+  {
+    "scene": 22,
+    "word": "watch",
+    "start": 90.022,
+    "end": 90.262,
+    "confidence": 1.0
+  },
+  {
+    "scene": 22,
+    "word": "it",
+    "start": 90.262,
+    "end": 90.422,
+    "confidence": 1.0
+  },
+  {
+    "scene": 22,
+    "word": "without",
+    "start": 90.422,
+    "end": 90.822,
+    "confidence": 1.0
+  },
+  {
+    "scene": 22,
+    "word": "judgment",
+    "start": 90.822,
+    "end": 91.302,
+    "confidence": 0.972
+  },
+  {
+    "scene": 22,
+    "word": "it",
+    "start": 91.302,
+    "end": 91.542,
+    "confidence": 1.0
+  },
+  {
+    "scene": 22,
+    "word": "instantly",
+    "start": 91.542,
+    "end": 92.022,
+    "confidence": 1.0
+  },
+  {
+    "scene": 22,
+    "word": "loses",
+    "start": 92.022,
+    "end": 92.422,
+    "confidence": 0.999
+  },
+  {
+    "scene": 22,
+    "word": "its",
+    "start": 92.422,
+    "end": 92.582,
+    "confidence": 0.999
+  },
+  {
+    "scene": 22,
+    "word": "grip",
+    "start": 92.582,
+    "end": 92.958,
+    "confidence": 1.0
+  },
+  {
+    "scene": 23,
+    "word": "presence",
+    "start": 93.468,
+    "end": 93.788,
+    "confidence": 0.959
+  },
+  {
+    "scene": 23,
+    "word": "is",
+    "start": 93.788,
+    "end": 94.028,
+    "confidence": 1.0
+  },
+  {
+    "scene": 23,
+    "word": "the",
+    "start": 94.028,
+    "end": 94.268,
+    "confidence": 1.0
+  },
+  {
+    "scene": 23,
+    "word": "ultimate",
+    "start": 94.268,
+    "end": 94.748,
+    "confidence": 1.0
+  },
+  {
+    "scene": 23,
+    "word": "superpower",
+    "start": 94.748,
+    "end": 95.248,
+    "confidence": 0.979
+  },
+  {
+    "scene": 23,
+    "word": "against",
+    "start": 95.388,
+    "end": 95.708,
+    "confidence": 1.0
+  },
+  {
+    "scene": 23,
+    "word": "mental",
+    "start": 95.708,
+    "end": 96.188,
+    "confidence": 1.0
+  },
+  {
+    "scene": 23,
+    "word": "chaos",
+    "start": 96.188,
+    "end": 96.688,
+    "confidence": 0.998
+  },
+  {
+    "scene": 24,
+    "word": "whenever",
+    "start": 97.194,
+    "end": 97.594,
+    "confidence": 0.774
+  },
+  {
+    "scene": 24,
+    "word": "stress",
+    "start": 97.594,
+    "end": 97.994,
+    "confidence": 1.0
+  },
+  {
+    "scene": 24,
+    "word": "overwhelms",
+    "start": 97.994,
+    "end": 98.494,
+    "confidence": 1.0
+  },
+  {
+    "scene": 24,
+    "word": "you",
+    "start": 98.634,
+    "end": 99.114,
+    "confidence": 0.996
+  },
+  {
+    "scene": 24,
+    "word": "ask",
+    "start": 99.114,
+    "end": 99.434,
+    "confidence": 1.0
+  },
+  {
+    "scene": 24,
+    "word": "yourself",
+    "start": 99.434,
+    "end": 99.834,
+    "confidence": 1.0
+  },
+  {
+    "scene": 24,
+    "word": "one",
+    "start": 99.834,
+    "end": 100.154,
+    "confidence": 1.0
+  },
+  {
+    "scene": 24,
+    "word": "simple",
+    "start": 100.154,
+    "end": 100.474,
+    "confidence": 1.0
+  },
+  {
+    "scene": 24,
+    "word": "question",
+    "start": 100.474,
+    "end": 100.974,
+    "confidence": 0.996
+  },
+  {
+    "scene": 25,
+    "word": "what",
+    "start": 101.64,
+    "end": 101.88,
+    "confidence": 0.588
+  },
+  {
+    "scene": 25,
+    "word": "problem",
+    "start": 101.88,
+    "end": 102.28,
+    "confidence": 1.0
+  },
+  {
+    "scene": 25,
+    "word": "do",
+    "start": 102.28,
+    "end": 102.44,
+    "confidence": 1.0
+  },
+  {
+    "scene": 25,
+    "word": "i",
+    "start": 102.44,
+    "end": 102.6,
+    "confidence": 1.0
+  },
+  {
+    "scene": 25,
+    "word": "have",
+    "start": 102.6,
+    "end": 102.84,
+    "confidence": 1.0
+  },
+  {
+    "scene": 25,
+    "word": "right",
+    "start": 102.84,
+    "end": 103.0,
+    "confidence": 1.0
+  },
+  {
+    "scene": 25,
+    "word": "now",
+    "start": 103.0,
+    "end": 103.24,
+    "confidence": 1.0
+  },
+  {
+    "scene": 25,
+    "word": "in",
+    "start": 103.24,
+    "end": 103.48,
+    "confidence": 0.998
+  },
+  {
+    "scene": 25,
+    "word": "this",
+    "start": 103.48,
+    "end": 103.72,
+    "confidence": 1.0
+  },
+  {
+    "scene": 25,
+    "word": "exact",
+    "start": 103.72,
+    "end": 104.12,
+    "confidence": 1.0
+  },
+  {
+    "scene": 25,
+    "word": "second",
+    "start": 104.12,
+    "end": 104.62,
+    "confidence": 1.0
+  },
+  {
+    "scene": 26,
+    "word": "not",
+    "start": 105.278,
+    "end": 105.518,
+    "confidence": 0.989
+  },
+  {
+    "scene": 26,
+    "word": "tomorrow",
+    "start": 105.518,
+    "end": 106.018,
+    "confidence": 0.933
+  },
+  {
+    "scene": 26,
+    "word": "not",
+    "start": 106.478,
+    "end": 106.798,
+    "confidence": 1.0
+  },
+  {
+    "scene": 26,
+    "word": "five",
+    "start": 106.798,
+    "end": 107.038,
+    "confidence": 1.0
+  },
+  {
+    "scene": 26,
+    "word": "minutes",
+    "start": 107.038,
+    "end": 107.358,
+    "confidence": 1.0
+  },
+  {
+    "scene": 26,
+    "word": "from",
+    "start": 107.358,
+    "end": 107.598,
+    "confidence": 1.0
+  },
+  {
+    "scene": 26,
+    "word": "now",
+    "start": 107.598,
+    "end": 108.078,
+    "confidence": 0.998
+  },
+  {
+    "scene": 26,
+    "word": "but",
+    "start": 108.078,
+    "end": 108.318,
+    "confidence": 1.0
+  },
+  {
+    "scene": 26,
+    "word": "this",
+    "start": 108.318,
+    "end": 108.798,
+    "confidence": 1.0
+  },
+  {
+    "scene": 26,
+    "word": "exact",
+    "start": 108.798,
+    "end": 109.278,
+    "confidence": 0.999
+  },
+  {
+    "scene": 26,
+    "word": "breath",
+    "start": 109.278,
+    "end": 109.646,
+    "confidence": 0.999
+  },
+  {
+    "scene": 27,
+    "word": "in",
+    "start": 110.156,
+    "end": 110.396,
+    "confidence": 0.86
+  },
+  {
+    "scene": 27,
+    "word": "the",
+    "start": 110.396,
+    "end": 110.556,
+    "confidence": 1.0
+  },
+  {
+    "scene": 27,
+    "word": "immediate",
+    "start": 110.556,
+    "end": 111.056,
+    "confidence": 1.0
+  },
+  {
+    "scene": 27,
+    "word": "present",
+    "start": 111.116,
+    "end": 111.616,
+    "confidence": 0.998
+  },
+  {
+    "scene": 27,
+    "word": "there",
+    "start": 111.676,
+    "end": 111.916,
+    "confidence": 1.0
+  },
+  {
+    "scene": 27,
+    "word": "is",
+    "start": 111.916,
+    "end": 112.156,
+    "confidence": 1.0
+  },
+  {
+    "scene": 27,
+    "word": "only",
+    "start": 112.156,
+    "end": 112.396,
+    "confidence": 1.0
+  },
+  {
+    "scene": 27,
+    "word": "this",
+    "start": 112.396,
+    "end": 112.796,
+    "confidence": 1.0
+  },
+  {
+    "scene": 27,
+    "word": "task",
+    "start": 112.796,
+    "end": 113.296,
+    "confidence": 0.987
+  },
+  {
+    "scene": 27,
+    "word": "this",
+    "start": 113.516,
+    "end": 113.836,
+    "confidence": 0.998
+  },
+  {
+    "scene": 27,
+    "word": "step",
+    "start": 113.836,
+    "end": 114.336,
+    "confidence": 0.995
+  },
+  {
+    "scene": 27,
+    "word": "and",
+    "start": 114.556,
+    "end": 114.796,
+    "confidence": 0.999
+  },
+  {
+    "scene": 27,
+    "word": "stillness",
+    "start": 114.796,
+    "end": 115.296,
+    "confidence": 1.0
+  },
+  {
+    "scene": 28,
+    "word": "to",
+    "start": 116.05,
+    "end": 116.29,
+    "confidence": 0.957
+  },
+  {
+    "scene": 28,
+    "word": "dissolve",
+    "start": 116.29,
+    "end": 116.69,
+    "confidence": 0.999
+  },
+  {
+    "scene": 28,
+    "word": "suffering",
+    "start": 116.69,
+    "end": 117.19,
+    "confidence": 1.0
+  },
+  {
+    "scene": 28,
+    "word": "you",
+    "start": 117.49,
+    "end": 117.57,
+    "confidence": 1.0
+  },
+  {
+    "scene": 28,
+    "word": "must",
+    "start": 117.57,
+    "end": 117.81,
+    "confidence": 1.0
+  },
+  {
+    "scene": 28,
+    "word": "practice",
+    "start": 117.81,
+    "end": 118.21,
+    "confidence": 1.0
+  },
+  {
+    "scene": 28,
+    "word": "radical",
+    "start": 118.21,
+    "end": 118.69,
+    "confidence": 0.999
+  },
+  {
+    "scene": 28,
+    "word": "surrender",
+    "start": 118.69,
+    "end": 119.19,
+    "confidence": 0.999
+  },
+  {
+    "scene": 29,
+    "word": "surrender",
+    "start": 119.904,
+    "end": 120.404,
+    "confidence": 0.996
+  },
+  {
+    "scene": 29,
+    "word": "does",
+    "start": 120.464,
+    "end": 120.704,
+    "confidence": 1.0
+  },
+  {
+    "scene": 29,
+    "word": "not",
+    "start": 120.704,
+    "end": 120.944,
+    "confidence": 1.0
+  },
+  {
+    "scene": 29,
+    "word": "mean",
+    "start": 120.944,
+    "end": 121.184,
+    "confidence": 1.0
+  },
+  {
+    "scene": 29,
+    "word": "giving",
+    "start": 121.184,
+    "end": 121.504,
+    "confidence": 1.0
+  },
+  {
+    "scene": 29,
+    "word": "up",
+    "start": 121.504,
+    "end": 121.824,
+    "confidence": 1.0
+  },
+  {
+    "scene": 29,
+    "word": "or",
+    "start": 121.824,
+    "end": 122.064,
+    "confidence": 0.994
+  },
+  {
+    "scene": 29,
+    "word": "being",
+    "start": 122.064,
+    "end": 122.384,
+    "confidence": 1.0
+  },
+  {
+    "scene": 29,
+    "word": "passive",
+    "start": 122.384,
+    "end": 122.884,
+    "confidence": 1.0
+  },
+  {
+    "scene": 30,
+    "word": "it",
+    "start": 123.542,
+    "end": 123.782,
+    "confidence": 0.893
+  },
+  {
+    "scene": 30,
+    "word": "means",
+    "start": 123.782,
+    "end": 124.102,
+    "confidence": 1.0
+  },
+  {
+    "scene": 30,
+    "word": "saying",
+    "start": 124.102,
+    "end": 124.502,
+    "confidence": 0.999
+  },
+  {
+    "scene": 30,
+    "word": "an",
+    "start": 124.502,
+    "end": 124.742,
+    "confidence": 0.997
+  },
+  {
+    "scene": 30,
+    "word": "unconditional",
+    "start": 124.742,
+    "end": 125.242,
+    "confidence": 1.0
+  },
+  {
+    "scene": 30,
+    "word": "yes",
+    "start": 125.382,
+    "end": 125.702,
+    "confidence": 0.999
+  },
+  {
+    "scene": 30,
+    "word": "to",
+    "start": 125.702,
+    "end": 125.942,
+    "confidence": 1.0
+  },
+  {
+    "scene": 30,
+    "word": "what",
+    "start": 125.942,
+    "end": 126.182,
+    "confidence": 1.0
+  },
+  {
+    "scene": 30,
+    "word": "already",
+    "start": 126.182,
+    "end": 126.582,
+    "confidence": 1.0
+  },
+  {
+    "scene": 30,
+    "word": "is",
+    "start": 126.582,
+    "end": 127.03,
+    "confidence": 0.998
+  },
+  {
+    "scene": 31,
+    "word": "resisting",
+    "start": 127.46,
+    "end": 127.86,
+    "confidence": 0.987
+  },
+  {
+    "scene": 31,
+    "word": "reality",
+    "start": 127.86,
+    "end": 128.36,
+    "confidence": 1.0
+  },
+  {
+    "scene": 31,
+    "word": "is",
+    "start": 128.42,
+    "end": 128.58,
+    "confidence": 1.0
+  },
+  {
+    "scene": 31,
+    "word": "like",
+    "start": 128.58,
+    "end": 128.82,
+    "confidence": 0.999
+  },
+  {
+    "scene": 31,
+    "word": "fighting",
+    "start": 128.82,
+    "end": 129.14,
+    "confidence": 1.0
+  },
+  {
+    "scene": 31,
+    "word": "the",
+    "start": 129.14,
+    "end": 129.22,
+    "confidence": 1.0
+  },
+  {
+    "scene": 31,
+    "word": "weather",
+    "start": 129.22,
+    "end": 129.72,
+    "confidence": 0.731
+  },
+  {
+    "scene": 31,
+    "word": "it",
+    "start": 129.86,
+    "end": 130.1,
+    "confidence": 0.999
+  },
+  {
+    "scene": 31,
+    "word": "only",
+    "start": 130.1,
+    "end": 130.42,
+    "confidence": 1.0
+  },
+  {
+    "scene": 31,
+    "word": "creates",
+    "start": 130.42,
+    "end": 130.82,
+    "confidence": 1.0
+  },
+  {
+    "scene": 31,
+    "word": "pain",
+    "start": 130.82,
+    "end": 131.316,
+    "confidence": 1.0
+  },
+  {
+    "scene": 32,
+    "word": "accept",
+    "start": 131.906,
+    "end": 132.226,
+    "confidence": 0.964
+  },
+  {
+    "scene": 32,
+    "word": "the",
+    "start": 132.226,
+    "end": 132.466,
+    "confidence": 1.0
+  },
+  {
+    "scene": 32,
+    "word": "present",
+    "start": 132.466,
+    "end": 132.866,
+    "confidence": 1.0
+  },
+  {
+    "scene": 32,
+    "word": "moment",
+    "start": 132.866,
+    "end": 133.366,
+    "confidence": 1.0
+  },
+  {
+    "scene": 32,
+    "word": "as",
+    "start": 133.426,
+    "end": 133.586,
+    "confidence": 0.675
+  },
+  {
+    "scene": 32,
+    "word": "if",
+    "start": 133.586,
+    "end": 133.746,
+    "confidence": 1.0
+  },
+  {
+    "scene": 32,
+    "word": "you",
+    "start": 133.746,
+    "end": 133.906,
+    "confidence": 1.0
+  },
+  {
+    "scene": 32,
+    "word": "had",
+    "start": 133.906,
+    "end": 134.066,
+    "confidence": 0.999
+  },
+  {
+    "scene": 32,
+    "word": "chosen",
+    "start": 134.066,
+    "end": 134.386,
+    "confidence": 1.0
+  },
+  {
+    "scene": 32,
+    "word": "it",
+    "start": 134.386,
+    "end": 134.546,
+    "confidence": 1.0
+  },
+  {
+    "scene": 32,
+    "word": "yourself",
+    "start": 134.546,
+    "end": 135.046,
+    "confidence": 0.999
+  },
+  {
+    "scene": 33,
+    "word": "then",
+    "start": 135.84,
+    "end": 136.34,
+    "confidence": 0.751
+  },
+  {
+    "scene": 33,
+    "word": "take",
+    "start": 136.48,
+    "end": 136.96,
+    "confidence": 1.0
+  },
+  {
+    "scene": 33,
+    "word": "clear",
+    "start": 136.96,
+    "end": 137.44,
+    "confidence": 0.998
+  },
+  {
+    "scene": 33,
+    "word": "decisive",
+    "start": 137.44,
+    "end": 137.94,
+    "confidence": 0.748
+  },
+  {
+    "scene": 33,
+    "word": "action",
+    "start": 138.08,
+    "end": 138.48,
+    "confidence": 1.0
+  },
+  {
+    "scene": 33,
+    "word": "from",
+    "start": 138.48,
+    "end": 138.72,
+    "confidence": 1.0
+  },
+  {
+    "scene": 33,
+    "word": "a",
+    "start": 138.72,
+    "end": 138.88,
+    "confidence": 1.0
+  },
+  {
+    "scene": 33,
+    "word": "place",
+    "start": 138.88,
+    "end": 139.2,
+    "confidence": 1.0
+  },
+  {
+    "scene": 33,
+    "word": "of",
+    "start": 139.2,
+    "end": 139.44,
+    "confidence": 1.0
+  },
+  {
+    "scene": 33,
+    "word": "deep",
+    "start": 139.44,
+    "end": 139.76,
+    "confidence": 1.0
+  },
+  {
+    "scene": 33,
+    "word": "stillness",
+    "start": 139.76,
+    "end": 140.26,
+    "confidence": 0.999
+  },
+  {
+    "scene": 34,
+    "word": "when",
+    "start": 140.918,
+    "end": 141.078,
+    "confidence": 0.843
+  },
+  {
+    "scene": 34,
+    "word": "you",
+    "start": 141.078,
+    "end": 141.238,
+    "confidence": 1.0
+  },
+  {
+    "scene": 34,
+    "word": "stop",
+    "start": 141.238,
+    "end": 141.558,
+    "confidence": 0.999
+  },
+  {
+    "scene": 34,
+    "word": "fighting",
+    "start": 141.558,
+    "end": 141.798,
+    "confidence": 1.0
+  },
+  {
+    "scene": 34,
+    "word": "the",
+    "start": 141.798,
+    "end": 142.038,
+    "confidence": 1.0
+  },
+  {
+    "scene": 34,
+    "word": "present",
+    "start": 142.038,
+    "end": 142.538,
+    "confidence": 1.0
+  },
+  {
+    "scene": 34,
+    "word": "mental",
+    "start": 142.598,
+    "end": 142.918,
+    "confidence": 1.0
+  },
+  {
+    "scene": 34,
+    "word": "noise",
+    "start": 142.918,
+    "end": 143.318,
+    "confidence": 1.0
+  },
+  {
+    "scene": 34,
+    "word": "fades",
+    "start": 143.318,
+    "end": 143.638,
+    "confidence": 1.0
+  },
+  {
+    "scene": 34,
+    "word": "into",
+    "start": 143.638,
+    "end": 143.958,
+    "confidence": 1.0
+  },
+  {
+    "scene": 34,
+    "word": "deep",
+    "start": 143.958,
+    "end": 144.198,
+    "confidence": 1.0
+  },
+  {
+    "scene": 34,
+    "word": "peace",
+    "start": 144.198,
+    "end": 144.654,
+    "confidence": 0.999
+  },
+  {
+    "scene": 35,
+    "word": "you",
+    "start": 145.084,
+    "end": 145.324,
+    "confidence": 0.814
+  },
+  {
+    "scene": 35,
+    "word": "gain",
+    "start": 145.324,
+    "end": 145.724,
+    "confidence": 0.993
+  },
+  {
+    "scene": 35,
+    "word": "effortless",
+    "start": 145.724,
+    "end": 146.224,
+    "confidence": 0.999
+  },
+  {
+    "scene": 35,
+    "word": "focus",
+    "start": 146.364,
+    "end": 146.864,
+    "confidence": 0.999
+  },
+  {
+    "scene": 35,
+    "word": "quiet",
+    "start": 147.084,
+    "end": 147.564,
+    "confidence": 0.998
+  },
+  {
+    "scene": 35,
+    "word": "confidence",
+    "start": 147.564,
+    "end": 148.064,
+    "confidence": 0.995
+  },
+  {
+    "scene": 35,
+    "word": "and",
+    "start": 148.284,
+    "end": 148.524,
+    "confidence": 0.998
+  },
+  {
+    "scene": 35,
+    "word": "unshakable",
+    "start": 148.524,
+    "end": 149.024,
+    "confidence": 0.944
+  },
+  {
+    "scene": 35,
+    "word": "clarity",
+    "start": 149.244,
+    "end": 149.744,
+    "confidence": 0.999
+  },
+  {
+    "scene": 36,
+    "word": "the",
+    "start": 150.282,
+    "end": 150.442,
+    "confidence": 0.562
+  },
+  {
+    "scene": 36,
+    "word": "secret",
+    "start": 150.442,
+    "end": 150.682,
+    "confidence": 1.0
+  },
+  {
+    "scene": 36,
+    "word": "to",
+    "start": 150.682,
+    "end": 150.922,
+    "confidence": 1.0
+  },
+  {
+    "scene": 36,
+    "word": "a",
+    "start": 150.922,
+    "end": 151.162,
+    "confidence": 1.0
+  },
+  {
+    "scene": 36,
+    "word": "legendary",
+    "start": 151.162,
+    "end": 151.662,
+    "confidence": 0.999
+  },
+  {
+    "scene": 36,
+    "word": "life",
+    "start": 151.722,
+    "end": 152.122,
+    "confidence": 1.0
+  },
+  {
+    "scene": 36,
+    "word": "is",
+    "start": 152.122,
+    "end": 152.362,
+    "confidence": 1.0
+  },
+  {
+    "scene": 36,
+    "word": "not",
+    "start": 152.362,
+    "end": 152.682,
+    "confidence": 1.0
+  },
+  {
+    "scene": 36,
+    "word": "fixing",
+    "start": 152.682,
+    "end": 153.082,
+    "confidence": 1.0
+  },
+  {
+    "scene": 36,
+    "word": "the",
+    "start": 153.082,
+    "end": 153.242,
+    "confidence": 1.0
+  },
+  {
+    "scene": 36,
+    "word": "future",
+    "start": 153.242,
+    "end": 153.742,
+    "confidence": 1.0
+  },
+  {
+    "scene": 37,
+    "word": "it",
+    "start": 154.288,
+    "end": 154.528,
+    "confidence": 0.594
+  },
+  {
+    "scene": 37,
+    "word": "is",
+    "start": 154.528,
+    "end": 154.608,
+    "confidence": 1.0
+  },
+  {
+    "scene": 37,
+    "word": "bringing",
+    "start": 154.608,
+    "end": 155.088,
+    "confidence": 1.0
+  },
+  {
+    "scene": 37,
+    "word": "your",
+    "start": 155.088,
+    "end": 155.328,
+    "confidence": 1.0
+  },
+  {
+    "scene": 37,
+    "word": "full",
+    "start": 155.328,
+    "end": 155.808,
+    "confidence": 1.0
+  },
+  {
+    "scene": 37,
+    "word": "undefeated",
+    "start": 155.808,
+    "end": 156.308,
+    "confidence": 0.555
+  },
+  {
+    "scene": 37,
+    "word": "presence",
+    "start": 156.368,
+    "end": 156.868,
+    "confidence": 0.999
+  },
+  {
+    "scene": 37,
+    "word": "to",
+    "start": 156.928,
+    "end": 157.088,
+    "confidence": 1.0
+  },
+  {
+    "scene": 37,
+    "word": "the",
+    "start": 157.088,
+    "end": 157.248,
+    "confidence": 1.0
+  },
+  {
+    "scene": 37,
+    "word": "timeless",
+    "start": 157.248,
+    "end": 157.748,
+    "confidence": 0.999
+  },
+  {
+    "scene": 37,
+    "word": "now",
+    "start": 157.808,
+    "end": 158.184,
+    "confidence": 0.999
+  },
+  {
+    "scene": 38,
+    "word": "so",
+    "start": 158.934,
+    "end": 159.254,
+    "confidence": 0.865
+  },
+  {
+    "scene": 38,
+    "word": "tell",
+    "start": 159.254,
+    "end": 159.414,
+    "confidence": 0.995
+  },
+  {
+    "scene": 38,
+    "word": "me",
+    "start": 159.414,
+    "end": 159.574,
+    "confidence": 1.0
+  },
+  {
+    "scene": 38,
+    "word": "in",
+    "start": 159.574,
+    "end": 159.734,
+    "confidence": 1.0
+  },
+  {
+    "scene": 38,
+    "word": "the",
+    "start": 159.734,
+    "end": 159.894,
+    "confidence": 1.0
+  },
+  {
+    "scene": 38,
+    "word": "comments",
+    "start": 159.894,
+    "end": 160.294,
+    "confidence": 1.0
+  },
+  {
+    "scene": 38,
+    "word": "below",
+    "start": 160.294,
+    "end": 160.79,
+    "confidence": 0.983
+  },
+  {
+    "scene": 39,
+    "word": "would",
+    "start": 161.3,
+    "end": 161.54,
+    "confidence": 0.939
+  },
+  {
+    "scene": 39,
+    "word": "you",
+    "start": 161.54,
+    "end": 161.78,
+    "confidence": 1.0
+  },
+  {
+    "scene": 39,
+    "word": "rather",
+    "start": 161.78,
+    "end": 162.18,
+    "confidence": 1.0
+  },
+  {
+    "scene": 39,
+    "word": "stay",
+    "start": 162.18,
+    "end": 162.5,
+    "confidence": 1.0
+  },
+  {
+    "scene": 39,
+    "word": "trapped",
+    "start": 162.5,
+    "end": 162.82,
+    "confidence": 1.0
+  },
+  {
+    "scene": 39,
+    "word": "in",
+    "start": 162.82,
+    "end": 162.9,
+    "confidence": 1.0
+  },
+  {
+    "scene": 39,
+    "word": "the",
+    "start": 162.9,
+    "end": 163.06,
+    "confidence": 1.0
+  },
+  {
+    "scene": 39,
+    "word": "anxious",
+    "start": 163.06,
+    "end": 163.46,
+    "confidence": 1.0
+  },
+  {
+    "scene": 39,
+    "word": "noise",
+    "start": 163.46,
+    "end": 163.7,
+    "confidence": 1.0
+  },
+  {
+    "scene": 39,
+    "word": "of",
+    "start": 163.7,
+    "end": 163.86,
+    "confidence": 1.0
+  },
+  {
+    "scene": 39,
+    "word": "your",
+    "start": 163.86,
+    "end": 164.1,
+    "confidence": 1.0
+  },
+  {
+    "scene": 39,
+    "word": "mind",
+    "start": 164.1,
+    "end": 164.6,
+    "confidence": 1.0
+  },
+  {
+    "scene": 39,
+    "word": "or",
+    "start": 164.9,
+    "end": 165.14,
+    "confidence": 0.831
+  },
+  {
+    "scene": 39,
+    "word": "master",
+    "start": 165.14,
+    "end": 165.54,
+    "confidence": 1.0
+  },
+  {
+    "scene": 39,
+    "word": "the",
+    "start": 165.54,
+    "end": 165.7,
+    "confidence": 1.0
+  },
+  {
+    "scene": 39,
+    "word": "power",
+    "start": 165.7,
+    "end": 166.02,
+    "confidence": 1.0
+  },
+  {
+    "scene": 39,
+    "word": "of",
+    "start": 166.02,
+    "end": 166.18,
+    "confidence": 1.0
+  },
+  {
+    "scene": 39,
+    "word": "presence",
+    "start": 166.18,
+    "end": 166.68,
+    "confidence": 0.989
+  },
+  {
+    "scene": 39,
+    "word": "and",
+    "start": 166.74,
+    "end": 166.98,
+    "confidence": 0.998
+  },
+  {
+    "scene": 39,
+    "word": "conquer",
+    "start": 166.98,
+    "end": 167.3,
+    "confidence": 1.0
+  },
+  {
+    "scene": 39,
+    "word": "the",
+    "start": 167.3,
+    "end": 167.54,
+    "confidence": 0.997
+  },
+  {
+    "scene": 39,
+    "word": "now",
+    "start": 167.54,
+    "end": 167.884,
+    "confidence": 0.996
+  }
+]

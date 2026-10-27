@@ -1,126 +1,87 @@
-# 📚 StickLit — Viral 2D Stickman Book Summary Video Pipeline
+# 2-Minute Book Summary Video Engine (`book-2min`)
 
-> **Clone → Add your API key → Give it a book name + your images → Get a ready-to-upload video.**
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![FFmpeg](https://img.shields.io/badge/FFmpeg-Ready-green.svg)](https://ffmpeg.org/)
 
-StickLit is a fully autonomous production pipeline that converts any book into a **2–3 minute viral 9:16 vertical animated webcomic video** in the signature `@sticklit` style — hard-cut scenes, golden subtitles, locked canonical characters, and zero drift.
+An automated, viral-optimized production engine designed to create **2-minute high-retention animated book summaries** (in the signature `@sticklit` kinetic stick-figure style).
 
 ---
 
-## 🗂️ Repository Map
+## ⚡ Core Philosophy & Retention Architecture
+
+* **5-Beat Retention Framework**:
+  1. **Beat 1: The Hook & Provocative Paradox (0:00 – 0:15)**: The counter-intuitive question that exposes flawed common behavior.
+  2. **Beat 2: The Contrast / Two Paths (0:15 – 0:45)**: Pitting conventional wisdom against the author's paradigm shift.
+  3. **Beat 3: The Core Mental Model (0:45 – 1:20)**: Physical, visual metaphors defining the book's primary mechanism.
+  4. **Beat 4: The Escalation & Trap (1:20 – 1:55)**: Why smart people stay stuck (Rat Race, Lifestyle Inflation, Need for Certainty).
+  5. **Beat 5: The Philosophical Synthesis (1:55 – 2:20)**: Memorable closing punchline + discussion question sparking comments.
+* **Rapid Visual Pacing**: Visual change every **2.5s – 3.0s** (~35 to 45 scenes per 2-minute video).
+* **Kinetic Typography Subtitles**: Word-by-word karaoke style with golden highlighting (`golden_subtitles.ass`).
+* **Multi-Format Support**: 9:16 vertical shorts (TikTok, Reels, YouTube Shorts) and 16:9 widescreen.
+
+---
+
+## 📚 Book Catalog (11 Production Books)
+
+1. **Atomic Habits** (`books/atomic_habits/`) — James Clear
+2. **The 48 Laws of Power** (`books/48_laws_of_power/`) — Robert Greene
+3. **The Psychology of Money** (`books/psychology_of_money/`) — Morgan Housel
+4. **Rich Dad Poor Dad** (`books/rich_dad_poor_dad/`) — Robert Kiyosaki
+5. **The 7 Habits of Highly Effective People** (`books/the_7_habits_of_highly_effective_people/`) — Stephen Covey
+6. **Can't Hurt Me** (`books/can_t_hurt_me/`) — David Goggins
+7. **The 4-Hour Workweek** (`books/the_4_hour_workweek/`) — Tim Ferriss
+8. **The Power of Now** (`books/the_power_of_now/`) — Eckhart Tolle
+9. **How to Win Friends and Influence People** (`books/how_to_win_friends/`) — Dale Carnegie
+10. **The Subtle Art of Not Giving a F*ck** (`books/subtle_art_of_not_giving_a_fck/`) — Mark Manson
+11. **The Richest Man in Babylon** (`books/the_richest_man_in_babylon/`) — George S. Clason
+
+---
+
+## 🛠️ End-to-End Workflow: From Book Title to Final Render
+
+```mermaid
+flowchart TD
+    A["Book Intake<br/>e.g. 'Atomic Habits'"] --> B["Step 1: Research & Core Thesis<br/>(Extract 3-4 mental models & core paradox)"]
+    B --> C["Step 2: 2-Minute 5-Beat Script<br/>(~280-340 words, 140s duration)"]
+    C --> D["Step 3: Visual Prompt Package<br/>(~35-45 Midjourney/Flux prompt cards)"]
+    D --> E["Step 4: Whisper Word Alignment<br/>(Generate exact_cues.json & timestamps.json)"]
+    E --> F["Step 5: Kinetic Subtitles & Render<br/>(Golden ASS karaoke subs + 1080p MP4 assembly)"]
+```
+
+### CLI Usage
+
+Run full pipeline for any book:
+```bash
+python run_book_pipeline.py --book "Atomic Habits" --step all
+```
+
+Or execute individual stages:
+```bash
+# Stage 1: Generate research outline and 5-beat framework
+python run_book_pipeline.py --book "The Psychology of Money" --step research
+
+# Stage 2: Create 2-minute script blueprint
+python run_book_pipeline.py --book "The Psychology of Money" --step script
+
+# Stage 3: Generate visual prompts
+python run_book_pipeline.py --book "The Psychology of Money" --step prompts
+```
+
+---
+
+## 📁 Folder Structure per Book
 
 ```text
-sticklit/
-│
-├── README.md                      ← You are here. Start here.
-├── AGENT_GUIDE.md                 ← Step-by-step instructions for AI agents
-├── sticklit.py                    ← THE single command to audit or render any book
-├── requirements.txt               ← Python dependencies
-├── .env.example                   ← Copy to .env and fill in your Deepgram API key
-│
-├── pipeline/                      ← All reusable pipeline modules
-│   ├── config.py                  ← Constants: canvas size, FPS, subtitle colors
-│   ├── tts_engine.py              ← Deepgram Aura-2 TTS (+ Edge-TTS fallback)
-│   ├── speech_aligner.py          ← Deepgram Nova-2 word-level timestamp aligner
-│   ├── subtitle_generator.py      ← Golden ASS subtitle builder (#FFE600)
-│   ├── audio_mixer.py             ← BGM ducking mixer (-18.4 dB under VO)
-│   └── video_renderer.py          ← CFR 30fps frame assembler + FFmpeg encoder
-│
-├── books/                         ← One folder per book. Each folder is self-contained.
-│   └── psychology_of_money/       ← ✅ MASTER BENCHMARK (50 scenes, 154.66s, 0.000% drift)
-│       ├── script.txt             ← 386-word narration script
-│       ├── prompts.txt            ← 50 image prompts tagged [SCENE_01]…[SCENE_50]
-│       ├── prompts_manifest.json  ← Regex signature map: scene number → file slug
-│       ├── exact_cues.json        ← 50 organic cut timestamps (from Deepgram alignment)
-│       ├── golden_subtitles.ass   ← Pre-built ASS subtitles (#FFE600, 5.0px border)
-│       └── timestamps.json        ← Raw Deepgram Nova-2 word timestamps
-│
-└── examples/                      ← Reference assets for already-produced books
-    └── rich_dad_poor_dad/
-        ├── script.txt
-        ├── prompts.json
-        └── metadata.json
+books/<book_slug>/
+├── script.txt                # Verbatim 2-minute spoken script
+├── prompts.txt               # Copy-and-paste image generation prompts
+├── exact_cues.json           # Word-level timestamp cue boundaries
+├── timestamps.json           # Whisper speech recognition alignment
+└── golden_subtitles.ass      # High-retention karaoke subtitle file
 ```
-
-> **`output/` and image folders are gitignored** — they are produced locally and never committed.
 
 ---
 
-## ⚡ Quickstart (5 Steps)
-
-### 1. Clone & Install
-```bash
-git clone https://github.com/Etzkennyboi/book-2min.git
-cd book-2min
-pip install -r requirements.txt
-```
-
-### 2. Set your API Key
-```bash
-cp .env.example .env
-# Open .env and paste your Deepgram API key
-```
-> Get a free key at [console.deepgram.com](https://console.deepgram.com)
-
-### 3. Generate your images externally
-Use any AI image generator (Midjourney, DALL·E, Gemini, etc.) with the prompts from `books/<book>/prompts.txt`.  
-Name your files `scene_01.jpg`, `scene_02.jpg`, … OR name them anything — the engine will auto-match.
-
-### 4. Audit (verify 100% matching before rendering)
-```bash
-python sticklit.py audit --book psychology_of_money --images "C:\path\to\your\images"
-```
-
-### 5. Render the final video
-```bash
-python sticklit.py render --book psychology_of_money --images "C:\path\to\your\images"
-```
-Output: `output/psychology_of_money/psychology_of_money_MASTER_FINAL.mp4`
-
----
-
-## 🎬 What the Output Looks Like
-
-| Property | Value |
-| :--- | :--- |
-| Resolution | 1080 × 1920 (9:16 vertical) |
-| Frame Rate | CFR 30.000 fps (zero drift) |
-| Runtime | 130s – 170s (2:00 – 3:00 min) |
-| Scenes | ~45–55 organic hard cuts |
-| Subtitles | Golden Yellow `#FFE600`, Arial Black 58pt, 5px black border |
-| Audio | Deepgram Aura-2 VO + ducked BGM |
-| Benchmark | *Psychology of Money* → 154.66s, 50 scenes, 12.45 MB |
-
----
-
-## 📖 Adding a New Book
-
-See **[AGENT_GUIDE.md](AGENT_GUIDE.md)** for the full step-by-step.
-
-Short version:
-1. Create `books/<book_slug>/` folder
-2. Write `script.txt` (340–460 words)
-3. Run TTS + alignment to generate `exact_cues.json`
-4. Write 50 tagged prompts → `prompts.txt`
-5. Generate images externally → run `sticklit.py render`
-
----
-
-## 🔑 Environment Variables
-
-| Variable | Required | Description |
-| :--- | :--- | :--- |
-| `DEEPGRAM_API_KEY` | ✅ Yes | Deepgram API key for TTS and word alignment |
-| `DEEPGRAM_VOICE_MODEL` | Optional | Defaults to `aura-2-thalia-en` |
-| `EDGE_TTS_VOICE` | Optional | Free fallback TTS if no Deepgram key |
-
----
-
-## 🧠 Character Bible (Never Change These)
-
-| Character | Description |
-| :--- | :--- |
-| **Kai** (Boy) | Messy spiky black hair · flat warm skin · charcoal tee `#3A3A3C` · grey pants `#8E8E93` · black boots · confident smirk |
-| **Maya** (Girl) | High spiky black ponytail + bangs · flat warm skin · same outfit as Kai · analytical wink |
-| **Canvas** | Pure white `#FFFFFF` · 1080×1920 · bottom 250px subtitle-safe zone always clear |
-| **Scene 01 rule** | Book is ALWAYS centered, 100% upright, zero tilt — flanked by Kai & Maya |
-| **Last scene rule** | Always a single horizontal split-screen VS image (one image, not stitched) |
+## 📄 License
+MIT License. Created for high-retention educational creators.

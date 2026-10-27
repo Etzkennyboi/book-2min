@@ -1,0 +1,170 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,66,&H00FFFFFF,&H0000E6FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,6,0,2,60,60,280,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.08,0:00:00.64,Default,,0,0,0,,{\k24}THE {\k16}POWER {\k16}OF
+Dialogue: 0,0:00:00.64,0:00:01.68,Default,,0,0,0,,{\k32}NOW {\k24}BY {\k48}ECKHART
+Dialogue: 0,0:00:01.68,0:00:02.48,Default,,0,0,0,,{\k32}TOLLE {\k24}IN {\k24}TWO
+Dialogue: 0,0:00:02.48,0:00:02.98,Default,,0,0,0,,{\k50}MINUTES
+Dialogue: 0,0:00:03.64,0:00:04.52,Default,,0,0,0,,{\k24}MOST {\k40}PEOPLE {\k24}SPEND
+Dialogue: 0,0:00:04.52,0:00:05.64,Default,,0,0,0,,{\k24}THEIR {\k48}ENTIRE {\k40}LIVES
+Dialogue: 0,0:00:05.64,0:00:06.60,Default,,0,0,0,,{\k40}TRAPPED {\k32}INSIDE {\k24}A
+Dialogue: 0,0:00:06.60,0:00:07.90,Default,,0,0,0,,{\k48}NOISY {\k32}MENTAL {\k50}PRISON
+Dialogue: 0,0:00:08.44,0:00:09.64,Default,,0,0,0,,{\k24}A {\k50}NONSTOP {\k24}VOICE
+Dialogue: 0,0:00:09.64,0:00:10.20,Default,,0,0,0,,{\k16}IN {\k16}YOUR {\k24}HEAD
+Dialogue: 0,0:00:10.20,0:00:12.22,Default,,0,0,0,,{\k32}THAT {\k50}CRITICIZES {\k50}WORRIES
+Dialogue: 0,0:00:12.36,0:00:13.32,Default,,0,0,0,,{\k24}AND {\k48}NEVER {\k24}SHUTS
+Dialogue: 0,0:00:13.32,0:00:13.71,Default,,0,0,0,,{\k38}UP
+Dialogue: 0,0:00:14.14,0:00:15.28,Default,,0,0,0,,{\k24}YOU {\k40}REPLAY {\k50}EMBARRASSING
+Dialogue: 0,0:00:15.34,0:00:16.14,Default,,0,0,0,,{\k40}MEMORIES {\k16}FROM {\k24}TEN
+Dialogue: 0,0:00:16.14,0:00:16.78,Default,,0,0,0,,{\k24}YEARS {\k24}AGO {\k16}AT
+Dialogue: 0,0:00:16.78,0:00:17.26,Default,,0,0,0,,{\k24}THREE {\k16}IN {\k8}THE
+Dialogue: 0,0:00:17.26,0:00:17.71,Default,,0,0,0,,{\k45}MORNING
+Dialogue: 0,0:00:18.14,0:00:19.02,Default,,0,0,0,,{\k16}THEN {\k24}YOU {\k48}INVENT
+Dialogue: 0,0:00:19.02,0:00:20.54,Default,,0,0,0,,{\k50}IMAGINARY {\k50}DISASTERS {\k24}ABOUT
+Dialogue: 0,0:00:20.54,0:00:21.26,Default,,0,0,0,,{\k8}A {\k40}FUTURE {\k24}THAT
+Dialogue: 0,0:00:21.26,0:00:21.98,Default,,0,0,0,,{\k24}DOES {\k16}NOT {\k32}EVEN
+Dialogue: 0,0:00:21.98,0:00:22.48,Default,,0,0,0,,{\k50}EXIST
+Dialogue: 0,0:00:23.10,0:00:23.74,Default,,0,0,0,,{\k32}BUT {\k24}HERE {\k8}IS
+Dialogue: 0,0:00:23.74,0:00:24.70,Default,,0,0,0,,{\k16}THE {\k32}LIFE {\k48}ALTERING
+Dialogue: 0,0:00:24.70,0:00:25.98,Default,,0,0,0,,{\k50}TRUTH {\k24}YOU {\k24}ARE
+Dialogue: 0,0:00:25.98,0:00:26.95,Default,,0,0,0,,{\k24}NOT {\k24}YOUR {\k49}VOICE
+Dialogue: 0,0:00:27.38,0:00:27.78,Default,,0,0,0,,{\k16}YOU {\k16}ARE {\k8}NOT
+Dialogue: 0,0:00:27.78,0:00:28.90,Default,,0,0,0,,{\k40}YOUR {\k48}THOUGHTS {\k24}YOUR
+Dialogue: 0,0:00:28.90,0:00:29.78,Default,,0,0,0,,{\k48}WORRIES {\k24}OR {\k16}YOUR
+Dialogue: 0,0:00:29.78,0:00:30.59,Default,,0,0,0,,{\k40}MENTAL {\k41}CHATTER
+Dialogue: 0,0:00:31.02,0:00:31.42,Default,,0,0,0,,{\k8}YOU {\k24}ARE {\k8}THE
+Dialogue: 0,0:00:31.42,0:00:33.04,Default,,0,0,0,,{\k50}SILENT {\k50}CONSCIOUS {\k50}AWARENESS
+Dialogue: 0,0:00:33.10,0:00:34.23,Default,,0,0,0,,{\k48}OBSERVING {\k16}THE {\k49}THINKER
+Dialogue: 0,0:00:34.82,0:00:35.94,Default,,0,0,0,,{\k24}MOST {\k40}HUMAN {\k48}SUFFERING
+Dialogue: 0,0:00:35.94,0:00:36.58,Default,,0,0,0,,{\k16}IS {\k32}BORN {\k16}FROM
+Dialogue: 0,0:00:36.58,0:00:37.46,Default,,0,0,0,,{\k16}AN {\k48}OBSESSION {\k24}WITH
+Dialogue: 0,0:00:37.46,0:00:38.70,Default,,0,0,0,,{\k50}PSYCHOLOGICAL {\k45}TIME
+Dialogue: 0,0:00:39.05,0:00:40.19,Default,,0,0,0,,{\k32}THE {\k32}EVO {\k50}CONSTANTLY
+Dialogue: 0,0:00:40.25,0:00:40.97,Default,,0,0,0,,{\k24}RUNS {\k32}AWAY {\k16}FROM
+Dialogue: 0,0:00:40.97,0:00:41.95,Default,,0,0,0,,{\k8}THE {\k40}PRESENT {\k50}MOMENT
+Dialogue: 0,0:00:42.39,0:00:43.03,Default,,0,0,0,,{\k24}IT {\k16}DRAGS {\k24}YOU
+Dialogue: 0,0:00:43.03,0:00:43.99,Default,,0,0,0,,{\k32}INTO {\k16}THE {\k48}PAST
+Dialogue: 0,0:00:43.99,0:00:45.77,Default,,0,0,0,,{\k32}THROUGH {\k50}REGRET {\k50}RESENTMENT
+Dialogue: 0,0:00:46.15,0:00:46.81,Default,,0,0,0,,{\k16}AND {\k50}GUILT
+Dialogue: 0,0:00:47.35,0:00:48.07,Default,,0,0,0,,{\k24}OR {\k8}IT {\k40}HURLS
+Dialogue: 0,0:00:48.07,0:00:48.55,Default,,0,0,0,,{\k16}YOU {\k24}INTO {\k8}THE
+Dialogue: 0,0:00:48.55,0:00:49.61,Default,,0,0,0,,{\k40}FUTURE {\k16}THROUGH {\k50}ANXIETY
+Dialogue: 0,0:00:50.07,0:00:51.53,Default,,0,0,0,,{\k50}STRESS {\k32}AND {\k50}FEAR
+Dialogue: 0,0:00:52.05,0:00:52.77,Default,,0,0,0,,{\k24}BUT {\k8}THE {\k40}PAST
+Dialogue: 0,0:00:52.77,0:00:53.49,Default,,0,0,0,,{\k24}IS {\k32}NOTHING {\k16}MORE
+Dialogue: 0,0:00:53.49,0:00:54.13,Default,,0,0,0,,{\k16}THAN {\k16}A {\k32}MEMORY
+Dialogue: 0,0:00:54.13,0:00:54.77,Default,,0,0,0,,{\k32}TRACE {\k16}IN {\k16}YOUR
+Dialogue: 0,0:00:54.77,0:00:55.27,Default,,0,0,0,,{\k50}MIND
+Dialogue: 0,0:00:55.78,0:00:56.58,Default,,0,0,0,,{\k24}AND {\k16}THE {\k40}FUTURE
+Dialogue: 0,0:00:56.58,0:00:57.14,Default,,0,0,0,,{\k8}IS {\k24}JUST {\k24}AN
+Dialogue: 0,0:00:57.14,0:00:58.26,Default,,0,0,0,,{\k48}IMAGINED {\k48}PHANTOM {\k16}THAT
+Dialogue: 0,0:00:58.26,0:00:59.16,Default,,0,0,0,,{\k16}HAS {\k24}NOT {\k50}ARRIVED
+Dialogue: 0,0:00:59.71,0:01:00.59,Default,,0,0,0,,{\k24}REAL {\k32}LIFE {\k32}ONLY
+Dialogue: 0,0:01:00.59,0:01:01.47,Default,,0,0,0,,{\k32}EVER {\k40}HAPPENS {\k16}IN
+Dialogue: 0,0:01:01.47,0:01:02.51,Default,,0,0,0,,{\k24}THIS {\k32}ONE {\k48}SINGULAR
+Dialogue: 0,0:01:02.51,0:01:03.89,Default,,0,0,0,,{\k50}MOMENT {\k24}RIGHT {\k34}NOW
+Dialogue: 0,0:01:04.32,0:01:04.96,Default,,0,0,0,,{\k8}HAVE {\k24}YOU {\k32}EVER
+Dialogue: 0,0:01:04.96,0:01:06.24,Default,,0,0,0,,{\k50}EXPERIENCED {\k40}ANYTHING {\k32}OUTSIDE
+Dialogue: 0,0:01:06.24,0:01:06.88,Default,,0,0,0,,{\k16}OF {\k16}THE {\k32}PRESENT
+Dialogue: 0,0:01:06.88,0:01:07.34,Default,,0,0,0,,{\k46}MOMENT
+Dialogue: 0,0:01:07.85,0:01:08.65,Default,,0,0,0,,{\k24}THE {\k32}ANSWER {\k24}IS
+Dialogue: 0,0:01:08.65,0:01:09.77,Default,,0,0,0,,{\k50}NEVER {\k24}AND {\k24}YOU
+Dialogue: 0,0:01:09.77,0:01:10.50,Default,,0,0,0,,{\k32}NEVER {\k41}WILL
+Dialogue: 0,0:01:11.17,0:01:12.05,Default,,0,0,0,,{\k40}INSIDE {\k16}YOUR {\k32}MIND
+Dialogue: 0,0:01:12.05,0:01:13.11,Default,,0,0,0,,{\k40}LURKS {\k16}AN {\k50}EMOTIONAL
+Dialogue: 0,0:01:13.17,0:01:14.21,Default,,0,0,0,,{\k50}MONSTER {\k24}CALLED {\k24}THE
+Dialogue: 0,0:01:14.21,0:01:15.03,Default,,0,0,0,,{\k32}PAIN {\k50}BODY
+Dialogue: 0,0:01:15.60,0:01:16.40,Default,,0,0,0,,{\k32}IT {\k24}FEEDS {\k24}ON
+Dialogue: 0,0:01:16.40,0:01:18.00,Default,,0,0,0,,{\k40}NEGATIVE {\k50}DRAMA {\k48}VICTIM
+Dialogue: 0,0:01:18.00,0:01:19.36,Default,,0,0,0,,{\k50}STORIES {\k24}AND {\k48}EMOTIONAL
+Dialogue: 0,0:01:19.36,0:01:19.86,Default,,0,0,0,,{\k50}TURBULENCE
+Dialogue: 0,0:01:20.66,0:01:21.38,Default,,0,0,0,,{\k24}IT {\k24}TRICKS {\k24}YOU
+Dialogue: 0,0:01:21.38,0:01:22.18,Default,,0,0,0,,{\k32}INTO {\k32}BELIEVING {\k16}THAT
+Dialogue: 0,0:01:22.18,0:01:23.06,Default,,0,0,0,,{\k24}YOUR {\k40}SUFFERING {\k24}IS
+Dialogue: 0,0:01:23.06,0:01:23.96,Default,,0,0,0,,{\k16}YOUR {\k24}TRUE {\k50}IDENTITY
+Dialogue: 0,0:01:24.66,0:01:25.38,Default,,0,0,0,,{\k16}THE {\k32}MOMENT {\k24}YOU
+Dialogue: 0,0:01:25.38,0:01:26.58,Default,,0,0,0,,{\k48}ARGUE {\k50}COMPLAIN {\k16}OR
+Dialogue: 0,0:01:26.58,0:01:27.62,Default,,0,0,0,,{\k50}ATTACK {\k16}THE {\k24}PAIN
+Dialogue: 0,0:01:27.62,0:01:28.79,Default,,0,0,0,,{\k32}BODY {\k40}GROWS {\k45}STRONGER
+Dialogue: 0,0:01:29.14,0:01:29.62,Default,,0,0,0,,{\k16}BUT {\k16}WHEN {\k16}YOU
+Dialogue: 0,0:01:29.62,0:01:30.42,Default,,0,0,0,,{\k40}SIMPLY {\k24}WATCH {\k16}IT
+Dialogue: 0,0:01:30.42,0:01:31.54,Default,,0,0,0,,{\k40}WITHOUT {\k48}JUDGMENT {\k24}IT
+Dialogue: 0,0:01:31.54,0:01:32.58,Default,,0,0,0,,{\k48}INSTANTLY {\k40}LOSES {\k16}ITS
+Dialogue: 0,0:01:32.58,0:01:32.96,Default,,0,0,0,,{\k38}GRIP
+Dialogue: 0,0:01:33.47,0:01:34.27,Default,,0,0,0,,{\k32}PRESENCE {\k24}IS {\k24}THE
+Dialogue: 0,0:01:34.27,0:01:35.71,Default,,0,0,0,,{\k48}ULTIMATE {\k50}SUPERPOWER {\k32}AGAINST
+Dialogue: 0,0:01:35.71,0:01:36.69,Default,,0,0,0,,{\k48}MENTAL {\k50}CHAOS
+Dialogue: 0,0:01:37.19,0:01:38.49,Default,,0,0,0,,{\k40}WHENEVER {\k40}STRESS {\k50}OVERWHELMS
+Dialogue: 0,0:01:38.63,0:01:39.83,Default,,0,0,0,,{\k48}YOU {\k32}ASK {\k40}YOURSELF
+Dialogue: 0,0:01:39.83,0:01:40.97,Default,,0,0,0,,{\k32}ONE {\k32}SIMPLE {\k50}QUESTION
+Dialogue: 0,0:01:41.64,0:01:42.44,Default,,0,0,0,,{\k24}WHAT {\k40}PROBLEM {\k16}DO
+Dialogue: 0,0:01:42.44,0:01:43.00,Default,,0,0,0,,{\k16}I {\k24}HAVE {\k16}RIGHT
+Dialogue: 0,0:01:43.00,0:01:43.72,Default,,0,0,0,,{\k24}NOW {\k24}IN {\k24}THIS
+Dialogue: 0,0:01:43.72,0:01:44.62,Default,,0,0,0,,{\k40}EXACT {\k50}SECOND
+Dialogue: 0,0:01:45.28,0:01:46.80,Default,,0,0,0,,{\k24}NOT {\k50}TOMORROW {\k32}NOT
+Dialogue: 0,0:01:46.80,0:01:47.60,Default,,0,0,0,,{\k24}FIVE {\k32}MINUTES {\k24}FROM
+Dialogue: 0,0:01:47.60,0:01:48.80,Default,,0,0,0,,{\k48}NOW {\k24}BUT {\k48}THIS
+Dialogue: 0,0:01:48.80,0:01:49.65,Default,,0,0,0,,{\k48}EXACT {\k37}BREATH
+Dialogue: 0,0:01:50.16,0:01:51.06,Default,,0,0,0,,{\k24}IN {\k16}THE {\k50}IMMEDIATE
+Dialogue: 0,0:01:51.12,0:01:52.16,Default,,0,0,0,,{\k50}PRESENT {\k24}THERE {\k24}IS
+Dialogue: 0,0:01:52.16,0:01:53.30,Default,,0,0,0,,{\k24}ONLY {\k40}THIS {\k50}TASK
+Dialogue: 0,0:01:53.52,0:01:54.80,Default,,0,0,0,,{\k32}THIS {\k50}STEP {\k24}AND
+Dialogue: 0,0:01:54.80,0:01:55.30,Default,,0,0,0,,{\k50}STILLNESS
+Dialogue: 0,0:01:56.05,0:01:57.19,Default,,0,0,0,,{\k24}TO {\k40}DISSOLVE {\k50}SUFFERING
+Dialogue: 0,0:01:57.49,0:01:58.21,Default,,0,0,0,,{\k8}YOU {\k24}MUST {\k40}PRACTICE
+Dialogue: 0,0:01:58.21,0:01:59.19,Default,,0,0,0,,{\k48}RADICAL {\k50}SURRENDER
+Dialogue: 0,0:01:59.90,0:02:00.94,Default,,0,0,0,,{\k50}SURRENDER {\k24}DOES {\k24}NOT
+Dialogue: 0,0:02:00.94,0:02:01.82,Default,,0,0,0,,{\k24}MEAN {\k32}GIVING {\k32}UP
+Dialogue: 0,0:02:01.82,0:02:02.88,Default,,0,0,0,,{\k24}OR {\k32}BEING {\k50}PASSIVE
+Dialogue: 0,0:02:03.54,0:02:04.50,Default,,0,0,0,,{\k24}IT {\k32}MEANS {\k40}SAYING
+Dialogue: 0,0:02:04.50,0:02:05.70,Default,,0,0,0,,{\k24}AN {\k50}UNCONDITIONAL {\k32}YES
+Dialogue: 0,0:02:05.70,0:02:06.58,Default,,0,0,0,,{\k24}TO {\k24}WHAT {\k40}ALREADY
+Dialogue: 0,0:02:06.58,0:02:07.03,Default,,0,0,0,,{\k45}IS
+Dialogue: 0,0:02:07.46,0:02:08.58,Default,,0,0,0,,{\k40}RESISTING {\k50}REALITY {\k16}IS
+Dialogue: 0,0:02:08.58,0:02:09.22,Default,,0,0,0,,{\k24}LIKE {\k32}FIGHTING {\k8}THE
+Dialogue: 0,0:02:09.22,0:02:10.42,Default,,0,0,0,,{\k50}WEATHER {\k24}IT {\k32}ONLY
+Dialogue: 0,0:02:10.42,0:02:11.32,Default,,0,0,0,,{\k40}CREATES {\k50}PAIN
+Dialogue: 0,0:02:11.91,0:02:12.87,Default,,0,0,0,,{\k32}ACCEPT {\k24}THE {\k40}PRESENT
+Dialogue: 0,0:02:12.87,0:02:13.75,Default,,0,0,0,,{\k50}MOMENT {\k16}AS {\k16}IF
+Dialogue: 0,0:02:13.75,0:02:14.39,Default,,0,0,0,,{\k16}YOU {\k16}HAD {\k32}CHOSEN
+Dialogue: 0,0:02:14.39,0:02:15.05,Default,,0,0,0,,{\k16}IT {\k50}YOURSELF
+Dialogue: 0,0:02:15.84,0:02:17.44,Default,,0,0,0,,{\k50}THEN {\k48}TAKE {\k48}CLEAR
+Dialogue: 0,0:02:17.44,0:02:18.72,Default,,0,0,0,,{\k50}DECISIVE {\k40}ACTION {\k24}FROM
+Dialogue: 0,0:02:18.72,0:02:19.44,Default,,0,0,0,,{\k16}A {\k32}PLACE {\k24}OF
+Dialogue: 0,0:02:19.44,0:02:20.26,Default,,0,0,0,,{\k32}DEEP {\k50}STILLNESS
+Dialogue: 0,0:02:20.92,0:02:21.56,Default,,0,0,0,,{\k16}WHEN {\k16}YOU {\k32}STOP
+Dialogue: 0,0:02:21.56,0:02:22.54,Default,,0,0,0,,{\k24}FIGHTING {\k24}THE {\k50}PRESENT
+Dialogue: 0,0:02:22.60,0:02:23.64,Default,,0,0,0,,{\k32}MENTAL {\k40}NOISE {\k32}FADES
+Dialogue: 0,0:02:23.64,0:02:24.65,Default,,0,0,0,,{\k32}INTO {\k24}DEEP {\k46}PEACE
+Dialogue: 0,0:02:25.08,0:02:26.22,Default,,0,0,0,,{\k24}YOU {\k40}GAIN {\k50}EFFORTLESS
+Dialogue: 0,0:02:26.36,0:02:28.06,Default,,0,0,0,,{\k50}FOCUS {\k48}QUIET {\k50}CONFIDENCE
+Dialogue: 0,0:02:28.28,0:02:29.74,Default,,0,0,0,,{\k24}AND {\k50}UNSHAKABLE {\k50}CLARITY
+Dialogue: 0,0:02:30.28,0:02:30.92,Default,,0,0,0,,{\k16}THE {\k24}SECRET {\k24}TO
+Dialogue: 0,0:02:30.92,0:02:32.12,Default,,0,0,0,,{\k24}A {\k50}LEGENDARY {\k40}LIFE
+Dialogue: 0,0:02:32.12,0:02:33.08,Default,,0,0,0,,{\k24}IS {\k32}NOT {\k40}FIXING
+Dialogue: 0,0:02:33.08,0:02:33.74,Default,,0,0,0,,{\k16}THE {\k50}FUTURE
+Dialogue: 0,0:02:34.29,0:02:35.09,Default,,0,0,0,,{\k24}IT {\k8}IS {\k48}BRINGING
+Dialogue: 0,0:02:35.09,0:02:36.31,Default,,0,0,0,,{\k24}YOUR {\k48}FULL {\k50}UNDEFEATED
+Dialogue: 0,0:02:36.37,0:02:37.25,Default,,0,0,0,,{\k50}PRESENCE {\k16}TO {\k16}THE
+Dialogue: 0,0:02:37.25,0:02:38.18,Default,,0,0,0,,{\k50}TIMELESS {\k38}NOW
+Dialogue: 0,0:02:38.93,0:02:39.57,Default,,0,0,0,,{\k32}SO {\k16}TELL {\k16}ME
+Dialogue: 0,0:02:39.57,0:02:40.29,Default,,0,0,0,,{\k16}IN {\k16}THE {\k40}COMMENTS
+Dialogue: 0,0:02:40.29,0:02:40.79,Default,,0,0,0,,{\k50}BELOW
+Dialogue: 0,0:02:41.30,0:02:42.18,Default,,0,0,0,,{\k24}WOULD {\k24}YOU {\k40}RATHER
+Dialogue: 0,0:02:42.18,0:02:42.90,Default,,0,0,0,,{\k32}STAY {\k32}TRAPPED {\k8}IN
+Dialogue: 0,0:02:42.90,0:02:43.70,Default,,0,0,0,,{\k16}THE {\k40}ANXIOUS {\k24}NOISE
+Dialogue: 0,0:02:43.70,0:02:44.60,Default,,0,0,0,,{\k16}OF {\k24}YOUR {\k50}MIND
+Dialogue: 0,0:02:44.90,0:02:45.70,Default,,0,0,0,,{\k24}OR {\k40}MASTER {\k16}THE
+Dialogue: 0,0:02:45.70,0:02:46.68,Default,,0,0,0,,{\k32}POWER {\k16}OF {\k50}PRESENCE
+Dialogue: 0,0:02:46.74,0:02:47.54,Default,,0,0,0,,{\k24}AND {\k32}CONQUER {\k24}THE
+Dialogue: 0,0:02:47.54,0:02:47.88,Default,,0,0,0,,{\k34}NOW

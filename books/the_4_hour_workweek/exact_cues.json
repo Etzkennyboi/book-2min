@@ -1,0 +1,257 @@
+{
+  "total_audio_duration_sec": 176.184,
+  "scenes": [
+    {
+      "scene_id": 1,
+      "start_sec": 0.0,
+      "end_sec": 3.53,
+      "duration_sec": 3.53,
+      "script_text": "The 4-Hour Workweek by Tim Ferriss in two minutes."
+    },
+    {
+      "scene_id": 2,
+      "start_sec": 3.53,
+      "end_sec": 8.45,
+      "duration_sec": 4.92,
+      "script_text": "Most people fall for the biggest scam in modern history: the deferred life plan."
+    },
+    {
+      "scene_id": 3,
+      "start_sec": 8.45,
+      "end_sec": 13.89,
+      "duration_sec": 5.44,
+      "script_text": "You spend forty years chained to a fluorescent cubicle, working eighty hours a week."
+    },
+    {
+      "scene_id": 4,
+      "start_sec": 13.89,
+      "end_sec": 18.435,
+      "duration_sec": 4.545,
+      "script_text": "All just to retire at sixty-five when your youth and energy are completely gone."
+    },
+    {
+      "scene_id": 5,
+      "start_sec": 18.435,
+      "end_sec": 21.235,
+      "duration_sec": 2.8,
+      "script_text": "Tim Ferriss calls these people the Deferrers."
+    },
+    {
+      "scene_id": 6,
+      "start_sec": 21.235,
+      "end_sec": 24.675,
+      "duration_sec": 3.44,
+      "script_text": "They sacrifice life today for an uncertain promise tomorrow."
+    },
+    {
+      "scene_id": 7,
+      "start_sec": 24.675,
+      "end_sec": 28.29,
+      "duration_sec": 3.615,
+      "script_text": "But there is a second group quietly winning: the New Rich."
+    },
+    {
+      "scene_id": 8,
+      "start_sec": 28.29,
+      "end_sec": 33.97,
+      "duration_sec": 5.68,
+      "script_text": "The New Rich abandon the deferred life plan and create luxury lifestyles in the present."
+    },
+    {
+      "scene_id": 9,
+      "start_sec": 33.97,
+      "end_sec": 38.29,
+      "duration_sec": 4.32,
+      "script_text": "They realize being wealthy is not about having a million dollars sitting in a bank."
+    },
+    {
+      "scene_id": 10,
+      "start_sec": 38.29,
+      "end_sec": 42.21,
+      "duration_sec": 3.92,
+      "script_text": "True wealth is having complete control over your time and mobility."
+    },
+    {
+      "scene_id": 11,
+      "start_sec": 42.21,
+      "end_sec": 48.375,
+      "duration_sec": 6.165,
+      "script_text": "Making fifty thousand dollars a year working four hours a week from a beach in Thailand..."
+    },
+    {
+      "scene_id": 12,
+      "start_sec": 48.375,
+      "end_sec": 54.325,
+      "duration_sec": 5.95,
+      "script_text": "...makes you infinitely richer than a Wall Street banker earning five hundred thousand while trapped in an office."
+    },
+    {
+      "scene_id": 13,
+      "start_sec": 54.325,
+      "end_sec": 58.14,
+      "duration_sec": 3.815,
+      "script_text": "This is the critical difference between relative income and absolute income."
+    },
+    {
+      "scene_id": 14,
+      "start_sec": 58.14,
+      "end_sec": 64.22,
+      "duration_sec": 6.08,
+      "script_text": "To join the New Rich, Tim created the D-E-A-L framework."
+    },
+    {
+      "scene_id": 15,
+      "start_sec": 64.22,
+      "end_sec": 67.26,
+      "duration_sec": 3.04,
+      "script_text": "First: Definition. You must redefine the rules of life."
+    },
+    {
+      "scene_id": 16,
+      "start_sec": 67.26,
+      "end_sec": 73.225,
+      "duration_sec": 5.965,
+      "script_text": "Retirement is not a finish line; it is worst-case insurance for when you cannot work."
+    },
+    {
+      "scene_id": 17,
+      "start_sec": 73.225,
+      "end_sec": 78.655,
+      "duration_sec": 5.43,
+      "script_text": "Instead of waiting forty years, distribute mini-retirements throughout your entire life."
+    },
+    {
+      "scene_id": 18,
+      "start_sec": 78.655,
+      "end_sec": 85.91,
+      "duration_sec": 7.255,
+      "script_text": "Second: Elimination. Being busy is a form of laziness: lazy thinking and indiscriminate action."
+    },
+    {
+      "scene_id": 19,
+      "start_sec": 85.91,
+      "end_sec": 89.11,
+      "duration_sec": 3.2,
+      "script_text": "Apply the eighty-twenty rule ruthlessly every single day."
+    },
+    {
+      "scene_id": 20,
+      "start_sec": 89.11,
+      "end_sec": 94.07,
+      "duration_sec": 4.96,
+      "script_text": "Eighty percent of your results come from twenty percent of your efforts."
+    },
+    {
+      "scene_id": 21,
+      "start_sec": 94.07,
+      "end_sec": 99.03,
+      "duration_sec": 4.96,
+      "script_text": "Identify and eliminate the eighty percent of meetings and tasks that waste your energy."
+    },
+    {
+      "scene_id": 22,
+      "start_sec": 99.03,
+      "end_sec": 103.515,
+      "duration_sec": 4.485,
+      "script_text": "Pair this with Parkinson's Law: work expands to fill the time allotted for its completion."
+    },
+    {
+      "scene_id": 23,
+      "start_sec": 103.515,
+      "end_sec": 108.395,
+      "duration_sec": 4.88,
+      "script_text": "If you give yourself eight hours to finish a task, it will take eight exhausting hours."
+    },
+    {
+      "scene_id": 24,
+      "start_sec": 108.395,
+      "end_sec": 114.84,
+      "duration_sec": 6.445,
+      "script_text": "Give yourself two hours with a tight deadline, and you will finish with laser focus."
+    },
+    {
+      "scene_id": 25,
+      "start_sec": 114.84,
+      "end_sec": 122.27,
+      "duration_sec": 7.43,
+      "script_text": "Stop checking emails all day long. Put yourself on a strict low-information diet."
+    },
+    {
+      "scene_id": 26,
+      "start_sec": 122.27,
+      "end_sec": 124.91,
+      "duration_sec": 2.64,
+      "script_text": "Third: Automation. Put your income on complete autopilot."
+    },
+    {
+      "scene_id": 27,
+      "start_sec": 124.91,
+      "end_sec": 130.055,
+      "duration_sec": 5.145,
+      "script_text": "Never do what can be automated, and never automate what can be eliminated."
+    },
+    {
+      "scene_id": 28,
+      "start_sec": 130.055,
+      "end_sec": 135.335,
+      "duration_sec": 5.28,
+      "script_text": "Outsource your routine tasks to virtual assistants across the globe for a few dollars an hour."
+    },
+    {
+      "scene_id": 29,
+      "start_sec": 135.335,
+      "end_sec": 142.02,
+      "duration_sec": 6.685,
+      "script_text": "Build a cashflow muse: an automated business that sells niche products while you sleep."
+    },
+    {
+      "scene_id": 30,
+      "start_sec": 142.02,
+      "end_sec": 144.75,
+      "duration_sec": 2.73,
+      "script_text": "Fourth: Liberation. Break free from the physical desk forever."
+    },
+    {
+      "scene_id": 31,
+      "start_sec": 144.75,
+      "end_sec": 150.58,
+      "duration_sec": 5.83,
+      "script_text": "Remote work is not a luxury; it is an engineered system of autonomy."
+    },
+    {
+      "scene_id": 32,
+      "start_sec": 150.58,
+      "end_sec": 156.82,
+      "duration_sec": 6.24,
+      "script_text": "Prove your productivity remotely, make yourself indispensable, and cut the office umbilical cord."
+    },
+    {
+      "scene_id": 33,
+      "start_sec": 156.82,
+      "end_sec": 161.195,
+      "duration_sec": 4.375,
+      "script_text": "Stop asking: what do I want? Ask: what would truly excite me?"
+    },
+    {
+      "scene_id": 34,
+      "start_sec": 161.195,
+      "end_sec": 164.555,
+      "duration_sec": 3.36,
+      "script_text": "Fear is the only obstacle holding you back."
+    },
+    {
+      "scene_id": 35,
+      "start_sec": 164.555,
+      "end_sec": 169.969,
+      "duration_sec": 5.414,
+      "script_text": "Define your worst-case nightmare: if you quit today, almost every failure is completely reversible."
+    },
+    {
+      "scene_id": 36,
+      "start_sec": 169.969,
+      "end_sec": 176.184,
+      "duration_sec": 6.215,
+      "script_text": "So here is the final dilemma: would you rather trade forty years in a cubicle for a pension, or automate your life to four hours and live freely across the world today?"
+    }
+  ]
+}

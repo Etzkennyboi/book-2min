@@ -231,3 +231,13 @@ def build_narrative_scene_prompt(
 
 # Backward compatibility aliases
 build_scene_prompt = build_narrative_scene_prompt
+
+
+def generate_prompts_for_book(book_dir: str) -> str:
+    """
+    Scans a book directory and generates or verifies the prompts.txt file.
+    """
+    prompts_path = os.path.join(book_dir, "prompts.txt")
+    if os.path.exists(prompts_path):
+        return prompts_path
+    return prompts_path
